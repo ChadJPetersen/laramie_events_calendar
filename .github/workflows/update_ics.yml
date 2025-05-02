@@ -2,8 +2,8 @@ name: Update Events Calendar
 
 on:
   schedule:
-    - cron: "0 9 * * *"  # 3AM Mountain Time ~= 9AM UTC
-  workflow_dispatch:    # manual trigger if needed
+    - cron: "0 9 * * *"  # Run every day at 9:00 UTC (3AM Laramie time)
+  workflow_dispatch:    # Allow manual trigger
 
 jobs:
   build:
@@ -16,13 +16,17 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
-          pip install requests beautifulsoup4 ics
+          pip install -r requirements.txt
+
+      - name: Install Playwright Browsers
+        run: |
+          playwright install chromium
 
       - name: Run scraper
         run: |
-          python scrape_laramie_events.py
+          python build_ics.py
 
       - name: Commit changes
         run: |
