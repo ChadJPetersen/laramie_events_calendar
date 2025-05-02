@@ -1,5 +1,5 @@
 # Required packages:
-# pip install --user -r requirements.txt
+# pip install requests beautifulsoup4 ics python-dateutil
 
 import requests
 from bs4 import BeautifulSoup
@@ -201,7 +201,11 @@ def scrape_events():
             'date': event_date,
             'endDate': end_date,
             'description': description,
-            'location': location
+            'location': location,
+            'uid': item.get('recid', ''),
+            'url': f"https://www.visitlaramie.org{link}" if link else '',
+            'latitude': item.get('latitude'),
+            'longitude': item.get('longitude')
         })
 
     return events
@@ -212,7 +216,9 @@ def create_ical(events, output_file='./docs/events.ics'):
     for ev in events:
         if ev['date']:
             event = Event()
+            # title
             event.name = ev['title']
+            # date
             dt = ev['date']
             is_all_day = False
             # Check if time is midnight Mountain Time
@@ -229,8 +235,18 @@ def create_ical(events, output_file='./docs/events.ics'):
                     end_dt = ev['endDate']
                     event.end = end_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
             event.description = ev['description']
+            # location
             if ev['location']:
                 event.location = ev['location']
+            # uid
+            if ev['uid']:
+                event.uid = f"{ev['uid']}@visitlaramie.org"
+            # url
+            if ev['url']:
+                event.url = ev['url']
+            # geo
+            if ev.get('latitude') is not None and ev.get('longitude') is not None:
+                event.geo = (ev['latitude'], ev['longitude'])
             calendar.events.add(event)
 
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
