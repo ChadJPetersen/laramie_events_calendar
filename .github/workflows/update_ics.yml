@@ -1,0 +1,33 @@
+name: Update Events Calendar
+
+on:
+  schedule:
+    - cron: "0 9 * * *"  # 3AM Mountain Time ~= 9AM UTC
+  workflow_dispatch:    # manual trigger if needed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 ics
+
+      - name: Run scraper
+        run: |
+          python scrape_laramie_events.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add docs/events.ics
+          git commit -m "Update events.ics" || echo "No changes to commit"
+          git push
