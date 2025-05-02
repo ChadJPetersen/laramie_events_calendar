@@ -206,7 +206,7 @@ def scrape_events():
 
     return events
 
-def create_ical(events, output_file='C:/Users/cpetersen/Downloads/docs/events.ics'):
+def create_ical(events, output_file='./docs/events.ics'):
     calendar = Calendar()
     
     for ev in events:
