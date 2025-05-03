@@ -1,15 +1,19 @@
-name: Update Events Calendar
+name: Update ICS Calendar From Laramie Events
 
 on:
   schedule:
-    - cron: "0 9 * * *"  # Run every day at 9:00 UTC (3AM Laramie time)
+    - cron: "0 10 * * *"  # Run every day at 10:00 UTC (3/4AM Laramie time)
   workflow_dispatch:    # Allow manual trigger
+
+permissions:
+    contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -20,14 +24,18 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run scraper
+      - name: Run build_ics.py 
         run: |
           python build_ics.py
 
-      - name: Commit changes
+      - name: Commit and push if there are changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add docs/events.ics
-          git commit -m "Update events.ics" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update events.ics"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ChadJPetersen/laramie_events_calendar.git HEAD:main
+          fi
