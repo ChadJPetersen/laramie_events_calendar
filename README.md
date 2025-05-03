@@ -52,9 +52,3 @@ You can subscribe to this feed with your favorite calendar app (Apple, Google, M
 This project is licensed under the [MIT License](LICENSE).
 
 > Feel free to fork, modify, or reuse this project however you like!
-
----
-
-## 📆 Live Calendar Preview
-
-[✨ You can also view the calendar directly here](https://calendar.google.com/calendar/embed?src=l02e52v4nkrhgrhpjoi3htuo10ghtll3%40import.calendar.google.com&ctz=America%2FDenver)
