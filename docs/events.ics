@@ -187,15 +187,6 @@ UID:37486@visitlaramie.org
 URL:https://www.visitlaramie.org/event/noises-off-comedy-theatre/37486/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250502
-DESCRIPTION:Leftovers! Asteroids\, Comets\, Meteors\, and Rings\nMore info: https://www.visitlaramie.org/event/leftovers!-asteroids-comets-meteors-and-rings/35122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_959EBB34-5056-A36F-236F23D8CE530757_959ff568-5056-a36f-239cd17e4db934f1.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Leftovers! Asteroids\, Comets\, Meteors\, and Rings
-UID:35122@visitlaramie.org
-URL:https://www.visitlaramie.org/event/leftovers!-asteroids-comets-meteors-and-rings/35122/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -205,13 +196,13 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250501
-DESCRIPTION:Wyoming Outdoor Recreation Summit\nMore info: https://www.visitlaramie.org/event/wyoming-outdoor-recreation-summit/37888/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wors-logo-withred_DC456C7C-C6DD-2D87-EC76D84563B5618E_dd29612c-e6c4-6e2f-0468a01d81cfd58c.png\nCategories: Outdoor Recreation\, University of Wyoming
-GEO:41.313968;-105.584517
-LOCATION:Marian H. Rochelle Gateway Center
-SUMMARY:Wyoming Outdoor Recreation Summit
-UID:37888@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-outdoor-recreation-summit/37888/
+DTSTART;VALUE=DATE:20250510
+DESCRIPTION:Friends of the Albany County Public Library Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38007/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/MAY-BOOK-SALE-2025-POSTER_4B6F3358-DFC9-BA6D-0751C51B82EF600D_4b7df44b-c648-8003-a95959abb7ec2ea4.jpg\nCategories: Community
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Friends of the Albany County Public Library Book Sale
+UID:38007@visitlaramie.org
+URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38007/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250504
@@ -221,15 +212,6 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:Hospice of Laramie Taste & Toast 2025
 UID:37972@visitlaramie.org
 URL:https://www.visitlaramie.org/event/hospice-of-laramie-taste-%26-toast-2025/37972/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:Friends of the Albany County Public Library Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38007/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/MAY-BOOK-SALE-2025-POSTER_4B6F3358-DFC9-BA6D-0751C51B82EF600D_4b7df44b-c648-8003-a95959abb7ec2ea4.jpg\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Friends of the Albany County Public Library Book Sale
-UID:38007@visitlaramie.org
-URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38007/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
@@ -277,14 +259,6 @@ UID:31031@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250502
-DESCRIPTION:Community Cinco de Mayo Dinner\nMore info: https://www.visitlaramie.org/event/community-cinco-de-mayo-dinner/37906/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-121232_A885E0CB-B4C8-3457-CEF230EE6A774514_a89366c6-c9ef-9174-ba24d3af176f9de6.png\nCategories: Community
-GEO:41.311226;-105.594357
-SUMMARY:Community Cinco de Mayo Dinner
-UID:37906@visitlaramie.org
-URL:https://www.visitlaramie.org/event/community-cinco-de-mayo-dinner/37906/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250214
 DESCRIPTION:Senior Science Fridays at the UW STEM Sandbox\nMore info: https://www.visitlaramie.org/event/senior-science-fridays-at-the-uw-stem-sandbox/37783/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/STEM-Sandbox-Social-Media-Senior-Science-Fridays-1-_99010DC2-9EFD-CF1A-B56CA50E882A3483_99022114-cb35-6c5c-a43615cadd0acd55.jpg\nCategories: Community\, University of Wyoming\, Education
 GEO:41.315705;-105.584515
@@ -294,15 +268,6 @@ UID:37783@visitlaramie.org
 URL:https://www.visitlaramie.org/event/senior-science-fridays-at-the-uw-stem-sandbox/37783/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250503
-DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
-GEO:41.321007;-105.590773
-LOCATION:High Iron Rail Car\, Corner of 4th and Canby Street
-SUMMARY:High Iron: Opening Hours
-UID:37984@visitlaramie.org
-URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250512
 DESCRIPTION:New Age Phonograph @ The Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/new-age-phonograph-%40-the-ruffed-up-duck/37848/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-02-24-114634_3CD7872D-D804-34BA-9B01C51B14A5BFA2_3ce3c809-e777-24b6-b5bbc16cb11ef477.png\nCategories: Concerts & Live Music
 GEO:41.310483;-105.591301
@@ -310,6 +275,15 @@ LOCATION:The Ruffed Up Duck Saloon
 SUMMARY:New Age Phonograph @ The Ruffed Up Duck
 UID:37848@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-ruffed-up-duck/37848/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250503
+DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
+GEO:41.321007;-105.590773
+LOCATION:High Iron Rail Car\, Corner of 4th and Canby Street
+SUMMARY:High Iron: Opening Hours
+UID:37984@visitlaramie.org
+URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250527
@@ -408,15 +382,6 @@ UID:37994@visitlaramie.org
 URL:https://www.visitlaramie.org/event/quinlan-valdez-%40-tgu/37994/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250502
-DESCRIPTION:Liquid Sky: Retro Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/37968/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Retro Rock
-UID:37968@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/37968/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250510
 DESCRIPTION:Back to the Moon for Good\nMore info: https://www.visitlaramie.org/event/back-to-the-moon-for-good/36341/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_4D8B2491-5056-A36F-23ACD5B046653F05_4d8e0d74-5056-a36f-23d848c0e7165177.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
 GEO:41.313709;-105.590644
@@ -426,15 +391,6 @@ UID:36341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/back-to-the-moon-for-good/36341/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250503
-DESCRIPTION:"Liquid Sky: Taylor Swift\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/31125/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Social Events
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Taylor Swift
-UID:31125@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/31125/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250530
 DESCRIPTION:INTHEWHALE Final Show in Laramie\, WY\nMore info: https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-111646_A5245B1B-CFF6-D2F3-5D185B4DD0547F6B_a526c5a6-e9d8-a0e4-41403e964787da14.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
 GEO:41.310483;-105.591301
@@ -442,6 +398,15 @@ LOCATION:Ruffed Up Duck Saloon
 SUMMARY:INTHEWHALE Final Show in Laramie\, WY
 UID:37877@visitlaramie.org
 URL:https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250503
+DESCRIPTION:"Liquid Sky: Taylor Swift\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/31125/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Social Events
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:"Liquid Sky: Taylor Swift
+UID:31125@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/31125/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
@@ -531,15 +496,6 @@ LOCATION:University of Wyoming
 SUMMARY:Science Saturday at the UW STEM Sandbox
 UID:37784@visitlaramie.org
 URL:https://www.visitlaramie.org/event/science-saturday-at-the-uw-stem-sandbox/37784/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250502
-DESCRIPTION:The Return - LHS Dance Team End of Season Showcase\nMore info: https://www.visitlaramie.org/event/the-return-lhs-dance-team-end-of-season-showcase/37907/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-122517_A9052BC1-0526-DA09-FF62CC57C5C77C11_a92119ec-a233-e9ce-f12f93ed2cd1de33.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.299462;-105.551272
-LOCATION:Laramie Senior High School
-SUMMARY:The Return - LHS Dance Team End of Season Showcase
-UID:37907@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-return-lhs-dance-team-end-of-season-showcase/37907/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250517
