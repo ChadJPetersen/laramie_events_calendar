@@ -178,15 +178,6 @@ UID:38007@visitlaramie.org
 URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38007/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250504
-DESCRIPTION:Hospice of Laramie Taste & Toast 2025\nMore info: https://www.visitlaramie.org/event/hospice-of-laramie-taste-%26-toast-2025/37972/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TandT2025-logo_5FDDCB4F-9717-CFD2-101C09A86259EBCB_5fec7f95-e14f-2352-1e72a99e54697f1b.jpg\nCategories: Community
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Hospice of Laramie Taste & Toast 2025
-UID:37972@visitlaramie.org
-URL:https://www.visitlaramie.org/event/hospice-of-laramie-taste-%26-toast-2025/37972/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
 DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
 GEO:41.312330;-105.593102
@@ -285,24 +276,6 @@ UID:37904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jen-howard-live-%40-the-great-untamed/37904/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250504
-DESCRIPTION:UW Flutes Studio Recital\nMore info: https://www.visitlaramie.org/event/uw-flutes-studio-recital/37989/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/flute-studio-recital-may-4-2-poster_4972CE2B-E656-6C86-85E6E8DC8A42960D_497e8fd5-e4a6-fca2-6b7cc9a0342937c1.png\nCategories: Concerts & Live Music
-GEO:41.313968;-105.584517
-LOCATION:Recital Hall
-SUMMARY:UW Flutes Studio Recital
-UID:37989@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-flutes-studio-recital/37989/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250504
-DESCRIPTION:Celebrate Children's Day\nMore info: https://www.visitlaramie.org/event/celebrate-childrens-day/38010/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/53/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-30-102433_4CE3F336-EC15-8FEF-11246E68608F5F0B_4ce64bc8-90f7-05b8-de42b6c9a52f4471.png\nCategories: Community\, Family Fun
-GEO:41.308353;-105.596400
-LOCATION:Historic Laramie Union Pacific Train Depot
-SUMMARY:Celebrate Children's Day
-UID:38010@visitlaramie.org
-URL:https://www.visitlaramie.org/event/celebrate-childrens-day/38010/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250510
 DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/28837/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/liquid-sky_843c92d4-5056-a36f-2326a969aed298fe.jpg\nCategories: Community\, University of Wyoming
 LOCATION:Harry C. Vaughan Planetarium
@@ -355,15 +328,6 @@ UID:38008@visitlaramie.org
 URL:https://www.visitlaramie.org/event/print-making%3a-exploring-the-process-opening-reception/38008/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250504
-DESCRIPTION:May the 4th - Pickleball Tournement\nMore info: https://www.visitlaramie.org/event/may-the-4th-pickleball-tournement/38001/\nVenue: Laramie Community Recreation Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-community-recreation-center/66/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-28-133042_EB045416-94F4-236A-D057CCDB48CFFB69_eb05053a-ebef-95a7-bb01ad5a42bd2934.png\nCategories: Outdoor Recreation
-GEO:41.304734;-105.549039
-LOCATION:Laramie Community Recreation Center
-SUMMARY:May the 4th - Pickleball Tournement
-UID:38001@visitlaramie.org
-URL:https://www.visitlaramie.org/event/may-the-4th-pickleball-tournement/38001/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250510
 DESCRIPTION:"Dark Matter Mystery"\nMore info: https://www.visitlaramie.org/event/dark-matter-mystery/31046/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BA4D362C-5056-A36F-231FA3E82D8FB8E0_ba8189d1-5056-a36f-2381a647082db979.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -406,15 +370,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:UW Graduation Afterparty
 UID:37900@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-graduation-afterparty/37900/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250504
-DESCRIPTION:The Protest in Laramie\, WY\nMore info: https://www.visitlaramie.org/event/the-protest-in-laramie-wy/37952/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-07-124814_AFBB55BA-B291-005B-943E5E77A1A746CC_afd17b6b-feef-b4d8-67dc1ba4f645ca81.png\nCategories: Concerts & Live Music
-GEO:41.290016;-105.534023
-LOCATION:Harvest Church
-SUMMARY:The Protest in Laramie\, WY
-UID:37952@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-protest-in-laramie-wy/37952/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
