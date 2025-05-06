@@ -19,15 +19,6 @@ UID:37782@visitlaramie.org
 URL:https://www.visitlaramie.org/event/toddler-tuesday-in-the-uw-stem-sandbox/37782/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250505
-DESCRIPTION:UW Music Presents: Helios Trio\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-helios-trio/37938/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-31-114954_481D66B3-E81A-56EE-09D465CE74F865F3_4820d19f-ccd5-0818-381e5440d455c0b1.png\nCategories: Concerts & Live Music\, University of Wyoming
-GEO:41.311367;-105.591101
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:UW Music Presents: Helios Trio
-UID:37938@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-helios-trio/37938/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250510
 DESCRIPTION:Vedauwoo Fire Formal\nMore info: https://www.visitlaramie.org/event/vedauwoo-fire-formal/37905/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-115827_A82B30CE-914D-A149-67D0C955C027C933_a838c19e-9cff-e23c-a9d3f66fd9191c40.png\nCategories: Community\, Volunteering
 GEO:41.312068;-105.589055
@@ -206,12 +197,12 @@ URL:https://www.visitlaramie.org/event/senior-science-fridays-at-the-uw-stem-san
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250508
-DESCRIPTION:UW Symphony Presents: Maher 4\nMore info: https://www.visitlaramie.org/event/uw-symphony-presents%3a-maher-4/37939/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-31-115211_482AF39A-C4F3-8676-5AB3B520E5A8B241_4841902f-a461-77af-ede439e24d071756.png\nCategories: Concerts & Live Music\, University of Wyoming
+DESCRIPTION:UW Symphony Presents: Mahler 4\nMore info: https://www.visitlaramie.org/event/uw-symphony-presents%3a-mahler-4/37939/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-31-115211_482AF39A-C4F3-8676-5AB3B520E5A8B241_4841902f-a461-77af-ede439e24d071756.png\nCategories: Concerts & Live Music\, University of Wyoming
 GEO:41.311367;-105.591101
 LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:UW Symphony Presents: Maher 4
+SUMMARY:UW Symphony Presents: Mahler 4
 UID:37939@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-maher-4/37939/
+URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-mahler-4/37939/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250512
@@ -274,6 +265,13 @@ LOCATION:The Great Untamed
 SUMMARY:Jen Howard Live @ The Great Untamed
 UID:37904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jen-howard-live-%40-the-great-untamed/37904/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Studebaker North Central Zone Meet\nMore info: https://www.visitlaramie.org/event/studebaker-north-central-zone-meet/37865/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-07-113609_742BA2CC-DD5B-8DE9-71C3479F1D1FBC1D_7437f18b-bb12-1b34-b98c575a617fa664.png\nCategories: History\, Community\, Family Fun
+SUMMARY:Studebaker North Central Zone Meet
+UID:37865@visitlaramie.org
+URL:https://www.visitlaramie.org/event/studebaker-north-central-zone-meet/37865/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250510
@@ -370,6 +368,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:UW Graduation Afterparty
 UID:37900@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-graduation-afterparty/37900/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250516
+DESCRIPTION:National Bike to Work Day\nMore info: https://www.visitlaramie.org/event/national-bike-to-work-day/38013/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-05-101243_4C18B859-CBEC-92E4-D520DC8B84B78504_4c90e5f4-c22c-5d71-b20890fe261cc4e5.png\nCategories: Community\, Outdoor Recreation\, Family Fun\, Social Events
+GEO:41.310964;-105.595143
+LOCATION:1st Street Plaza
+SUMMARY:National Bike to Work Day
+UID:38013@visitlaramie.org
+URL:https://www.visitlaramie.org/event/national-bike-to-work-day/38013/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
