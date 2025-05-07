@@ -10,15 +10,6 @@ UID:37997@visitlaramie.org
 URL:https://www.visitlaramie.org/event/poi-rogers-%2b-wahb-%40-tgu/37997/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250211
-DESCRIPTION:Toddler Tuesday in the UW STEM Sandbox\nMore info: https://www.visitlaramie.org/event/toddler-tuesday-in-the-uw-stem-sandbox/37782/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/STEM-Sandbox-Social-Media-Toddler-Tuesdays-1-_98A7FACB-DD74-5A15-82A7A9E3847414A6_98dd5be0-fd0c-bd96-7f4e91659bed2ca5.jpg\nCategories: Community\, University of Wyoming\, Education
-GEO:41.315705;-105.584515
-LOCATION:University of Wyoming
-SUMMARY:Toddler Tuesday in the UW STEM Sandbox
-UID:37782@visitlaramie.org
-URL:https://www.visitlaramie.org/event/toddler-tuesday-in-the-uw-stem-sandbox/37782/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250510
 DESCRIPTION:Vedauwoo Fire Formal\nMore info: https://www.visitlaramie.org/event/vedauwoo-fire-formal/37905/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-115827_A82B30CE-914D-A149-67D0C955C027C933_a838c19e-9cff-e23c-a9d3f66fd9191c40.png\nCategories: Community\, Volunteering
 GEO:41.312068;-105.589055
@@ -404,14 +395,5 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Beatles
 UID:31070@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-beatles/31070/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250506
-DESCRIPTION:Wyoming Skies: eta Auqariids Meteor Shower\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-eta-auqariids-meteor-shower/31044/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events9_98A0D897-5056-A36F-23CC23EBA9575488_98adaf8a-5056-a36f-23d6b08f70f14575.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies: eta Auqariids Meteor Shower
-UID:31044@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies%3a-eta-auqariids-meteor-shower/31044/
 END:VEVENT
 END:VCALENDAR
