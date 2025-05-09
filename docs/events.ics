@@ -54,6 +54,15 @@ UID:38004@visitlaramie.org
 URL:https://www.visitlaramie.org/event/union-fest-2025/38004/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250515
+DESCRIPTION:the curious incident of the dog in the night-time\nMore info: https://www.visitlaramie.org/event/the-curious-incident-of-the-dog-in-the-night-time/38023/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-08-132829_EE233C21-F92F-5754-6C35EA1C02062951_ee56e064-b510-fff9-4bf1f8870be4e26e.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+GEO:41.322811;-105.591448
+LOCATION:Cooper Center for Creative Arts
+SUMMARY:the curious incident of the dog in the night-time
+UID:38023@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-curious-incident-of-the-dog-in-the-night-time/38023/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250520
 DESCRIPTION:Jen Howard + Marlee Holdeman @ TGU\nMore info: https://www.visitlaramie.org/event/jen-howard-%2b-marlee-holdeman-%40-tgu/37995/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Jen-Howard-5-20-w-Marlee_CB0A28C4-8367-47DD-BCE11EDCD8A67471_25eaa92d-43ad-444f-b559ff715d127603.jpg\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -168,6 +177,15 @@ UID:37993@visitlaramie.org
 URL:https://www.visitlaramie.org/event/megan-paullet-%2b-cat-rose-%40-tgu/37993/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250518
+DESCRIPTION:Centennial Open Putt Putt Golf Tournement\nMore info: https://www.visitlaramie.org/event/centennial-open-putt-putt-golf-tournement/38021/\nVenue: Bear Bottom Bar and Grill\nVenue Info: https://www.visitlaramie.org/listing/bear-bottom-bar-and-grill/15/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-08-125956_ECA7A280-9F88-50D6-7F8F52EBB1039508_ecf46b36-994d-f575-332362a87af5739c.png\nCategories: Community\, Family Fun
+GEO:41.298305;-106.141677
+LOCATION:Bear Bottom Bar and Grill
+SUMMARY:Centennial Open Putt Putt Golf Tournement
+UID:38021@visitlaramie.org
+URL:https://www.visitlaramie.org/event/centennial-open-putt-putt-golf-tournement/38021/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250517
 DESCRIPTION:"Distant Worlds — Alien Life?"\nMore info: https://www.visitlaramie.org/event/distant-worlds-%e2%80%94-alien-life%3f/31124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/earthrise_9BD7426E-5056-A36F-23534F53A5BAE7B5_9bf1766d-5056-a36f-2384227559a84aa3.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -240,15 +258,6 @@ UID:37848@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-ruffed-up-duck/37848/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250508
-DESCRIPTION:UW Symphony Presents: Mahler 4\nMore info: https://www.visitlaramie.org/event/uw-symphony-presents%3a-mahler-4/37939/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-31-115211_482AF39A-C4F3-8676-5AB3B520E5A8B241_4841902f-a461-77af-ede439e24d071756.png\nCategories: Concerts & Live Music\, University of Wyoming
-GEO:41.311367;-105.591101
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:UW Symphony Presents: Mahler 4
-UID:37939@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-mahler-4/37939/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250517
 DESCRIPTION:"Liquid Sky: Pop\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -256,6 +265,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: Pop
 UID:31122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250514
+DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/38019/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-08-124338_EC22B94E-A7F8-844B-144C782307D96E37_ec4ca11d-b85f-7a40-2b5c534e567c613f.png\nCategories: Community\, Social Events
+GEO:41.312265;-105.595644
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Open Mic Poetry at Night Heron
+UID:38019@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/38019/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
@@ -294,12 +312,12 @@ UID:37820@visitlaramie.org
 URL:https://www.visitlaramie.org/event/taste-of-laradise/37820/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250527
-DESCRIPTION:Bobcat + Calico Boys + Aaron King + Kaye Camoosa @ TGU\nMore info: https://www.visitlaramie.org/event/bobcat-%2b-calico-boys-%2b-aaron-king-%2b-kaye-camoosa-%40-tgu/37996/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/bobcat_3987703E-EA73-4F7C-8FB4C7EF84B45FEB_2c8aa7db-3c44-43df-82c5f8ebb2141402.png\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Bobcat + Calico Boys + Aaron King + Kaye Camoosa @ TGU
-UID:37996@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bobcat-%2b-calico-boys-%2b-aaron-king-%2b-kaye-camoosa-%40-tgu/37996/
+DTSTART;VALUE=DATE:20250517
+DESCRIPTION:Princess Tea Party\nMore info: https://www.visitlaramie.org/event/princess-tea-party/38024/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-08-135213_EE937D13-D7A8-BFE8-41B6FDF1D5DD5172_ee9ae2cb-a8f0-f7ea-a2885ca4a5549160.png\nCategories: Community\, Family Fun
+GEO:41.312201;-105.591819
+SUMMARY:Princess Tea Party
+UID:38024@visitlaramie.org
+URL:https://www.visitlaramie.org/event/princess-tea-party/38024/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250510
@@ -309,6 +327,14 @@ LOCATION:Laramie Plains Civic Center South Gym
 SUMMARY:Laramie Zine Fest
 UID:37879@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-zine-fest/37879/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250527
+DESCRIPTION:Bobcat + Calico Boys + Aaron King + Kaye Camoosa @ TGU\nMore info: https://www.visitlaramie.org/event/bobcat-%2b-calico-boys-%2b-aaron-king-%2b-kaye-camoosa-%40-tgu/37996/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/bobcat_3987703E-EA73-4F7C-8FB4C7EF84B45FEB_2c8aa7db-3c44-43df-82c5f8ebb2141402.png\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+SUMMARY:Bobcat + Calico Boys + Aaron King + Kaye Camoosa @ TGU
+UID:37996@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bobcat-%2b-calico-boys-%2b-aaron-king-%2b-kaye-camoosa-%40-tgu/37996/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250531
@@ -387,13 +413,13 @@ UID:36341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/back-to-the-moon-for-good/36341/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250530
-DESCRIPTION:INTHEWHALE Final Show in Laramie\, WY\nMore info: https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-111646_A5245B1B-CFF6-D2F3-5D185B4DD0547F6B_a526c5a6-e9d8-a0e4-41403e964787da14.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:INTHEWHALE Final Show in Laramie\, WY
-UID:37877@visitlaramie.org
-URL:https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/
+DTSTART;VALUE=DATE:20250517
+DESCRIPTION:Huge Multi Family Sale\nMore info: https://www.visitlaramie.org/event/huge-multi-family-sale/38022/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-08-131236_ED0A3822-FF60-43ED-618C82BE36CBF5CB_ed2c1ae3-b0b3-36fe-5e9aae929d9f7431.png\nCategories: Community
+GEO:41.308133;-105.566290
+LOCATION:First Christian Church
+SUMMARY:Huge Multi Family Sale
+UID:38022@visitlaramie.org
+URL:https://www.visitlaramie.org/event/huge-multi-family-sale/38022/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250530
@@ -403,6 +429,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: R & B
 UID:31125@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-r-%26-b/31125/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250530
+DESCRIPTION:INTHEWHALE Final Show in Laramie\, WY\nMore info: https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-111646_A5245B1B-CFF6-D2F3-5D185B4DD0547F6B_a526c5a6-e9d8-a0e4-41403e964787da14.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:INTHEWHALE Final Show in Laramie\, WY
+UID:37877@visitlaramie.org
+URL:https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250510
@@ -447,6 +482,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:UW Music Presents: Front Range Piano Quartet
 UID:37940@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-front-range-piano-quartet/37940/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250522
+DESCRIPTION:3rd Annual Playwrite Showcase\nMore info: https://www.visitlaramie.org/event/3rd-annual-playwrite-showcase/38020/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/05.22.25-2025-Playwrite-Showcase_EC7202C2-C636-5D8E-34E42B235245C08B_ec7d988b-cc7c-5849-07b200f6916b42a7.jpg\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
+GEO:41.313968;-105.584517
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:3rd Annual Playwrite Showcase
+UID:38020@visitlaramie.org
+URL:https://www.visitlaramie.org/event/3rd-annual-playwrite-showcase/38020/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250215
