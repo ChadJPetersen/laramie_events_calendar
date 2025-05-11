@@ -28,15 +28,6 @@ UID:31030@visitlaramie.org
 URL:https://www.visitlaramie.org/event/parker-solar-probe-update/31030/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:Vedauwoo Fire Formal\nMore info: https://www.visitlaramie.org/event/vedauwoo-fire-formal/37905/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-115827_A82B30CE-914D-A149-67D0C955C027C933_a838c19e-9cff-e23c-a9d3f66fd9191c40.png\nCategories: Community\, Volunteering
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Vedauwoo Fire Formal
-UID:37905@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vedauwoo-fire-formal/37905/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250531
 DESCRIPTION:"Liquid Sky: Indie Folk\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38018/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-135938_B9BC70FD-A566-7698-44817F4C054485BB_ba151bbb-ed1f-a89c-5215be9b47e23104.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -44,14 +35,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: Indie Folk
 UID:38018@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38018/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:Artist's Workshop: Kinetic Illlustration\nMore info: https://www.visitlaramie.org/event/artists-workshop%3a-kinetic-illlustration/38011/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-30-131605_5186B90F-EA1F-E960-51D2C5E76E7D95B2_518de45b-b2bc-83bf-56e5aec076d62ecb.png\nCategories: Community\, Performing Arts & Culture\, Craft Classes & Workshops
-GEO:41.320366;-105.591295
-SUMMARY:Artist's Workshop: Kinetic Illlustration
-UID:38011@visitlaramie.org
-URL:https://www.visitlaramie.org/event/artists-workshop%3a-kinetic-illlustration/38011/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250515
@@ -87,15 +70,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:One Sky - Planetarium Show
 UID:37254@visitlaramie.org
 URL:https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:Intuitive Astrologer Open House\nMore info: https://www.visitlaramie.org/event/intuitive-astrologer-open-house/37988/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Black-Minimalist-Astrology-New-Moon-Instagram-Post-8.5-x-5.5-in-_20250424_150313_0000_200EE934-D51E-3816-C5B77AF93FB20AAC_20497197-fe69-8252-71c7d0ced318ebb4.png\nCategories: Community\, Performing Arts & Culture\, Education\, Family Fun\, Social Events
-GEO:41.310975;-105.595248
-LOCATION:118 Grand Ave\, Suite 210\, Laramie
-SUMMARY:Intuitive Astrologer Open House
-UID:37988@visitlaramie.org
-URL:https://www.visitlaramie.org/event/intuitive-astrologer-open-house/37988/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250517
@@ -158,14 +132,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:UW Music Presents: Front Range Piano Quartet
 UID:37941@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-front-range-piano-quartet/37941/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:Fiesta Primavera\nMore info: https://www.visitlaramie.org/event/fiesta-primavera/38028/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-09-111117_1C53B47B-0A45-DD8D-2F6834279E08F9BA_1c5607ba-e572-6afe-6863da5d7b0958e8.png\nCategories: Community\, University of Wyoming
-GEO:38.794595;-106.534838
-SUMMARY:Fiesta Primavera
-UID:38028@visitlaramie.org
-URL:https://www.visitlaramie.org/event/fiesta-primavera/38028/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250514
@@ -248,15 +214,6 @@ UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250512
-DESCRIPTION:New Age Phonograph @ The Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/new-age-phonograph-%40-the-ruffed-up-duck/37848/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-02-24-114634_3CD7872D-D804-34BA-9B01C51B14A5BFA2_3ce3c809-e777-24b6-b5bbc16cb11ef477.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:The Ruffed Up Duck Saloon
-SUMMARY:New Age Phonograph @ The Ruffed Up Duck
-UID:37848@visitlaramie.org
-URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-ruffed-up-duck/37848/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250517
 DESCRIPTION:"Liquid Sky: Pop\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -264,6 +221,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: Pop
 UID:31122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250512
+DESCRIPTION:New Age Phonograph @ The Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/new-age-phonograph-%40-the-ruffed-up-duck/37848/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-02-24-114634_3CD7872D-D804-34BA-9B01C51B14A5BFA2_3ce3c809-e777-24b6-b5bbc16cb11ef477.png\nCategories: Concerts & Live Music
+GEO:41.310483;-105.591301
+LOCATION:The Ruffed Up Duck Saloon
+SUMMARY:New Age Phonograph @ The Ruffed Up Duck
+UID:37848@visitlaramie.org
+URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-ruffed-up-duck/37848/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250514
@@ -319,15 +285,6 @@ UID:38024@visitlaramie.org
 URL:https://www.visitlaramie.org/event/princess-tea-party/38024/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:Laramie Zine Fest\nMore info: https://www.visitlaramie.org/event/laramie-zine-fest/37879/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-113027_A5A62BC9-953A-DB56-9F76CA6DD321DE7C_a5a8a725-b913-bbf9-c0c542b8afcdb2bc.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
-GEO:41.309002;-105.587950
-LOCATION:Laramie Plains Civic Center South Gym
-SUMMARY:Laramie Zine Fest
-UID:37879@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-zine-fest/37879/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250527
 DESCRIPTION:Bobcat + Calico Boys + Aaron King + Kaye Camoosa @ TGU\nMore info: https://www.visitlaramie.org/event/bobcat-%2b-calico-boys-%2b-aaron-king-%2b-kaye-camoosa-%40-tgu/37996/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/bobcat_3987703E-EA73-4F7C-8FB4C7EF84B45FEB_2c8aa7db-3c44-43df-82c5f8ebb2141402.png\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -370,14 +327,6 @@ UID:37865@visitlaramie.org
 URL:https://www.visitlaramie.org/event/studebaker-north-central-zone-meet/37865/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/28837/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/liquid-sky_843c92d4-5056-a36f-2326a969aed298fe.jpg\nCategories: Community\, University of Wyoming
-LOCATION:Harry C. Vaughan Planetarium
-SUMMARY:Liquid Sky: Metal
-UID:28837@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/28837/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
 DESCRIPTION:Roger Canyon Cleanup\nMore info: https://www.visitlaramie.org/event/roger-canyon-cleanup/37884/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-08-115912_E172A507-F8E5-8571-D87F08AC2DB8D598_e177ad7a-0347-0cef-817682585f5a30a7.png\nCategories: Community\, Outdoor Recreation
 GEO:41.335729;-105.583211
@@ -401,15 +350,6 @@ GEO:41.311479;-105.593276
 SUMMARY:Quinlan Valdez @ TGU
 UID:37994@visitlaramie.org
 URL:https://www.visitlaramie.org/event/quinlan-valdez-%40-tgu/37994/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:Back to the Moon for Good\nMore info: https://www.visitlaramie.org/event/back-to-the-moon-for-good/36341/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_4D8B2491-5056-A36F-23ACD5B046653F05_4d8e0d74-5056-a36f-23d848c0e7165177.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Back to the Moon for Good
-UID:36341@visitlaramie.org
-URL:https://www.visitlaramie.org/event/back-to-the-moon-for-good/36341/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250517
@@ -448,14 +388,6 @@ UID:37877@visitlaramie.org
 URL:https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:GlobNGoose @ TGU\nMore info: https://www.visitlaramie.org/event/globngoose-%40-tgu/38015/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/globngoose_2552EBB3-61B8-450F-B22608A5258FC053_cce71715-e9b6-4fd0-82bffca1a95dc201.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:GlobNGoose @ TGU
-UID:38015@visitlaramie.org
-URL:https://www.visitlaramie.org/event/globngoose-%40-tgu/38015/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
 DESCRIPTION:Tuesday Trivia and Tacos\nMore info: https://www.visitlaramie.org/event/tuesday-trivia-and-tacos/37713/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-08-120305_E1A04E44-9C6B-747C-8123C9BA6C12C95E_e1b04b48-bdc1-8c74-381441d269948c8a.png\nCategories: Community
 GEO:41.309643;-105.594735
@@ -463,15 +395,6 @@ LOCATION:Bond's Brewing Company
 SUMMARY:Tuesday Trivia and Tacos
 UID:37713@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tuesday-trivia-and-tacos/37713/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:"Dark Matter Mystery"\nMore info: https://www.visitlaramie.org/event/dark-matter-mystery/31046/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BA4D362C-5056-A36F-231FA3E82D8FB8E0_ba8189d1-5056-a36f-2381a647082db979.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Dark Matter Mystery"
-UID:31046@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dark-matter-mystery/31046/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250514
@@ -490,15 +413,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:3rd Annual Playwrite Showcase
 UID:38020@visitlaramie.org
 URL:https://www.visitlaramie.org/event/3rd-annual-playwrite-showcase/38020/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250215
-DESCRIPTION:Science Saturday at the UW STEM Sandbox\nMore info: https://www.visitlaramie.org/event/science-saturday-at-the-uw-stem-sandbox/37784/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/STEM-Sandbox-Social-Media-Science-Saturdays-1-_9911F465-FB6F-146B-639533F5ADCE51FF_991e9264-b801-afe6-a241ac69f1e50abc.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.315705;-105.584515
-LOCATION:University of Wyoming
-SUMMARY:Science Saturday at the UW STEM Sandbox
-UID:37784@visitlaramie.org
-URL:https://www.visitlaramie.org/event/science-saturday-at-the-uw-stem-sandbox/37784/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250517
