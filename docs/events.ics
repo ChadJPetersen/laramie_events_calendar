@@ -259,15 +259,6 @@ UID:37951@visitlaramie.org
 URL:https://www.visitlaramie.org/event/a-taste-of-ireland/37951/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250511
-DESCRIPTION:Mother's Day Brunch\nMore info: https://www.visitlaramie.org/event/mothers-day-brunch/38005/\nVenue: Altitude Chophouse & Brewery\nVenue Info: https://www.visitlaramie.org/listing/altitude-chophouse-%26-brewery/140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Simple-Cursive-Minimalist-Wedding-Menu-_245DE2F2-CBD1-56D2-1C8CE9F8DC7D7434_24647e09-b62b-a4a1-a6c895c108a43605.png\nCategories: Social Events
-GEO:41.310342;-105.595301
-LOCATION:Altitude Chophouse & Brewery
-SUMMARY:Mother's Day Brunch
-UID:38005@visitlaramie.org
-URL:https://www.visitlaramie.org/event/mothers-day-brunch/38005/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
 DESCRIPTION:Taste of Laradise\nMore info: https://www.visitlaramie.org/event/taste-of-laradise/37820/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TasteOfLaradiseLogo_6DE2831C-AECA-E780-EDF2BFD38D91C8D1_6deda9af-e814-28f5-f74e5013a742ae53.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Social Events
 GEO:41.309643;-105.594735
@@ -404,6 +395,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:UW Music Presents: Front Range Piano Quartet
 UID:37940@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-front-range-piano-quartet/37940/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250611
+DESCRIPTION:Desperate Electric\nMore info: https://www.visitlaramie.org/event/desperate-electric/38027/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-09-110546_1C0D602F-D242-1EFD-0F30C198D09C5D5C_1c0dadd4-ddf1-87d6-1ba2de7f886dfbbc.png\nCategories: Concerts & Live Music
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:Desperate Electric
+UID:38027@visitlaramie.org
+URL:https://www.visitlaramie.org/event/desperate-electric/38027/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250522
