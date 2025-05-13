@@ -169,15 +169,6 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250510
-DESCRIPTION:Friends of the Albany County Public Library Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38007/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/MAY-BOOK-SALE-2025-POSTER_4B6F3358-DFC9-BA6D-0751C51B82EF600D_4b7df44b-c648-8003-a95959abb7ec2ea4.jpg\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Friends of the Albany County Public Library Book Sale
-UID:38007@visitlaramie.org
-URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38007/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
 DESCRIPTION:Wyo Tech Laramie Car Show\nMore info: https://www.visitlaramie.org/event/wyo-tech-laramie-car-show/38000/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-28-131621_EA8EE269-A309-FA48-28B5661F80660048_eaab7cff-b122-eba9-27bed14ed87ed83f.png\nCategories: Community\, Family Fun
 GEO:41.303505;-105.620984
@@ -221,15 +212,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: Pop
 UID:31122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250512
-DESCRIPTION:New Age Phonograph @ The Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/new-age-phonograph-%40-the-ruffed-up-duck/37848/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-02-24-114634_3CD7872D-D804-34BA-9B01C51B14A5BFA2_3ce3c809-e777-24b6-b5bbc16cb11ef477.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:The Ruffed Up Duck Saloon
-SUMMARY:New Age Phonograph @ The Ruffed Up Duck
-UID:37848@visitlaramie.org
-URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-ruffed-up-duck/37848/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250514
@@ -335,14 +317,6 @@ UID:38029@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tea-time-tarot-%26-terracotta/38029/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250516
-DESCRIPTION:Quinlan Valdez @ TGU\nMore info: https://www.visitlaramie.org/event/quinlan-valdez-%40-tgu/37994/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/quinlan_0AE62BBD-2864-4F7F-AFFC106B362955BE_4ad9f025-5a9d-4a07-b18bc67ed9e6b126.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Quinlan Valdez @ TGU
-UID:37994@visitlaramie.org
-URL:https://www.visitlaramie.org/event/quinlan-valdez-%40-tgu/37994/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250517
 DESCRIPTION:Huge Multi Family Sale\nMore info: https://www.visitlaramie.org/event/huge-multi-family-sale/38022/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-08-131236_ED0A3822-FF60-43ED-618C82BE36CBF5CB_ed2c1ae3-b0b3-36fe-5e9aae929d9f7431.png\nCategories: Community
 GEO:41.308133;-105.566290
@@ -350,6 +324,14 @@ LOCATION:First Christian Church
 SUMMARY:Huge Multi Family Sale
 UID:38022@visitlaramie.org
 URL:https://www.visitlaramie.org/event/huge-multi-family-sale/38022/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250516
+DESCRIPTION:Quinlan Valdez @ TGU\nMore info: https://www.visitlaramie.org/event/quinlan-valdez-%40-tgu/37994/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/quinlan_0AE62BBD-2864-4F7F-AFFC106B362955BE_4ad9f025-5a9d-4a07-b18bc67ed9e6b126.jpg\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+SUMMARY:Quinlan Valdez @ TGU
+UID:37994@visitlaramie.org
+URL:https://www.visitlaramie.org/event/quinlan-valdez-%40-tgu/37994/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250520
