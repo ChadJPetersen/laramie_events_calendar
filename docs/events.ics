@@ -134,6 +134,15 @@ UID:31047@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-tranquility/31047/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250608
+DESCRIPTION:Kink Bingo (18+)\nMore info: https://www.visitlaramie.org/event/kink-bingo-(18%2b)/38035/\nVenue: O'Dwyers Public House\nVenue Info: https://www.visitlaramie.org/listing/odwyers-public-house/144/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-01-Bingo_277A04E1-95AE-CFEB-DA1AA0FF40A8F1A1_277fc907-a330-ad33-100132d688858100.jpg\nCategories: Community
+GEO:41.309640;-105.575192
+LOCATION:O'Dwyers Public House
+SUMMARY:Kink Bingo (18+)
+UID:38035@visitlaramie.org
+URL:https://www.visitlaramie.org/event/kink-bingo-(18%2b)/38035/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250518
 DESCRIPTION:Centennial Open Putt Putt Golf Tournement\nMore info: https://www.visitlaramie.org/event/centennial-open-putt-putt-golf-tournement/38021/\nVenue: Bear Bottom Bar and Grill\nVenue Info: https://www.visitlaramie.org/listing/bear-bottom-bar-and-grill/15/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-08-125956_ECA7A280-9F88-50D6-7F8F52EBB1039508_ecf46b36-994d-f575-332362a87af5739c.png\nCategories: Community\, Family Fun
 GEO:41.298305;-106.141677
@@ -159,6 +168,15 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250614
+DESCRIPTION:Pride in the Park\nMore info: https://www.visitlaramie.org/event/pride-in-the-park/38033/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-14-Park_267324A1-D17E-087C-44AF2D9D7B8DE1B3_267fb7f4-ef28-b0c3-009f401382703010.jpg\nCategories: Community
+GEO:41.311367;-105.591101
+LOCATION:Washington Park
+SUMMARY:Pride in the Park
+UID:38033@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pride-in-the-park/38033/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
@@ -225,6 +243,15 @@ URL:https://www.visitlaramie.org/event/a-taste-of-ireland/37951/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
+DESCRIPTION:Laramie PrideFest 2025 Annual Summer Drag Show\nMore info: https://www.visitlaramie.org/event/laramie-pridefest-2025-annual-summer-drag-show/38031/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-07-Drag_247FDCCE-D407-62B8-B4F3DB9826157E66_248f0169-c51d-6a02-f94708427111098e.jpg\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Laramie PrideFest 2025 Annual Summer Drag Show
+UID:38031@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-pridefest-2025-annual-summer-drag-show/38031/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250607
 DESCRIPTION:Taste of Laradise\nMore info: https://www.visitlaramie.org/event/taste-of-laradise/37820/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TasteOfLaradiseLogo_6DE2831C-AECA-E780-EDF2BFD38D91C8D1_6deda9af-e814-28f5-f74e5013a742ae53.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Social Events
 GEO:41.309643;-105.594735
 LOCATION:Downtown\, with registration on 2nd between Garfield & Custer
@@ -281,6 +308,15 @@ DESCRIPTION:Studebaker North Central Zone Meet\nMore info: https://www.visitlara
 SUMMARY:Studebaker North Central Zone Meet
 UID:37865@visitlaramie.org
 URL:https://www.visitlaramie.org/event/studebaker-north-central-zone-meet/37865/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250613
+DESCRIPTION:Cabaret Night: Drag\, Burlesque & Comedy (21+)\nMore info: https://www.visitlaramie.org/event/cabaret-night%3a-drag-burlesque-%26-comedy-(21%2b)/38036/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-13-Cabaret_281B116D-AD65-C446-666D2B2F4F9B6353_2820c148-f09b-0ff9-c6cd201934fa1cc6.jpg\nCategories: Community
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:Cabaret Night: Drag\, Burlesque & Comedy (21+)
+UID:38036@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cabaret-night%3a-drag-burlesque-%26-comedy-(21%2b)/38036/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
@@ -353,6 +389,15 @@ UID:37713@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tuesday-trivia-and-tacos/37713/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Pride Storytelling - Queer Futures: A Storytelling Celebration of Resilience\, Joy\, and Possibility\nMore info: https://www.visitlaramie.org/event/pride-storytelling-queer-futures%3a-a-storytelling-celebration-of-resilience-joy-and-possibility/38034/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-10-Storytelling_26D1AE5A-CA94-23F2-5FBDE9C5C892A11D_26d4f030-b369-866c-21b9efe6b9132705.jpg\nCategories: Community
+GEO:41.308353;-105.596400
+LOCATION:Historic Laramie Union Pacific Train Depot
+SUMMARY:Pride Storytelling - Queer Futures: A Storytelling Celebration of Resilience\, Joy\, and Possibility
+UID:38034@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pride-storytelling-queer-futures%3a-a-storytelling-celebration-of-resilience-joy-and-possibility/38034/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250611
 DESCRIPTION:Desperate Electric\nMore info: https://www.visitlaramie.org/event/desperate-electric/38027/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-09-110546_1C0D602F-D242-1EFD-0F30C198D09C5D5C_1c0dadd4-ddf1-87d6-1ba2de7f886dfbbc.png\nCategories: Concerts & Live Music
 GEO:41.310483;-105.591301
@@ -405,6 +450,15 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Cowboy Yarn Crawl
 UID:37770@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Laramie PrideFest Movie Night: To Wong Foo\, Thanks for Everything! Julie Newmar (1995)\nMore info: https://www.visitlaramie.org/event/laramie-pridefest-movie-night%3a-to-wong-foo-thanks-for-everything!-julie-newmar-(1995)/38032/\nVenue: Regal Fox Theater\nVenue Info: https://www.visitlaramie.org/listing/regal-fox-theater/395/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-02-Movie_252EA9E3-9011-2078-05E80A5C72AB7ED3_25362270-e0ce-7e99-fcefb6a432c07785.jpg\nCategories: Community
+GEO:41.307772;-105.568423
+LOCATION:Regal Fox Theater
+SUMMARY:Laramie PrideFest Movie Night: To Wong Foo\, Thanks for Everything! Julie Newmar (1995)
+UID:38032@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-pridefest-movie-night%3a-to-wong-foo-thanks-for-everything!-julie-newmar-(1995)/38032/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250517
