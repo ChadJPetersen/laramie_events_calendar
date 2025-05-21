@@ -37,23 +37,6 @@ UID:38018@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38018/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250520
-DESCRIPTION:Tour of The  Quadra Dangle Square Dance Club\nMore info: https://www.visitlaramie.org/event/tour-of-the-quadra-dangle-square-dance-club/38030/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-135036_237FE0D3-D623-04B5-E0CC3B129722AD01_239c9b49-ee53-182e-0a233e19d8a92a43.png\nCategories: History\, Community\, Performing Arts & Culture
-GEO:41.321083;-105.547483
-LOCATION:Quadra Dangle Square Dance Club
-SUMMARY:Tour of The  Quadra Dangle Square Dance Club
-UID:38030@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tour-of-the-quadra-dangle-square-dance-club/38030/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250520
-DESCRIPTION:Jen Howard + Marlee Holdeman @ TGU\nMore info: https://www.visitlaramie.org/event/jen-howard-%2b-marlee-holdeman-%40-tgu/37995/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Jen-Howard-5-20-w-Marlee_CB0A28C4-8367-47DD-BCE11EDCD8A67471_25eaa92d-43ad-444f-b559ff715d127603.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Jen Howard + Marlee Holdeman @ TGU
-UID:37995@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jen-howard-%2b-marlee-holdeman-%40-tgu/37995/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250531
 DESCRIPTION:One Sky - Planetarium Show\nMore info: https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2_7CB07A3D-AA4D-338F-27C6394B327B7DCF_7cb9c35a-9677-24e5-2f9b6669976ac20c.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -224,15 +207,6 @@ UID:31069@visitlaramie.org
 URL:https://www.visitlaramie.org/event/two-small-pieces-of-glass/31069/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250520
-DESCRIPTION:Jen Howard Live @ The Great Untamed\nMore info: https://www.visitlaramie.org/event/jen-howard-live-%40-the-great-untamed/37904/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-114856_A7AD95BC-D150-FD95-FCD386D8ACD59DEC_a7bbd9a7-d076-7a61-70051ad2cde10997.png\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-LOCATION:The Great Untamed
-SUMMARY:Jen Howard Live @ The Great Untamed
-UID:37904@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jen-howard-live-%40-the-great-untamed/37904/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250522
 DESCRIPTION:CGS Centennial Speaker Series: Bridging Global Gaps\nMore info: https://www.visitlaramie.org/event/cgs-centennial-speaker-series%3a-bridging-global-gaps/38017/\nVenue: Centennial Library\nVenue Info: https://www.visitlaramie.org/listing/centennial-library/1797/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Centennial-May-2025---17x11_B6C6B16E-F2AA-528E-CD13A5227CC63696_b6d0a473-d5f6-a558-1d382c599a32fb33.png\nCategories: Community\, University of Wyoming\, Education
 GEO:41.298808;-106.141485
@@ -264,15 +238,6 @@ GEO:41.335729;-105.583211
 SUMMARY:Roger Canyon Cleanup
 UID:37884@visitlaramie.org
 URL:https://www.visitlaramie.org/event/roger-canyon-cleanup/37884/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250520
-DESCRIPTION:Wyoming Skies: Moon\, Mars\, Venus Conjunction\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-moon-mars-venus-conjunction/30980/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_C7A24CA1-5056-A36F-23689CDFCFFAC9C7_c7a9aa46-5056-a36f-23a7d751b5d7082b.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies: Moon\, Mars\, Venus Conjunction
-UID:30980@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies%3a-moon-mars-venus-conjunction/30980/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250530
