@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250613
+DESCRIPTION:Queer Prom & Art Workshop (all ages)\nMore info: https://www.visitlaramie.org/event/queer-prom-%26-art-workshop-(all-ages)/38051/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-13-Prom_F9922B20-93D8-67A0-AE2358A1AAC4068B_f99b0304-0237-86fd-6ca51c4dee0425cb.jpg\nCategories: Community
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Queer Prom & Art Workshop (all ages)
+UID:38051@visitlaramie.org
+URL:https://www.visitlaramie.org/event/queer-prom-%26-art-workshop-(all-ages)/38051/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250528
 DESCRIPTION:Poi Rogers + wAHb @ TGU\nMore info: https://www.visitlaramie.org/event/poi-rogers-%2b-wahb-%40-tgu/37997/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Poi-Rogers_85961A1D-04FE-4674-8DA4D1830E33145C_05ccd772-3788-4bd0-831b2c6df635ed3b.png\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -28,6 +37,15 @@ UID:31030@visitlaramie.org
 URL:https://www.visitlaramie.org/event/parker-solar-probe-update/31030/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250603
+DESCRIPTION:City Council Pride Proclamation\nMore info: https://www.visitlaramie.org/event/city-council-pride-proclamation/38044/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-03-Council_F20FAED6-DB3A-D18E-4F5A046D89F16F47_f213ee7b-f318-1b7e-be72c75fb4ba2267.jpg\nCategories: Community
+GEO:41.311653;-105.591925
+LOCATION:City of Laramie - City Government
+SUMMARY:City Council Pride Proclamation
+UID:38044@visitlaramie.org
+URL:https://www.visitlaramie.org/event/city-council-pride-proclamation/38044/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250531
 DESCRIPTION:"Liquid Sky: Indie Folk\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38018/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-135938_B9BC70FD-A566-7698-44817F4C054485BB_ba151bbb-ed1f-a89c-5215be9b47e23104.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -37,6 +55,24 @@ UID:38018@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38018/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Cars and Coffee at Toyota of Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Event-Image_2914823C-A70A-118B-32BA80D9FD7E1AE7_29198826-f6a6-cbac-689dfc393670b5c5.png\nCategories: Annual Events & Festivals
+GEO:41.308934;-105.562856
+LOCATION:Toyota of Laramie
+SUMMARY:Cars and Coffee at Toyota of Laramie
+UID:38037@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250606
+DESCRIPTION:3rd Annual Rainbow Road Bar Crawl\nMore info: https://www.visitlaramie.org/event/3rd-annual-rainbow-road-bar-crawl/38056/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-25-06-06_Bar-Crawl_Poster_8A60C04E-FFC9-36EC-7289ECD1E1D2EFB8_8a647c5f-9a91-ca1d-8515395c5c24ef9f.jpg\nCategories: Annual Events & Festivals
+GEO:38.794595;-106.534838
+LOCATION:Downtown Laramie (Various Locations)
+SUMMARY:3rd Annual Rainbow Road Bar Crawl
+UID:38056@visitlaramie.org
+URL:https://www.visitlaramie.org/event/3rd-annual-rainbow-road-bar-crawl/38056/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250531
 DESCRIPTION:One Sky - Planetarium Show\nMore info: https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2_7CB07A3D-AA4D-338F-27C6394B327B7DCF_7cb9c35a-9677-24e5-2f9b6669976ac20c.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -44,6 +80,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:One Sky - Planetarium Show
 UID:37254@visitlaramie.org
 URL:https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250612
+DESCRIPTION:Pride Trivia Night (all ages)\nMore info: https://www.visitlaramie.org/event/pride-trivia-night-(all-ages)/38049/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-12-Trivia_F8EE50BD-0CC8-C9FB-7ED0F5268984A3CE_f8f3e773-ce91-6497-286953b2460710e2.jpg\nCategories: Community
+GEO:41.312078;-105.585940
+LOCATION:Canterbury House
+SUMMARY:Pride Trivia Night (all ages)
+UID:38049@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pride-trivia-night-(all-ages)/38049/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250525
@@ -91,6 +136,33 @@ UID:37799@visitlaramie.org
 URL:https://www.visitlaramie.org/event/save-the-date%3a-laramie-pridefest-2025/37799/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250526
+DESCRIPTION:Memorial Day 2025\nMore info: https://www.visitlaramie.org/event/memorial-day-2025/38054/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Memorial-Day-2025_809AF50A-D88D-44BD-43A988C251405EFB_80a4bd6f-ad6f-237e-2bf1c6dc1f707a96.jpg\nCategories: Community
+GEO:38.794595;-106.534838
+LOCATION:Albany County Courthouse and Greenhill Cemetery
+SUMMARY:Memorial Day 2025
+UID:38054@visitlaramie.org
+URL:https://www.visitlaramie.org/event/memorial-day-2025/38054/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Where the heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/37785/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-02-06-101604_9C0DB903-9659-8477-789DF018C9E5C3B8_9c71c666-0308-9105-ebd75e16a947564e.png\nCategories: Performing Arts & Culture
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Where the heck is Yucca Fountain?
+UID:37785@visitlaramie.org
+URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/37785/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250608
+DESCRIPTION:Dungeons & Demis\nMore info: https://www.visitlaramie.org/event/dungeons-%26-demis/38047/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-08-Demis_F82E0070-F448-E367-CB653E74A1CC30B5_f84097d7-f12b-a3d6-4d3aad0fd0bd6c80.jpg\nCategories: Community
+GEO:41.312078;-105.585940
+LOCATION:Canterbury House
+SUMMARY:Dungeons & Demis
+UID:38047@visitlaramie.org
+URL:https://www.visitlaramie.org/event/dungeons-%26-demis/38047/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -118,6 +190,15 @@ UID:38000@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyo-tech-laramie-car-show/38000/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250615
+DESCRIPTION:Matthew Shepard Candlelight Vigil & Processing Space\nMore info: https://www.visitlaramie.org/event/matthew-shepard-candlelight-vigil-%26-processing-space/38052/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-15-Vigil_F9CA0907-F24C-8C7D-A2CE7D1F391B0FE6_f9e35341-f5f8-6de0-84faa435e2bc1b41.jpg\nCategories: Community
+GEO:41.314718;-105.569029
+LOCATION:University of Wyoming
+SUMMARY:Matthew Shepard Candlelight Vigil & Processing Space
+UID:38052@visitlaramie.org
+URL:https://www.visitlaramie.org/event/matthew-shepard-candlelight-vigil-%26-processing-space/38052/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
 DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
 GEO:41.312330;-105.593102
@@ -134,6 +215,15 @@ LOCATION:Night Heron Books & Coffeehouse
 SUMMARY:Open Mic Poetry at Night Heron
 UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250606
+DESCRIPTION:Rainbow Road Bar Crawl (21+)\nMore info: https://www.visitlaramie.org/event/rainbow-road-bar-crawl-(21%2b)/38045/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-06-BarCrawl_F7925086-0138-0556-EC9795CCC2EB4EFB_f7a3d92a-9a49-b6f6-ecb689fbe406b024.jpg\nCategories: Community
+GEO:41.311389;-105.595899
+LOCATION:Downtown Laramie
+SUMMARY:Rainbow Road Bar Crawl (21+)
+UID:38045@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rainbow-road-bar-crawl-(21%2b)/38045/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
@@ -207,6 +297,24 @@ UID:31069@visitlaramie.org
 URL:https://www.visitlaramie.org/event/two-small-pieces-of-glass/31069/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250612
+DESCRIPTION:PrideFest Karaoke (21+)\nMore info: https://www.visitlaramie.org/event/pridefest-karaoke-(21%2b)/38050/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-12-Karaoke_F9343A14-BE25-ED44-87B6F28CEE7EEDBF_f96045fe-989f-77ed-51a1021303fc9859.jpg\nCategories: Community
+GEO:41.311479;-105.593276
+LOCATION:The Great Untamed
+SUMMARY:PrideFest Karaoke (21+)
+UID:38050@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pridefest-karaoke-(21%2b)/38050/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250601
+DESCRIPTION:Pride on the Patio\nMore info: https://www.visitlaramie.org/event/pride-on-the-patio/38043/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-01-Patio_F1AD6F5A-F92B-46C5-E6A20239BDEA77EA_f1b8f64c-c288-2f45-5df5b84c4351dff7.jpg\nCategories: Community
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Pride on the Patio
+UID:38043@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pride-on-the-patio/38043/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250522
 DESCRIPTION:CGS Centennial Speaker Series: Bridging Global Gaps\nMore info: https://www.visitlaramie.org/event/cgs-centennial-speaker-series%3a-bridging-global-gaps/38017/\nVenue: Centennial Library\nVenue Info: https://www.visitlaramie.org/listing/centennial-library/1797/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Centennial-May-2025---17x11_B6C6B16E-F2AA-528E-CD13A5227CC63696_b6d0a473-d5f6-a558-1d382c599a32fb33.png\nCategories: Community\, University of Wyoming\, Education
 GEO:41.298808;-106.141485
@@ -240,6 +348,15 @@ UID:37884@visitlaramie.org
 URL:https://www.visitlaramie.org/event/roger-canyon-cleanup/37884/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+DESCRIPTION:Emergency Department Ribbon Cutting + Dedication\nMore info: https://www.visitlaramie.org/event/emergency-department-ribbon-cutting-%2b-dedication/38055/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cover-Photo-01_868EB9ED-A5C1-89EA-DE2EA9715F9B1CDB_8697d67a-a84c-e63b-9b3c26c932a7f622.png\nCategories: Community
+GEO:41.313002;-105.556574
+LOCATION:Ivinson Memorial Hospital
+SUMMARY:Emergency Department Ribbon Cutting + Dedication
+UID:38055@visitlaramie.org
+URL:https://www.visitlaramie.org/event/emergency-department-ribbon-cutting-%2b-dedication/38055/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250530
 DESCRIPTION:INTHEWHALE Final Show in Laramie\, WY\nMore info: https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-111646_A5245B1B-CFF6-D2F3-5D185B4DD0547F6B_a526c5a6-e9d8-a0e4-41403e964787da14.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
 GEO:41.310483;-105.591301
@@ -256,6 +373,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: R & B
 UID:31125@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-r-%26-b/31125/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250609
+DESCRIPTION:Social Justice Roundtable\nMore info: https://www.visitlaramie.org/event/social-justice-roundtable/38048/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-09-Roundtable_F87E33C1-DC7D-2E9B-D86A48836635C505_f8846312-fef6-1e5b-18e8890ad983283d.jpg\nCategories: Community
+GEO:41.312078;-105.585940
+LOCATION:Canterbury House
+SUMMARY:Social Justice Roundtable
+UID:38048@visitlaramie.org
+URL:https://www.visitlaramie.org/event/social-justice-roundtable/38048/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250523
@@ -285,6 +411,15 @@ UID:38034@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-storytelling-queer-futures%3a-a-storytelling-celebration-of-resilience-joy-and-possibility/38034/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250530
+DESCRIPTION:Laramie PrideFest: Downtown Sign Lighting\nMore info: https://www.visitlaramie.org/event/laramie-pridefest%3a-downtown-sign-lighting/38053/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-05-30-SignLighting_FA3772F7-D98A-D40E-EFE29AF4FE01E0B6_fa3b2806-9691-0328-67737381282fed3d.jpg\nCategories: Community
+GEO:41.311389;-105.595899
+LOCATION:Downtown Laramie
+SUMMARY:Laramie PrideFest: Downtown Sign Lighting
+UID:38053@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-pridefest%3a-downtown-sign-lighting/38053/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250611
 DESCRIPTION:Desperate Electric\nMore info: https://www.visitlaramie.org/event/desperate-electric/38027/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-09-110546_1C0D602F-D242-1EFD-0F30C198D09C5D5C_1c0dadd4-ddf1-87d6-1ba2de7f886dfbbc.png\nCategories: Concerts & Live Music
 GEO:41.310483;-105.591301
@@ -301,6 +436,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:3rd Annual Playwrite Showcase
 UID:38020@visitlaramie.org
 URL:https://www.visitlaramie.org/event/3rd-annual-playwrite-showcase/38020/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250608
+DESCRIPTION:Pride Hike\nMore info: https://www.visitlaramie.org/event/pride-hike/38046/\nVenue: Happy Jack Recreational Area\nVenue Info: https://www.visitlaramie.org/listing/happy-jack-recreational-area/172/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-08-Hike_F7FAFBB6-9ADF-3D24-EB61EA6B7AE119EC_f7feadd4-ed9c-a8b3-a109309da48f1c41.jpg\nCategories: Community\, Outdoor Recreation
+GEO:41.240323;-105.436481
+LOCATION:Happy Jack Recreational Area
+SUMMARY:Pride Hike
+UID:38046@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pride-hike/38046/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
