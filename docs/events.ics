@@ -127,15 +127,6 @@ UID:38049@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-trivia-night-(all-ages)/38049/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250525
-DESCRIPTION:Steven Isserlis Recital\nMore info: https://www.visitlaramie.org/event/steven-isserlis-recital/38042/\nVenue: University of Wyoming Department of Theatre & Dance\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-department-of-theatre-%26-dance/457/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-16-120604_86B7B10D-BA22-CB3C-581B927EFCDDA711_86c4fad2-91f5-dbd7-ba70f97b48d6258a.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, University of Wyoming\, Performing Arts & Culture
-GEO:41.311991;-105.572082
-LOCATION:Buchanan Performing Arts Center
-SUMMARY:Steven Isserlis Recital
-UID:38042@visitlaramie.org
-URL:https://www.visitlaramie.org/event/steven-isserlis-recital/38042/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250531
 DESCRIPTION:Pilot Hill 25k: The Oldest Footrace in Wyoming\nMore info: https://www.visitlaramie.org/event/pilot-hill-25k%3a-the-oldest-footrace-in-wyoming/37890/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/DSC05615_4D5F724F-BFE4-A2A8-8C68D33C188C1208_4d6272fb-b3e2-f3fe-76a4265a0cdd3498.jpg\nCategories: Outdoor Recreation
 GEO:41.311367;-105.591101
