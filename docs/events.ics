@@ -38,15 +38,6 @@ UID:35133@visitlaramie.org
 URL:https://www.visitlaramie.org/event/keeping-time/35133/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250530
-DESCRIPTION:Parker Solar Probe Update\nMore info: https://www.visitlaramie.org/event/parker-solar-probe-update/31030/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/parker-solar_7C16DE53-5056-A36F-236582F23DE3ABFF_7c1ad33b-5056-a36f-2334f462b336e960.jpg\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Parker Solar Probe Update
-UID:31030@visitlaramie.org
-URL:https://www.visitlaramie.org/event/parker-solar-probe-update/31030/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250603
 DESCRIPTION:City Council Pride Proclamation\nMore info: https://www.visitlaramie.org/event/city-council-pride-proclamation/38044/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-03-Council_F20FAED6-DB3A-D18E-4F5A046D89F16F47_f213ee7b-f318-1b7e-be72c75fb4ba2267.jpg\nCategories: Community
 GEO:41.311653;-105.591925
@@ -396,6 +387,15 @@ UID:37865@visitlaramie.org
 URL:https://www.visitlaramie.org/event/studebaker-north-central-zone-meet/37865/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250630
+DESCRIPTION:Vedauwoo Youth Climbing Camp - Session 2\nMore info: https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-2/38069/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-101432_ECFFBCE1-AB61-363D-3664484265960AED_ed079720-d6e7-2718-fc7134e82b578110.png\nCategories: Community\, Outdoor Recreation\, Education
+GEO:41.292888;-105.577090
+LOCATION:Vedauwoo Recreation Area
+SUMMARY:Vedauwoo Youth Climbing Camp - Session 2
+UID:38069@visitlaramie.org
+URL:https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-2/38069/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250613
 DESCRIPTION:"Liquid Sky: Synthwave\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/38062/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -438,24 +438,6 @@ LOCATION:Ivinson Memorial Hospital
 SUMMARY:Emergency Department Ribbon Cutting + Dedication
 UID:38055@visitlaramie.org
 URL:https://www.visitlaramie.org/event/emergency-department-ribbon-cutting-%2b-dedication/38055/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250530
-DESCRIPTION:INTHEWHALE Final Show in Laramie\, WY\nMore info: https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-111646_A5245B1B-CFF6-D2F3-5D185B4DD0547F6B_a526c5a6-e9d8-a0e4-41403e964787da14.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:INTHEWHALE Final Show in Laramie\, WY
-UID:37877@visitlaramie.org
-URL:https://www.visitlaramie.org/event/inthewhale-final-show-in-laramie-wy/37877/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250530
-DESCRIPTION:"Liquid Sky: R & B\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-r-%26-b/31125/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Social Events
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: R & B
-UID:31125@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-r-%26-b/31125/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250609
@@ -501,15 +483,6 @@ LOCATION:Historic Laramie Union Pacific Train Depot
 SUMMARY:Pride Storytelling - Queer Futures: A Storytelling Celebration of Resilience\, Joy\, and Possibility
 UID:38034@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-storytelling-queer-futures%3a-a-storytelling-celebration-of-resilience-joy-and-possibility/38034/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250530
-DESCRIPTION:Laramie PrideFest: Downtown Sign Lighting\nMore info: https://www.visitlaramie.org/event/laramie-pridefest%3a-downtown-sign-lighting/38053/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-05-30-SignLighting_FA3772F7-D98A-D40E-EFE29AF4FE01E0B6_fa3b2806-9691-0328-67737381282fed3d.jpg\nCategories: Community
-GEO:41.311389;-105.595899
-LOCATION:Downtown Laramie
-SUMMARY:Laramie PrideFest: Downtown Sign Lighting
-UID:38053@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-pridefest%3a-downtown-sign-lighting/38053/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250611
