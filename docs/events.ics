@@ -47,15 +47,6 @@ UID:38044@visitlaramie.org
 URL:https://www.visitlaramie.org/event/city-council-pride-proclamation/38044/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DESCRIPTION:"Liquid Sky: Indie Folk\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38018/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-135938_B9BC70FD-A566-7698-44817F4C054485BB_ba151bbb-ed1f-a89c-5215be9b47e23104.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Indie Folk
-UID:38018@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38018/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250617
 DESCRIPTION:Livin' in Laramie BBQ\nMore info: https://www.visitlaramie.org/event/livin-in-laramie-bbq/38070/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-100813_ED408302-FECC-4ED0-E00206365B083B8D_ed697a02-0889-dac9-8aef79611b661383.png\nCategories: Community\, Family Fun
 GEO:41.309259;-105.564274
@@ -101,15 +92,6 @@ UID:36342@visitlaramie.org
 URL:https://www.visitlaramie.org/event/mars-planetarium-show/36342/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DESCRIPTION:One Sky - Planetarium Show\nMore info: https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2_7CB07A3D-AA4D-338F-27C6394B327B7DCF_7cb9c35a-9677-24e5-2f9b6669976ac20c.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:One Sky - Planetarium Show
-UID:37254@visitlaramie.org
-URL:https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
 DESCRIPTION:Pride Trivia Night (all ages)\nMore info: https://www.visitlaramie.org/event/pride-trivia-night-(all-ages)/38049/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-12-Trivia_F8EE50BD-0CC8-C9FB-7ED0F5268984A3CE_f8f3e773-ce91-6497-286953b2460710e2.jpg\nCategories: Community
 GEO:41.312078;-105.585940
@@ -117,15 +99,6 @@ LOCATION:Canterbury House
 SUMMARY:Pride Trivia Night (all ages)
 UID:38049@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-trivia-night-(all-ages)/38049/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DESCRIPTION:Pilot Hill 25k: The Oldest Footrace in Wyoming\nMore info: https://www.visitlaramie.org/event/pilot-hill-25k%3a-the-oldest-footrace-in-wyoming/37890/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/DSC05615_4D5F724F-BFE4-A2A8-8C68D33C188C1208_4d6272fb-b3e2-f3fe-76a4265a0cdd3498.jpg\nCategories: Outdoor Recreation
-GEO:41.311367;-105.591101
-LOCATION:East Willett Drive
-SUMMARY:Pilot Hill 25k: The Oldest Footrace in Wyoming
-UID:37890@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pilot-hill-25k%3a-the-oldest-footrace-in-wyoming/37890/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250617
@@ -171,6 +144,14 @@ LOCATION:Laramie\, WY
 SUMMARY:Save the date: Laramie PrideFest 2025
 UID:37799@visitlaramie.org
 URL:https://www.visitlaramie.org/event/save-the-date%3a-laramie-pridefest-2025/37799/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:Tuesday Local Market in Undine Park\nMore info: https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/38002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-28-134536_EB4B4CFE-A949-B5FE-789255E8C4EF85CE_eb73da56-e716-3d45-e4f0247baea40e56.png\nCategories: Community\, Social Events
+GEO:41.305330;-105.590308
+SUMMARY:Tuesday Local Market in Undine Park
+UID:38002@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/38002/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250614
@@ -317,15 +298,6 @@ UID:31323@visitlaramie.org
 URL:https://www.visitlaramie.org/event/deerwood-ranch-open-days/31323/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DESCRIPTION:Pride March & Proclamation\nMore info: https://www.visitlaramie.org/event/pride-march-%26-proclamation/38038/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-05-31-March_59D2AE34-0B97-EF0A-B62A22758E3F96BA_59d8b083-07d7-0a89-a4e9a98e616debf9.jpg\nCategories: Community
-GEO:41.307379;-105.596029
-LOCATION:1st St Plaza
-SUMMARY:Pride March & Proclamation
-UID:38038@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pride-march-%26-proclamation/38038/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
 DESCRIPTION:Laramie PrideFest 2025 Annual Summer Drag Show\nMore info: https://www.visitlaramie.org/event/laramie-pridefest-2025-annual-summer-drag-show/38031/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-07-Drag_247FDCCE-D407-62B8-B4F3DB9826157E66_248f0169-c51d-6a02-f94708427111098e.jpg\nCategories: Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -353,15 +325,6 @@ UID:37820@visitlaramie.org
 URL:https://www.visitlaramie.org/event/taste-of-laradise/37820/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DESCRIPTION:Two Small Pieces of Glass\nMore info: https://www.visitlaramie.org/event/two-small-pieces-of-glass/31069/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/twopiecesofglass_327D18DF-5056-A36F-231F5C59DA25D42A_32b97dd2-5056-a36f-2343027a4631a26b.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Two Small Pieces of Glass
-UID:31069@visitlaramie.org
-URL:https://www.visitlaramie.org/event/two-small-pieces-of-glass/31069/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
 DESCRIPTION:PrideFest Karaoke (21+)\nMore info: https://www.visitlaramie.org/event/pridefest-karaoke-(21%2b)/38050/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-12-Karaoke_F9343A14-BE25-ED44-87B6F28CEE7EEDBF_f96045fe-989f-77ed-51a1021303fc9859.jpg\nCategories: Community
 GEO:41.311479;-105.593276
@@ -369,6 +332,14 @@ LOCATION:The Great Untamed
 SUMMARY:PrideFest Karaoke (21+)
 UID:38050@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pridefest-karaoke-(21%2b)/38050/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:Laramie Mountain Bike Series\, Race #3\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%233/3205/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_BF54B0C4-9971-E2A3-9F8A8A5F3130C83E_bf643b42-fe21-a907-31351101ab0702ae.png\nCategories: Outdoor Recreation
+LOCATION:Happy Jack
+SUMMARY:Laramie Mountain Bike Series\, Race #3
+UID:3205@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%233/3205/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250601
@@ -494,15 +465,6 @@ UID:38027@visitlaramie.org
 URL:https://www.visitlaramie.org/event/desperate-electric/38027/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DESCRIPTION:Rehab the Court Yard\nMore info: https://www.visitlaramie.org/event/rehab-the-court-yard/38079/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-131950_F399C79D-B63B-9C19-E68FA292AF7A1BCB_f3ad8581-9ece-d4eb-6238455b8c1287ff.png\nCategories: Community
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center
-SUMMARY:Rehab the Court Yard
-UID:38079@visitlaramie.org
-URL:https://www.visitlaramie.org/event/rehab-the-court-yard/38079/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250608
 DESCRIPTION:Pride Hike\nMore info: https://www.visitlaramie.org/event/pride-hike/38046/\nVenue: Happy Jack Recreational Area\nVenue Info: https://www.visitlaramie.org/listing/happy-jack-recreational-area/172/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-08-Hike_F7FAFBB6-9ADF-3D24-EB61EA6B7AE119EC_f7feadd4-ed9c-a8b3-a109309da48f1c41.jpg\nCategories: Community\, Outdoor Recreation
 GEO:41.240323;-105.436481
@@ -528,15 +490,6 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Cowboy Yarn Crawl
 UID:37770@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DESCRIPTION:PrideFest Yoga\nMore info: https://www.visitlaramie.org/event/pridefest-yoga/38039/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-05-31-Yoga_5A1EF567-E118-A90E-5ACD3E0DC5D67774_5a2d657d-d8b8-58f7-a8f2f63d54d0b3a5.jpg\nCategories: Community
-GEO:41.311367;-105.591101
-LOCATION:Washington Park
-SUMMARY:PrideFest Yoga
-UID:38039@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pridefest-yoga/38039/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250602
