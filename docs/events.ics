@@ -119,15 +119,6 @@ UID:38061@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-modern-funk/38061/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250601
-DESCRIPTION:Kink Bingo (18+)\nMore info: https://www.visitlaramie.org/event/kink-bingo-(18%2b)/38035/\nVenue: O'Dwyers Public House\nVenue Info: https://www.visitlaramie.org/listing/odwyers-public-house/144/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-01-Bingo_277A04E1-95AE-CFEB-DA1AA0FF40A8F1A1_277fc907-a330-ad33-100132d688858100.jpg\nCategories: Community
-GEO:41.309640;-105.575192
-LOCATION:O'Dwyers Public House
-SUMMARY:Kink Bingo (18+)
-UID:38035@visitlaramie.org
-URL:https://www.visitlaramie.org/event/kink-bingo-(18%2b)/38035/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250512
 DESCRIPTION:Print Making: Exploring the Process\nMore info: https://www.visitlaramie.org/event/print-making%3a-exploring-the-process/38009/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-30-112907_4D61BC88-A34C-0087-3DDD1AFAC979B579_4d64edb2-ba61-24a9-32cfebe58ad1cafc.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.309270;-105.587834
@@ -190,15 +181,6 @@ UID:38066@visitlaramie.org
 URL:https://www.visitlaramie.org/event/re-storying-the-west/38066/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250614
 DESCRIPTION:Pride in the Park\nMore info: https://www.visitlaramie.org/event/pride-in-the-park/38033/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-14-Park_267324A1-D17E-087C-44AF2D9D7B8DE1B3_267fb7f4-ef28-b0c3-009f401382703010.jpg\nCategories: Community
 GEO:41.311367;-105.591101
@@ -206,6 +188,15 @@ LOCATION:Washington Park
 SUMMARY:Pride in the Park
 UID:38033@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-in-the-park/38033/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
@@ -269,6 +260,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: Pop
 UID:31122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250702
+DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
+GEO:41.325969;-105.592220
+SUMMARY:Vinyasa Flow at Laramie Fitness
+UID:38071@visitlaramie.org
+URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
@@ -340,15 +339,6 @@ LOCATION:Happy Jack
 SUMMARY:Laramie Mountain Bike Series\, Race #3
 UID:3205@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%233/3205/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250601
-DESCRIPTION:Pride on the Patio\nMore info: https://www.visitlaramie.org/event/pride-on-the-patio/38043/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-01-Patio_F1AD6F5A-F92B-46C5-E6A20239BDEA77EA_f1b8f64c-c288-2f45-5df5b84c4351dff7.jpg\nCategories: Community
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Pride on the Patio
-UID:38043@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pride-on-the-patio/38043/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250605
