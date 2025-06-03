@@ -65,6 +65,15 @@ UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Cocktails & Cowork: Headshot Night\nMore info: https://www.visitlaramie.org/event/cocktails-%26-cowork%3a-headshot-night/38082/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-02-132035_F4C6E2A4-0C41-80E2-B7A33CC7812BA28B_f4c8fd66-e5dd-20e3-b8b2133426b69d53.png\nCategories: Social Events
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cocktails & Cowork: Headshot Night
+UID:38082@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cocktails-%26-cowork%3a-headshot-night/38082/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250606
 DESCRIPTION:3rd Annual Rainbow Road Bar Crawl\nMore info: https://www.visitlaramie.org/event/3rd-annual-rainbow-road-bar-crawl/38056/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-25-06-06_Bar-Crawl_Poster_8A60C04E-FFC9-36EC-7289ECD1E1D2EFB8_8a647c5f-9a91-ca1d-8515395c5c24ef9f.jpg\nCategories: Annual Events & Festivals
 GEO:41.311367;-105.591101
@@ -480,15 +489,6 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Cowboy Yarn Crawl
 UID:37770@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-DESCRIPTION:Laramie PrideFest Movie Night: To Wong Foo\, Thanks for Everything! Julie Newmar (1995)\nMore info: https://www.visitlaramie.org/event/laramie-pridefest-movie-night%3a-to-wong-foo-thanks-for-everything!-julie-newmar-(1995)/38032/\nVenue: Regal Fox Theater\nVenue Info: https://www.visitlaramie.org/listing/regal-fox-theater/395/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-02-Movie_252EA9E3-9011-2078-05E80A5C72AB7ED3_25362270-e0ce-7e99-fcefb6a432c07785.jpg\nCategories: Community
-GEO:41.307772;-105.568423
-LOCATION:Regal Fox Theater
-SUMMARY:Laramie PrideFest Movie Night: To Wong Foo\, Thanks for Everything! Julie Newmar (1995)
-UID:38032@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-pridefest-movie-night%3a-to-wong-foo-thanks-for-everything!-julie-newmar-(1995)/38032/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250606
