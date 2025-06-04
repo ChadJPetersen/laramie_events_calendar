@@ -38,15 +38,6 @@ UID:35133@visitlaramie.org
 URL:https://www.visitlaramie.org/event/keeping-time/35133/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250603
-DESCRIPTION:City Council Pride Proclamation\nMore info: https://www.visitlaramie.org/event/city-council-pride-proclamation/38044/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-03-Council_F20FAED6-DB3A-D18E-4F5A046D89F16F47_f213ee7b-f318-1b7e-be72c75fb4ba2267.jpg\nCategories: Community
-GEO:41.311653;-105.591925
-LOCATION:City of Laramie - City Government
-SUMMARY:City Council Pride Proclamation
-UID:38044@visitlaramie.org
-URL:https://www.visitlaramie.org/event/city-council-pride-proclamation/38044/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250617
 DESCRIPTION:Livin' in Laramie BBQ\nMore info: https://www.visitlaramie.org/event/livin-in-laramie-bbq/38070/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-100813_ED408302-FECC-4ED0-E00206365B083B8D_ed697a02-0889-dac9-8aef79611b661383.png\nCategories: Community\, Family Fun
 GEO:41.309259;-105.564274
@@ -179,6 +170,15 @@ LOCATION:Canterbury House
 SUMMARY:Dungeons & Demis
 UID:38047@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dungeons-%26-demis/38047/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250704
+DESCRIPTION:44th Annual Centennial Valley Art Show\nMore info: https://www.visitlaramie.org/event/44th-annual-centennial-valley-art-show/38014/\nVenue: Nici Self Museum\nVenue Info: https://www.visitlaramie.org/listing/nici-self-museum/82/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-Centennial-Valley-Art-Show-Poster-8.5x11_547FE5A9-CC6E-921E-393660851AB25359_5488ad20-a763-1e08-1f85bf761a6fb41b.jpg\nCategories: Annual Events & Festivals\, History\, Community
+GEO:41.298305;-106.141677
+LOCATION:Nici Self Museum
+SUMMARY:44th Annual Centennial Valley Art Show
+UID:38014@visitlaramie.org
+URL:https://www.visitlaramie.org/event/44th-annual-centennial-valley-art-show/38014/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
@@ -437,15 +437,6 @@ UID:38060@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature-from-earth-to-the-universe-%26-always-above/38060/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:Tuesday Trivia and Tacos\nMore info: https://www.visitlaramie.org/event/tuesday-trivia-and-tacos/37713/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-08-120305_E1A04E44-9C6B-747C-8123C9BA6C12C95E_e1b04b48-bdc1-8c74-381441d269948c8a.png\nCategories: Community
-GEO:41.309643;-105.594735
-LOCATION:Bond's Brewing Company
-SUMMARY:Tuesday Trivia and Tacos
-UID:37713@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tuesday-trivia-and-tacos/37713/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250610
 DESCRIPTION:Pride Storytelling - Queer Futures: A Storytelling Celebration of Resilience\, Joy\, and Possibility\nMore info: https://www.visitlaramie.org/event/pride-storytelling-queer-futures%3a-a-storytelling-celebration-of-resilience-joy-and-possibility/38034/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-10-Storytelling_26D1AE5A-CA94-23F2-5FBDE9C5C892A11D_26d4f030-b369-866c-21b9efe6b9132705.jpg\nCategories: Community
 GEO:41.308353;-105.596400
@@ -453,6 +444,15 @@ LOCATION:Historic Laramie Union Pacific Train Depot
 SUMMARY:Pride Storytelling - Queer Futures: A Storytelling Celebration of Resilience\, Joy\, and Possibility
 UID:38034@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-storytelling-queer-futures%3a-a-storytelling-celebration-of-resilience-joy-and-possibility/38034/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:Tuesday Trivia and Tacos\nMore info: https://www.visitlaramie.org/event/tuesday-trivia-and-tacos/37713/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-08-120305_E1A04E44-9C6B-747C-8123C9BA6C12C95E_e1b04b48-bdc1-8c74-381441d269948c8a.png\nCategories: Community
+GEO:41.309643;-105.594735
+LOCATION:Bond's Brewing Company
+SUMMARY:Tuesday Trivia and Tacos
+UID:37713@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tuesday-trivia-and-tacos/37713/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250611
