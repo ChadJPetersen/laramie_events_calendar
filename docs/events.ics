@@ -38,6 +38,15 @@ UID:35133@visitlaramie.org
 URL:https://www.visitlaramie.org/event/keeping-time/35133/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250706
+DESCRIPTION:Live Music: Sunday Jazz with Peter Queal and Friends\nMore info: https://www.visitlaramie.org/event/live-music%3a-sunday-jazz-with-peter-queal-and-friends/38077/\nVenue: Bear Bottom Bar and Grill\nVenue Info: https://www.visitlaramie.org/listing/bear-bottom-bar-and-grill/15/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-113544_F0693E8C-FE24-5834-38B41E37E6EF3AC3_f06c9484-e6d8-0b0c-fb7c50c0c80c5eb0.png\nCategories: Concerts & Live Music
+GEO:41.297850;-106.141624
+LOCATION:Bear Bottom Bar and Grill
+SUMMARY:Live Music: Sunday Jazz with Peter Queal and Friends
+UID:38077@visitlaramie.org
+URL:https://www.visitlaramie.org/event/live-music%3a-sunday-jazz-with-peter-queal-and-friends/38077/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250617
 DESCRIPTION:Livin' in Laramie BBQ\nMore info: https://www.visitlaramie.org/event/livin-in-laramie-bbq/38070/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-100813_ED408302-FECC-4ED0-E00206365B083B8D_ed697a02-0889-dac9-8aef79611b661383.png\nCategories: Community\, Family Fun
 GEO:41.309259;-105.564274
@@ -54,15 +63,6 @@ LOCATION:Toyota of Laramie
 SUMMARY:Cars and Coffee at Toyota of Laramie
 UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-DESCRIPTION:Cocktails & Cowork: Headshot Night\nMore info: https://www.visitlaramie.org/event/cocktails-%26-cowork%3a-headshot-night/38082/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-02-132035_F4C6E2A4-0C41-80E2-B7A33CC7812BA28B_f4c8fd66-e5dd-20e3-b8b2133426b69d53.png\nCategories: Social Events
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cocktails & Cowork: Headshot Night
-UID:38082@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cocktails-%26-cowork%3a-headshot-night/38082/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250606
@@ -92,6 +92,15 @@ UID:36342@visitlaramie.org
 URL:https://www.visitlaramie.org/event/mars-planetarium-show/36342/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250706
+DESCRIPTION:Walk with a Doc\nMore info: https://www.visitlaramie.org/event/walk-with-a-doc/38075/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-112500_EF3910A9-DF32-7B88-7B253ACBFB25521C_ef4cadaa-ccdb-3040-e53af41ded234999.png\nCategories: Community\, Outdoor Recreation
+GEO:41.311367;-105.591101
+LOCATION:Wahington Park
+SUMMARY:Walk with a Doc
+UID:38075@visitlaramie.org
+URL:https://www.visitlaramie.org/event/walk-with-a-doc/38075/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
 DESCRIPTION:Pride Trivia Night (all ages)\nMore info: https://www.visitlaramie.org/event/pride-trivia-night-(all-ages)/38049/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-12-Trivia_F8EE50BD-0CC8-C9FB-7ED0F5268984A3CE_f8f3e773-ce91-6497-286953b2460710e2.jpg\nCategories: Community
 GEO:41.312078;-105.585940
@@ -101,7 +110,7 @@ UID:38049@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-trivia-night-(all-ages)/38049/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250617
+DTSTART;VALUE=DATE:20250619
 DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-140934_C1B11CF5-9562-8BB9-1A485DBA84A82F1B_c1bc88e7-b2d5-9acf-d41b0e2b1ad95ae8.png\nCategories: Community
 GEO:41.310342;-105.587834
 LOCATION:Albany County Public Library
