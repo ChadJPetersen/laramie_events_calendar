@@ -65,15 +65,6 @@ UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250606
-DESCRIPTION:3rd Annual Rainbow Road Bar Crawl\nMore info: https://www.visitlaramie.org/event/3rd-annual-rainbow-road-bar-crawl/38056/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-25-06-06_Bar-Crawl_Poster_8A60C04E-FFC9-36EC-7289ECD1E1D2EFB8_8a647c5f-9a91-ca1d-8515395c5c24ef9f.jpg\nCategories: Annual Events & Festivals
-GEO:41.311367;-105.591101
-LOCATION:Downtown Laramie (Various Locations)
-SUMMARY:3rd Annual Rainbow Road Bar Crawl
-UID:38056@visitlaramie.org
-URL:https://www.visitlaramie.org/event/3rd-annual-rainbow-road-bar-crawl/38056/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250614
 DESCRIPTION:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes\nMore info: https://www.visitlaramie.org/event/cosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes/36349/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_6E0A503A-5056-A36F-2360D66FE71B6EFF_6e258baf-5056-a36f-230916283c18fa76.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
 GEO:41.313709;-105.590644
@@ -251,15 +242,6 @@ UID:38085@visitlaramie.org
 URL:https://www.visitlaramie.org/event/quinlan-valdez-%2b-marlee-holdeman-%40-tgu/38085/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250606
-DESCRIPTION:"Liquid Sky: Stoner Space Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-stoner-space-rock/38059/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-135938_B9BC70FD-A566-7698-44817F4C054485BB_ba151bbb-ed1f-a89c-5215be9b47e23104.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Stoner Space Rock
-UID:38059@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-stoner-space-rock/38059/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250615
 DESCRIPTION:Matthew Shepard Candlelight Vigil & Processing Space\nMore info: https://www.visitlaramie.org/event/matthew-shepard-candlelight-vigil-%26-processing-space/38052/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-15-Vigil_F9CA0907-F24C-8C7D-A2CE7D1F391B0FE6_f9e35341-f5f8-6de0-84faa435e2bc1b41.jpg\nCategories: Community
 GEO:41.314718;-105.569029
@@ -269,6 +251,15 @@ UID:38052@visitlaramie.org
 URL:https://www.visitlaramie.org/event/matthew-shepard-candlelight-vigil-%26-processing-space/38052/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250325
+DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
+GEO:41.312330;-105.593102
+LOCATION:St Matthew's Cathedral
+SUMMARY:Yoga at the Cathedral
+UID:37705@visitlaramie.org
+URL:https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
 GEO:41.312265;-105.595644
@@ -276,15 +267,6 @@ LOCATION:Night Heron Books & Coffeehouse
 SUMMARY:Open Mic Poetry at Night Heron
 UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250606
-DESCRIPTION:Search for Extra-Terrestrial Life\nMore info: https://www.visitlaramie.org/event/search-for-extra-terrestrial-life/36488/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_13CF98D7-5056-A36F-2343D3EFE3437A7C_13fa0106-5056-a36f-237e56c711425829.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Search for Extra-Terrestrial Life
-UID:36488@visitlaramie.org
-URL:https://www.visitlaramie.org/event/search-for-extra-terrestrial-life/36488/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250614
@@ -303,14 +285,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: Pop
 UID:31122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250702
-DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
-GEO:41.325969;-105.592220
-SUMMARY:Vinyasa Flow at Laramie Fitness
-UID:38071@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
@@ -538,14 +512,5 @@ GEO:41.311479;-105.593276
 SUMMARY:Vincent Draper and the Culls + Circles We Draw @ TGU
 UID:38084@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vincent-draper-and-the-culls-%2b-circles-we-draw-%40-tgu/38084/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250606
-DESCRIPTION:Vulture Watch Wyoming Walk\nMore info: https://www.visitlaramie.org/event/vulture-watch-wyoming-walk/38058/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/495320612_1263568159106816_2983281589388390366_n_943FE830-E35E-3261-AF8F435EF2F3D229_94429b32-c12d-9e6e-ab1fb30c22784ab1.jpg\nCategories: Community\, Outdoor Recreation\, Education\, Family Fun
-GEO:41.311367;-105.591101
-LOCATION:Curt Gowdy State Park
-SUMMARY:Vulture Watch Wyoming Walk
-UID:38058@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vulture-watch-wyoming-walk/38058/
 END:VEVENT
 END:VCALENDAR
