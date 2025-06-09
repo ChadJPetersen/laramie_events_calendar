@@ -144,15 +144,6 @@ UID:37785@visitlaramie.org
 URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/37785/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250608
-DESCRIPTION:Dungeons & Demis\nMore info: https://www.visitlaramie.org/event/dungeons-%26-demis/38047/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-08-Demis_F82E0070-F448-E367-CB653E74A1CC30B5_f84097d7-f12b-a3d6-4d3aad0fd0bd6c80.jpg\nCategories: Community
-GEO:41.312078;-105.585940
-LOCATION:Canterbury House
-SUMMARY:Dungeons & Demis
-UID:38047@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dungeons-%26-demis/38047/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250705
 DESCRIPTION:Bryan Bielanski Live @ The Great Untamed\nMore info: https://www.visitlaramie.org/event/bryan-bielanski-live-%40-the-great-untamed/38040/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-16-114542_85DE40FF-AB96-E4F6-591CB993ECBE1FC6_85e24b09-9277-b465-8805b60a6d72961a.png\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -392,15 +383,6 @@ UID:38027@visitlaramie.org
 URL:https://www.visitlaramie.org/event/desperate-electric/38027/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250608
-DESCRIPTION:Pride Hike\nMore info: https://www.visitlaramie.org/event/pride-hike/38046/\nVenue: Happy Jack Recreational Area\nVenue Info: https://www.visitlaramie.org/listing/happy-jack-recreational-area/172/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-08-Hike_F7FAFBB6-9ADF-3D24-EB61EA6B7AE119EC_f7feadd4-ed9c-a8b3-a109309da48f1c41.jpg\nCategories: Community\, Outdoor Recreation
-GEO:41.240323;-105.436481
-LOCATION:Happy Jack Recreational Area
-SUMMARY:Pride Hike
-UID:38046@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pride-hike/38046/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250610
 DESCRIPTION:Wyoming Skies\nMore info: https://www.visitlaramie.org/event/wyoming-skies/30971/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/jupiter-aurora_0D38F397-5056-A36F-230FB334A430DC49_0d3b207c-5056-a36f-23161bd63efb52e7.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -417,6 +399,15 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Cowboy Yarn Crawl
 UID:37770@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250709
+DESCRIPTION:Laramie Jubilee Days Downtown- Live Music\, Carnival\, and More!\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-downtown-live-music-carnival-and-more!/31317/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/_4__7923_AB84D008-5056-A36F-2395381A5D1CA5A6_ab868f5a-5056-a36f-237e6da737341c7d.jpg\nCategories: Concerts & Live Music\, Annual Events & Festivals\, History\, Community\, Sports\, Performing Arts & Culture\, Family Fun\, Social Events
+GEO:41.309790;-105.595980
+LOCATION:Downtown Laramie
+SUMMARY:Laramie Jubilee Days Downtown- Live Music\, Carnival\, and More!
+UID:31317@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-jubilee-days-downtown-live-music-carnival-and-more!/31317/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250611
