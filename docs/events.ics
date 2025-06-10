@@ -92,15 +92,6 @@ UID:38068@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250512
-DESCRIPTION:Print Making: Exploring the Process\nMore info: https://www.visitlaramie.org/event/print-making%3a-exploring-the-process/38009/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-30-112907_4D61BC88-A34C-0087-3DDD1AFAC979B579_4d64edb2-ba61-24a9-32cfebe58ad1cafc.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309270;-105.587834
-LOCATION:Laramie Plains Civic Center
-SUMMARY:Print Making: Exploring the Process
-UID:38009@visitlaramie.org
-URL:https://www.visitlaramie.org/event/print-making%3a-exploring-the-process/38009/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250531
 DESCRIPTION:Save the date: Laramie PrideFest 2025\nMore info: https://www.visitlaramie.org/event/save-the-date%3a-laramie-pridefest-2025/37799/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/476241599_18263041813261808_7909291692711822468_n_3BE3C938-C81C-52D7-EB38D7C7CEA9A36B_3bff183f-9060-1935-02e9ffb3451660f3.jpg\nCategories: Annual Events & Festivals
 GEO:41.311367;-105.591101
@@ -328,15 +319,6 @@ LOCATION:Washington Park\, Shelter #1
 SUMMARY:Color Our World: A Day of Art in the Park
 UID:38081@visitlaramie.org
 URL:https://www.visitlaramie.org/event/color-our-world%3a-a-day-of-art-in-the-park/38081/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250609
-DESCRIPTION:Social Justice Roundtable\nMore info: https://www.visitlaramie.org/event/social-justice-roundtable/38048/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-09-Roundtable_F87E33C1-DC7D-2E9B-D86A48836635C505_f8846312-fef6-1e5b-18e8890ad983283d.jpg\nCategories: Community
-GEO:41.312078;-105.585940
-LOCATION:Canterbury House
-SUMMARY:Social Justice Roundtable
-UID:38048@visitlaramie.org
-URL:https://www.visitlaramie.org/event/social-justice-roundtable/38048/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250621
