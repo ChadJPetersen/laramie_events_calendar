@@ -224,13 +224,13 @@ UID:31122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250614
-DESCRIPTION:Big Astronomy\nMore info: https://www.visitlaramie.org/event/big-astronomy/37542/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_7AFB539B-0FD9-D474-C229D412CE2225A5_7b02f603-9e96-af70-a99b58766601bb44.png\nCategories: University of Wyoming\, Education
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Big Astronomy
-UID:37542@visitlaramie.org
-URL:https://www.visitlaramie.org/event/big-astronomy/37542/
+DTSTART;VALUE=DATE:20250503
+DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
+GEO:41.321007;-105.590773
+LOCATION:High Iron Rail Car\, Corner of 4th and Canby Street
+SUMMARY:High Iron: Opening Hours
+UID:37984@visitlaramie.org
+URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250614
@@ -242,22 +242,13 @@ UID:31323@visitlaramie.org
 URL:https://www.visitlaramie.org/event/deerwood-ranch-open-days/31323/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250503
-DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
-GEO:41.321007;-105.590773
-LOCATION:High Iron Rail Car\, Corner of 4th and Canby Street
-SUMMARY:High Iron: Opening Hours
-UID:37984@visitlaramie.org
-URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:“On a Butterfly’s Wing: Lessons from Nature on Embracing Change" Public Talk & Book Signing\nMore info: https://www.visitlaramie.org/event/%e2%80%9con-a-butterfly%e2%80%99s-wing%3a-lessons-from-nature-on-embracing-change-public-talk-%26-book-signing/38057/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-22-103236_B85966B3-F833-7C40-651855B5F1BD41B3_b87e030d-c222-9e6b-8113c9be0ac68d7b.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-LOCATION:University of Wyoming Classroom Building
-SUMMARY:“On a Butterfly’s Wing: Lessons from Nature on Embracing Change" Public Talk & Book Signing
-UID:38057@visitlaramie.org
-URL:https://www.visitlaramie.org/event/%e2%80%9con-a-butterfly%e2%80%99s-wing%3a-lessons-from-nature-on-embracing-change-public-talk-%26-book-signing/38057/
+DTSTART;VALUE=DATE:20250614
+DESCRIPTION:Big Astronomy\nMore info: https://www.visitlaramie.org/event/big-astronomy/37542/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_7AFB539B-0FD9-D474-C229D412CE2225A5_7b02f603-9e96-af70-a99b58766601bb44.png\nCategories: University of Wyoming\, Education
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Big Astronomy
+UID:37542@visitlaramie.org
+URL:https://www.visitlaramie.org/event/big-astronomy/37542/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
@@ -330,15 +321,6 @@ UID:38065@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Pride Storytelling - Queer Futures: A Storytelling Celebration of Resilience\, Joy\, and Possibility\nMore info: https://www.visitlaramie.org/event/pride-storytelling-queer-futures%3a-a-storytelling-celebration-of-resilience-joy-and-possibility/38034/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-10-Storytelling_26D1AE5A-CA94-23F2-5FBDE9C5C892A11D_26d4f030-b369-866c-21b9efe6b9132705.jpg\nCategories: Community
-GEO:41.308353;-105.596400
-LOCATION:Historic Laramie Union Pacific Train Depot
-SUMMARY:Pride Storytelling - Queer Futures: A Storytelling Celebration of Resilience\, Joy\, and Possibility
-UID:38034@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pride-storytelling-queer-futures%3a-a-storytelling-celebration-of-resilience-joy-and-possibility/38034/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
 DESCRIPTION:Tuesday Trivia and Tacos\nMore info: https://www.visitlaramie.org/event/tuesday-trivia-and-tacos/37713/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-08-120305_E1A04E44-9C6B-747C-8123C9BA6C12C95E_e1b04b48-bdc1-8c74-381441d269948c8a.png\nCategories: Community
 GEO:41.309643;-105.594735
@@ -363,15 +345,6 @@ LOCATION:Ruffed Up Duck Saloon
 SUMMARY:Desperate Electric
 UID:38027@visitlaramie.org
 URL:https://www.visitlaramie.org/event/desperate-electric/38027/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Wyoming Skies\nMore info: https://www.visitlaramie.org/event/wyoming-skies/30971/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/jupiter-aurora_0D38F397-5056-A36F-230FB334A430DC49_0d3b207c-5056-a36f-23161bd63efb52e7.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies
-UID:30971@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies/30971/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
