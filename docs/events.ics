@@ -338,15 +338,6 @@ UID:38086@visitlaramie.org
 URL:https://www.visitlaramie.org/event/clay-k-and-the-vertebrates-%2b-calico-boys-%2b-molasses-flood/38086/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250611
-DESCRIPTION:Desperate Electric\nMore info: https://www.visitlaramie.org/event/desperate-electric/38027/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-09-110546_1C0D602F-D242-1EFD-0F30C198D09C5D5C_1c0dadd4-ddf1-87d6-1ba2de7f886dfbbc.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:Desperate Electric
-UID:38027@visitlaramie.org
-URL:https://www.visitlaramie.org/event/desperate-electric/38027/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
 DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
 GEO:41.312291;-105.595158
@@ -363,13 +354,5 @@ LOCATION:Downtown Laramie
 SUMMARY:Laramie Jubilee Days Downtown- Live Music\, Carnival\, and More!
 UID:31317@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-downtown-live-music-carnival-and-more!/31317/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250611
-DESCRIPTION:Vincent Draper and the Culls + Circles We Draw @ TGU\nMore info: https://www.visitlaramie.org/event/vincent-draper-and-the-culls-%2b-circles-we-draw-%40-tgu/38084/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/VDATC-Great-Untamed_3F035F71-DD0C-4941-B9E9BD6E0B252C2E_df341153-d3df-4720-9a6b57e6c89f21a1.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Vincent Draper and the Culls + Circles We Draw @ TGU
-UID:38084@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vincent-draper-and-the-culls-%2b-circles-we-draw-%40-tgu/38084/
 END:VEVENT
 END:VCALENDAR
