@@ -74,15 +74,6 @@ UID:38075@visitlaramie.org
 URL:https://www.visitlaramie.org/event/walk-with-a-doc/38075/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250612
-DESCRIPTION:Pride Trivia Night (all ages)\nMore info: https://www.visitlaramie.org/event/pride-trivia-night-(all-ages)/38049/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-12-Trivia_F8EE50BD-0CC8-C9FB-7ED0F5268984A3CE_f8f3e773-ce91-6497-286953b2460710e2.jpg\nCategories: Community
-GEO:41.312078;-105.585940
-LOCATION:Canterbury House
-SUMMARY:Pride Trivia Night (all ages)
-UID:38049@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pride-trivia-night-(all-ages)/38049/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250619
 DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-140934_C1B11CF5-9562-8BB9-1A485DBA84A82F1B_c1bc88e7-b2d5-9acf-d41b0e2b1ad95ae8.png\nCategories: Community
 GEO:41.310342;-105.587834
@@ -151,6 +142,24 @@ LOCATION:Nici Self Museum
 SUMMARY:44th Annual Centennial Valley Art Show
 UID:38014@visitlaramie.org
 URL:https://www.visitlaramie.org/event/44th-annual-centennial-valley-art-show/38014/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250617
+DESCRIPTION:Summer Solstice Week\nMore info: https://www.visitlaramie.org/event/summer-solstice-week/38099/\nVenue: Sunshine Coffee\nVenue Info: https://www.visitlaramie.org/listing/sunshine-coffee/1711/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-12-131831_F7D2E5E0-92DC-8F9E-E867A6F0A2D64960_fa23dae7-c59c-fcdb-01adbe067cb491db.png\nCategories: Performing Arts & Culture\, Social Events
+GEO:41.313635;-105.565418
+LOCATION:UW Visual Art Bldg.
+SUMMARY:Summer Solstice Week
+UID:38099@visitlaramie.org
+URL:https://www.visitlaramie.org/event/summer-solstice-week/38099/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250713
+DESCRIPTION:Art Fest on the Lawn\nMore info: https://www.visitlaramie.org/event/art-fest-on-the-lawn/37986/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Family Fun\, Social Events
+GEO:41.312046;-105.589071
+LOCATION:Laramie Plains Museum
+SUMMARY:Art Fest on the Lawn
+UID:37986@visitlaramie.org
+URL:https://www.visitlaramie.org/event/art-fest-on-the-lawn/37986/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250614
@@ -251,13 +260,13 @@ UID:37542@visitlaramie.org
 URL:https://www.visitlaramie.org/event/big-astronomy/37542/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250612
-DESCRIPTION:PrideFest Karaoke (21+)\nMore info: https://www.visitlaramie.org/event/pridefest-karaoke-(21%2b)/38050/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-12-Karaoke_F9343A14-BE25-ED44-87B6F28CEE7EEDBF_f96045fe-989f-77ed-51a1021303fc9859.jpg\nCategories: Community
-GEO:41.311479;-105.593276
-LOCATION:The Great Untamed
-SUMMARY:PrideFest Karaoke (21+)
-UID:38050@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pridefest-karaoke-(21%2b)/38050/
+DTSTART;VALUE=DATE:20250622
+DESCRIPTION:The Blue Devils\nMore info: https://www.visitlaramie.org/event/the-blue-devils/38097/\nVenue: War Memorial Stadium\nVenue Info: https://www.visitlaramie.org/listing/war-memorial-stadium/270/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-12-123736_F6980A32-9BF1-9CD2-DE2A122CD57BA819_f6a7d849-d600-183a-c02567b8409844c5.png\nCategories: Concerts & Live Music\, Community
+GEO:41.312460;-105.569531
+LOCATION:War Memorial Stadium
+SUMMARY:The Blue Devils
+UID:38097@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-blue-devils/38097/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250701
@@ -266,6 +275,15 @@ LOCATION:Happy Jack
 SUMMARY:Laramie Mountain Bike Series\, Race #3
 UID:3205@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%233/3205/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250613
+DESCRIPTION:Rolling Tattoo Flash Day Fundraiser\nMore info: https://www.visitlaramie.org/event/rolling-tattoo-flash-day-fundraiser/38095/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1000023690_061D7747-B30F-609E-BCB3EA6A330CF273_062a1a77-c978-1b12-1e184549256200e2.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.306732;-105.595862
+LOCATION:Rolling Tattoo
+SUMMARY:Rolling Tattoo Flash Day Fundraiser
+UID:38095@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rolling-tattoo-flash-day-fundraiser/38095/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250630
@@ -336,6 +354,15 @@ GEO:41.311479;-105.593276
 SUMMARY:Clay K and The Vertebrates + Calico Boys + Molasses Flood
 UID:38086@visitlaramie.org
 URL:https://www.visitlaramie.org/event/clay-k-and-the-vertebrates-%2b-calico-boys-%2b-molasses-flood/38086/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250614
+DESCRIPTION:Summer Solstice Week\nMore info: https://www.visitlaramie.org/event/summer-solstice-week/38098/\nVenue: Sunshine Coffee\nVenue Info: https://www.visitlaramie.org/listing/sunshine-coffee/1711/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-12-131831_F7D2E5E0-92DC-8F9E-E867A6F0A2D64960_fa23dae7-c59c-fcdb-01adbe067cb491db.png\nCategories: Performing Arts & Culture\, Social Events
+GEO:41.309002;-105.587950
+LOCATION:Sunshine Coffee
+SUMMARY:Summer Solstice Week
+UID:38098@visitlaramie.org
+URL:https://www.visitlaramie.org/event/summer-solstice-week/38098/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
