@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250613
-DESCRIPTION:Queer Prom & Art Workshop (all ages)\nMore info: https://www.visitlaramie.org/event/queer-prom-%26-art-workshop-(all-ages)/38051/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-13-Prom_F9922B20-93D8-67A0-AE2358A1AAC4068B_f99b0304-0237-86fd-6ca51c4dee0425cb.jpg\nCategories: Community
-GEO:41.312877;-105.595095
-LOCATION:The Collective
-SUMMARY:Queer Prom & Art Workshop (all ages)
-UID:38051@visitlaramie.org
-URL:https://www.visitlaramie.org/event/queer-prom-%26-art-workshop-(all-ages)/38051/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250620
 DESCRIPTION:Keeping Time\nMore info: https://www.visitlaramie.org/event/keeping-time/35133/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_9652CC65-5056-A36F-23D53C236CFB234F_9658e1f7-5056-a36f-2323d23abe759f01.jpg\nCategories: History\, University of Wyoming\, Education\, Family Fun\, Social Events
 GEO:41.313709;-105.590644
@@ -38,6 +29,15 @@ UID:38070@visitlaramie.org
 URL:https://www.visitlaramie.org/event/livin-in-laramie-bbq/38070/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250714
+DESCRIPTION:"Liquid Sky: Women Who Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/38063/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:"Liquid Sky: Women Who Rock
+UID:38063@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/38063/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250621
 DESCRIPTION:Cars and Coffee at Toyota of Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Event-Image_2914823C-A70A-118B-32BA80D9FD7E1AE7_29198826-f6a6-cbac-689dfc393670b5c5.png\nCategories: Annual Events & Festivals
 GEO:41.308934;-105.562856
@@ -56,15 +56,6 @@ UID:36349@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes/36349/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250613
-DESCRIPTION:Mars - Planetarium Show\nMore info: https://www.visitlaramie.org/event/mars-planetarium-show/36342/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_D2472073-5056-A36F-233DB5ACFE4DC5BD_d250115b-5056-a36f-230a8a7ae4758731.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Mars - Planetarium Show
-UID:36342@visitlaramie.org
-URL:https://www.visitlaramie.org/event/mars-planetarium-show/36342/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250706
 DESCRIPTION:Walk with a Doc\nMore info: https://www.visitlaramie.org/event/walk-with-a-doc/38075/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-112500_EF3910A9-DF32-7B88-7B253ACBFB25521C_ef4cadaa-ccdb-3040-e53af41ded234999.png\nCategories: Community\, Outdoor Recreation
 GEO:41.311367;-105.591101
@@ -72,6 +63,15 @@ LOCATION:Wahington Park
 SUMMARY:Walk with a Doc
 UID:38075@visitlaramie.org
 URL:https://www.visitlaramie.org/event/walk-with-a-doc/38075/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250614
+DESCRIPTION:Centennial Valley Volunteer Fire Dept. Open House & Fundraiser\nMore info: https://www.visitlaramie.org/event/centennial-valley-volunteer-fire-dept-open-house-%26-fundraiser/38100/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-13-102828_28A88FFC-D571-419C-655AD09A70079DB3_28aa1fdd-fad4-722a-ee82d86ce65749e7.png\nCategories: Community
+GEO:41.298305;-106.141677
+LOCATION:Beautiful Centennial
+SUMMARY:Centennial Valley Volunteer Fire Dept. Open House & Fundraiser
+UID:38100@visitlaramie.org
+URL:https://www.visitlaramie.org/event/centennial-valley-volunteer-fire-dept-open-house-%26-fundraiser/38100/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250619
@@ -277,13 +277,13 @@ UID:3205@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%233/3205/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250613
-DESCRIPTION:Rolling Tattoo Flash Day Fundraiser\nMore info: https://www.visitlaramie.org/event/rolling-tattoo-flash-day-fundraiser/38095/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1000023690_061D7747-B30F-609E-BCB3EA6A330CF273_062a1a77-c978-1b12-1e184549256200e2.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.306732;-105.595862
-LOCATION:Rolling Tattoo
-SUMMARY:Rolling Tattoo Flash Day Fundraiser
-UID:38095@visitlaramie.org
-URL:https://www.visitlaramie.org/event/rolling-tattoo-flash-day-fundraiser/38095/
+DTSTART;VALUE=DATE:20250714
+DESCRIPTION:Vedauwoo Youth Climbing Camp - Session 3\nMore info: https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-3/38076/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Event-7.14.2025_EF78DEF7-F0B6-0291-7320C9D4B62F8EB1_ef79d8f3-dd78-8aa2-c67b8eb8c6d506e1.png\nCategories: Community\, Outdoor Recreation\, Education
+GEO:41.292888;-105.577090
+LOCATION:Vedauwoo Recreation Area
+SUMMARY:Vedauwoo Youth Climbing Camp - Session 3
+UID:38076@visitlaramie.org
+URL:https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-3/38076/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250630
@@ -293,24 +293,6 @@ LOCATION:Vedauwoo Recreation Area
 SUMMARY:Vedauwoo Youth Climbing Camp - Session 2
 UID:38069@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-2/38069/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250613
-DESCRIPTION:"Liquid Sky: Synthwave\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/38062/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Synthwave
-UID:38062@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/38062/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250613
-DESCRIPTION:Cabaret Night: Drag\, Burlesque & Comedy (21+)\nMore info: https://www.visitlaramie.org/event/cabaret-night%3a-drag-burlesque-%26-comedy-(21%2b)/38036/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-13-Cabaret_281B116D-AD65-C446-666D2B2F4F9B6353_2820c148-f09b-0ff9-c6cd201934fa1cc6.jpg\nCategories: Community
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:Cabaret Night: Drag\, Burlesque & Comedy (21+)
-UID:38036@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cabaret-night%3a-drag-burlesque-%26-comedy-(21%2b)/38036/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250628
