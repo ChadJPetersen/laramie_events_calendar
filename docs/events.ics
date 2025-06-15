@@ -47,15 +47,6 @@ UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250614
-DESCRIPTION:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes\nMore info: https://www.visitlaramie.org/event/cosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes/36349/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_6E0A503A-5056-A36F-2360D66FE71B6EFF_6e258baf-5056-a36f-230916283c18fa76.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes
-UID:36349@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes/36349/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250706
 DESCRIPTION:Walk with a Doc\nMore info: https://www.visitlaramie.org/event/walk-with-a-doc/38075/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-112500_EF3910A9-DF32-7B88-7B253ACBFB25521C_ef4cadaa-ccdb-3040-e53af41ded234999.png\nCategories: Community\, Outdoor Recreation
 GEO:41.311367;-105.591101
@@ -63,15 +54,6 @@ LOCATION:Wahington Park
 SUMMARY:Walk with a Doc
 UID:38075@visitlaramie.org
 URL:https://www.visitlaramie.org/event/walk-with-a-doc/38075/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250614
-DESCRIPTION:Centennial Valley Volunteer Fire Dept. Open House & Fundraiser\nMore info: https://www.visitlaramie.org/event/centennial-valley-volunteer-fire-dept-open-house-%26-fundraiser/38100/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-13-102828_28A88FFC-D571-419C-655AD09A70079DB3_28aa1fdd-fad4-722a-ee82d86ce65749e7.png\nCategories: Community
-GEO:41.298305;-106.141677
-LOCATION:Beautiful Centennial
-SUMMARY:Centennial Valley Volunteer Fire Dept. Open House & Fundraiser
-UID:38100@visitlaramie.org
-URL:https://www.visitlaramie.org/event/centennial-valley-volunteer-fire-dept-open-house-%26-fundraiser/38100/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250619
@@ -83,13 +65,12 @@ UID:38068@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250531
-DESCRIPTION:Save the date: Laramie PrideFest 2025\nMore info: https://www.visitlaramie.org/event/save-the-date%3a-laramie-pridefest-2025/37799/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/476241599_18263041813261808_7909291692711822468_n_3BE3C938-C81C-52D7-EB38D7C7CEA9A36B_3bff183f-9060-1935-02e9ffb3451660f3.jpg\nCategories: Annual Events & Festivals
-GEO:41.311367;-105.591101
-LOCATION:Laramie\, WY
-SUMMARY:Save the date: Laramie PrideFest 2025
-UID:37799@visitlaramie.org
-URL:https://www.visitlaramie.org/event/save-the-date%3a-laramie-pridefest-2025/37799/
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:Tuesday Local Market in Undine Park\nMore info: https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/38002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-28-134536_EB4B4CFE-A949-B5FE-789255E8C4EF85CE_eb73da56-e716-3d45-e4f0247baea40e56.png\nCategories: Community\, Social Events
+GEO:41.305330;-105.590308
+SUMMARY:Tuesday Local Market in Undine Park
+UID:38002@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/38002/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
@@ -98,23 +79,6 @@ GEO:41.311479;-105.593276
 SUMMARY:Giant Wave + kqa + ann @ TGU
 UID:38087@visitlaramie.org
 URL:https://www.visitlaramie.org/event/giant-wave-%2b-kqa-%2b-ann-%40-tgu/38087/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250614
-DESCRIPTION:World Premier of a Dewey Gallegos Film: "DUI"\nMore info: https://www.visitlaramie.org/event/world-premier-of-a-dewey-gallegos-film%3a-dui/38080/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-133622_F3E92378-C42F-DF52-4A46E250CA608FAD_f3ec6a0c-f6dd-7da0-869734c2bf95b519.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center\, Gryphon Theatre
-SUMMARY:World Premier of a Dewey Gallegos Film: "DUI"
-UID:38080@visitlaramie.org
-URL:https://www.visitlaramie.org/event/world-premier-of-a-dewey-gallegos-film%3a-dui/38080/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250701
-DESCRIPTION:Tuesday Local Market in Undine Park\nMore info: https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/38002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-28-134536_EB4B4CFE-A949-B5FE-789255E8C4EF85CE_eb73da56-e716-3d45-e4f0247baea40e56.png\nCategories: Community\, Social Events
-GEO:41.305330;-105.590308
-SUMMARY:Tuesday Local Market in Undine Park
-UID:38002@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/38002/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250621
@@ -162,15 +126,6 @@ UID:37986@visitlaramie.org
 URL:https://www.visitlaramie.org/event/art-fest-on-the-lawn/37986/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250614
-DESCRIPTION:Pride in the Park\nMore info: https://www.visitlaramie.org/event/pride-in-the-park/38033/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Events_LPF-25-Social-06-14-Park_267324A1-D17E-087C-44AF2D9D7B8DE1B3_267fb7f4-ef28-b0c3-009f401382703010.jpg\nCategories: Community
-GEO:41.311367;-105.591101
-LOCATION:Washington Park
-SUMMARY:Pride in the Park
-UID:38033@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pride-in-the-park/38033/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -215,15 +170,6 @@ UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250614
-DESCRIPTION:Brews & Shoes 2025\nMore info: https://www.visitlaramie.org/event/brews-%26-shoes-2025/38078/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Event-06.14.2025_F2CEC7EC-B84A-752D-3567C68CA4189D19_f2d42b38-ec6c-2b6a-b97de86a57c5f416.png\nCategories: Community
-GEO:41.310017;-105.594835
-LOCATION:Dodd's Shoe Co.
-SUMMARY:Brews & Shoes 2025
-UID:38078@visitlaramie.org
-URL:https://www.visitlaramie.org/event/brews-%26-shoes-2025/38078/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250620
 DESCRIPTION:"Liquid Sky: Pop\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -240,24 +186,6 @@ LOCATION:High Iron Rail Car\, Corner of 4th and Canby Street
 SUMMARY:High Iron: Opening Hours
 UID:37984@visitlaramie.org
 URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250614
-DESCRIPTION:Deerwood Ranch Open Days\nMore info: https://www.visitlaramie.org/event/deerwood-ranch-open-days/31323/\nVenue: Deerwood Wild Horse Ecosanctuary\nVenue Info: https://www.visitlaramie.org/listing/deerwood-wild-horse-ecosanctuary/156/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_387D5AF5-5056-A36F-23CDCFE18CAF9734_38a1a01a-5056-a36f-23208b316b970b1e.png\nCategories: Annual Events & Festivals\, Community\, Education\, Family Fun\, Social Events
-GEO:41.232416;-106.086588
-LOCATION:Deerwood Wild Horse Ecosanctuary
-SUMMARY:Deerwood Ranch Open Days
-UID:31323@visitlaramie.org
-URL:https://www.visitlaramie.org/event/deerwood-ranch-open-days/31323/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250614
-DESCRIPTION:Big Astronomy\nMore info: https://www.visitlaramie.org/event/big-astronomy/37542/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_7AFB539B-0FD9-D474-C229D412CE2225A5_7b02f603-9e96-af70-a99b58766601bb44.png\nCategories: University of Wyoming\, Education
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Big Astronomy
-UID:37542@visitlaramie.org
-URL:https://www.visitlaramie.org/event/big-astronomy/37542/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250622
@@ -312,13 +240,13 @@ UID:38081@visitlaramie.org
 URL:https://www.visitlaramie.org/event/color-our-world%3a-a-day-of-art-in-the-park/38081/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Double Feature "Back to the Earth for Good" & Always Above\nMore info: https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Double Feature "Back to the Earth for Good" & Always Above
-UID:38065@visitlaramie.org
-URL:https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/
+DTSTART;VALUE=DATE:20250715
+DESCRIPTION:Laramie Mountain Bike Series\, Race #4\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%234/5072/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_23CAF50A-A95A-B4AE-2DE213942109AB71_24138c1c-0067-03b6-6bd1e9b622e32196.png\nCategories: Outdoor Recreation
+GEO:41.311367;-105.591101
+LOCATION:2025 Laramie Mountain Bike Series
+SUMMARY:Laramie Mountain Bike Series\, Race #4
+UID:5072@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%234/5072/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
@@ -338,15 +266,6 @@ UID:38086@visitlaramie.org
 URL:https://www.visitlaramie.org/event/clay-k-and-the-vertebrates-%2b-calico-boys-%2b-molasses-flood/38086/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250614
-DESCRIPTION:Summer Solstice Week\nMore info: https://www.visitlaramie.org/event/summer-solstice-week/38098/\nVenue: Sunshine Coffee\nVenue Info: https://www.visitlaramie.org/listing/sunshine-coffee/1711/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-12-131831_F7D2E5E0-92DC-8F9E-E867A6F0A2D64960_fa23dae7-c59c-fcdb-01adbe067cb491db.png\nCategories: Performing Arts & Culture\, Social Events
-GEO:41.309002;-105.587950
-LOCATION:Sunshine Coffee
-SUMMARY:Summer Solstice Week
-UID:38098@visitlaramie.org
-URL:https://www.visitlaramie.org/event/summer-solstice-week/38098/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
 DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
 GEO:41.312291;-105.595158
@@ -354,6 +273,15 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Cowboy Yarn Crawl
 UID:37770@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Double Feature "Back to the Earth for Good" & Always Above\nMore info: https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Double Feature "Back to the Earth for Good" & Always Above
+UID:38065@visitlaramie.org
+URL:https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250709
