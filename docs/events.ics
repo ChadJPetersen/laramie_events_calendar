@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250618
-DESCRIPTION:Wednesdays at the Buck\nMore info: https://www.visitlaramie.org/event/wednesdays-at-the-buck/37730/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-121519_F752246E-0CA9-6DA2-51395B3E06E4775A_f75e536d-c80f-db0d-4bf2c0cc2785d549.png\nCategories: Concerts & Live Music
-GEO:41.311952;-105.595415
-LOCATION:Buckhorn Bar & Parlor
-SUMMARY:Wednesdays at the Buck
-UID:37730@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wednesdays-at-the-buck/37730/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250620
 DESCRIPTION:Keeping Time\nMore info: https://www.visitlaramie.org/event/keeping-time/35133/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_9652CC65-5056-A36F-23D53C236CFB234F_9658e1f7-5056-a36f-2323d23abe759f01.jpg\nCategories: History\, University of Wyoming\, Education\, Family Fun\, Social Events
 GEO:41.313709;-105.590644
@@ -27,6 +18,15 @@ LOCATION:Bear Bottom Bar and Grill
 SUMMARY:Live Music: Sunday Jazz with Peter Queal and Friends
 UID:38077@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-music%3a-sunday-jazz-with-peter-queal-and-friends/38077/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250710
+DESCRIPTION:Crafty Hour - Garden Brick Books\nMore info: https://www.visitlaramie.org/event/crafty-hour-garden-brick-books/38109/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Brick-Book-Crafty-Hour-1080-x-608-px_2604E01E-B1C4-029F-8607C6531042329A_260e1a52-cca3-2cf3-ee85e9efc08d2143.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
+GEO:41.307637;-105.594934
+LOCATION:Vida Art Studio
+SUMMARY:Crafty Hour - Garden Brick Books
+UID:38109@visitlaramie.org
+URL:https://www.visitlaramie.org/event/crafty-hour-garden-brick-books/38109/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250624
@@ -63,6 +63,15 @@ LOCATION:Toyota of Laramie
 SUMMARY:Cars and Coffee at Toyota of Laramie
 UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250710
+DESCRIPTION:Wyoming Statehood Day Celebration\nMore info: https://www.visitlaramie.org/event/wyoming-statehood-day-celebration/38114/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-114443_2958BD03-D117-C4BA-2BB62E647428A077_2959d01a-a51c-351c-e264b64042c0ffbc.png\nCategories: History\, Community
+GEO:41.311613;-105.610512
+LOCATION:Wyoming Territorial Prison State Historic Site
+SUMMARY:Wyoming Statehood Day Celebration
+UID:38114@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-statehood-day-celebration/38114/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250706
@@ -106,6 +115,24 @@ GEO:41.311479;-105.593276
 SUMMARY:Giant Wave + kqa + ann @ TGU
 UID:38087@visitlaramie.org
 URL:https://www.visitlaramie.org/event/giant-wave-%2b-kqa-%2b-ann-%40-tgu/38087/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250719
+DESCRIPTION:55th Annual Huck Finn Fishing Derby\nMore info: https://www.visitlaramie.org/event/55th-annual-huck-finn-fishing-derby/30661/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-115745_A661F7A7-9173-DBFF-5B16D5CB028D3DD9_a67161af-e714-39d5-4be3a7cb2d5fc852.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
+GEO:41.303070;-105.564016
+LOCATION:Huck Finn Pond - LaPrele Park
+SUMMARY:55th Annual Huck Finn Fishing Derby
+UID:30661@visitlaramie.org
+URL:https://www.visitlaramie.org/event/55th-annual-huck-finn-fishing-derby/30661/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Spray Bottle Art\nMore info: https://www.visitlaramie.org/event/spray-bottle-art/38112/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-100405_267EDFA3-AE61-24EB-E40332C5F2C78A52_269e94d1-df71-b599-657e649b34b435a6.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Washington Park
+SUMMARY:Spray Bottle Art
+UID:38112@visitlaramie.org
+URL:https://www.visitlaramie.org/event/spray-bottle-art/38112/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250621
@@ -160,14 +187,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250618
-DESCRIPTION:Quinlan Valdez + Marlee Holdeman @ TGU\nMore info: https://www.visitlaramie.org/event/quinlan-valdez-%2b-marlee-holdeman-%40-tgu/38085/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/quinlan_A5255534-D57F-4CB2-850620F8EBE2283B_67d36e5c-1390-457a-aa18f3dcbd1be1bc.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Quinlan Valdez + Marlee Holdeman @ TGU
-UID:38085@visitlaramie.org
-URL:https://www.visitlaramie.org/event/quinlan-valdez-%2b-marlee-holdeman-%40-tgu/38085/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
@@ -250,15 +269,6 @@ UID:38108@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2025-laramie-brewfest/38108/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250618
-DESCRIPTION:Anything But Hate Open Mic Music Night\nMore info: https://www.visitlaramie.org/event/anything-but-hate-open-mic-music-night/38101/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-115727_F6E64365-063F-2779-3A38C69D657D05E0_f6e73ada-a3a6-0899-70194eedb1ea5dfd.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.312280;-105.595636
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Anything But Hate Open Mic Music Night
-UID:38101@visitlaramie.org
-URL:https://www.visitlaramie.org/event/anything-but-hate-open-mic-music-night/38101/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250630
 DESCRIPTION:Vedauwoo Youth Climbing Camp - Session 2\nMore info: https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-2/38069/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-101432_ECFFBCE1-AB61-363D-3664484265960AED_ed079720-d6e7-2718-fc7134e82b578110.png\nCategories: Community\, Outdoor Recreation\, Education
 GEO:41.292888;-105.577090
@@ -285,6 +295,15 @@ UID:38081@visitlaramie.org
 URL:https://www.visitlaramie.org/event/color-our-world%3a-a-day-of-art-in-the-park/38081/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250712
+DESCRIPTION:Brad's Big Bad Bike Show!\nMore info: https://www.visitlaramie.org/event/brads-big-bad-bike-show!/38106/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-101525_2626B451-BBB4-FFFE-B35351445BD91734_262e87f5-9505-22f8-27c85e74a1a3c680.png\nCategories: Annual Events & Festivals\, Family Fun
+GEO:41.286512;-105.592547
+LOCATION:Albany County Fairgrounds
+SUMMARY:Brad's Big Bad Bike Show!
+UID:38106@visitlaramie.org
+URL:https://www.visitlaramie.org/event/brads-big-bad-bike-show!/38106/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250715
 DESCRIPTION:Laramie Mountain Bike Series\, Race #4\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%234/5072/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_23CAF50A-A95A-B4AE-2DE213942109AB71_24138c1c-0067-03b6-6bd1e9b622e32196.png\nCategories: Outdoor Recreation
 GEO:41.311367;-105.591101
@@ -292,6 +311,14 @@ LOCATION:2025 Laramie Mountain Bike Series
 SUMMARY:Laramie Mountain Bike Series\, Race #4
 UID:5072@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%234/5072/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250719
+DESCRIPTION:Albany County CattleWomen Ranch Tour\nMore info: https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/38067/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-103649_B9FE0A65-A5B8-C1D6-DB6389F53EDA1134_ba10731a-9a90-688b-aa6e34b584c34315.png\nCategories: History\, Community\, Education
+GEO:41.311367;-105.591101
+SUMMARY:Albany County CattleWomen Ranch Tour
+UID:38067@visitlaramie.org
+URL:https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/38067/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250621
@@ -309,6 +336,15 @@ GEO:41.311479;-105.593276
 SUMMARY:Clay K and The Vertebrates + Calico Boys + Molasses Flood
 UID:38086@visitlaramie.org
 URL:https://www.visitlaramie.org/event/clay-k-and-the-vertebrates-%2b-calico-boys-%2b-molasses-flood/38086/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250620
+DESCRIPTION:Fridays at the Buck: Live Music\nMore info: https://www.visitlaramie.org/event/fridays-at-the-buck%3a-live-music/37765/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-105611_279D9BAB-C6A8-1947-2C09F81BFD8C2589_279f226e-a2f7-4121-26aeec4598229ef3.png\nCategories: Concerts & Live Music
+GEO:41.311952;-105.595415
+LOCATION:Buckhorn Bar & Parlor
+SUMMARY:Fridays at the Buck: Live Music
+UID:37765@visitlaramie.org
+URL:https://www.visitlaramie.org/event/fridays-at-the-buck%3a-live-music/37765/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
