@@ -243,6 +243,15 @@ UID:38103@visitlaramie.org
 URL:https://www.visitlaramie.org/event/braydon-zink-laramie-wy/38103/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Make-your-own Botanical Print Postcard\nMore info: https://www.visitlaramie.org/event/make-your-own-botanical-print-postcard/38115/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-19-121249_5FCCD6E3-9C80-7975-50DE81262293E546_5ff2caff-ad3a-5d21-f1f78661ba01cd14.png\nCategories: Community\, Outdoor Recreation\, Family Fun\, Craft Classes & Workshops
+GEO:41.298305;-106.141677
+LOCATION:Centennial Visitors Center
+SUMMARY:Make-your-own Botanical Print Postcard
+UID:38115@visitlaramie.org
+URL:https://www.visitlaramie.org/event/make-your-own-botanical-print-postcard/38115/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250701
 DESCRIPTION:Laramie Mountain Bike Series\, Race #3\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%233/3205/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_BF54B0C4-9971-E2A3-9F8A8A5F3130C83E_bf643b42-fe21-a907-31351101ab0702ae.png\nCategories: Outdoor Recreation
 LOCATION:Happy Jack
