@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250620
-DESCRIPTION:Keeping Time\nMore info: https://www.visitlaramie.org/event/keeping-time/35133/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_9652CC65-5056-A36F-23D53C236CFB234F_9658e1f7-5056-a36f-2323d23abe759f01.jpg\nCategories: History\, University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Keeping Time
-UID:35133@visitlaramie.org
-URL:https://www.visitlaramie.org/event/keeping-time/35133/
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Coffee & Conversations\nMore info: https://www.visitlaramie.org/event/coffee-%26-conversations/38116/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-20-115604_90DEC467-9AA4-90C9-D8309CB1F2052A4B_91ba24e0-0424-e00c-34e9a0f685875c4a.png\nCategories: Community
+GEO:41.312280;-105.595636
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Coffee & Conversations
+UID:38116@visitlaramie.org
+URL:https://www.visitlaramie.org/event/coffee-%26-conversations/38116/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250706
@@ -207,15 +207,6 @@ UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250620
-DESCRIPTION:"Liquid Sky: Pop\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Pop
-UID:31122@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/31122/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
 DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
 GEO:41.321007;-105.590773
@@ -232,15 +223,6 @@ LOCATION:War Memorial Stadium
 SUMMARY:The Blue Devils
 UID:38097@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-blue-devils/38097/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250620
-DESCRIPTION:Braydon Zink - Laramie\, WY\nMore info: https://www.visitlaramie.org/event/braydon-zink-laramie-wy/38103/\nVenue: WyColo Lodge\nVenue Info: https://www.visitlaramie.org/listing/wycolo-lodge/339/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-124947_F8674230-EDCD-EAD6-A3F5A028E86A3481_f87c7307-01fc-708f-7b482669b46b78a7.png\nCategories: Performing Arts & Culture
-GEO:41.103832;-106.070214
-LOCATION:WyColo Lodge
-SUMMARY:Braydon Zink - Laramie\, WY
-UID:38103@visitlaramie.org
-URL:https://www.visitlaramie.org/event/braydon-zink-laramie-wy/38103/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250621
@@ -304,6 +286,24 @@ UID:38081@visitlaramie.org
 URL:https://www.visitlaramie.org/event/color-our-world%3a-a-day-of-art-in-the-park/38081/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250721
+DESCRIPTION:Creators Camp\nMore info: https://www.visitlaramie.org/event/creators-camp/38074/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-110725_EEEFA178-0D01-B560-CC0DA3EFBCA1ACD7_ef1f1bb7-e1ab-9f12-a9745a6dcdc6b90d.png\nCategories: Community
+GEO:41.307087;-105.544293
+LOCATION:Ninja Warrior Gym
+SUMMARY:Creators Camp
+UID:38074@visitlaramie.org
+URL:https://www.visitlaramie.org/event/creators-camp/38074/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Double Feature "Back to the Earth for Good" & Always Above\nMore info: https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Double Feature "Back to the Earth for Good" & Always Above
+UID:38065@visitlaramie.org
+URL:https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
 DESCRIPTION:Brad's Big Bad Bike Show!\nMore info: https://www.visitlaramie.org/event/brads-big-bad-bike-show!/38106/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-101525_2626B451-BBB4-FFFE-B35351445BD91734_262e87f5-9505-22f8-27c85e74a1a3c680.png\nCategories: Annual Events & Festivals\, Family Fun
 GEO:41.286512;-105.592547
@@ -347,24 +347,6 @@ UID:38086@visitlaramie.org
 URL:https://www.visitlaramie.org/event/clay-k-and-the-vertebrates-%2b-calico-boys-%2b-molasses-flood/38086/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250620
-DESCRIPTION:Fridays at the Buck: Live Music\nMore info: https://www.visitlaramie.org/event/fridays-at-the-buck%3a-live-music/37765/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-105611_279D9BAB-C6A8-1947-2C09F81BFD8C2589_279f226e-a2f7-4121-26aeec4598229ef3.png\nCategories: Concerts & Live Music
-GEO:41.311952;-105.595415
-LOCATION:Buckhorn Bar & Parlor
-SUMMARY:Fridays at the Buck: Live Music
-UID:37765@visitlaramie.org
-URL:https://www.visitlaramie.org/event/fridays-at-the-buck%3a-live-music/37765/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250524
-DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Cowboy Yarn Crawl
-UID:37770@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
 DESCRIPTION:Women's Sufferage presentation by Kylie McKormick\, a Slice of History\nMore info: https://www.visitlaramie.org/event/womens-sufferage-presentation-by-kylie-mckormick-a-slice-of-history/38104/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-131412_F912CE69-E35F-920E-09B5D06777F99D4C_f9155593-c970-de14-7dba8a84ab4d4ec1.png\nCategories: History\, Community\, Performing Arts & Culture\, Education
 GEO:41.310393;-105.594817
@@ -374,13 +356,13 @@ UID:38104@visitlaramie.org
 URL:https://www.visitlaramie.org/event/womens-sufferage-presentation-by-kylie-mckormick-a-slice-of-history/38104/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Double Feature "Back to the Earth for Good" & Always Above\nMore info: https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Double Feature "Back to the Earth for Good" & Always Above
-UID:38065@visitlaramie.org
-URL:https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/
+DTSTART;VALUE=DATE:20250524
+DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Cowboy Yarn Crawl
+UID:37770@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250709
