@@ -135,13 +135,12 @@ UID:38112@visitlaramie.org
 URL:https://www.visitlaramie.org/event/spray-bottle-art/38112/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Where the heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/37785/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-02-06-101604_9C0DB903-9659-8477-789DF018C9E5C3B8_9c71c666-0308-9105-ebd75e16a947564e.png\nCategories: Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Where the heck is Yucca Fountain?
-UID:37785@visitlaramie.org
-URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/37785/
+DTSTART;VALUE=DATE:20250722
+DESCRIPTION:Laramie Mountain Bike Series\, Race #5\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%235/38073/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_BF54B0C4-9971-E2A3-9F8A8A5F3130C83E_bf643b42-fe21-a907-31351101ab0702ae.png\nCategories: Outdoor Recreation
+LOCATION:Happy Jack
+SUMMARY:Laramie Mountain Bike Series\, Race #5
+UID:38073@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%235/38073/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250623
@@ -225,15 +224,6 @@ UID:38097@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-blue-devils/38097/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Make-your-own Botanical Print Postcard\nMore info: https://www.visitlaramie.org/event/make-your-own-botanical-print-postcard/38115/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-19-121249_5FCCD6E3-9C80-7975-50DE81262293E546_5ff2caff-ad3a-5d21-f1f78661ba01cd14.png\nCategories: Community\, Outdoor Recreation\, Family Fun\, Craft Classes & Workshops
-GEO:41.298305;-106.141677
-LOCATION:Centennial Visitors Center
-SUMMARY:Make-your-own Botanical Print Postcard
-UID:38115@visitlaramie.org
-URL:https://www.visitlaramie.org/event/make-your-own-botanical-print-postcard/38115/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250701
 DESCRIPTION:Laramie Mountain Bike Series\, Race #3\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%233/3205/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_BF54B0C4-9971-E2A3-9F8A8A5F3130C83E_bf643b42-fe21-a907-31351101ab0702ae.png\nCategories: Outdoor Recreation
 LOCATION:Happy Jack
@@ -295,15 +285,6 @@ UID:38074@visitlaramie.org
 URL:https://www.visitlaramie.org/event/creators-camp/38074/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Double Feature "Back to the Earth for Good" & Always Above\nMore info: https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Double Feature "Back to the Earth for Good" & Always Above
-UID:38065@visitlaramie.org
-URL:https://www.visitlaramie.org/event/double-feature-back-to-the-earth-for-good-%26-always-above/38065/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
 DESCRIPTION:Brad's Big Bad Bike Show!\nMore info: https://www.visitlaramie.org/event/brads-big-bad-bike-show!/38106/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-101525_2626B451-BBB4-FFFE-B35351445BD91734_262e87f5-9505-22f8-27c85e74a1a3c680.png\nCategories: Annual Events & Festivals\, Family Fun
 GEO:41.286512;-105.592547
@@ -328,23 +309,6 @@ GEO:41.311367;-105.591101
 SUMMARY:Albany County CattleWomen Ranch Tour
 UID:38067@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/38067/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Aquatic Bug Day\nMore info: https://www.visitlaramie.org/event/aquatic-bug-day/37213/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_AE2DFBF5-ACFA-FD3D-EE68B6A34129858B_ae34b143-d3e8-df66-bf2afe0630cbbc54.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:38.597626;-80.454903
-LOCATION:LaPrele Park
-SUMMARY:Aquatic Bug Day
-UID:37213@visitlaramie.org
-URL:https://www.visitlaramie.org/event/aquatic-bug-day/37213/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Clay K and The Vertebrates + Calico Boys + Molasses Flood\nMore info: https://www.visitlaramie.org/event/clay-k-and-the-vertebrates-%2b-calico-boys-%2b-molasses-flood/38086/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Clay-K_3B10B8E3-D866-45DF-BE64897885B7A28F_336a9d44-0e68-49b6-990a731bc33f60b6.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Clay K and The Vertebrates + Calico Boys + Molasses Flood
-UID:38086@visitlaramie.org
-URL:https://www.visitlaramie.org/event/clay-k-and-the-vertebrates-%2b-calico-boys-%2b-molasses-flood/38086/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
