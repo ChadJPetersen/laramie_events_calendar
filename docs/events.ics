@@ -92,6 +92,15 @@ UID:38107@visitlaramie.org
 URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/38107/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:Bond's Run Club 2025\nMore info: https://www.visitlaramie.org/event/bonds-run-club-2025/38094/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-123934_C20BFBFA-CE2F-8322-29BDBF1E176BFAD3_c20d3352-ab4c-f0f6-91f46fc17b2ba03a.png\nCategories: Community\, Outdoor Recreation
+GEO:41.309643;-105.594735
+LOCATION:Bond's Brewing Company
+SUMMARY:Bond's Run Club 2025
+UID:38094@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bonds-run-club-2025/38094/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250619
 DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-140934_C1B11CF5-9562-8BB9-1A485DBA84A82F1B_c1bc88e7-b2d5-9acf-d41b0e2b1ad95ae8.png\nCategories: Community
 GEO:41.310342;-105.587834
@@ -206,6 +215,14 @@ UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
+GEO:41.325969;-105.592220
+SUMMARY:Vinyasa Flow at Laramie Fitness
+UID:38071@visitlaramie.org
+URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
 DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
 GEO:41.321007;-105.590773
@@ -213,15 +230,6 @@ LOCATION:High Iron Rail Car\, Corner of 4th and Canby Street
 SUMMARY:High Iron: Opening Hours
 UID:37984@visitlaramie.org
 URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250622
-DESCRIPTION:The Blue Devils\nMore info: https://www.visitlaramie.org/event/the-blue-devils/38097/\nVenue: War Memorial Stadium\nVenue Info: https://www.visitlaramie.org/listing/war-memorial-stadium/270/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-12-123736_F6980A32-9BF1-9CD2-DE2A122CD57BA819_f6a7d849-d600-183a-c02567b8409844c5.png\nCategories: Concerts & Live Music\, Community
-GEO:41.312460;-105.569531
-LOCATION:War Memorial Stadium
-SUMMARY:The Blue Devils
-UID:38097@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-blue-devils/38097/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250701
