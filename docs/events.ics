@@ -152,13 +152,13 @@ UID:38073@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%235/38073/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250623
-DESCRIPTION:Coed Mountain Bike Cornering Clinic\nMore info: https://www.visitlaramie.org/event/coed-mountain-bike-cornering-clinic/38105/\nVenue: Laramie Community Recreation Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-community-recreation-center/66/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-134303_FA142253-E06E-854F-329B80A67E5D289F_fa17abe1-a4f9-5952-3715c2c2ea170d82.png\nCategories: Community\, Outdoor Recreation\, Sports\, Craft Classes & Workshops
-GEO:41.304734;-105.549039
-LOCATION:Laramie Community Recreation Center
-SUMMARY:Coed Mountain Bike Cornering Clinic
-UID:38105@visitlaramie.org
-URL:https://www.visitlaramie.org/event/coed-mountain-bike-cornering-clinic/38105/
+DTSTART;VALUE=DATE:20250705
+DESCRIPTION:Bryan Bielanski Live @ The Great Untamed\nMore info: https://www.visitlaramie.org/event/bryan-bielanski-live-%40-the-great-untamed/38040/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-16-114542_85DE40FF-AB96-E4F6-591CB993ECBE1FC6_85e24b09-9277-b465-8805b60a6d72961a.png\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+LOCATION:The Great Untamed
+SUMMARY:Bryan Bielanski Live @ The Great Untamed
+UID:38040@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bryan-bielanski-live-%40-the-great-untamed/38040/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250704
@@ -168,15 +168,6 @@ LOCATION:Nici Self Museum
 SUMMARY:44th Annual Centennial Valley Art Show
 UID:38014@visitlaramie.org
 URL:https://www.visitlaramie.org/event/44th-annual-centennial-valley-art-show/38014/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250705
-DESCRIPTION:Bryan Bielanski Live @ The Great Untamed\nMore info: https://www.visitlaramie.org/event/bryan-bielanski-live-%40-the-great-untamed/38040/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-16-114542_85DE40FF-AB96-E4F6-591CB993ECBE1FC6_85e24b09-9277-b465-8805b60a6d72961a.png\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-LOCATION:The Great Untamed
-SUMMARY:Bryan Bielanski Live @ The Great Untamed
-UID:38040@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bryan-bielanski-live-%40-the-great-untamed/38040/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250713
@@ -213,6 +204,15 @@ LOCATION:Night Heron Books & Coffeehouse
 SUMMARY:Open Mic Poetry at Night Heron
 UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:Crafty Hour - Carboard Loom Weaving\nMore info: https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Loom-weaving_261F5333-0E7A-CD2B-0F40533F6A530764_26238067-fa14-6d84-57bdd34ab0e1e11a.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
+GEO:41.307637;-105.594934
+LOCATION:Vida Art Studio
+SUMMARY:Crafty Hour - Carboard Loom Weaving
+UID:38110@visitlaramie.org
+URL:https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
