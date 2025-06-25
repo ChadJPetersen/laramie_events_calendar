@@ -29,15 +29,6 @@ UID:38109@visitlaramie.org
 URL:https://www.visitlaramie.org/event/crafty-hour-garden-brick-books/38109/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250624
-DESCRIPTION:Tea on Tuesday\nMore info: https://www.visitlaramie.org/event/tea-on-tuesday/38102/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-123330_F79CD049-056F-6465-2908868ACD6256B7_f7d5e142-95d9-21b0-3b03636f7cc0d50f.png\nCategories: Annual Events & Festivals\, Social Events
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Tea on Tuesday
-UID:38102@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tea-on-tuesday/38102/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250718
 DESCRIPTION:Sad Cowboy Summer Tour: Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/sad-cowboy-summer-tour%3a-ruffed-up-duck/37899/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-111241_A679BA7E-026E-7CB4-A771DCD056776C1A_a68c995b-07a9-fe2a-3d1f220f959a4bd7.png\nCategories: Concerts & Live Music
 GEO:41.310483;-105.591301
@@ -45,6 +36,15 @@ LOCATION:Ruffed Up Duck Saloon
 SUMMARY:Sad Cowboy Summer Tour: Ruffed Up Duck
 UID:37899@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sad-cowboy-summer-tour%3a-ruffed-up-duck/37899/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250624
+DESCRIPTION:Tea on Tuesday\nMore info: https://www.visitlaramie.org/event/tea-on-tuesday/38102/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-123330_F79CD049-056F-6465-2908868ACD6256B7_f7d5e142-95d9-21b0-3b03636f7cc0d50f.png\nCategories: Annual Events & Festivals\, Social Events
+GEO:41.312068;-105.589055
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Tea on Tuesday
+UID:38102@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tea-on-tuesday/38102/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250714
@@ -72,6 +72,15 @@ LOCATION:Wyoming Territorial Prison State Historic Site
 SUMMARY:Wyoming Statehood Day Celebration
 UID:38114@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-statehood-day-celebration/38114/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+DESCRIPTION:BanjerDan @ The Ruffed Up Duck Saloon\nMore info: https://www.visitlaramie.org/event/banjerdan-%40-the-ruffed-up-duck-saloon/37878/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-112503_A5377EC9-DD10-C955-683227386E02100F_a54a7687-9e3c-d172-e492bac074dac791.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:BanjerDan @ The Ruffed Up Duck Saloon
+UID:37878@visitlaramie.org
+URL:https://www.visitlaramie.org/event/banjerdan-%40-the-ruffed-up-duck-saloon/37878/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250706
@@ -188,13 +197,13 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250325
-DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
-GEO:41.312330;-105.593102
-LOCATION:St Matthew's Cathedral
-SUMMARY:Yoga at the Cathedral
-UID:37705@visitlaramie.org
-URL:https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:Crafty Hour - Carboard Loom Weaving\nMore info: https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Loom-weaving_261F5333-0E7A-CD2B-0F40533F6A530764_26238067-fa14-6d84-57bdd34ab0e1e11a.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
+GEO:41.307637;-105.594934
+LOCATION:Vida Art Studio
+SUMMARY:Crafty Hour - Carboard Loom Weaving
+UID:38110@visitlaramie.org
+URL:https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250129
@@ -204,15 +213,6 @@ LOCATION:Night Heron Books & Coffeehouse
 SUMMARY:Open Mic Poetry at Night Heron
 UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-DESCRIPTION:Crafty Hour - Carboard Loom Weaving\nMore info: https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Loom-weaving_261F5333-0E7A-CD2B-0F40533F6A530764_26238067-fa14-6d84-57bdd34ab0e1e11a.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
-GEO:41.307637;-105.594934
-LOCATION:Vida Art Studio
-SUMMARY:Crafty Hour - Carboard Loom Weaving
-UID:38110@visitlaramie.org
-URL:https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
@@ -275,13 +275,13 @@ UID:38088@visitlaramie.org
 URL:https://www.visitlaramie.org/event/grateful-dead-night-w-gem-city-drifters-%40-tgu/38088/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250624
-DESCRIPTION:Color Our World: A Day of Art in the Park\nMore info: https://www.visitlaramie.org/event/color-our-world%3a-a-day-of-art-in-the-park/38081/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-134202_F4434CDA-FD85-A445-8C6214494B2B29C4_f454247e-c713-4288-5744808440edf9f0.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Washington Park\, Shelter #1
-SUMMARY:Color Our World: A Day of Art in the Park
-UID:38081@visitlaramie.org
-URL:https://www.visitlaramie.org/event/color-our-world%3a-a-day-of-art-in-the-park/38081/
+DTSTART;VALUE=DATE:20250725
+DESCRIPTION:Men Next Door Uncovered\, A Girl's Night Out\nMore info: https://www.visitlaramie.org/event/men-next-door-uncovered-a-girls-night-out/38113/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-103207_26D4DE17-C729-1491-990DC6743D879CED_274a8188-0751-d65d-3ea9e344a215c6fd.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Men Next Door Uncovered\, A Girl's Night Out
+UID:38113@visitlaramie.org
+URL:https://www.visitlaramie.org/event/men-next-door-uncovered-a-girls-night-out/38113/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250721
