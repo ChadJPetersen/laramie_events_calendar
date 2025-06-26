@@ -56,6 +56,15 @@ UID:38063@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/38063/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250629
+DESCRIPTION:Summer Croquis - Life Figure Drawing\nMore info: https://www.visitlaramie.org/event/summer-croquis-life-figure-drawing/38121/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/06.29.25-Event_94EFD9D5-0CF0-A8A0-EBAEB313062D92C5_954a1ec6-d6b1-7778-14e6c5eed81f47ab.jpg\nCategories: Community\, University of Wyoming\, Craft Classes & Workshops
+GEO:41.313464;-105.564486
+LOCATION:University of Wyoming\, Visual Arts Bldg.
+SUMMARY:Summer Croquis - Life Figure Drawing
+UID:38121@visitlaramie.org
+URL:https://www.visitlaramie.org/event/summer-croquis-life-figure-drawing/38121/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250621
 DESCRIPTION:Cars and Coffee at Toyota of Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Event-Image_2914823C-A70A-118B-32BA80D9FD7E1AE7_29198826-f6a6-cbac-689dfc393670b5c5.png\nCategories: Annual Events & Festivals
 GEO:41.308934;-105.562856
@@ -127,14 +136,6 @@ UID:38002@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/38002/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250625
-DESCRIPTION:Giant Wave + kqa + ann @ TGU\nMore info: https://www.visitlaramie.org/event/giant-wave-%2b-kqa-%2b-ann-%40-tgu/38087/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/kqa-ann-June-25_328E1231-26FD-499F-8F5202C2C9D1DBEE_4d6e6166-914f-45f9-b4196ee0389fa546.png\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Giant Wave + kqa + ann @ TGU
-UID:38087@visitlaramie.org
-URL:https://www.visitlaramie.org/event/giant-wave-%2b-kqa-%2b-ann-%40-tgu/38087/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
 DESCRIPTION:55th Annual Huck Finn Fishing Derby\nMore info: https://www.visitlaramie.org/event/55th-annual-huck-finn-fishing-derby/30661/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-115745_A661F7A7-9173-DBFF-5B16D5CB028D3DD9_a67161af-e714-39d5-4be3a7cb2d5fc852.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
 GEO:41.303070;-105.564016
@@ -188,6 +189,14 @@ UID:37986@visitlaramie.org
 URL:https://www.visitlaramie.org/event/art-fest-on-the-lawn/37986/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:Eagle's Clasic Benefit Car and Bike Show\nMore info: https://www.visitlaramie.org/event/eagles-clasic-benefit-car-and-bike-show/37895/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-101708_A46ED95F-B743-1040-730285BAFC1BBEE2_a48b4a22-953a-7580-fef2ad1d7b80d1fb.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.324869;-105.593743
+SUMMARY:Eagle's Clasic Benefit Car and Bike Show
+UID:37895@visitlaramie.org
+URL:https://www.visitlaramie.org/event/eagles-clasic-benefit-car-and-bike-show/37895/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -197,6 +206,15 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250717
+DESCRIPTION:CGS Centennial Speaker Series: Bridging Global Gaps\nMore info: https://www.visitlaramie.org/event/cgs-centennial-speaker-series%3a-bridging-global-gaps/38117/\nVenue: Centennial Library\nVenue Info: https://www.visitlaramie.org/listing/centennial-library/1797/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Centennial-July-2025---17x11_99560E4D-FE36-6076-4649C34AC604CB1C_995f0139-0d52-3464-1784a2e9099ceedb.png\nCategories: Community\, Education
+GEO:41.298808;-106.141485
+LOCATION:Centennial Library
+SUMMARY:CGS Centennial Speaker Series: Bridging Global Gaps
+UID:38117@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cgs-centennial-speaker-series%3a-bridging-global-gaps/38117/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250724
 DESCRIPTION:Crafty Hour - Carboard Loom Weaving\nMore info: https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Loom-weaving_261F5333-0E7A-CD2B-0F40533F6A530764_26238067-fa14-6d84-57bdd34ab0e1e11a.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
 GEO:41.307637;-105.594934
@@ -204,15 +222,6 @@ LOCATION:Vida Art Studio
 SUMMARY:Crafty Hour - Carboard Loom Weaving
 UID:38110@visitlaramie.org
 URL:https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250129
-DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
-GEO:41.312265;-105.595644
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Open Mic Poetry at Night Heron
-UID:34904@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
@@ -249,6 +258,15 @@ UID:38076@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-3/38076/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:Laramie Range Epic\nMore info: https://www.visitlaramie.org/event/laramie-range-epic/37781/\nVenue: Happy Jack Recreational Area\nVenue Info: https://www.visitlaramie.org/listing/happy-jack-recreational-area/172/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/enduro-2025-yellow-circles-01_73F640CE-F4A3-AB1B-6B697117A20BD10D_73f7a853-a109-cf23-cccd3df095807c50.png\nCategories: Outdoor Recreation
+GEO:41.311776;-105.595892
+LOCATION:207 South 1st Street
+SUMMARY:Laramie Range Epic
+UID:37781@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-range-epic/37781/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
 DESCRIPTION:2025 Laramie Brewfest\nMore info: https://www.visitlaramie.org/event/2025-laramie-brewfest/38108/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Brewfestlogo_00EA527C-0BD7-BB88-F80448075CA7337E_00fee099-c260-0871-764c2dc738669470.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Social Events
 GEO:41.309651;-105.596016
@@ -267,6 +285,15 @@ UID:38069@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-2/38069/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250625
+DESCRIPTION:Wyoming Book Crawl-Laramie Edition\nMore info: https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-25-122615_938692E2-A1C7-D94A-FACD53550C706A70_9421da4c-a5ba-3f99-2ae6a70d44ba9866.png\nCategories: Community
+GEO:41.311367;-105.591101
+LOCATION:Downtown Laramie
+SUMMARY:Wyoming Book Crawl-Laramie Edition
+UID:38120@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250628
 DESCRIPTION:Grateful Dead Night w/ Gem City Drifters @ TGU\nMore info: https://www.visitlaramie.org/event/grateful-dead-night-w-gem-city-drifters-%40-tgu/38088/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/molasses-flood_43E0E080-1E3F-4F8A-8AF4606DCBD2BF1E_18aba8ee-f86b-4f9a-bacc06bcf404039a.jpg\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -282,6 +309,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Men Next Door Uncovered\, A Girl's Night Out
 UID:38113@visitlaramie.org
 URL:https://www.visitlaramie.org/event/men-next-door-uncovered-a-girls-night-out/38113/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:Albany County Fair Smokin' BBQ Cook-Off\nMore info: https://www.visitlaramie.org/event/albany-county-fair-smokin-bbq-cook-off/37169/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.26.2025-BBQ_BFD6E01F-F357-02CC-07E7AC68B802A658_bfd8cd86-05d1-3a3c-67839e19da1e63a6.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Family Fun\, Social Events
+GEO:41.283460;-105.592917
+LOCATION:Albany County Fairgrounds
+SUMMARY:Albany County Fair Smokin' BBQ Cook-Off
+UID:37169@visitlaramie.org
+URL:https://www.visitlaramie.org/event/albany-county-fair-smokin-bbq-cook-off/37169/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250721
@@ -317,15 +353,6 @@ GEO:41.311367;-105.591101
 SUMMARY:Albany County CattleWomen Ranch Tour
 UID:38067@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/38067/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250625
-DESCRIPTION:Women's Sufferage presentation by Kylie McKormick\, a Slice of History\nMore info: https://www.visitlaramie.org/event/womens-sufferage-presentation-by-kylie-mckormick-a-slice-of-history/38104/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-131412_F912CE69-E35F-920E-09B5D06777F99D4C_f9155593-c970-de14-7dba8a84ab4d4ec1.png\nCategories: History\, Community\, Performing Arts & Culture\, Education
-GEO:41.310393;-105.594817
-LOCATION:Wyoming Women's History House
-SUMMARY:Women's Sufferage presentation by Kylie McKormick\, a Slice of History
-UID:38104@visitlaramie.org
-URL:https://www.visitlaramie.org/event/womens-sufferage-presentation-by-kylie-mckormick-a-slice-of-history/38104/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
