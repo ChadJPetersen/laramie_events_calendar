@@ -286,6 +286,15 @@ UID:38110@visitlaramie.org
 URL:https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250325
+DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
+GEO:41.312330;-105.593102
+LOCATION:St Matthew's Cathedral
+SUMMARY:Yoga at the Cathedral
+UID:37705@visitlaramie.org
+URL:https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
 DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
 GEO:41.325969;-105.592220
@@ -372,14 +381,6 @@ LOCATION:Downtown Laramie
 SUMMARY:Wyoming Book Crawl-Laramie Edition
 UID:38120@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250628
-DESCRIPTION:Grateful Dead Night w/ Gem City Drifters @ TGU\nMore info: https://www.visitlaramie.org/event/grateful-dead-night-w-gem-city-drifters-%40-tgu/38088/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/molasses-flood_43E0E080-1E3F-4F8A-8AF4606DCBD2BF1E_18aba8ee-f86b-4f9a-bacc06bcf404039a.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Grateful Dead Night w/ Gem City Drifters @ TGU
-UID:38088@visitlaramie.org
-URL:https://www.visitlaramie.org/event/grateful-dead-night-w-gem-city-drifters-%40-tgu/38088/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250722
