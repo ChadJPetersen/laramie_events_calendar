@@ -303,6 +303,15 @@ UID:38071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250129
+DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
+GEO:41.312265;-105.595644
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Open Mic Poetry at Night Heron
+UID:34904@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
 DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
 GEO:41.321007;-105.590773
