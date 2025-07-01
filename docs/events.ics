@@ -65,13 +65,13 @@ UID:38102@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tea-on-tuesday/38102/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250726
-DESCRIPTION:"Liquid Sky: Taylor Swift\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/38063/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Taylor Swift
-UID:38063@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/38063/
+DTSTART;VALUE=DATE:20250718
+DESCRIPTION:Greenhill Cemetery Walking Tour\nMore info: https://www.visitlaramie.org/event/greenhill-cemetery-walking-tour/38128/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8953_3A548F9A-F1EA-EC18-2CC6ADF17F732946_3a60bc5f-9c7f-07c8-e4f0af0bcce8cbb6.jpg\nCategories: History
+GEO:41.315518;-105.576995
+LOCATION:Greenhill Cemetery\, 455 N. 15th St. Laramie  (add it to your venue list\, it's an annual event)
+SUMMARY:Greenhill Cemetery Walking Tour
+UID:38128@visitlaramie.org
+URL:https://www.visitlaramie.org/event/greenhill-cemetery-walking-tour/38128/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250629
@@ -90,6 +90,15 @@ LOCATION:Toyota of Laramie
 SUMMARY:Cars and Coffee at Toyota of Laramie
 UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:"Liquid Sky: Taylor Swift\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/38063/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:"Liquid Sky: Taylor Swift
+UID:38063@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/38063/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250710
@@ -321,6 +330,15 @@ UID:37984@visitlaramie.org
 URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250704
+DESCRIPTION:Laramie Municipal Band Fourth of July\nMore info: https://www.visitlaramie.org/event/laramie-municipal-band-fourth-of-july/38129/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/bandshell_5270286D-5056-A36F-23AA592DD5E12317_527c8fa5-5056-a36f-236efe8518337c04.jpg\nCategories: Concerts & Live Music\, Community\, University of Wyoming\, Performing Arts & Culture
+GEO:41.306193;-105.573609
+LOCATION:Washington Park Bandshell
+SUMMARY:Laramie Municipal Band Fourth of July
+UID:38129@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-municipal-band-fourth-of-july/38129/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
 DESCRIPTION:The Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/the-great-solar-system-adventure/38122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.12.25-Planetarium-Event_F8D271BE-975A-33CD-034A5E04FF10AE6E_f8d8d661-b1b6-f97e-0e8864a7049f6d55.png\nCategories: Community\, University of Wyoming
 GEO:41.313697;-105.590676
@@ -461,6 +479,15 @@ GEO:41.311367;-105.591101
 SUMMARY:Albany County CattleWomen Ranch Tour
 UID:38067@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/38067/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250704
+DESCRIPTION:Freedom has a Birthday!\nMore info: https://www.visitlaramie.org/event/freedom-has-a-birthday!/32764/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-30-135507_98082CAC-EB0F-9DAA-115313EEC1B858F5_98153ed3-a0ec-7fbc-f2119cace354970d.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.306773;-105.572519
+LOCATION:Washington Park
+SUMMARY:Freedom has a Birthday!
+UID:32764@visitlaramie.org
+URL:https://www.visitlaramie.org/event/freedom-has-a-birthday!/32764/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
