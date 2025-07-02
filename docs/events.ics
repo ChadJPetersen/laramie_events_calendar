@@ -216,6 +216,14 @@ UID:38073@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%235/38073/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250709
+DESCRIPTION:Laramie Jubilee Days Carnival\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/38131/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.09.25-Event_C8D1476E-C979-8F9E-35D528EA91A719AD_c8d2a084-cfc6-4dfa-adf05f7d0711b67c.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.308014;-105.596354
+SUMMARY:Laramie Jubilee Days Carnival
+UID:38131@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/38131/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250705
 DESCRIPTION:Bryan Bielanski Live @ The Great Untamed\nMore info: https://www.visitlaramie.org/event/bryan-bielanski-live-%40-the-great-untamed/38040/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-16-114542_85DE40FF-AB96-E4F6-591CB993ECBE1FC6_85e24b09-9277-b465-8805b60a6d72961a.png\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -251,13 +259,11 @@ UID:37895@visitlaramie.org
 URL:https://www.visitlaramie.org/event/eagles-clasic-benefit-car-and-bike-show/37895/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+DTSTART;VALUE=DATE:20250801
+DESCRIPTION:Wild West Relay - 200 Mile Team Running Relay Race\nMore info: https://www.visitlaramie.org/event/wild-west-relay-200-mile-team-running-relay-race/37661/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wildwest2_B7216DF3-0561-B9C7-9CDF0DDB307069C2_b72976db-c292-2a82-2e62bb327ba35236.jpg\nCategories: Sports
+SUMMARY:Wild West Relay - 200 Mile Team Running Relay Race
+UID:37661@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wild-west-relay-200-mile-team-running-relay-race/37661/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
@@ -266,6 +272,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Dark Biosphere
 UID:38124@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dark-biosphere/38124/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250717
@@ -346,14 +361,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:The Great Solar System Adventure
 UID:38122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-great-solar-system-adventure/38122/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250701
-DESCRIPTION:Laramie Mountain Bike Series\, Race #3\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%233/3205/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_BF54B0C4-9971-E2A3-9F8A8A5F3130C83E_bf643b42-fe21-a907-31351101ab0702ae.png\nCategories: Outdoor Recreation
-LOCATION:Happy Jack
-SUMMARY:Laramie Mountain Bike Series\, Race #3
-UID:3205@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%233/3205/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250714
@@ -533,6 +540,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Wyoming Skies- Saturn's Return + Losing the Dark
 UID:30971@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies-saturns-return-%2b-losing-the-dark/30971/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250710
+DESCRIPTION:Jalapeno Eating Contest\nMore info: https://www.visitlaramie.org/event/jalapeno-eating-contest/38130/\nCategories: Annual Events & Festivals\, Community
+GEO:41.311367;-105.591101
+SUMMARY:Jalapeno Eating Contest
+UID:38130@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jalapeno-eating-contest/38130/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
