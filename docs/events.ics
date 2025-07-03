@@ -29,6 +29,15 @@ UID:31128@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250719
+DESCRIPTION:Bitter Inc + Yegarma + Every Time We Hang Out We Start A Band + Tinderdust @ TGU\nMore info: https://www.visitlaramie.org/event/bitter-inc-%2b-yegarma-%2b-every-time-we-hang-out-we-start-a-band-%2b-tinderdust-%40-tgu/38135/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/bitter-inc_704A64F0-8978-46C9-8A763B51484C9056_2eb3a2d4-ed19-43f5-8b889482a6e93f78.jpg\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+LOCATION:The Great Untamed
+SUMMARY:Bitter Inc + Yegarma + Every Time We Hang Out We Start A Band + Tinderdust @ TGU
+UID:38135@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bitter-inc-%2b-yegarma-%2b-every-time-we-hang-out-we-start-a-band-%2b-tinderdust-%40-tgu/38135/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250710
 DESCRIPTION:Crafty Hour - Garden Brick Books\nMore info: https://www.visitlaramie.org/event/crafty-hour-garden-brick-books/38109/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Brick-Book-Crafty-Hour-1080-x-608-px_2604E01E-B1C4-029F-8607C6531042329A_260e1a52-cca3-2cf3-ee85e9efc08d2143.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
 GEO:41.307637;-105.594934
@@ -126,6 +135,15 @@ LOCATION:Wahington Park
 SUMMARY:Walk with a Doc
 UID:38075@visitlaramie.org
 URL:https://www.visitlaramie.org/event/walk-with-a-doc/38075/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250712
+DESCRIPTION:Chelsea Bridge + Merlin Brando + Clover's Curfew @ TGU\nMore info: https://www.visitlaramie.org/event/chelsea-bridge-%2b-merlin-brando-%2b-clovers-curfew-%40-tgu/38133/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Chelsea-Bridge-Merlin-Brando_15DDAAA8-C943-4D86-93A7E72FA62BFDE5_38e34fc2-b59b-4c27-9437534b5382cfa4.png\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+LOCATION:The Great Untamed
+SUMMARY:Chelsea Bridge + Merlin Brando + Clover's Curfew @ TGU
+UID:38133@visitlaramie.org
+URL:https://www.visitlaramie.org/event/chelsea-bridge-%2b-merlin-brando-%2b-clovers-curfew-%40-tgu/38133/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250620
@@ -327,6 +345,15 @@ UID:38071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250712
+DESCRIPTION:Friends of the Albany County Public Library Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38136/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/July2025-FOL-Book-Sale_F822EAAB-9D0D-B3CB-83C843598E4101A3_f83aa031-eaef-4182-64c2021844c9c4e6.jpg\nCategories: Community
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Friends of the Albany County Public Library Book Sale
+UID:38136@visitlaramie.org
+URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38136/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
 GEO:41.312265;-105.595644
@@ -343,6 +370,15 @@ LOCATION:High Iron Rail Car\, Corner of 4th and Canby Street
 SUMMARY:High Iron: Opening Hours
 UID:37984@visitlaramie.org
 URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250802
+DESCRIPTION:Tyler Halvorson at the Cowboy Saloon & Dance Hall\nMore info: https://www.visitlaramie.org/event/tyler-halvorson-at-the-cowboy-saloon-%26-dance-hall/38090/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/08.02.25-Music-Event_8FA2C3C7-01B3-32E6-33CA1C9D5343BC20_8fa8d3b4-aab3-c048-c48fea1cb8685eac.png\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Tyler Halvorson at the Cowboy Saloon & Dance Hall
+UID:38090@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tyler-halvorson-at-the-cowboy-saloon-%26-dance-hall/38090/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250704
@@ -372,13 +408,13 @@ UID:38076@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-3/38076/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250726
-DESCRIPTION:Laramie Range Epic\nMore info: https://www.visitlaramie.org/event/laramie-range-epic/37781/\nVenue: Happy Jack Recreational Area\nVenue Info: https://www.visitlaramie.org/listing/happy-jack-recreational-area/172/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/enduro-2025-yellow-circles-01_73F640CE-F4A3-AB1B-6B697117A20BD10D_73f7a853-a109-cf23-cccd3df095807c50.png\nCategories: Outdoor Recreation
-GEO:41.311776;-105.595892
-LOCATION:207 South 1st Street
-SUMMARY:Laramie Range Epic
-UID:37781@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-range-epic/37781/
+DTSTART;VALUE=DATE:20250716
+DESCRIPTION:Fables of the Fall + Cicada Summer + John Poland's Weylian Gaze @ TGU\nMore info: https://www.visitlaramie.org/event/fables-of-the-fall-%2b-cicada-summer-%2b-john-polands-weylian-gaze-%40-tgu/38134/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025.07.16.insta_1867521F-6DB1-4FBF-965FBC8660751F85_e35b981e-1330-44ad-9fb8aa96be3f22c4.png\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+LOCATION:The Great Untamed
+SUMMARY:Fables of the Fall + Cicada Summer + John Poland's Weylian Gaze @ TGU
+UID:38134@visitlaramie.org
+URL:https://www.visitlaramie.org/event/fables-of-the-fall-%2b-cicada-summer-%2b-john-polands-weylian-gaze-%40-tgu/38134/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
@@ -390,13 +426,13 @@ UID:38108@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2025-laramie-brewfest/38108/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250630
-DESCRIPTION:Vedauwoo Youth Climbing Camp - Session 2\nMore info: https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-2/38069/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-101432_ECFFBCE1-AB61-363D-3664484265960AED_ed079720-d6e7-2718-fc7134e82b578110.png\nCategories: Community\, Outdoor Recreation\, Education
-GEO:41.292888;-105.577090
-LOCATION:Vedauwoo Recreation Area
-SUMMARY:Vedauwoo Youth Climbing Camp - Session 2
-UID:38069@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-2/38069/
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:Laramie Range Epic\nMore info: https://www.visitlaramie.org/event/laramie-range-epic/37781/\nVenue: Happy Jack Recreational Area\nVenue Info: https://www.visitlaramie.org/listing/happy-jack-recreational-area/172/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/enduro-2025-yellow-circles-01_73F640CE-F4A3-AB1B-6B697117A20BD10D_73f7a853-a109-cf23-cccd3df095807c50.png\nCategories: Outdoor Recreation
+GEO:41.311776;-105.595892
+LOCATION:207 South 1st Street
+SUMMARY:Laramie Range Epic
+UID:37781@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-range-epic/37781/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250710
@@ -460,6 +496,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Double Feature: Double Feature: Dark Biosphere + Always Above
 UID:38065@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250709
+DESCRIPTION:Joe Kelly + Jon Gardzelewski @ TGU\nMore info: https://www.visitlaramie.org/event/joe-kelly-%2b-jon-gardzelewski-%40-tgu/38132/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Joe-Kelly-0625_1094561A-9E63-4351-874212D8E6E8DF8A_f60446e1-af7b-4785-b4a45bac4ef83285.jpg\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+SUMMARY:Joe Kelly + Jon Gardzelewski @ TGU
+UID:38132@visitlaramie.org
+URL:https://www.visitlaramie.org/event/joe-kelly-%2b-jon-gardzelewski-%40-tgu/38132/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
