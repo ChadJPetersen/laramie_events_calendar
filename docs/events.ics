@@ -226,12 +226,12 @@ UID:31423@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-abba/31423/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250722
-DESCRIPTION:Laramie Mountain Bike Series\, Race #5\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%235/38073/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_BF54B0C4-9971-E2A3-9F8A8A5F3130C83E_bf643b42-fe21-a907-31351101ab0702ae.png\nCategories: Outdoor Recreation
-LOCATION:Happy Jack
-SUMMARY:Laramie Mountain Bike Series\, Race #5
-UID:38073@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%235/38073/
+DTSTART;VALUE=DATE:20250711
+DESCRIPTION:Laramie Jubilee Days Friday Street Dance- 2:30 to 5:00 Session\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-friday-street-dance-2%3a30-to-5%3a00-session/38138/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.11.25-230-5-Street-Dance_2C39357E-05F2-0CD7-D0F60839CF0A0F32_2c4cf1ee-aecd-4e8d-77b3a5bfb9c25d47.png\nCategories: Concerts & Live Music
+GEO:41.309498;-105.567374
+SUMMARY:Laramie Jubilee Days Friday Street Dance- 2:30 to 5:00 Session
+UID:38138@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-jubilee-days-friday-street-dance-2%3a30-to-5%3a00-session/38138/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250709
@@ -261,12 +261,20 @@ URL:https://www.visitlaramie.org/event/44th-annual-centennial-valley-art-show/38
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250713
-DESCRIPTION:Art Fest on the Lawn\nMore info: https://www.visitlaramie.org/event/art-fest-on-the-lawn/37986/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Family Fun\, Social Events
+DESCRIPTION:Art Fest on the Lawn\nMore info: https://www.visitlaramie.org/event/art-fest-on-the-lawn/37986/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_2E3269AB-00ED-B5A3-470943FF33149DCF_2e94727d-0b56-b33b-005ebd829ab8fba5.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Family Fun\, Social Events
 GEO:41.312046;-105.589071
 LOCATION:Laramie Plains Museum
 SUMMARY:Art Fest on the Lawn
 UID:37986@visitlaramie.org
 URL:https://www.visitlaramie.org/event/art-fest-on-the-lawn/37986/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250722
+DESCRIPTION:Laramie Mountain Bike Series\, Race #5\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%235/38073/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_BF54B0C4-9971-E2A3-9F8A8A5F3130C83E_bf643b42-fe21-a907-31351101ab0702ae.png\nCategories: Outdoor Recreation
+LOCATION:Happy Jack
+SUMMARY:Laramie Mountain Bike Series\, Race #5
+UID:38073@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%235/38073/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
@@ -399,6 +407,15 @@ UID:38122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-great-solar-system-adventure/38122/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250712
+DESCRIPTION:Jarrod Morris Live\nMore info: https://www.visitlaramie.org/event/jarrod-morris-live/38141/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-03-115735_2EE50DD7-A72C-2EC7-96875BB54F14A982_2f0a1705-f1e1-4f98-689e7540758fcdb2.png\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Jarrod Morris Live
+UID:38141@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jarrod-morris-live/38141/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250714
 DESCRIPTION:Vedauwoo Youth Climbing Camp - Session 3\nMore info: https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-3/38076/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Event-7.14.2025_EF78DEF7-F0B6-0291-7320C9D4B62F8EB1_ef79d8f3-dd78-8aa2-c67b8eb8c6d506e1.png\nCategories: Community\, Outdoor Recreation\, Education
 GEO:41.292888;-105.577090
@@ -489,13 +506,13 @@ UID:38074@visitlaramie.org
 URL:https://www.visitlaramie.org/event/creators-camp/38074/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250726
-DESCRIPTION:Double Feature: Double Feature: Dark Biosphere + Always Above\nMore info: https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.26.25-2-pm-Event_FB5CA881-FA25-E5C4-78AAD7A6E7FCB9A5_fb5cffa5-a81c-5138-0aec3dbf3b8a378f.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Double Feature: Double Feature: Dark Biosphere + Always Above
-UID:38065@visitlaramie.org
-URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Laramie Tuesday Cruiser Ride\nMore info: https://www.visitlaramie.org/event/laramie-tuesday-cruiser-ride/38139/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.08.25-Event_2C6161F3-F6A8-924C-3E2CE7C9E96E23A3_2dd2ee5e-fdc2-0e4d-e610ee9eaa765061.png\nCategories: Outdoor Recreation\, Family Fun\, Social Events
+GEO:41.306841;-105.570520
+LOCATION:Undine Park
+SUMMARY:Laramie Tuesday Cruiser Ride
+UID:38139@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-tuesday-cruiser-ride/38139/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250709
@@ -522,6 +539,15 @@ LOCATION:2025 Laramie Mountain Bike Series
 SUMMARY:Laramie Mountain Bike Series\, Race #4
 UID:5072@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%234/5072/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:Double Feature: Double Feature: Dark Biosphere + Always Above\nMore info: https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.26.25-2-pm-Event_FB5CA881-FA25-E5C4-78AAD7A6E7FCB9A5_fb5cffa5-a81c-5138-0aec3dbf3b8a378f.png\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Double Feature: Double Feature: Dark Biosphere + Always Above
+UID:38065@visitlaramie.org
+URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
@@ -577,6 +603,15 @@ UID:36587@visitlaramie.org
 URL:https://www.visitlaramie.org/event/james-webb-space-telescope/36587/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:Super Soaring Kites Art World\nMore info: https://www.visitlaramie.org/event/super-soaring-kites-art-world/38137/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.24.25-Art-Event_2AE1D8A2-C581-D4D0-95086D398EE43A93_2b740eb9-a3a7-a20a-a1e9cee65fa48d41.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Washington Park
+SUMMARY:Super Soaring Kites Art World
+UID:38137@visitlaramie.org
+URL:https://www.visitlaramie.org/event/super-soaring-kites-art-world/38137/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250708
 DESCRIPTION:Wyoming Skies- Saturn's Return + Losing the Dark\nMore info: https://www.visitlaramie.org/event/wyoming-skies-saturns-return-%2b-losing-the-dark/30971/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.08.25-Event_F8598CE1-A5FE-85E8-416288D0EF9C317C_f85e4c1f-d8c6-40c7-62b7c5e746116568.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -587,7 +622,7 @@ URL:https://www.visitlaramie.org/event/wyoming-skies-saturns-return-%2b-losing-t
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250710
-DESCRIPTION:Jalapeno Eating Contest\nMore info: https://www.visitlaramie.org/event/jalapeno-eating-contest/38130/\nCategories: Annual Events & Festivals\, Community
+DESCRIPTION:Jalapeno Eating Contest\nMore info: https://www.visitlaramie.org/event/jalapeno-eating-contest/38130/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.10.25-Event_2A386675-0612-4D4E-7C7A7DC2D4AD60F2_2a3a403e-ddc4-a09f-efca2859b357cb33.png\nCategories: Annual Events & Festivals\, Community
 GEO:41.311367;-105.591101
 SUMMARY:Jalapeno Eating Contest
 UID:38130@visitlaramie.org
