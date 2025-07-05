@@ -389,15 +389,6 @@ UID:38090@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tyler-halvorson-at-the-cowboy-saloon-%26-dance-hall/38090/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250704
-DESCRIPTION:Laramie Municipal Band Fourth of July\nMore info: https://www.visitlaramie.org/event/laramie-municipal-band-fourth-of-july/38129/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/bandshell_5270286D-5056-A36F-23AA592DD5E12317_527c8fa5-5056-a36f-236efe8518337c04.jpg\nCategories: Concerts & Live Music\, Community\, University of Wyoming\, Performing Arts & Culture
-GEO:41.306193;-105.573609
-LOCATION:Washington Park Bandshell
-SUMMARY:Laramie Municipal Band Fourth of July
-UID:38129@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-municipal-band-fourth-of-july/38129/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
 DESCRIPTION:The Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/the-great-solar-system-adventure/38122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.12.25-Planetarium-Event_F8D271BE-975A-33CD-034A5E04FF10AE6E_f8d8d661-b1b6-f97e-0e8864a7049f6d55.png\nCategories: Community\, University of Wyoming
 GEO:41.313697;-105.590676
@@ -556,15 +547,6 @@ GEO:41.311367;-105.591101
 SUMMARY:Albany County CattleWomen Ranch Tour
 UID:38067@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/38067/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250704
-DESCRIPTION:Freedom has a Birthday!\nMore info: https://www.visitlaramie.org/event/freedom-has-a-birthday!/32764/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-30-135507_98082CAC-EB0F-9DAA-115313EEC1B858F5_98153ed3-a0ec-7fbc-f2119cace354970d.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.306773;-105.572519
-LOCATION:Washington Park
-SUMMARY:Freedom has a Birthday!
-UID:32764@visitlaramie.org
-URL:https://www.visitlaramie.org/event/freedom-has-a-birthday!/32764/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
