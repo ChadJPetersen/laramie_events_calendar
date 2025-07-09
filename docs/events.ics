@@ -102,7 +102,7 @@ URL:https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/38063/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250710
-DESCRIPTION:Wyoming Statehood Day Celebration\nMore info: https://www.visitlaramie.org/event/wyoming-statehood-day-celebration/38114/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-114443_2958BD03-D117-C4BA-2BB62E647428A077_2959d01a-a51c-351c-e264b64042c0ffbc.png\nCategories: History\, Community
+DESCRIPTION:Wyoming Statehood Day Celebration\nMore info: https://www.visitlaramie.org/event/wyoming-statehood-day-celebration/38114/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-08-133612_33464282-D42D-C8FD-94AC970E53733F6A_334761b0-a49a-26d5-7d508d85ca4a2174.png\nCategories: History\, Community
 GEO:41.311613;-105.610512
 LOCATION:Wyoming Territorial Prison State Historic Site
 SUMMARY:Wyoming Statehood Day Celebration
@@ -197,15 +197,6 @@ LOCATION:Washington Park Bandshell
 SUMMARY:Laramie Municipal Band Summer Concert Series
 UID:36529@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-municipal-band-summer-concert-series/36529/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Spray Bottle Art\nMore info: https://www.visitlaramie.org/event/spray-bottle-art/38112/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-18-100405_267EDFA3-AE61-24EB-E40332C5F2C78A52_269e94d1-df71-b599-657e649b34b435a6.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Washington Park
-SUMMARY:Spray Bottle Art
-UID:38112@visitlaramie.org
-URL:https://www.visitlaramie.org/event/spray-bottle-art/38112/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
@@ -556,15 +547,6 @@ LOCATION:Washington Park
 SUMMARY:Super Soaring Kites Art World
 UID:38137@visitlaramie.org
 URL:https://www.visitlaramie.org/event/super-soaring-kites-art-world/38137/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Wyoming Skies- Saturn's Return + Losing the Dark\nMore info: https://www.visitlaramie.org/event/wyoming-skies-saturns-return-%2b-losing-the-dark/30971/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.08.25-Event_F8598CE1-A5FE-85E8-416288D0EF9C317C_f85e4c1f-d8c6-40c7-62b7c5e746116568.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies- Saturn's Return + Losing the Dark
-UID:30971@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies-saturns-return-%2b-losing-the-dark/30971/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250710
