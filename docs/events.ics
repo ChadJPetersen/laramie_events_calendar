@@ -56,15 +56,6 @@ UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250710
-DESCRIPTION:Wyoming Statehood Day Celebration\nMore info: https://www.visitlaramie.org/event/wyoming-statehood-day-celebration/38114/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-08-133612_33464282-D42D-C8FD-94AC970E53733F6A_334761b0-a49a-26d5-7d508d85ca4a2174.png\nCategories: History\, Community
-GEO:41.311613;-105.610512
-LOCATION:Wyoming Territorial Prison State Historic Site
-SUMMARY:Wyoming Statehood Day Celebration
-UID:38114@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-statehood-day-celebration/38114/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
 DESCRIPTION:Chelsea Bridge + Merlin Brando + Clover's Curfew @ TGU\nMore info: https://www.visitlaramie.org/event/chelsea-bridge-%2b-merlin-brando-%2b-clovers-curfew-%40-tgu/38133/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Chelsea-Bridge-Merlin-Brando_15DDAAA8-C943-4D86-93A7E72FA62BFDE5_38e34fc2-b59b-4c27-9437534b5382cfa4.png\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -127,15 +118,6 @@ UID:30661@visitlaramie.org
 URL:https://www.visitlaramie.org/event/55th-annual-huck-finn-fishing-derby/30661/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250710
-DESCRIPTION:Laramie Jubilee Days Thursday Street Dance- 9 PM\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-thursday-street-dance-9-pm/38145/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-093531_5EA477B3-FD5D-07DD-2476CCC5B09DC19E_5ea8be47-b266-627c-99d7947cc34f556b.png\nCategories: Concerts & Live Music
-GEO:41.309498;-105.567374
-LOCATION:Downtown Music Danno from Wyoming
-SUMMARY:Laramie Jubilee Days Thursday Street Dance- 9 PM
-UID:38145@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-thursday-street-dance-9-pm/38145/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
 DESCRIPTION:Liquid Sky: Abba\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-abba/31423/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events11_15C87778-5056-A36F-23D10544D73C2012_15d1ae5a-5056-a36f-23ffbc32f80cb1da.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -152,6 +134,15 @@ LOCATION:Wyoming Women's History House
 SUMMARY:Sip 'n Savor at Wyoming Women's History House
 UID:36314@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sip-n-savor-at-wyoming-womens-history-house/36314/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250731
+DESCRIPTION:George Ducas Live\nMore info: https://www.visitlaramie.org/event/george-ducas-live/38164/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-111010_9517D4F4-C251-707C-6E2337E2FF26EE79_951f98ce-d93b-8f05-d3d1caf8fb180e65.png\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:George Ducas Live
+UID:38164@visitlaramie.org
+URL:https://www.visitlaramie.org/event/george-ducas-live/38164/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
@@ -187,14 +178,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Double Feature We Are Stars & Always Above
 UID:38060@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250710
-DESCRIPTION:Jalapeno Eating Contest\nMore info: https://www.visitlaramie.org/event/jalapeno-eating-contest/38130/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.10.25-Event_2A386675-0612-4D4E-7C7A7DC2D4AD60F2_2a3a403e-ddc4-a09f-efca2859b357cb33.png\nCategories: Annual Events & Festivals\, Community
-GEO:41.311367;-105.591101
-SUMMARY:Jalapeno Eating Contest
-UID:38130@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jalapeno-eating-contest/38130/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
@@ -233,15 +216,6 @@ UID:38135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bitter-inc-%2b-yegarma-%2b-every-time-we-hang-out-we-start-a-band-%2b-tinderdust-%40-tgu/38135/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250710
-DESCRIPTION:Crafty Hour - Garden Brick Books\nMore info: https://www.visitlaramie.org/event/crafty-hour-garden-brick-books/38109/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Brick-Book-Crafty-Hour-1080-x-608-px_2604E01E-B1C4-029F-8607C6531042329A_260e1a52-cca3-2cf3-ee85e9efc08d2143.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
-GEO:41.307637;-105.594934
-LOCATION:Vida Art Studio
-SUMMARY:Crafty Hour - Garden Brick Books
-UID:38109@visitlaramie.org
-URL:https://www.visitlaramie.org/event/crafty-hour-garden-brick-books/38109/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250722
 DESCRIPTION:Welcome to Livin' in Laramie BBQ\nMore info: https://www.visitlaramie.org/event/welcome-to-livin-in-laramie-bbq/38154/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-130942_65CFB80F-9EC6-7C10-DFF10D6190FDC489_65d32b8e-fa08-faec-42f944f4f6c5af02.png\nCategories: Community\, Family Fun
 GEO:41.309259;-105.564274
@@ -265,6 +239,15 @@ GEO:41.309498;-105.567374
 SUMMARY:Laramie Jubilee Days Friday Street Dance- 11 am
 UID:38147@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-friday-street-dance-11-am/38147/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250808
+DESCRIPTION:Bottomland Live\nMore info: https://www.visitlaramie.org/event/bottomland-live/38159/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-102730_9395B7C5-B791-5C97-F0A08B02AF2B18F6_9398cdcf-d4ea-05ff-334bf444232d4a63.png\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Bottomland Live
+UID:38159@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bottomland-live/38159/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
@@ -294,7 +277,7 @@ URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
-DESCRIPTION:Wyoming Book Crawl-Laramie Edition\nMore info: https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-25-122615_938692E2-A1C7-D94A-FACD53550C706A70_9421da4c-a5ba-3f99-2ae6a70d44ba9866.png\nCategories: Community
+DESCRIPTION:Wyoming Book Crawl-Laramie Edition\nMore info: https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-103906_942879F8-94BA-73CD-F89A51FF38A96C51_942e9786-f682-5b51-9015ae55fd604ae6.png\nCategories: Community
 GEO:41.311367;-105.591101
 LOCATION:Downtown Laramie
 SUMMARY:Wyoming Book Crawl-Laramie Edition
@@ -381,15 +364,6 @@ UID:36587@visitlaramie.org
 URL:https://www.visitlaramie.org/event/james-webb-space-telescope/36587/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250710
-DESCRIPTION:Laramie Jubilee Days Thursday Street Dance- 6 PM\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-thursday-street-dance-6-pm/38144/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-094652_5E912808-CEDC-DD64-3E7F4074C9BB3EFB_5e960989-9adc-f41c-8c1e046f4751147f.png\nCategories: Concerts & Live Music
-GEO:41.309498;-105.567374
-LOCATION:Downtown Music Danno from Wyoming
-SUMMARY:Laramie Jubilee Days Thursday Street Dance- 6 PM
-UID:38144@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-thursday-street-dance-6-pm/38144/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250724
 DESCRIPTION:Super Soaring Kites Art World\nMore info: https://www.visitlaramie.org/event/super-soaring-kites-art-world/38137/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.24.25-Art-Event_2AE1D8A2-C581-D4D0-95086D398EE43A93_2b740eb9-a3a7-a20a-a1e9cee65fa48d41.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -423,6 +397,15 @@ GEO:41.309498;-105.567374
 SUMMARY:Laramie Jubilee Days Friday Street Dance- 6 pm
 UID:38149@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-friday-street-dance-6-pm/38149/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250725
+DESCRIPTION:The Space Between/ Opening Reception\nMore info: https://www.visitlaramie.org/event/the-space-between-opening-reception/38168/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-133259_9A328D8E-C7F2-D144-9958639364E69F33_9a641090-d2b9-3b89-ddf131c4dafdb1ed.png\nCategories: Community\, Performing Arts & Culture\, Social Events
+GEO:41.309270;-105.587834
+LOCATION:Laramie Plains Civic Center\, Gorgon Gallery\, Rm 332
+SUMMARY:The Space Between/ Opening Reception
+UID:38168@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-space-between-opening-reception/38168/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250725
@@ -547,6 +530,15 @@ UID:37781@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-range-epic/37781/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250808
+DESCRIPTION:2025 Health Links Golf Tournament\nMore info: https://www.visitlaramie.org/event/2025-health-links-golf-tournament/38160/\nVenue: Glenn “Red” Jacoby Golf Course\nVenue Info: https://www.visitlaramie.org/listing/glenn-%e2%80%9cred%e2%80%9d-jacoby-golf-course/224/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-103113_93BB75A1-0360-0ABC-42123043B4BDC89E_93bf720b-df5d-6bbf-05993d630fc5244a.png\nCategories: Annual Events & Festivals\, Outdoor Recreation
+GEO:41.313401;-105.555272
+LOCATION:Glenn “Red” Jacoby Golf Course
+SUMMARY:2025 Health Links Golf Tournament
+UID:38160@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2025-health-links-golf-tournament/38160/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250712
 DESCRIPTION:Laramie Jubilee Days Sat. Street Dance- 6PM\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-sat-street-dance-6pm/38153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-120859_63AC4B08-BDF1-1168-5919A5D3E556B282_63aec1b9-07eb-38c7-097abd88b54aa630.png\nCategories: Concerts & Live Music
 GEO:41.309498;-105.567374
@@ -565,12 +557,12 @@ URL:https://www.visitlaramie.org/event/line-dance-shuffle/38127/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250711
-DESCRIPTION:Laramie Jubilee Days Pancake Breakfast\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-pancake-breakfast/38146/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-111145_61CE12B4-FFD0-0237-B61AD07D10318F72_61dce81a-fbc2-edbe-da8fbfbbf7638381.png\nCategories: Annual Events & Festivals\, Community
+DESCRIPTION:Jeff Thmpson & Steve Martindale Memorial Pancake Breakfast\nMore info: https://www.visitlaramie.org/event/jeff-thmpson-%26-steve-martindale-memorial-pancake-breakfast/38146/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-111145_61CE12B4-FFD0-0237-B61AD07D10318F72_61dce81a-fbc2-edbe-da8fbfbbf7638381.png\nCategories: Annual Events & Festivals\, Community
 GEO:41.312147;-105.592989
 LOCATION:St. Matthews's Cathedral Close
-SUMMARY:Laramie Jubilee Days Pancake Breakfast
+SUMMARY:Jeff Thmpson & Steve Martindale Memorial Pancake Breakfast
 UID:38146@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-pancake-breakfast/38146/
+URL:https://www.visitlaramie.org/event/jeff-thmpson-%26-steve-martindale-memorial-pancake-breakfast/38146/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250708
@@ -580,6 +572,15 @@ LOCATION:Undine Park
 SUMMARY:Laramie Tuesday Cruiser Ride
 UID:38139@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-tuesday-cruiser-ride/38139/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250802
+DESCRIPTION:Back Pack Give-A-Way\nMore info: https://www.visitlaramie.org/event/back-pack-give-a-way/38158/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-101701_9340C7C2-E55A-9923-55E1C5634FF7EB59_936388fe-9f90-6769-afde73f7855a4ed3.png\nCategories: Community\, Education
+GEO:41.310336;-105.593891
+LOCATION:Cellular Plus
+SUMMARY:Back Pack Give-A-Way
+UID:38158@visitlaramie.org
+URL:https://www.visitlaramie.org/event/back-pack-give-a-way/38158/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250718
@@ -666,14 +667,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250710
-DESCRIPTION:Laramie Jubilee Days Thursday Street Dance- 4:15 PM\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-thursday-street-dance-4%3a15-pm/38143/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-094215_5E67F91A-99F2-18C2-811A46E799BD51AC_5e71eebf-efe9-b7cf-fc3a0da35db6c2d6.png\nCategories: Concerts & Live Music
-GEO:41.309498;-105.567374
-SUMMARY:Laramie Jubilee Days Thursday Street Dance- 4:15 PM
-UID:38143@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-thursday-street-dance-4%3a15-pm/38143/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250717
