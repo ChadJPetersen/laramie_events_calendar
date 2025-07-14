@@ -73,15 +73,6 @@ UID:38128@visitlaramie.org
 URL:https://www.visitlaramie.org/event/greenhill-cemetery-walking-tour/38128/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250629
-DESCRIPTION:Summer Croquis - Life Figure Drawing\nMore info: https://www.visitlaramie.org/event/summer-croquis-life-figure-drawing/38121/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-132259_664EDDDB-06E3-1FF6-511B391618A8AA81_6654247e-a385-446b-d580856b73c398a0.png\nCategories: Community\, University of Wyoming\, Craft Classes & Workshops
-GEO:41.313464;-105.564486
-LOCATION:University of Wyoming\, Visual Arts Bldg.
-SUMMARY:Summer Croquis - Life Figure Drawing
-UID:38121@visitlaramie.org
-URL:https://www.visitlaramie.org/event/summer-croquis-life-figure-drawing/38121/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250621
 DESCRIPTION:Cars and Coffee at Toyota of Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Event-Image_2914823C-A70A-118B-32BA80D9FD7E1AE7_29198826-f6a6-cbac-689dfc393670b5c5.png\nCategories: Annual Events & Festivals
 GEO:41.308934;-105.562856
@@ -98,6 +89,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: Taylor Swift
 UID:38063@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/38063/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250629
+DESCRIPTION:Summer Croquis - Life Figure Drawing\nMore info: https://www.visitlaramie.org/event/summer-croquis-life-figure-drawing/38121/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-132259_664EDDDB-06E3-1FF6-511B391618A8AA81_6654247e-a385-446b-d580856b73c398a0.png\nCategories: Community\, University of Wyoming\, Craft Classes & Workshops
+GEO:41.313464;-105.564486
+LOCATION:University of Wyoming\, Visual Arts Bldg.
+SUMMARY:Summer Croquis - Life Figure Drawing
+UID:38121@visitlaramie.org
+URL:https://www.visitlaramie.org/event/summer-croquis-life-figure-drawing/38121/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250811
@@ -231,15 +231,6 @@ UID:37661@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wild-west-relay-200-mile-team-running-relay-race/37661/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250713
-DESCRIPTION:Art Fest on the Lawn\nMore info: https://www.visitlaramie.org/event/art-fest-on-the-lawn/37986/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_2E3269AB-00ED-B5A3-470943FF33149DCF_2e94727d-0b56-b33b-005ebd829ab8fba5.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Family Fun\, Social Events
-GEO:41.312046;-105.589071
-LOCATION:Laramie Plains Museum
-SUMMARY:Art Fest on the Lawn
-UID:37986@visitlaramie.org
-URL:https://www.visitlaramie.org/event/art-fest-on-the-lawn/37986/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
 DESCRIPTION:Eagle's Clasic Benefit Car and Bike Show\nMore info: https://www.visitlaramie.org/event/eagles-clasic-benefit-car-and-bike-show/37895/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-101708_A46ED95F-B743-1040-730285BAFC1BBEE2_a48b4a22-953a-7580-fef2ad1d7b80d1fb.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.324869;-105.593743
@@ -299,15 +290,6 @@ GEO:41.325969;-105.592220
 SUMMARY:Vinyasa Flow at Laramie Fitness
 UID:38071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250712
-DESCRIPTION:Friends of the Albany County Public Library Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38136/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/July2025-FOL-Book-Sale_F822EAAB-9D0D-B3CB-83C843598E4101A3_f83aa031-eaef-4182-64c2021844c9c4e6.jpg\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Friends of the Albany County Public Library Book Sale
-UID:38136@visitlaramie.org
-URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-book-sale/38136/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250812
@@ -541,14 +523,5 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky:Retro Rock
 UID:36351@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3aretro-rock/36351/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250709
-DESCRIPTION:Laramie Jubilee Days Downtown- Live Music\, Carnival\, and More!\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-downtown-live-music-carnival-and-more!/31317/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/_4__7923_AB84D008-5056-A36F-2395381A5D1CA5A6_ab868f5a-5056-a36f-237e6da737341c7d.jpg\nCategories: Concerts & Live Music\, Annual Events & Festivals\, History\, Community\, Sports\, Performing Arts & Culture\, Family Fun\, Social Events
-GEO:41.309790;-105.595980
-LOCATION:Downtown Laramie
-SUMMARY:Laramie Jubilee Days Downtown- Live Music\, Carnival\, and More!
-UID:31317@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-downtown-live-music-carnival-and-more!/31317/
 END:VEVENT
 END:VCALENDAR
