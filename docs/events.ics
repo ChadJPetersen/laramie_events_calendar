@@ -489,6 +489,15 @@ UID:31520@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dust-light-dust/31520/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250814
+DESCRIPTION:Crafty Hour - Printmaking 101\nMore info: https://www.visitlaramie.org/event/crafty-hour-printmaking-101/38111/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Printmaking_26304406-A545-A802-8EBAE25D7734E318_26336c79-0af0-41ae-1cd1ed87572d129c.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
+GEO:41.307637;-105.594934
+LOCATION:Vida Art Studio
+SUMMARY:Crafty Hour - Printmaking 101
+UID:38111@visitlaramie.org
+URL:https://www.visitlaramie.org/event/crafty-hour-printmaking-101/38111/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250724
 DESCRIPTION:Super Soaring Kites Art World\nMore info: https://www.visitlaramie.org/event/super-soaring-kites-art-world/38137/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.24.25-Art-Event_2AE1D8A2-C581-D4D0-95086D398EE43A93_2b740eb9-a3a7-a20a-a1e9cee65fa48d41.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
