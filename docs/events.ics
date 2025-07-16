@@ -21,7 +21,7 @@ URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250725
-DESCRIPTION:The Space Between/ Opening Reception\nMore info: https://www.visitlaramie.org/event/the-space-between-opening-reception/38168/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-133259_9A328D8E-C7F2-D144-9958639364E69F33_9a641090-d2b9-3b89-ddf131c4dafdb1ed.png\nCategories: Community\, Performing Arts & Culture\, Social Events
+DESCRIPTION:The Space Between/ Opening Reception\nMore info: https://www.visitlaramie.org/event/the-space-between-opening-reception/38168/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-15-121548_98DE82EA-D441-901D-51C65B5CF768CDE8_98e2950f-da54-b1a3-a0cf8e6b4ef5de4e.png\nCategories: Community\, Performing Arts & Culture\, Social Events
 GEO:41.309270;-105.587834
 LOCATION:Laramie Plains Civic Center\, Gorgon Gallery\, Rm 332
 SUMMARY:The Space Between/ Opening Reception
@@ -109,6 +109,15 @@ UID:38089@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jurassic-camp/38089/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250815
+DESCRIPTION:307 Glow & Go Race\nMore info: https://www.visitlaramie.org/event/307-glow-%26-go-race/38140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-124236_98DC5E54-D43D-511E-E253D9E20C729668_98e2a4b1-96b8-3745-55f18f966190201b.png\nCategories: Community\, Outdoor Recreation
+GEO:41.309259;-105.564274
+LOCATION:Laramie Chamber Business Alliance
+SUMMARY:307 Glow & Go Race
+UID:38140@visitlaramie.org
+URL:https://www.visitlaramie.org/event/307-glow-%26-go-race/38140/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250725
 DESCRIPTION:BanjerDan @ The Ruffed Up Duck Saloon\nMore info: https://www.visitlaramie.org/event/banjerdan-%40-the-ruffed-up-duck-saloon/37878/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-112503_A5377EC9-DD10-C955-683227386E02100F_a54a7687-9e3c-d172-e492bac074dac791.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
 GEO:41.310483;-105.591301
@@ -178,6 +187,15 @@ LOCATION:Huck Finn Pond - LaPrele Park
 SUMMARY:55th Annual Huck Finn Fishing Derby
 UID:30661@visitlaramie.org
 URL:https://www.visitlaramie.org/event/55th-annual-huck-finn-fishing-derby/30661/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250814
+DESCRIPTION:Book Discussion: THE FROZEN RIVER by Ariel Lawhon\nMore info: https://www.visitlaramie.org/event/book-discussion%3a-the-frozen-river-by-ariel-lawhon/38171/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-15-112429_972060D9-A85B-9ECB-F833B75E8BA7858F_973a8219-94aa-93d2-65e1e518d4c6fecc.png\nCategories: History\, Community\, Social Events
+GEO:41.311367;-105.591101
+LOCATION:United Methodist Church
+SUMMARY:Book Discussion: THE FROZEN RIVER by Ariel Lawhon
+UID:38171@visitlaramie.org
+URL:https://www.visitlaramie.org/event/book-discussion%3a-the-frozen-river-by-ariel-lawhon/38171/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250709
@@ -382,6 +400,15 @@ UID:38120@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250804
+DESCRIPTION:Amazing Race Camp\nMore info: https://www.visitlaramie.org/event/amazing-race-camp/38172/\nVenue: LEAP\nVenue Info: https://www.visitlaramie.org/listing/leap/380/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-15-113528_97F157D6-BF33-DE58-CB5B71E00DECA625_98038296-a4c7-1e66-05773f355655961d.png\nCategories: Community\, Outdoor Recreation
+GEO:41.307087;-105.544293
+LOCATION:LEAP
+SUMMARY:Amazing Race Camp
+UID:38172@visitlaramie.org
+URL:https://www.visitlaramie.org/event/amazing-race-camp/38172/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250722
 DESCRIPTION:Wyoming Skies: Moon\, Mars\, Venus Conjunction + Losing the Dark\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-moon-mars-venus-conjunction-%2b-losing-the-dark/30980/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_C7A24CA1-5056-A36F-23689CDFCFFAC9C7_c7a9aa46-5056-a36f-23a7d751b5d7082b.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -436,13 +463,13 @@ UID:38065@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250715
-DESCRIPTION:Laramie Mountain Bike Series\, Race #4\nMore info: https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%234/5072/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-14-140111_23CAF50A-A95A-B4AE-2DE213942109AB71_24138c1c-0067-03b6-6bd1e9b622e32196.png\nCategories: Outdoor Recreation
-GEO:41.311367;-105.591101
-LOCATION:2025 Laramie Mountain Bike Series
-SUMMARY:Laramie Mountain Bike Series\, Race #4
-UID:5072@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-mountain-bike-series-race-%234/5072/
+DTSTART;VALUE=DATE:20250815
+DESCRIPTION:The Grieve with Tuff Bluff\nMore info: https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120011_96E651FD-F0AA-9B70-C02C0CA89F7FD43D_96fc6f77-c82b-8693-c634d1f08cd5231e.png\nCategories: Concerts & Live Music
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:The Grieve with Tuff Bluff
+UID:38165@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
@@ -489,6 +516,15 @@ UID:31520@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dust-light-dust/31520/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250722
+DESCRIPTION:Read with a Ranger\nMore info: https://www.visitlaramie.org/event/read-with-a-ranger/38170/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-15-110933_967E1A6B-D01F-E2E3-C68B9E7638B75434_969084f2-e921-ca74-34cfad745e164f17.png\nCategories: Community\, Outdoor Recreation
+GEO:41.311367;-105.591101
+LOCATION:Washington Park
+SUMMARY:Read with a Ranger
+UID:38170@visitlaramie.org
+URL:https://www.visitlaramie.org/event/read-with-a-ranger/38170/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
 DESCRIPTION:Crafty Hour - Printmaking 101\nMore info: https://www.visitlaramie.org/event/crafty-hour-printmaking-101/38111/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Printmaking_26304406-A545-A802-8EBAE25D7734E318_26336c79-0af0-41ae-1cd1ed87572d129c.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
 GEO:41.307637;-105.594934
@@ -532,5 +568,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky:Retro Rock
 UID:36351@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3aretro-rock/36351/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:Albany County Fair\nMore info: https://www.visitlaramie.org/event/albany-county-fair/34969/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_02573780-E8C1-1480-BC61EE3260F9412A_026501ec-e323-46c5-153a8340b381886a.png\nCategories: Annual Events & Festivals\, Community\, Sports\, Family Fun\, Social Events
+GEO:41.286512;-105.592547
+LOCATION:Albany County Fairgrounds
+SUMMARY:Albany County Fair
+UID:34969@visitlaramie.org
+URL:https://www.visitlaramie.org/event/albany-county-fair/34969/
 END:VEVENT
 END:VCALENDAR
