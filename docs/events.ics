@@ -65,9 +65,9 @@ URL:https://www.visitlaramie.org/event/welcome-to-livin-in-laramie-bbq/38154/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250718
-DESCRIPTION:Greenhill Cemetery Walking Tour\nMore info: https://www.visitlaramie.org/event/greenhill-cemetery-walking-tour/38128/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8953_3A548F9A-F1EA-EC18-2CC6ADF17F732946_3a60bc5f-9c7f-07c8-e4f0af0bcce8cbb6.jpg\nCategories: History
+DESCRIPTION:Greenhill Cemetery Walking Tour\nMore info: https://www.visitlaramie.org/event/greenhill-cemetery-walking-tour/38128/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_2714-1-_3A2CFE49-9DDE-1083-2622A95C25686045_3a6062b8-b5c4-2f3b-2d29608b5e0bfae7.jpg\nCategories: History
 GEO:41.315518;-105.576995
-LOCATION:Greenhill Cemetery\, 455 N. 15th St. Laramie  (add it to your venue list\, it's an annual event)
+LOCATION:Greenhill Cemetery\, 455 N. 15th St. Laramie
 SUMMARY:Greenhill Cemetery Walking Tour
 UID:38128@visitlaramie.org
 URL:https://www.visitlaramie.org/event/greenhill-cemetery-walking-tour/38128/
@@ -98,6 +98,15 @@ LOCATION:University of Wyoming\, Visual Arts Bldg.
 SUMMARY:Summer Croquis - Life Figure Drawing
 UID:38121@visitlaramie.org
 URL:https://www.visitlaramie.org/event/summer-croquis-life-figure-drawing/38121/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250717
+DESCRIPTION:Alex Martinez in Back at Cowgirl Yarn\nMore info: https://www.visitlaramie.org/event/alex-martinez-in-back-at-cowgirl-yarn/38173/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-16-125736_CE3E5F85-EE6F-7BAB-BD787AF16E5D5C5E_ce3fd432-f9fb-0801-623b20067f64bdae.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Alex Martinez in Back at Cowgirl Yarn
+UID:38173@visitlaramie.org
+URL:https://www.visitlaramie.org/event/alex-martinez-in-back-at-cowgirl-yarn/38173/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250811
@@ -136,7 +145,7 @@ UID:38107@visitlaramie.org
 URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/38107/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250723
+DTSTART;VALUE=DATE:20250716
 DESCRIPTION:Bond's Run Club 2025\nMore info: https://www.visitlaramie.org/event/bonds-run-club-2025/38094/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-123934_C20BFBFA-CE2F-8322-29BDBF1E176BFAD3_c20d3352-ab4c-f0f6-91f46fc17b2ba03a.png\nCategories: Community\, Outdoor Recreation
 GEO:41.309643;-105.594735
 LOCATION:Bond's Brewing Company
@@ -187,6 +196,15 @@ LOCATION:Huck Finn Pond - LaPrele Park
 SUMMARY:55th Annual Huck Finn Fishing Derby
 UID:30661@visitlaramie.org
 URL:https://www.visitlaramie.org/event/55th-annual-huck-finn-fishing-derby/30661/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:Soaring\nMore info: https://www.visitlaramie.org/event/soaring/38178/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Soaring_DD5AF8EE-CB17-47A3-8CB429ABE2306DFA_066dce23-ee7b-444a-95ddc9dd1dc4dd1b.png\nCategories: Performing Arts & Culture
+GEO:41.322811;-105.591448
+LOCATION:Cooper Center for Creative Arts
+SUMMARY:Soaring
+UID:38178@visitlaramie.org
+URL:https://www.visitlaramie.org/event/soaring/38178/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
@@ -257,6 +275,15 @@ UID:37895@visitlaramie.org
 URL:https://www.visitlaramie.org/event/eagles-clasic-benefit-car-and-bike-show/37895/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250717
+DESCRIPTION:el Jefe\nMore info: https://www.visitlaramie.org/event/el-jefe/35005/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-16-125349_CDB33972-0D7E-0AA0-50E549FACA45176B_cdb5355c-c117-b9c2-fb418b8217d4392d.png\nCategories: Concerts & Live Music\, Social Events
+GEO:41.310488;-105.591338
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:el Jefe
+UID:35005@visitlaramie.org
+URL:https://www.visitlaramie.org/event/el-jefe/35005/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -319,6 +346,15 @@ UID:38162@visitlaramie.org
 URL:https://www.visitlaramie.org/event/david-graham-and-the-eskimo-brothers/38162/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:Open Mic Poetry\nMore info: https://www.visitlaramie.org/event/open-mic-poetry/38019/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-16-131319_CE6DBF94-9E81-12EA-74D8272A25F2C73A_ce7047c7-b394-3e1f-fe1de432d03b6049.png\nCategories: Community\, Performing Arts & Culture\, Social Events
+GEO:41.312265;-105.595644
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Open Mic Poetry
+UID:38019@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-mic-poetry/38019/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
 DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
 GEO:41.321007;-105.590773
@@ -344,24 +380,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Tyler Halvorson at the Cowboy Saloon & Dance Hall
 UID:38090@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tyler-halvorson-at-the-cowboy-saloon-%26-dance-hall/38090/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250714
-DESCRIPTION:Vedauwoo Youth Climbing Camp - Session 3\nMore info: https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-3/38076/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Event-7.14.2025_EF78DEF7-F0B6-0291-7320C9D4B62F8EB1_ef79d8f3-dd78-8aa2-c67b8eb8c6d506e1.png\nCategories: Community\, Outdoor Recreation\, Education
-GEO:41.292888;-105.577090
-LOCATION:Vedauwoo Recreation Area
-SUMMARY:Vedauwoo Youth Climbing Camp - Session 3
-UID:38076@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vedauwoo-youth-climbing-camp-session-3/38076/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250716
-DESCRIPTION:Fables of the Fall + Cicada Summer + John Poland's Weylian Gaze @ TGU\nMore info: https://www.visitlaramie.org/event/fables-of-the-fall-%2b-cicada-summer-%2b-john-polands-weylian-gaze-%40-tgu/38134/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025.07.16.insta_1867521F-6DB1-4FBF-965FBC8660751F85_e35b981e-1330-44ad-9fb8aa96be3f22c4.png\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-LOCATION:The Great Untamed
-SUMMARY:Fables of the Fall + Cicada Summer + John Poland's Weylian Gaze @ TGU
-UID:38134@visitlaramie.org
-URL:https://www.visitlaramie.org/event/fables-of-the-fall-%2b-cicada-summer-%2b-john-polands-weylian-gaze-%40-tgu/38134/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
@@ -398,6 +416,15 @@ LOCATION:Downtown Laramie
 SUMMARY:Wyoming Book Crawl-Laramie Edition
 UID:38120@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+DESCRIPTION:Agriculture and Art Tour\nMore info: https://www.visitlaramie.org/event/agriculture-and-art-tour/38179/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/495570875_122136685154770051_1282110077606137436_n_CF7C66CF-BDEF-2F58-FC988F4A9436783C_cf94463c-d6d7-fa1c-b4ff89fc6bac3724.jpg\nCategories: Annual Events & Festivals
+GEO:43.075968;-107.290284
+LOCATION:Taste of the Wind\, Deerwood Ranch\, Laramie Research and Extension Center
+SUMMARY:Agriculture and Art Tour
+UID:38179@visitlaramie.org
+URL:https://www.visitlaramie.org/event/agriculture-and-art-tour/38179/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250804
@@ -463,6 +490,15 @@ UID:38065@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:Alma Russ Live\nMore info: https://www.visitlaramie.org/event/alma-russ-live/36451/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-16-134357_CF8234BD-F225-5E06-D72CCF0D98677E83_cf8f9151-a38c-3f66-78a8cceba0d9415b.png\nCategories: Concerts & Live Music\, Social Events
+GEO:41.310488;-105.591338
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:Alma Russ Live
+UID:36451@visitlaramie.org
+URL:https://www.visitlaramie.org/event/alma-russ-live/36451/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250815
 DESCRIPTION:The Grieve with Tuff Bluff\nMore info: https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120011_96E651FD-F0AA-9B70-C02C0CA89F7FD43D_96fc6f77-c82b-8693-c634d1f08cd5231e.png\nCategories: Concerts & Live Music
 GEO:41.310483;-105.591301
@@ -470,6 +506,15 @@ LOCATION:Ruffed Up Duck Saloon
 SUMMARY:The Grieve with Tuff Bluff
 UID:38165@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Evening at the Ivinsons'\nMore info: https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_BE02915A-C828-37EB-E4E3FE9F21B6AEE8_be035d30-fb02-a50a-57b7cd8db4adca00.png\nCategories: Community\, Social Events
+GEO:41.312046;-105.589071
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Evening at the Ivinsons'
+UID:37987@visitlaramie.org
+URL:https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
@@ -514,6 +559,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Dust\, Light\, Dust
 UID:31520@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dust-light-dust/31520/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:Blue Magic: Exploring Cyanotypes with Ligorano Reese - Opening Reception\nMore info: https://www.visitlaramie.org/event/blue-magic%3a-exploring-cyanotypes-with-ligorano-reese-opening-reception/38177/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-16-131618_CEDC7645-FEAA-4B35-53087A771E93E93B_cedd74d0-d435-af93-c742da016608d4c9.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Blue Magic: Exploring Cyanotypes with Ligorano Reese - Opening Reception
+UID:38177@visitlaramie.org
+URL:https://www.visitlaramie.org/event/blue-magic%3a-exploring-cyanotypes-with-ligorano-reese-opening-reception/38177/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250722
