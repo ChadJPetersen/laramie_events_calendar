@@ -56,6 +56,15 @@ UID:38102@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tea-on-tuesday/38102/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250810
+DESCRIPTION:Pour Painting Lesson- Open Cup\nMore info: https://www.visitlaramie.org/event/pour-painting-lesson-open-cup/38180/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-17-095924_FAF44303-E7C6-7581-5370BBCAF85FB1E6_fb0e78b1-0a68-b184-e83f631d4e7f86e0.png\nCategories: Community\, Education\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:TG's Art Studio
+SUMMARY:Pour Painting Lesson- Open Cup
+UID:38180@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pour-painting-lesson-open-cup/38180/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250722
 DESCRIPTION:Welcome to Livin' in Laramie BBQ\nMore info: https://www.visitlaramie.org/event/welcome-to-livin-in-laramie-bbq/38154/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-09-130942_65CFB80F-9EC6-7C10-DFF10D6190FDC489_65d32b8e-fa08-faec-42f944f4f6c5af02.png\nCategories: Community\, Family Fun
 GEO:41.309259;-105.564274
@@ -109,6 +118,15 @@ UID:38173@visitlaramie.org
 URL:https://www.visitlaramie.org/event/alex-martinez-in-back-at-cowgirl-yarn/38173/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250717
+DESCRIPTION:Little Pokes Summer Rodeo Series\nMore info: https://www.visitlaramie.org/event/little-pokes-summer-rodeo-series/37209/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-22-102516_FBFC9FDE-0BF1-1B50-7ED805BAF37549B8_fc3f1366-ebb9-c610-147b35d6869785ec.png\nCategories: Outdoor Recreation\, Sports\, Performing Arts & Culture\, Family Fun
+GEO:41.287684;-105.659222
+LOCATION:Hansen Arena
+SUMMARY:Little Pokes Summer Rodeo Series
+UID:37209@visitlaramie.org
+URL:https://www.visitlaramie.org/event/little-pokes-summer-rodeo-series/37209/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250811
 DESCRIPTION:Jurassic Camp\nMore info: https://www.visitlaramie.org/event/jurassic-camp/38089/\nVenue: LEAP\nVenue Info: https://www.visitlaramie.org/listing/leap/380/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-05-131941_8F624A1A-B97E-E419-C0BA7C32A8A00172_8f633a31-fa73-5a8a-8c625ce70e6cf1b1.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.307087;-105.544293
@@ -152,15 +170,6 @@ LOCATION:Bond's Brewing Company
 SUMMARY:Bond's Run Club 2025
 UID:38094@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-run-club-2025/38094/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-140934_C1B11CF5-9562-8BB9-1A485DBA84A82F1B_c1bc88e7-b2d5-9acf-d41b0e2b1ad95ae8.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Silent Book Club
-UID:38068@visitlaramie.org
-URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250808
@@ -275,13 +284,13 @@ UID:37895@visitlaramie.org
 URL:https://www.visitlaramie.org/event/eagles-clasic-benefit-car-and-bike-show/37895/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250717
-DESCRIPTION:el Jefe\nMore info: https://www.visitlaramie.org/event/el-jefe/35005/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-16-125349_CDB33972-0D7E-0AA0-50E549FACA45176B_cdb5355c-c117-b9c2-fb418b8217d4392d.png\nCategories: Concerts & Live Music\, Social Events
-GEO:41.310488;-105.591338
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:el Jefe
-UID:35005@visitlaramie.org
-URL:https://www.visitlaramie.org/event/el-jefe/35005/
+DTSTART;VALUE=DATE:20250814
+DESCRIPTION:Wyoming WIRED - Calling Women in Agriculture!\nMore info: https://www.visitlaramie.org/event/wyoming-wired-calling-women-in-agriculture!/38183/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-17-130548_01D36204-00B9-E030-4752A13A7402298E_01f83d3d-062b-14e2-f910b822ce4a3f3f.png\nCategories: Community\, University of Wyoming\, Craft Classes & Workshops
+GEO:41.308958;-105.620160
+LOCATION:Hansen Arena
+SUMMARY:Wyoming WIRED - Calling Women in Agriculture!
+UID:38183@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-wired-calling-women-in-agriculture!/38183/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -291,15 +300,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250717
-DESCRIPTION:CGS Centennial Speaker Series: Bridging Global Gaps\nMore info: https://www.visitlaramie.org/event/cgs-centennial-speaker-series%3a-bridging-global-gaps/38117/\nVenue: Centennial Library\nVenue Info: https://www.visitlaramie.org/listing/centennial-library/1797/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Centennial-July-2025---17x11_99560E4D-FE36-6076-4649C34AC604CB1C_995f0139-0d52-3464-1784a2e9099ceedb.png\nCategories: Community\, Education
-GEO:41.298808;-106.141485
-LOCATION:Centennial Library
-SUMMARY:CGS Centennial Speaker Series: Bridging Global Gaps
-UID:38117@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cgs-centennial-speaker-series%3a-bridging-global-gaps/38117/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250724
@@ -382,6 +382,15 @@ UID:38090@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tyler-halvorson-at-the-cowboy-saloon-%26-dance-hall/38090/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250817
+DESCRIPTION:Heal & Restore: Sound Healing and Restorative Yoga\nMore info: https://www.visitlaramie.org/event/heal-%26-restore%3a-sound-healing-and-restorative-yoga/38181/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-17-101151_FB86F3A4-9AD6-19A9-69A45B65D9B21E6B_fb955877-059d-5349-e4ada42f98953fd7.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Heal & Restore: Sound Healing and Restorative Yoga
+UID:38181@visitlaramie.org
+URL:https://www.visitlaramie.org/event/heal-%26-restore%3a-sound-healing-and-restorative-yoga/38181/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
 DESCRIPTION:Laramie Range Epic\nMore info: https://www.visitlaramie.org/event/laramie-range-epic/37781/\nVenue: Happy Jack Recreational Area\nVenue Info: https://www.visitlaramie.org/listing/happy-jack-recreational-area/172/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/enduro-2025-yellow-circles-01_73F640CE-F4A3-AB1B-6B697117A20BD10D_73f7a853-a109-cf23-cccd3df095807c50.png\nCategories: Outdoor Recreation
 GEO:41.311776;-105.595892
@@ -398,6 +407,15 @@ LOCATION:Glenn “Red” Jacoby Golf Course
 SUMMARY:2025 Health Links Golf Tournament
 UID:38160@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2025-health-links-golf-tournament/38160/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Evening at the Ivinsons'\nMore info: https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_BE02915A-C828-37EB-E4E3FE9F21B6AEE8_be035d30-fb02-a50a-57b7cd8db4adca00.png\nCategories: Community\, Social Events
+GEO:41.312046;-105.589071
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Evening at the Ivinsons'
+UID:37987@visitlaramie.org
+URL:https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250710
@@ -508,13 +526,13 @@ UID:38165@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250816
-DESCRIPTION:Evening at the Ivinsons'\nMore info: https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_BE02915A-C828-37EB-E4E3FE9F21B6AEE8_be035d30-fb02-a50a-57b7cd8db4adca00.png\nCategories: Community\, Social Events
-GEO:41.312046;-105.589071
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Evening at the Ivinsons'
-UID:37987@visitlaramie.org
-URL:https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:Soaring: Take Flight with an Art Exhibition Exploring all Things That Fly\nMore info: https://www.visitlaramie.org/event/soaring%3a-take-flight-with-an-art-exhibition-exploring-all-things-that-fly/38184/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/soaring_02473D1D-F82A-FF3D-19F3158C35B88F05_026f0885-fe86-ef47-731fe09f54480d80.jpg\nCategories: Community\, Performing Arts & Culture\, Education
+GEO:41.322811;-105.591448
+LOCATION:Cooper Center for Creative Arts
+SUMMARY:Soaring: Take Flight with an Art Exhibition Exploring all Things That Fly
+UID:38184@visitlaramie.org
+URL:https://www.visitlaramie.org/event/soaring%3a-take-flight-with-an-art-exhibition-exploring-all-things-that-fly/38184/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
@@ -587,6 +605,15 @@ UID:38111@visitlaramie.org
 URL:https://www.visitlaramie.org/event/crafty-hour-printmaking-101/38111/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250817
+DESCRIPTION:"(Un) Common Treads"\nMore info: https://www.visitlaramie.org/event/(un)-common-treads/38096/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-LAQ-poster_EF3FCC7D-9BD6-BA04-DD5610077CD05BD3_f013d615-e9c4-9e76-9927aee6bd1a6c95.jpg\nCategories: Community
+GEO:41.304361;-105.595919
+LOCATION:SOK Gallery\, 1004 S. 2nd St.\, Laramie
+SUMMARY:"(Un) Common Treads"
+UID:38096@visitlaramie.org
+URL:https://www.visitlaramie.org/event/(un)-common-treads/38096/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250724
 DESCRIPTION:Super Soaring Kites Art World\nMore info: https://www.visitlaramie.org/event/super-soaring-kites-art-world/38137/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.24.25-Art-Event_2AE1D8A2-C581-D4D0-95086D398EE43A93_2b740eb9-a3a7-a20a-a1e9cee65fa48d41.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -603,6 +630,15 @@ LOCATION:WYCO Volunteer Fire Department
 SUMMARY:WYCO Volunteer Fire Department Annual Fundraiser.
 UID:31506@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyco-volunteer-fire-department-annual-fundraiser/31506/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+DESCRIPTION:Space to Rest: Shavasana + Yoga Nidra\nMore info: https://www.visitlaramie.org/event/space-to-rest%3a-shavasana-%2b-yoga-nidra/38182/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-17-125207_0121A36E-0700-F777-F9938B37B752C26C_016ea018-ff73-bece-021405f68cf3a6d1.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Space to Rest: Shavasana + Yoga Nidra
+UID:38182@visitlaramie.org
+URL:https://www.visitlaramie.org/event/space-to-rest%3a-shavasana-%2b-yoga-nidra/38182/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
