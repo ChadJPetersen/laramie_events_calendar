@@ -319,12 +319,13 @@ UID:37984@visitlaramie.org
 URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250720
-DESCRIPTION:Night Heron Books & Coffeehouse Presents: Brock Stephens\nMore info: https://www.visitlaramie.org/event/night-heron-books-%26-coffeehouse-presents%3a-brock-stephens/38188/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/651/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-18-113743_31F68AAE-E9DD-581F-111FDAE184869394_31fcb635-fe0a-001b-c948ff0b9bcd4c6d.png\nCategories: Community\, Education\, Social Events
-GEO:41.312265;-105.595644
-SUMMARY:Night Heron Books & Coffeehouse Presents: Brock Stephens
-UID:38188@visitlaramie.org
-URL:https://www.visitlaramie.org/event/night-heron-books-%26-coffeehouse-presents%3a-brock-stephens/38188/
+DTSTART;VALUE=DATE:20250809
+DESCRIPTION:Med Bow Rail Marathon and Half Marathon\nMore info: https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/\nVenue: Medicine Bow National Forest\nVenue Info: https://www.visitlaramie.org/listing/medicine-bow-national-forest/168/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/aid-station-smaller_8A59340D-97CC-290F-E489AE3A8432D2BC_8a8f7800-0e9b-dfd4-4ba82e6d7dd1818e.jpg\nCategories: Annual Events & Festivals
+GEO:41.308507;-105.629618
+LOCATION:Medicine Bow National Forest
+SUMMARY:Med Bow Rail Marathon and Half Marathon
+UID:38012@visitlaramie.org
+URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250802
@@ -336,15 +337,6 @@ UID:38090@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tyler-halvorson-at-the-cowboy-saloon-%26-dance-hall/38090/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Med Bow Rail Marathon and Half Marathon\nMore info: https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/\nVenue: Medicine Bow National Forest\nVenue Info: https://www.visitlaramie.org/listing/medicine-bow-national-forest/168/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/aid-station-smaller_8A59340D-97CC-290F-E489AE3A8432D2BC_8a8f7800-0e9b-dfd4-4ba82e6d7dd1818e.jpg\nCategories: Annual Events & Festivals
-GEO:41.308507;-105.629618
-LOCATION:Medicine Bow National Forest
-SUMMARY:Med Bow Rail Marathon and Half Marathon
-UID:38012@visitlaramie.org
-URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250817
 DESCRIPTION:Heal & Restore: Sound Healing and Restorative Yoga\nMore info: https://www.visitlaramie.org/event/heal-%26-restore%3a-sound-healing-and-restorative-yoga/38181/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-17-101151_FB86F3A4-9AD6-19A9-69A45B65D9B21E6B_fb955877-059d-5349-e4ada42f98953fd7.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.313179;-105.595024
@@ -352,6 +344,15 @@ LOCATION:Seek Yoga Studio
 SUMMARY:Heal & Restore: Sound Healing and Restorative Yoga
 UID:38181@visitlaramie.org
 URL:https://www.visitlaramie.org/event/heal-%26-restore%3a-sound-healing-and-restorative-yoga/38181/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250820
+DESCRIPTION:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight\nMore info: https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/08.20.25-Event_8FFA5A7D-C819-153B-6D1F4EFCB1EC80CE_90009b47-bb82-8dea-b1d3630421f04263.png\nCategories: History\, Community
+GEO:41.310393;-105.594817
+LOCATION:Wyoming Women's History House
+SUMMARY:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight
+UID:38091@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
