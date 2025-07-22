@@ -445,13 +445,13 @@ UID:37169@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-county-fair-smokin-bbq-cook-off/37169/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250721
-DESCRIPTION:Creators Camp\nMore info: https://www.visitlaramie.org/event/creators-camp/38074/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-110725_EEEFA178-0D01-B560-CC0DA3EFBCA1ACD7_ef1f1bb7-e1ab-9f12-a9745a6dcdc6b90d.png\nCategories: Community
-GEO:41.307087;-105.544293
-LOCATION:Ninja Warrior Gym
-SUMMARY:Creators Camp
-UID:38074@visitlaramie.org
-URL:https://www.visitlaramie.org/event/creators-camp/38074/
+DTSTART;VALUE=DATE:20250815
+DESCRIPTION:The Grieve with Tuff Bluff\nMore info: https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120011_96E651FD-F0AA-9B70-C02C0CA89F7FD43D_96fc6f77-c82b-8693-c634d1f08cd5231e.png\nCategories: Concerts & Live Music
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:The Grieve with Tuff Bluff
+UID:38165@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250708
@@ -481,13 +481,13 @@ UID:36451@visitlaramie.org
 URL:https://www.visitlaramie.org/event/alma-russ-live/36451/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-DESCRIPTION:The Grieve with Tuff Bluff\nMore info: https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120011_96E651FD-F0AA-9B70-C02C0CA89F7FD43D_96fc6f77-c82b-8693-c634d1f08cd5231e.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:The Grieve with Tuff Bluff
-UID:38165@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Evening at the Ivinsons'\nMore info: https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_BE02915A-C828-37EB-E4E3FE9F21B6AEE8_be035d30-fb02-a50a-57b7cd8db4adca00.png\nCategories: Community\, Social Events
+GEO:41.312046;-105.589071
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Evening at the Ivinsons'
+UID:37987@visitlaramie.org
+URL:https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250724
@@ -508,13 +508,13 @@ UID:38158@visitlaramie.org
 URL:https://www.visitlaramie.org/event/back-pack-give-a-way/38158/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250816
-DESCRIPTION:Evening at the Ivinsons'\nMore info: https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_BE02915A-C828-37EB-E4E3FE9F21B6AEE8_be035d30-fb02-a50a-57b7cd8db4adca00.png\nCategories: Community\, Social Events
-GEO:41.312046;-105.589071
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Evening at the Ivinsons'
-UID:37987@visitlaramie.org
-URL:https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/
+DTSTART;VALUE=DATE:20250821
+DESCRIPTION:"Psychic" Comedian Peter Antoniou\nMore info: https://www.visitlaramie.org/event/psychic-comedian-peter-antoniou/38093/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110915_C112593D-0693-9A94-C599422AAA663B18_c1342de9-ec1f-4483-0e3ef7b829dd5d1d.png\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center  Gryphon Theatre
+SUMMARY:"Psychic" Comedian Peter Antoniou
+UID:38093@visitlaramie.org
+URL:https://www.visitlaramie.org/event/psychic-comedian-peter-antoniou/38093/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
