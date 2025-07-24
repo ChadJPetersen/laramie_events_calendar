@@ -29,15 +29,6 @@ UID:38168@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-space-between-opening-reception/38168/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250817
-DESCRIPTION:"(Un) Common Treads"\nMore info: https://www.visitlaramie.org/event/(un)-common-treads/38096/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-LAQ-poster_EF3FCC7D-9BD6-BA04-DD5610077CD05BD3_f013d615-e9c4-9e76-9927aee6bd1a6c95.jpg\nCategories: Community
-GEO:41.304361;-105.595919
-LOCATION:SOK Gallery\, 1004 S. 2nd St.\, Laramie
-SUMMARY:"(Un) Common Treads"
-UID:38096@visitlaramie.org
-URL:https://www.visitlaramie.org/event/(un)-common-treads/38096/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250810
 DESCRIPTION:Pour Painting Lesson- Open Cup\nMore info: https://www.visitlaramie.org/event/pour-painting-lesson-open-cup/38180/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-17-095924_FAF44303-E7C6-7581-5370BBCAF85FB1E6_fb0e78b1-0a68-b184-e83f631d4e7f86e0.png\nCategories: Community\, Education\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -181,15 +172,6 @@ UID:36529@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-municipal-band-summer-concert-series/36529/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250723
-DESCRIPTION:Sip 'n Savor at Wyoming Women's History House\nMore info: https://www.visitlaramie.org/event/sip-n-savor-at-wyoming-womens-history-house/36314/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_76E2FCB4-5056-A36F-2380B4DE62CF8127_773d4eb3-5056-a36f-23abb0c3da004de3.png\nCategories: History\, Education\, Social Events
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Sip 'n Savor at Wyoming Women's History House
-UID:36314@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sip-n-savor-at-wyoming-womens-history-house/36314/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250731
 DESCRIPTION:Cornhole Tournament\nMore info: https://www.visitlaramie.org/event/cornhole-tournament/38190/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-18-130755_353ACCBD-B31D-DEE7-716A3D34BB124993_35454659-f150-bc46-1302bf77b174639a.png\nCategories: Community
 GEO:41.286512;-105.592547
@@ -230,6 +212,15 @@ LOCATION:Hansen Arena
 SUMMARY:Wyoming WIRED - Calling Women in Agriculture!
 UID:38183@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-wired-calling-women-in-agriculture!/38183/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250823
+DESCRIPTION:La Grande Fleur\nMore info: https://www.visitlaramie.org/event/la-grande-fleur/38092/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-104143_BD102138-A852-834E-3ECEDC639E765F5D_bd330935-bea2-57d8-c8b2bda34bda8e59.png\nCategories: Community
+GEO:41.310063;-105.565482
+LOCATION:Marian H. Rochelle Gateway Center
+SUMMARY:La Grande Fleur
+UID:38092@visitlaramie.org
+URL:https://www.visitlaramie.org/event/la-grande-fleur/38092/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -285,13 +276,13 @@ UID:38162@visitlaramie.org
 URL:https://www.visitlaramie.org/event/david-graham-and-the-eskimo-brothers/38162/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250723
-DESCRIPTION:Open Mic Poetry\nMore info: https://www.visitlaramie.org/event/open-mic-poetry/38019/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-16-131319_CE6DBF94-9E81-12EA-74D8272A25F2C73A_ce7047c7-b394-3e1f-fe1de432d03b6049.png\nCategories: Community\, Performing Arts & Culture\, Social Events
-GEO:41.312265;-105.595644
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Open Mic Poetry
-UID:38019@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-mic-poetry/38019/
+DTSTART;VALUE=DATE:20250820
+DESCRIPTION:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight\nMore info: https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/08.20.25-Event_8FFA5A7D-C819-153B-6D1F4EFCB1EC80CE_90009b47-bb82-8dea-b1d3630421f04263.png\nCategories: History\, Community
+GEO:41.310393;-105.594817
+LOCATION:Wyoming Women's History House
+SUMMARY:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight
+UID:38091@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
@@ -330,13 +321,22 @@ UID:38181@visitlaramie.org
 URL:https://www.visitlaramie.org/event/heal-%26-restore%3a-sound-healing-and-restorative-yoga/38181/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250820
-DESCRIPTION:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight\nMore info: https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/08.20.25-Event_8FFA5A7D-C819-153B-6D1F4EFCB1EC80CE_90009b47-bb82-8dea-b1d3630421f04263.png\nCategories: History\, Community
-GEO:41.310393;-105.594817
-LOCATION:Wyoming Women's History House
-SUMMARY:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight
-UID:38091@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/
+DTSTART;VALUE=DATE:20250815
+DESCRIPTION:"(Un) Common Threads"\nMore info: https://www.visitlaramie.org/event/(un)-common-threads/38193/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-LAQ-poster_EF3FCC7D-9BD6-BA04-DD5610077CD05BD3_f013d615-e9c4-9e76-9927aee6bd1a6c95.jpg\nCategories: Community
+GEO:41.304361;-105.595919
+LOCATION:SOK Gallery\, 1004 S. 2nd St.\, Laramie
+SUMMARY:"(Un) Common Threads"
+UID:38193@visitlaramie.org
+URL:https://www.visitlaramie.org/event/(un)-common-threads/38193/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250823
+DESCRIPTION:Come to the Source Horse Sale\nMore info: https://www.visitlaramie.org/event/come-to-the-source-horse-sale/38167/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120923_979B2A9A-9358-E6E2-F94FD377BB8023D2_97abdb7d-01c4-a713-afb5e4becc377350.png\nCategories: Community
+GEO:41.286512;-105.592547
+LOCATION:Albany County Fairgrounds
+SUMMARY:Come to the Source Horse Sale
+UID:38167@visitlaramie.org
+URL:https://www.visitlaramie.org/event/come-to-the-source-horse-sale/38167/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
@@ -429,15 +429,6 @@ UID:38165@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250726
-DESCRIPTION:Double Feature: Double Feature: Dark Biosphere + Always Above\nMore info: https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.26.25-2-pm-Event_FB5CA881-FA25-E5C4-78AAD7A6E7FCB9A5_fb5cffa5-a81c-5138-0aec3dbf3b8a378f.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Double Feature: Double Feature: Dark Biosphere + Always Above
-UID:38065@visitlaramie.org
-URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250708
 DESCRIPTION:Laramie Tuesday Cruiser Ride\nMore info: https://www.visitlaramie.org/event/laramie-tuesday-cruiser-ride/38139/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.08.25-Event_2C6161F3-F6A8-924C-3E2CE7C9E96E23A3_2dd2ee5e-fdc2-0e4d-e610ee9eaa765061.png\nCategories: Outdoor Recreation\, Family Fun\, Social Events
 GEO:41.306841;-105.570520
@@ -527,6 +518,15 @@ UID:38111@visitlaramie.org
 URL:https://www.visitlaramie.org/event/crafty-hour-printmaking-101/38111/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250524
+DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Cowboy Yarn Crawl
+UID:37770@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250724
 DESCRIPTION:Super Soaring Kites Art World\nMore info: https://www.visitlaramie.org/event/super-soaring-kites-art-world/38137/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.24.25-Art-Event_2AE1D8A2-C581-D4D0-95086D398EE43A93_2b740eb9-a3a7-a20a-a1e9cee65fa48d41.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -562,13 +562,13 @@ UID:38182@visitlaramie.org
 URL:https://www.visitlaramie.org/event/space-to-rest%3a-shavasana-%2b-yoga-nidra/38182/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250524
-DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Cowboy Yarn Crawl
-UID:37770@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
+DTSTART;VALUE=DATE:20250726
+DESCRIPTION:Double Feature: Double Feature: Dark Biosphere + Always Above\nMore info: https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.26.25-2-pm-Event_FB5CA881-FA25-E5C4-78AAD7A6E7FCB9A5_fb5cffa5-a81c-5138-0aec3dbf3b8a378f.png\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Double Feature: Double Feature: Dark Biosphere + Always Above
+UID:38065@visitlaramie.org
+URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-dark-biosphere-%2b-always-above/38065/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250725
