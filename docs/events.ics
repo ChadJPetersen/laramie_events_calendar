@@ -232,15 +232,6 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-DESCRIPTION:Crafty Hour - Carboard Loom Weaving\nMore info: https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Loom-weaving_261F5333-0E7A-CD2B-0F40533F6A530764_26238067-fa14-6d84-57bdd34ab0e1e11a.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
-GEO:41.307637;-105.594934
-LOCATION:Vida Art Studio
-SUMMARY:Crafty Hour - Carboard Loom Weaving
-UID:38110@visitlaramie.org
-URL:https://www.visitlaramie.org/event/crafty-hour-carboard-loom-weaving/38110/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
 DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
 GEO:41.312330;-105.593102
@@ -456,13 +447,13 @@ UID:37987@visitlaramie.org
 URL:https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-DESCRIPTION:Soaring: Take Flight with an Art Exhibition Exploring all Things That Fly\nMore info: https://www.visitlaramie.org/event/soaring%3a-take-flight-with-an-art-exhibition-exploring-all-things-that-fly/38184/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/soaring_02473D1D-F82A-FF3D-19F3158C35B88F05_026f0885-fe86-ef47-731fe09f54480d80.jpg\nCategories: Community\, Performing Arts & Culture\, Education
-GEO:41.322811;-105.591448
-LOCATION:Cooper Center for Creative Arts
-SUMMARY:Soaring: Take Flight with an Art Exhibition Exploring all Things That Fly
-UID:38184@visitlaramie.org
-URL:https://www.visitlaramie.org/event/soaring%3a-take-flight-with-an-art-exhibition-exploring-all-things-that-fly/38184/
+DTSTART;VALUE=DATE:20250821
+DESCRIPTION:"Psychic" Comedian Peter Antoniou\nMore info: https://www.visitlaramie.org/event/psychic-comedian-peter-antoniou/38093/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110915_C112593D-0693-9A94-C599422AAA663B18_c1342de9-ec1f-4483-0e3ef7b829dd5d1d.png\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center  Gryphon Theatre
+SUMMARY:"Psychic" Comedian Peter Antoniou
+UID:38093@visitlaramie.org
+URL:https://www.visitlaramie.org/event/psychic-comedian-peter-antoniou/38093/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250802
@@ -472,15 +463,6 @@ LOCATION:Cellular Plus
 SUMMARY:Back Pack Give-A-Way
 UID:38158@visitlaramie.org
 URL:https://www.visitlaramie.org/event/back-pack-give-a-way/38158/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250821
-DESCRIPTION:"Psychic" Comedian Peter Antoniou\nMore info: https://www.visitlaramie.org/event/psychic-comedian-peter-antoniou/38093/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110915_C112593D-0693-9A94-C599422AAA663B18_c1342de9-ec1f-4483-0e3ef7b829dd5d1d.png\nCategories: Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center  Gryphon Theatre
-SUMMARY:"Psychic" Comedian Peter Antoniou
-UID:38093@visitlaramie.org
-URL:https://www.visitlaramie.org/event/psychic-comedian-peter-antoniou/38093/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
@@ -525,15 +507,6 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Cowboy Yarn Crawl
 UID:37770@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-DESCRIPTION:Super Soaring Kites Art World\nMore info: https://www.visitlaramie.org/event/super-soaring-kites-art-world/38137/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.24.25-Art-Event_2AE1D8A2-C581-D4D0-95086D398EE43A93_2b740eb9-a3a7-a20a-a1e9cee65fa48d41.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Washington Park
-SUMMARY:Super Soaring Kites Art World
-UID:38137@visitlaramie.org
-URL:https://www.visitlaramie.org/event/super-soaring-kites-art-world/38137/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250726
