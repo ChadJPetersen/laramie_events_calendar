@@ -136,6 +136,15 @@ UID:36529@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-municipal-band-summer-concert-series/36529/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250822
+DESCRIPTION:Gem City Nights - Free Music & Art Event with Patti Fiasco\nMore info: https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-134836_6D55BC49-BC3F-B62D-4DBB67D90DC866A2_6d761a18-f537-5526-9408c538d96b225c.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Family Fun
+GEO:41.307379;-105.596029
+LOCATION:Depot Park/Adjacent to the Farmer's Market
+SUMMARY:Gem City Nights - Free Music & Art Event with Patti Fiasco
+UID:30862@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250731
 DESCRIPTION:Cornhole Tournament\nMore info: https://www.visitlaramie.org/event/cornhole-tournament/38190/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-18-130755_353ACCBD-B31D-DEE7-716A3D34BB124993_35454659-f150-bc46-1302bf77b174639a.png\nCategories: Community
 GEO:41.286512;-105.592547
@@ -204,6 +213,14 @@ LOCATION:Night Heron Books & Coffeehouse
 SUMMARY:Open Mic Poetry at Night Heron
 UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+DESCRIPTION:Wyoming Ag & Art Tour - Albany County\nMore info: https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-112707_68679267-98E0-6502-2EDDA9A8D437D508_697af3cd-d058-e2dc-4015628be66b000e.png\nCategories: History\, Community\, Performing Arts & Culture
+GEO:41.311367;-105.591101
+SUMMARY:Wyoming Ag & Art Tour - Albany County
+UID:38195@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
@@ -340,6 +357,15 @@ UID:38172@visitlaramie.org
 URL:https://www.visitlaramie.org/event/amazing-race-camp/38172/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250814
+DESCRIPTION:EXPLORERS NIGHT: CROSSING THE ATLANTIC\nMore info: https://www.visitlaramie.org/event/explorers-night%3a-crossing-the-atlantic/38191/\nVenue: Laramie's Basecamp\nVenue Info: https://www.visitlaramie.org/listing/laramies-basecamp/384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/EXPLORERS-NIGHT_LEVER_66DCD8A0-CFD4-4012-B0D40AF30E32DBB9_66ea8cb3-0b58-4ec9-f1aa9d5cc66b8a68.png\nCategories: Community\, Outdoor Recreation
+GEO:41.311566;-105.576152
+LOCATION:Laramie's Basecamp
+SUMMARY:EXPLORERS NIGHT: CROSSING THE ATLANTIC
+UID:38191@visitlaramie.org
+URL:https://www.visitlaramie.org/event/explorers-night%3a-crossing-the-atlantic/38191/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250815
 DESCRIPTION:The Grieve with Tuff Bluff\nMore info: https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120011_96E651FD-F0AA-9B70-C02C0CA89F7FD43D_96fc6f77-c82b-8693-c634d1f08cd5231e.png\nCategories: Concerts & Live Music
 GEO:41.310483;-105.591301
@@ -392,6 +418,15 @@ LOCATION:Washington Park
 SUMMARY:Read with a Ranger
 UID:38170@visitlaramie.org
 URL:https://www.visitlaramie.org/event/read-with-a-ranger/38170/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250731
+DESCRIPTION:The Magic Bookcase\nMore info: https://www.visitlaramie.org/event/the-magic-bookcase/38196/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-133828_6CD9516E-C1AE-B91A-C58CA78C2DDEF831_6d0b7493-9ea5-be88-76d67b116fb9d192.png\nCategories: Community\, Family Fun
+GEO:41.311367;-105.591101
+LOCATION:Washington Park
+SUMMARY:The Magic Bookcase
+UID:38196@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-magic-bookcase/38196/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
