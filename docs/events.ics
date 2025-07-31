@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250730
-DESCRIPTION:Wednesdays at the Buck\nMore info: https://www.visitlaramie.org/event/wednesdays-at-the-buck/37730/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-18-115914_32BC0C72-B149-F14E-F12C04D9E61FA9FC_32cbc4a9-0e5a-57f3-f5fc47a0a2bf89b7.png\nCategories: Concerts & Live Music
-GEO:41.311952;-105.595415
-LOCATION:Buckhorn Bar & Parlor
-SUMMARY:Wednesdays at the Buck
-UID:37730@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wednesdays-at-the-buck/37730/
+DTSTART;VALUE=DATE:20250804
+DESCRIPTION:Space Between: exploring where contrast becomes connection\nMore info: https://www.visitlaramie.org/event/space-between%3a-exploring-where-contrast-becomes-connection/38168/\nCategories: Community\, Performing Arts & Culture\, Social Events
+GEO:41.309270;-105.587834
+LOCATION:Laramie Plains Civic Center\, Gorgon Gallery\, Rm 332
+SUMMARY:Space Between: exploring where contrast becomes connection
+UID:38168@visitlaramie.org
+URL:https://www.visitlaramie.org/event/space-between%3a-exploring-where-contrast-becomes-connection/38168/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250810
@@ -36,6 +36,15 @@ LOCATION:Toyota of Laramie
 SUMMARY:Cars and Coffee at Toyota of Laramie
 UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250802
+DESCRIPTION:The Patti Fiasco\nMore info: https://www.visitlaramie.org/event/the-patti-fiasco/36882/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-30-104350_9CB93F42-A851-8268-BE246DA860063169_9cf0b72d-9835-a4ba-e88d67b7916c9f72.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
+GEO:41.298305;-106.141677
+LOCATION:The Trading Post
+SUMMARY:The Patti Fiasco
+UID:36882@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-patti-fiasco/36882/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250811
@@ -83,6 +92,15 @@ UID:38107@visitlaramie.org
 URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/38107/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+DESCRIPTION:307 International Film Festival\nMore info: https://www.visitlaramie.org/event/307-international-film-festival/37897/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-18-103932_A5384043-A454-8A99-6D2EB4129AAB0937_a55ebd63-9dc1-eccc-6294b623af2a0ea8.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.310792;-105.561090
+LOCATION:Studio City Laramie
+SUMMARY:307 International Film Festival
+UID:37897@visitlaramie.org
+URL:https://www.visitlaramie.org/event/307-international-film-festival/37897/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250716
 DESCRIPTION:Bond's Run Club 2025\nMore info: https://www.visitlaramie.org/event/bonds-run-club-2025/38094/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-123934_C20BFBFA-CE2F-8322-29BDBF1E176BFAD3_c20d3352-ab4c-f0f6-91f46fc17b2ba03a.png\nCategories: Community\, Outdoor Recreation
 GEO:41.309643;-105.594735
@@ -125,15 +143,6 @@ LOCATION:United Methodist Church
 SUMMARY:Book Discussion: THE FROZEN RIVER by Ariel Lawhon
 UID:38171@visitlaramie.org
 URL:https://www.visitlaramie.org/event/book-discussion%3a-the-frozen-river-by-ariel-lawhon/38171/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250709
-DESCRIPTION:Laramie Municipal Band Summer Concert Series\nMore info: https://www.visitlaramie.org/event/laramie-municipal-band-summer-concert-series/36529/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/bandshell_5270286D-5056-A36F-23AA592DD5E12317_527c8fa5-5056-a36f-236efe8518337c04.jpg\nCategories: Concerts & Live Music\, Community\, University of Wyoming\, Performing Arts & Culture
-GEO:41.306193;-105.573609
-LOCATION:Washington Park Bandshell
-SUMMARY:Laramie Municipal Band Summer Concert Series
-UID:36529@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-municipal-band-summer-concert-series/36529/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250822
@@ -206,6 +215,14 @@ UID:37705@visitlaramie.org
 URL:https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+DESCRIPTION:Wyoming Ag & Art Tour - Albany County\nMore info: https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-112707_68679267-98E0-6502-2EDDA9A8D437D508_697af3cd-d058-e2dc-4015628be66b000e.png\nCategories: History\, Community\, Performing Arts & Culture
+GEO:41.311367;-105.591101
+SUMMARY:Wyoming Ag & Art Tour - Albany County
+UID:38195@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
 GEO:41.312265;-105.595644
@@ -213,14 +230,6 @@ LOCATION:Night Heron Books & Coffeehouse
 SUMMARY:Open Mic Poetry at Night Heron
 UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Wyoming Ag & Art Tour - Albany County\nMore info: https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-112707_68679267-98E0-6502-2EDDA9A8D437D508_697af3cd-d058-e2dc-4015628be66b000e.png\nCategories: History\, Community\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Wyoming Ag & Art Tour - Albany County
-UID:38195@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
@@ -340,12 +349,12 @@ URL:https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Agriculture and Art Tour\nMore info: https://www.visitlaramie.org/event/agriculture-and-art-tour/38179/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/495570875_122136685154770051_1282110077606137436_n_CF7C66CF-BDEF-2F58-FC988F4A9436783C_cf94463c-d6d7-fa1c-b4ff89fc6bac3724.jpg\nCategories: Annual Events & Festivals
-GEO:43.075968;-107.290284
-LOCATION:Taste of the Wind\, Deerwood Ranch\, Laramie Research and Extension Center
-SUMMARY:Agriculture and Art Tour
-UID:38179@visitlaramie.org
-URL:https://www.visitlaramie.org/event/agriculture-and-art-tour/38179/
+DESCRIPTION:2025 Lemonade Day\nMore info: https://www.visitlaramie.org/event/2025-lemonade-day/36498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-30-100331_995F56EC-0660-3ECA-361024C8F98E5110_99a4bf37-f311-df70-87b31452f6eaaa7e.png\nCategories: Community\, Family Fun
+GEO:41.311367;-105.591101
+LOCATION:40 Locations Citywide
+SUMMARY:2025 Lemonade Day
+UID:36498@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2025-lemonade-day/36498/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250804
@@ -355,6 +364,15 @@ LOCATION:LEAP
 SUMMARY:Amazing Race Camp
 UID:38172@visitlaramie.org
 URL:https://www.visitlaramie.org/event/amazing-race-camp/38172/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+DESCRIPTION:Agriculture and Art Tour\nMore info: https://www.visitlaramie.org/event/agriculture-and-art-tour/38179/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/495570875_122136685154770051_1282110077606137436_n_CF7C66CF-BDEF-2F58-FC988F4A9436783C_cf94463c-d6d7-fa1c-b4ff89fc6bac3724.jpg\nCategories: Annual Events & Festivals
+GEO:43.075968;-107.290284
+LOCATION:Taste of the Wind\, Deerwood Ranch\, Laramie Research and Extension Center
+SUMMARY:Agriculture and Art Tour
+UID:38179@visitlaramie.org
+URL:https://www.visitlaramie.org/event/agriculture-and-art-tour/38179/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
