@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250824
+DESCRIPTION:Laramie Young Professions Annual Cornhole Tournement\nMore info: https://www.visitlaramie.org/event/laramie-young-professions-annual-cornhole-tournement/38200/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-131951_D34E2DA8-0D08-B762-085F0D155BE77A0D_d34f9cec-0b5d-b70b-faf00972136db872.png\nCategories: Annual Events & Festivals
+GEO:41.308353;-105.596400
+LOCATION:Historic Laramie Union Pacific Train Depot
+SUMMARY:Laramie Young Professions Annual Cornhole Tournement
+UID:38200@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-young-professions-annual-cornhole-tournement/38200/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250804
 DESCRIPTION:Space Between: exploring where contrast becomes connection\nMore info: https://www.visitlaramie.org/event/space-between%3a-exploring-where-contrast-becomes-connection/38168/\nCategories: Community\, Performing Arts & Culture\, Social Events
 GEO:41.309270;-105.587834
@@ -72,6 +81,15 @@ LOCATION:Laramie Chamber Business Alliance
 SUMMARY:307 Glow & Go Race
 UID:38140@visitlaramie.org
 URL:https://www.visitlaramie.org/event/307-glow-%26-go-race/38140/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250811
+DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/38199/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/655/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_7205_A6064256-C770-0E26-186B00EFE70D9B2A_a626c0cf-fa8b-0e8d-050cb76c7419567d.jpg\nCategories: Annual Events & Festivals
+GEO:41.312184;-105.592992
+LOCATION:St. Matthew's Cathedral
+SUMMARY:Wyoming International Chamber Music Festival
+UID:38199@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/38199/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250822
@@ -145,6 +163,15 @@ UID:38171@visitlaramie.org
 URL:https://www.visitlaramie.org/event/book-discussion%3a-the-frozen-river-by-ariel-lawhon/38171/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250129
+DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
+GEO:41.312265;-105.595644
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Open Mic Poetry at Night Heron
+UID:34904@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250822
 DESCRIPTION:Gem City Nights - Free Music & Art Event with Patti Fiasco\nMore info: https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-134836_6D55BC49-BC3F-B62D-4DBB67D90DC866A2_6d761a18-f537-5526-9408c538d96b225c.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Family Fun
 GEO:41.307379;-105.596029
@@ -152,24 +179,6 @@ LOCATION:Depot Park/Adjacent to the Farmer's Market
 SUMMARY:Gem City Nights - Free Music & Art Event with Patti Fiasco
 UID:30862@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250731
-DESCRIPTION:Cornhole Tournament\nMore info: https://www.visitlaramie.org/event/cornhole-tournament/38190/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-18-130755_353ACCBD-B31D-DEE7-716A3D34BB124993_35454659-f150-bc46-1302bf77b174639a.png\nCategories: Community
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Cornhole Tournament
-UID:38190@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cornhole-tournament/38190/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250731
-DESCRIPTION:George Ducas Live\nMore info: https://www.visitlaramie.org/event/george-ducas-live/38164/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-111010_9517D4F4-C251-707C-6E2337E2FF26EE79_951f98ce-d93b-8f05-d3d1caf8fb180e65.png\nCategories: Concerts & Live Music
-GEO:41.312609;-105.595118
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:George Ducas Live
-UID:38164@visitlaramie.org
-URL:https://www.visitlaramie.org/event/george-ducas-live/38164/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250801
@@ -206,13 +215,22 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250325
-DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
-GEO:41.312330;-105.593102
-LOCATION:St Matthew's Cathedral
-SUMMARY:Yoga at the Cathedral
-UID:37705@visitlaramie.org
-URL:https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/
+DTSTART;VALUE=DATE:20250823
+DESCRIPTION:Big Blocks & Brews Car Show\nMore info: https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/38201/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-132602_D37CC701-EDAC-6579-F21922161865AECD_d37dffce-cfe6-3be1-fa79822dd00e54ad.png\nCategories: Community\, Social Events
+GEO:41.309643;-105.594735
+LOCATION:Bond's Brewing Company
+SUMMARY:Big Blocks & Brews Car Show
+UID:38201@visitlaramie.org
+URL:https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/38201/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250813
+DESCRIPTION:Jascha Herdt & J Shogren\nMore info: https://www.visitlaramie.org/event/jascha-herdt-%26-j-shogren/37614/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-133711_D3D31FAF-C956-2D07-55BEBA36F217CE47_d3dd2cb6-a0d7-ebbf-8a149207eae4cf12.png\nCategories: Concerts & Live Music
+GEO:41.311952;-105.595415
+LOCATION:Buckhorn Bar & Parlor
+SUMMARY:Jascha Herdt & J Shogren
+UID:37614@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jascha-herdt-%26-j-shogren/37614/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250809
@@ -223,13 +241,13 @@ UID:38195@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250129
-DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
-GEO:41.312265;-105.595644
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Open Mic Poetry at Night Heron
-UID:34904@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
+DTSTART;VALUE=DATE:20250325
+DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
+GEO:41.312330;-105.593102
+LOCATION:St Matthew's Cathedral
+SUMMARY:Yoga at the Cathedral
+UID:37705@visitlaramie.org
+URL:https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
@@ -258,6 +276,15 @@ UID:38091@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250803
+DESCRIPTION:Braydon Zink - Laramie\, WY\nMore info: https://www.visitlaramie.org/event/braydon-zink-laramie-wy/38103/\nVenue: WyColo Lodge\nVenue Info: https://www.visitlaramie.org/listing/wycolo-lodge/339/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-124947_F8674230-EDCD-EAD6-A3F5A028E86A3481_f87c7307-01fc-708f-7b482669b46b78a7.png\nCategories: Performing Arts & Culture
+GEO:41.103832;-106.070214
+LOCATION:WyColo Lodge
+SUMMARY:Braydon Zink - Laramie\, WY
+UID:38103@visitlaramie.org
+URL:https://www.visitlaramie.org/event/braydon-zink-laramie-wy/38103/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
 DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
 GEO:41.321007;-105.590773
@@ -265,15 +292,6 @@ LOCATION:High Iron Rail Car\, Corner of 4th and Canby Street
 SUMMARY:High Iron: Opening Hours
 UID:37984@visitlaramie.org
 URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Med Bow Rail Marathon and Half Marathon\nMore info: https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/\nVenue: Medicine Bow National Forest\nVenue Info: https://www.visitlaramie.org/listing/medicine-bow-national-forest/168/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/aid-station-smaller_8A59340D-97CC-290F-E489AE3A8432D2BC_8a8f7800-0e9b-dfd4-4ba82e6d7dd1818e.jpg\nCategories: Annual Events & Festivals
-GEO:41.308507;-105.629618
-LOCATION:Medicine Bow National Forest
-SUMMARY:Med Bow Rail Marathon and Half Marathon
-UID:38012@visitlaramie.org
-URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250802
@@ -285,6 +303,15 @@ UID:38090@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tyler-halvorson-at-the-cowboy-saloon-%26-dance-hall/38090/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250809
+DESCRIPTION:Med Bow Rail Marathon and Half Marathon\nMore info: https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/\nVenue: Medicine Bow National Forest\nVenue Info: https://www.visitlaramie.org/listing/medicine-bow-national-forest/168/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/aid-station-smaller_8A59340D-97CC-290F-E489AE3A8432D2BC_8a8f7800-0e9b-dfd4-4ba82e6d7dd1818e.jpg\nCategories: Annual Events & Festivals
+GEO:41.308507;-105.629618
+LOCATION:Medicine Bow National Forest
+SUMMARY:Med Bow Rail Marathon and Half Marathon
+UID:38012@visitlaramie.org
+URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250817
 DESCRIPTION:Heal & Restore: Sound Healing and Restorative Yoga\nMore info: https://www.visitlaramie.org/event/heal-%26-restore%3a-sound-healing-and-restorative-yoga/38181/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-17-101151_FB86F3A4-9AD6-19A9-69A45B65D9B21E6B_fb955877-059d-5349-e4ada42f98953fd7.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.313179;-105.595024
@@ -292,6 +319,15 @@ LOCATION:Seek Yoga Studio
 SUMMARY:Heal & Restore: Sound Healing and Restorative Yoga
 UID:38181@visitlaramie.org
 URL:https://www.visitlaramie.org/event/heal-%26-restore%3a-sound-healing-and-restorative-yoga/38181/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250805
+DESCRIPTION:Bond's Trivia & Tacos Night\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-133010_D3950AB0-0555-6E30-3A8DE518E87CC400_d3b73155-b2bf-cc8b-d45f3fe48f1b6b76.png\nCategories: Community\, Social Events
+GEO:41.309652;-105.594751
+LOCATION:Bond's Brewing Company
+SUMMARY:Bond's Trivia & Tacos Night
+UID:36915@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250815
@@ -328,15 +364,6 @@ LOCATION:Smile Doctors Parking Lot
 SUMMARY:Foam Party
 UID:38186@visitlaramie.org
 URL:https://www.visitlaramie.org/event/foam-party/38186/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250710
-DESCRIPTION:Line Dance Shuffle\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle/38127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-27-155523_023E33B3-B6B5-8312-CFE19E1296028077_028de4b3-09c4-c349-7a8fd34afec0da7b.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.304734;-105.549039
-LOCATION:Laramie Rec Center
-SUMMARY:Line Dance Shuffle
-UID:38127@visitlaramie.org
-URL:https://www.visitlaramie.org/event/line-dance-shuffle/38127/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
@@ -436,15 +463,6 @@ LOCATION:Washington Park
 SUMMARY:Read with a Ranger
 UID:38170@visitlaramie.org
 URL:https://www.visitlaramie.org/event/read-with-a-ranger/38170/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250731
-DESCRIPTION:The Magic Bookcase\nMore info: https://www.visitlaramie.org/event/the-magic-bookcase/38196/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-133828_6CD9516E-C1AE-B91A-C58CA78C2DDEF831_6d0b7493-9ea5-be88-76d67b116fb9d192.png\nCategories: Community\, Family Fun
-GEO:41.311367;-105.591101
-LOCATION:Washington Park
-SUMMARY:The Magic Bookcase
-UID:38196@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-magic-bookcase/38196/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
