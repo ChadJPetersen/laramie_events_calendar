@@ -260,15 +260,6 @@ UID:38012@visitlaramie.org
 URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250803
-DESCRIPTION:Braydon Zink - Laramie\, WY\nMore info: https://www.visitlaramie.org/event/braydon-zink-laramie-wy/38103/\nVenue: WyColo Lodge\nVenue Info: https://www.visitlaramie.org/listing/wycolo-lodge/339/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-17-124947_F8674230-EDCD-EAD6-A3F5A028E86A3481_f87c7307-01fc-708f-7b482669b46b78a7.png\nCategories: Performing Arts & Culture
-GEO:41.103832;-106.070214
-LOCATION:WyColo Lodge
-SUMMARY:Braydon Zink - Laramie\, WY
-UID:38103@visitlaramie.org
-URL:https://www.visitlaramie.org/event/braydon-zink-laramie-wy/38103/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
 DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
 GEO:41.321007;-105.590773
