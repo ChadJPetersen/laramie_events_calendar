@@ -394,15 +394,6 @@ UID:37970@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dome-after-dark-live-event/37970/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250805
-DESCRIPTION:Bond's Trivia & Tacos Night\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-133010_D3950AB0-0555-6E30-3A8DE518E87CC400_d3b73155-b2bf-cc8b-d45f3fe48f1b6b76.png\nCategories: Community\, Social Events
-GEO:41.309652;-105.594751
-LOCATION:Bond's Brewing Company
-SUMMARY:Bond's Trivia & Tacos Night
-UID:36915@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
 DESCRIPTION:"The Sun: Our Living Star"\nMore info: https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/sun-living-star_7C348D6B-5056-A36F-2390F2B6203B0215_7c367e10-5056-a36f-2307789ef1d19f39.jpg\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -598,15 +589,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Search for Extra-Terrestrial Life"
 UID:31027@visitlaramie.org
 URL:https://www.visitlaramie.org/event/search-for-extra-terrestrial-life/31027/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250722
-DESCRIPTION:Read with a Ranger\nMore info: https://www.visitlaramie.org/event/read-with-a-ranger/38170/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-15-110933_967E1A6B-D01F-E2E3-C68B9E7638B75434_969084f2-e921-ca74-34cfad745e164f17.png\nCategories: Community\, Outdoor Recreation
-GEO:41.311367;-105.591101
-LOCATION:Washington Park
-SUMMARY:Read with a Ranger
-UID:38170@visitlaramie.org
-URL:https://www.visitlaramie.org/event/read-with-a-ranger/38170/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
