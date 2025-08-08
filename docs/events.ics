@@ -235,6 +235,15 @@ UID:36340@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/36340/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+DESCRIPTION:Dome Club (Learn Immersive Dome Technology)\nMore info: https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_7C50F81E-0DA4-2243-40CFCB6F24A9DB6D_7c608e3a-e8e3-4032-1c1a5954716b25fe.png\nCategories: University of Wyoming\, Education
+GEO:41.312129;-105.579414
+LOCATION:Basement of Physical Sciences Building
+SUMMARY:Dome Club (Learn Immersive Dome Technology)
+UID:37252@visitlaramie.org
+URL:https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250822
 DESCRIPTION:Gem City Nights - Free Music & Art Event with Patti Fiasco\nMore info: https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-134836_6D55BC49-BC3F-B62D-4DBB67D90DC866A2_6d761a18-f537-5526-9408c538d96b225c.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Family Fun
 GEO:41.307379;-105.596029
