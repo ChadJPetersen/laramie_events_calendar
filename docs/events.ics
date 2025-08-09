@@ -119,15 +119,6 @@ UID:38166@visitlaramie.org
 URL:https://www.visitlaramie.org/event/espiaille-%2b-cicada-summer-live/38166/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250325
-DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
-GEO:41.312330;-105.593102
-LOCATION:St Matthew's Cathedral
-SUMMARY:Yoga at the Cathedral
-UID:37705@visitlaramie.org
-URL:https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250906
 DESCRIPTION:25th annual Wyoming Buddy Walk\nMore info: https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BW-2025-postcard-7-x-5-in-_93EA2B97-0964-B688-B3FAAFC4D2817CAD_93f0df0a-b04e-3497-5e839d0545900e82.jpg\nCategories: Community
 GEO:41.322649;-105.592719
@@ -164,13 +155,13 @@ UID:38094@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-run-club-2025/38094/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250808
-DESCRIPTION:Bottomland Live\nMore info: https://www.visitlaramie.org/event/bottomland-live/38159/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-102730_9395B7C5-B791-5C97-F0A08B02AF2B18F6_9398cdcf-d4ea-05ff-334bf444232d4a63.png\nCategories: Concerts & Live Music
-GEO:41.312609;-105.595118
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Bottomland Live
-UID:38159@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bottomland-live/38159/
+DTSTART;VALUE=DATE:20250619
+DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-140934_C1B11CF5-9562-8BB9-1A485DBA84A82F1B_c1bc88e7-b2d5-9acf-d41b0e2b1ad95ae8.png\nCategories: Community
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Silent Book Club
+UID:38068@visitlaramie.org
+URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250815
@@ -180,15 +171,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: Funk
 UID:38061@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-funk/38061/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-140934_C1B11CF5-9562-8BB9-1A485DBA84A82F1B_c1bc88e7-b2d5-9acf-d41b0e2b1ad95ae8.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Silent Book Club
-UID:38068@visitlaramie.org
-URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
@@ -314,13 +296,13 @@ UID:38195@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250808
-DESCRIPTION:Mars - Planetarium Show\nMore info: https://www.visitlaramie.org/event/mars-planetarium-show/35017/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events9_9C7D4241-5056-A36F-233F5DA328307674_9c7f4239-5056-a36f-235d20ce15306c61.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Mars - Planetarium Show
-UID:35017@visitlaramie.org
-URL:https://www.visitlaramie.org/event/mars-planetarium-show/35017/
+DTSTART;VALUE=DATE:20250325
+DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
+GEO:41.312330;-105.593102
+LOCATION:St Matthew's Cathedral
+SUMMARY:Yoga at the Cathedral
+UID:37705@visitlaramie.org
+URL:https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250812
@@ -448,15 +430,6 @@ UID:35015@visitlaramie.org
 URL:https://www.visitlaramie.org/event/hot-and-energetic-universe/35015/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250808
-DESCRIPTION:2025 Health Links Golf Tournament\nMore info: https://www.visitlaramie.org/event/2025-health-links-golf-tournament/38160/\nVenue: Glenn “Red” Jacoby Golf Course\nVenue Info: https://www.visitlaramie.org/listing/glenn-%e2%80%9cred%e2%80%9d-jacoby-golf-course/224/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-103113_93BB75A1-0360-0ABC-42123043B4BDC89E_93bf720b-df5d-6bbf-05993d630fc5244a.png\nCategories: Annual Events & Festivals\, Outdoor Recreation
-GEO:41.313401;-105.555272
-LOCATION:Glenn “Red” Jacoby Golf Course
-SUMMARY:2025 Health Links Golf Tournament
-UID:38160@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2025-health-links-golf-tournament/38160/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
 DESCRIPTION:Come to the Source Horse Sale\nMore info: https://www.visitlaramie.org/event/come-to-the-source-horse-sale/38167/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120923_979B2A9A-9358-E6E2-F94FD377BB8023D2_97abdb7d-01c4-a713-afb5e4becc377350.png\nCategories: Community
 GEO:41.286512;-105.592547
@@ -473,15 +446,6 @@ LOCATION:Smile Doctors Parking Lot
 SUMMARY:Foam Party
 UID:38186@visitlaramie.org
 URL:https://www.visitlaramie.org/event/foam-party/38186/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250808
-DESCRIPTION:"Liquid Sky: Synthwave\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/38062/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Synthwave
-UID:38062@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/38062/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
@@ -508,15 +472,6 @@ LOCATION:40 Locations Citywide
 SUMMARY:2025 Lemonade Day
 UID:36498@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2025-lemonade-day/36498/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
-DESCRIPTION:Amazing Race Camp\nMore info: https://www.visitlaramie.org/event/amazing-race-camp/38172/\nVenue: LEAP\nVenue Info: https://www.visitlaramie.org/listing/leap/380/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-15-113528_97F157D6-BF33-DE58-CB5B71E00DECA625_98038296-a4c7-1e66-05773f355655961d.png\nCategories: Community\, Outdoor Recreation
-GEO:41.307087;-105.544293
-LOCATION:LEAP
-SUMMARY:Amazing Race Camp
-UID:38172@visitlaramie.org
-URL:https://www.visitlaramie.org/event/amazing-race-camp/38172/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250809
