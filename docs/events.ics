@@ -119,15 +119,6 @@ UID:38166@visitlaramie.org
 URL:https://www.visitlaramie.org/event/espiaille-%2b-cicada-summer-live/38166/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250906
-DESCRIPTION:25th annual Wyoming Buddy Walk\nMore info: https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BW-2025-postcard-7-x-5-in-_93EA2B97-0964-B688-B3FAAFC4D2817CAD_93f0df0a-b04e-3497-5e839d0545900e82.jpg\nCategories: Community
-GEO:41.322649;-105.592719
-LOCATION:Washington Park Bandshell
-SUMMARY:25th annual Wyoming Buddy Walk
-UID:38169@visitlaramie.org
-URL:https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250620
 DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/38107/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Farmersmarket-logo_00CBFB33-0953-3873-966EE253205A3852_00e2a7d3-ec21-ae73-f15905832d23fd4e.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
 GEO:41.310946;-105.596164
@@ -208,13 +199,13 @@ UID:38203@visitlaramie.org
 URL:https://www.visitlaramie.org/event/centennial-speaker-series%3a-bridging-global-gaps/38203/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Liquid Sky: Retro Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/36340/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_A78BFA83-5056-A36F-238B0D1C95945000_a794b40c-5056-a36f-232362abd9403e92.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Retro Rock
-UID:36340@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/36340/
+DTSTART;VALUE=DATE:20250822
+DESCRIPTION:Gem City Nights - Free Music & Art Event with Patti Fiasco\nMore info: https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-134836_6D55BC49-BC3F-B62D-4DBB67D90DC866A2_6d761a18-f537-5526-9408c538d96b225c.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Family Fun
+GEO:41.307379;-105.596029
+LOCATION:Depot Park/Adjacent to the Farmer's Market
+SUMMARY:Gem City Nights - Free Music & Art Event with Patti Fiasco
+UID:30862@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250812
@@ -224,15 +215,6 @@ LOCATION:Basement of Physical Sciences Building
 SUMMARY:Dome Club (Learn Immersive Dome Technology)
 UID:37252@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250822
-DESCRIPTION:Gem City Nights - Free Music & Art Event with Patti Fiasco\nMore info: https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-134836_6D55BC49-BC3F-B62D-4DBB67D90DC866A2_6d761a18-f537-5526-9408c538d96b225c.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Family Fun
-GEO:41.307379;-105.596029
-LOCATION:Depot Park/Adjacent to the Farmer's Market
-SUMMARY:Gem City Nights - Free Music & Art Event with Patti Fiasco
-UID:30862@visitlaramie.org
-URL:https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250814
@@ -251,14 +233,6 @@ LOCATION:Marian H. Rochelle Gateway Center
 SUMMARY:La Grande Fleur
 UID:38092@visitlaramie.org
 URL:https://www.visitlaramie.org/event/la-grande-fleur/38092/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Dark Biosphere\nMore info: https://www.visitlaramie.org/event/dark-biosphere/38124/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.12.25-Event_F919F728-0DF9-3621-61A6A2B43E9EBE7B_f91cd057-a46f-7ab1-a1b7d04c10567177.png\nCategories: Community\, University of Wyoming
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Dark Biosphere
-UID:38124@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dark-biosphere/38124/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -288,14 +262,6 @@ UID:37614@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jascha-herdt-%26-j-shogren/37614/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Wyoming Ag & Art Tour - Albany County\nMore info: https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-112707_68679267-98E0-6502-2EDDA9A8D437D508_697af3cd-d058-e2dc-4015628be66b000e.png\nCategories: History\, Community\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Wyoming Ag & Art Tour - Albany County
-UID:38195@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-ag-%26-art-tour-albany-county/38195/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
 DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
 GEO:41.312330;-105.593102
@@ -303,6 +269,23 @@ LOCATION:St Matthew's Cathedral
 SUMMARY:Yoga at the Cathedral
 UID:37705@visitlaramie.org
 URL:https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250129
+DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
+GEO:41.312265;-105.595644
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Open Mic Poetry at Night Heron
+UID:34904@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
+GEO:41.325969;-105.592220
+SUMMARY:Vinyasa Flow at Laramie Fitness
+UID:38071@visitlaramie.org
+URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250812
@@ -314,39 +297,31 @@ UID:38162@visitlaramie.org
 URL:https://www.visitlaramie.org/event/david-graham-and-the-eskimo-brothers/38162/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250723
-DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
-GEO:41.325969;-105.592220
-SUMMARY:Vinyasa Flow at Laramie Fitness
-UID:38071@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
+DTSTART;VALUE=DATE:20250830
+DESCRIPTION:"The Sun: Our Living Star"\nMore info: https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/sun-living-star_7C348D6B-5056-A36F-2390F2B6203B0215_7c367e10-5056-a36f-2307789ef1d19f39.jpg\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:"The Sun: Our Living Star"
+UID:31031@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250820
-DESCRIPTION:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight\nMore info: https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/08.20.25-Event_8FFA5A7D-C819-153B-6D1F4EFCB1EC80CE_90009b47-bb82-8dea-b1d3630421f04263.png\nCategories: History\, Community
-GEO:41.310393;-105.594817
-LOCATION:Wyoming Women's History House
-SUMMARY:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight
-UID:38091@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/
+DTSTART;VALUE=DATE:20250906
+DESCRIPTION:25th annual Wyoming Buddy Walk\nMore info: https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BW-2025-postcard-7-x-5-in-_93EA2B97-0964-B688-B3FAAFC4D2817CAD_93f0df0a-b04e-3497-5e839d0545900e82.jpg\nCategories: Community
+GEO:41.322649;-105.592719
+LOCATION:Washington Park Bandshell
+SUMMARY:25th annual Wyoming Buddy Walk
+UID:38169@visitlaramie.org
+URL:https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250503
-DESCRIPTION:High Iron: Opening Hours\nMore info: https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/high-iron_AE048BBC-E440-4667-FFAD3A2A75C1E757_ae09fd0b-dc91-3020-41ba7d82afa6e6d4.jpg\nCategories: History\, Community\, Performing Arts & Culture
-GEO:41.321007;-105.590773
-LOCATION:High Iron Rail Car\, Corner of 4th and Canby Street
-SUMMARY:High Iron: Opening Hours
-UID:37984@visitlaramie.org
-URL:https://www.visitlaramie.org/event/high-iron%3a-opening-hours/37984/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Med Bow Rail Marathon and Half Marathon\nMore info: https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/\nVenue: Medicine Bow National Forest\nVenue Info: https://www.visitlaramie.org/listing/medicine-bow-national-forest/168/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/aid-station-smaller_8A59340D-97CC-290F-E489AE3A8432D2BC_8a8f7800-0e9b-dfd4-4ba82e6d7dd1818e.jpg\nCategories: Annual Events & Festivals
-GEO:41.308507;-105.629618
-LOCATION:Medicine Bow National Forest
-SUMMARY:Med Bow Rail Marathon and Half Marathon
-UID:38012@visitlaramie.org
-URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-and-half-marathon/38012/
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:New Age Phonograph @ The Great Untamed\nMore info: https://www.visitlaramie.org/event/new-age-phonograph-%40-the-great-untamed/37848/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-122657_97CBE221-F0FC-7F08-BAFC4C957697EE03_97df25c1-b9ae-7417-830f31e27281c7b5.png\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+LOCATION:The Great Untamed
+SUMMARY:New Age Phonograph @ The Great Untamed
+UID:37848@visitlaramie.org
+URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-great-untamed/37848/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250817
@@ -365,15 +340,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Wyoming Skies: Lunar Conjunction + Losing the Dark
 UID:37685@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies%3a-lunar-conjunction-%2b-losing-the-dark/37685/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250129
-DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
-GEO:41.312265;-105.595644
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Open Mic Poetry at Night Heron
-UID:34904@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250816
@@ -403,15 +369,6 @@ UID:37970@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dome-after-dark-live-event/37970/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250830
-DESCRIPTION:"The Sun: Our Living Star"\nMore info: https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/sun-living-star_7C348D6B-5056-A36F-2390F2B6203B0215_7c367e10-5056-a36f-2307789ef1d19f39.jpg\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"The Sun: Our Living Star"
-UID:31031@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250815
 DESCRIPTION:"(Un) Common Threads"\nMore info: https://www.visitlaramie.org/event/(un)-common-threads/38193/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-LAQ-poster_EF3FCC7D-9BD6-BA04-DD5610077CD05BD3_f013d615-e9c4-9e76-9927aee6bd1a6c95.jpg\nCategories: Community
 GEO:41.304361;-105.595919
@@ -419,15 +376,6 @@ LOCATION:SOK Gallery\, 1004 S. 2nd St.\, Laramie
 SUMMARY:"(Un) Common Threads"
 UID:38193@visitlaramie.org
 URL:https://www.visitlaramie.org/event/(un)-common-threads/38193/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Hot and Energetic Universe\nMore info: https://www.visitlaramie.org/event/hot-and-energetic-universe/35015/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_744A5FFF-5056-A36F-23BE7A6D3B5BE8C7_7453bf74-5056-a36f-234b85f8188e34ab.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Hot and Energetic Universe
-UID:35015@visitlaramie.org
-URL:https://www.visitlaramie.org/event/hot-and-energetic-universe/35015/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
@@ -463,24 +411,6 @@ LOCATION:Harry C. Vaughan Planetarium
 SUMMARY:Liquid Sky: Women Who Rock
 UID:28837@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/28837/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:2025 Lemonade Day\nMore info: https://www.visitlaramie.org/event/2025-lemonade-day/36498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-30-100331_995F56EC-0660-3ECA-361024C8F98E5110_99a4bf37-f311-df70-87b31452f6eaaa7e.png\nCategories: Community\, Family Fun
-GEO:41.311367;-105.591101
-LOCATION:40 Locations Citywide
-SUMMARY:2025 Lemonade Day
-UID:36498@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2025-lemonade-day/36498/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Agriculture and Art Tour\nMore info: https://www.visitlaramie.org/event/agriculture-and-art-tour/38179/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/495570875_122136685154770051_1282110077606137436_n_CF7C66CF-BDEF-2F58-FC988F4A9436783C_cf94463c-d6d7-fa1c-b4ff89fc6bac3724.jpg\nCategories: Annual Events & Festivals
-GEO:43.075968;-107.290284
-LOCATION:Taste of the Wind\, Deerwood Ranch\, Laramie Research and Extension Center
-SUMMARY:Agriculture and Art Tour
-UID:38179@visitlaramie.org
-URL:https://www.visitlaramie.org/event/agriculture-and-art-tour/38179/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250812
@@ -590,22 +520,13 @@ UID:38163@visitlaramie.org
 URL:https://www.visitlaramie.org/event/living-in-color-run-2025/38163/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220813
-DESCRIPTION:WYCO Volunteer Fire Department Annual Fundraiser.\nMore info: https://www.visitlaramie.org/event/wyco-volunteer-fire-department-annual-fundraiser/31506/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_1651BE60-5056-A36F-230D4E6E62C421DF_16a44bd4-5056-a36f-2328563c1297ea2f.png\nCategories: Annual Events & Festivals\, Community\, Social Events\, Volunteering
-GEO:41.013090;-106.168432
-LOCATION:WYCO Volunteer Fire Department
-SUMMARY:WYCO Volunteer Fire Department Annual Fundraiser.
-UID:31506@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyco-volunteer-fire-department-annual-fundraiser/31506/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250809
-DESCRIPTION:Space to Rest: Shavasana + Yoga Nidra\nMore info: https://www.visitlaramie.org/event/space-to-rest%3a-shavasana-%2b-yoga-nidra/38182/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-17-125207_0121A36E-0700-F777-F9938B37B752C26C_016ea018-ff73-bece-021405f68cf3a6d1.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Space to Rest: Shavasana + Yoga Nidra
-UID:38182@visitlaramie.org
-URL:https://www.visitlaramie.org/event/space-to-rest%3a-shavasana-%2b-yoga-nidra/38182/
+DTSTART;VALUE=DATE:20250820
+DESCRIPTION:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight\nMore info: https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/08.20.25-Event_8FFA5A7D-C819-153B-6D1F4EFCB1EC80CE_90009b47-bb82-8dea-b1d3630421f04263.png\nCategories: History\, Community
+GEO:41.310393;-105.594817
+LOCATION:Wyoming Women's History House
+SUMMARY:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight
+UID:38091@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
