@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Danno from Wyo at  Bud's Bar\nMore info: https://www.visitlaramie.org/event/danno-from-wyo-at-buds-bar/31362/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-11-125743_08D94CDB-C2F6-52D9-5DC9F776256E58A9_08f75e80-fa09-7b99-e511585554f04dab.png\nCategories: Concerts & Live Music\, Family Fun\, Social Events
+GEO:41.313111;-105.599668
+LOCATION:Bud's Bar
+SUMMARY:Danno from Wyo at  Bud's Bar
+UID:31362@visitlaramie.org
+URL:https://www.visitlaramie.org/event/danno-from-wyo-at-buds-bar/31362/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250824
 DESCRIPTION:Laramie Young Professions Annual Cornhole Tournement\nMore info: https://www.visitlaramie.org/event/laramie-young-professions-annual-cornhole-tournement/38200/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-131951_D34E2DA8-0D08-B762-085F0D155BE77A0D_d34f9cec-0b5d-b70b-faf00972136db872.png\nCategories: Annual Events & Festivals
 GEO:41.308353;-105.596400
@@ -45,6 +54,15 @@ LOCATION:Toyota of Laramie
 SUMMARY:Cars and Coffee at Toyota of Laramie
 UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Stand Up Comedy @ The Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/stand-up-comedy-%40-the-ruffed-up-duck/38212/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-11-125156_08A3897A-09E9-57B7-83036C0C27A6A76E_08b534b8-d9e4-4241-106ba95582361eb0.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:Stand Up Comedy @ The Ruffed Up Duck
+UID:38212@visitlaramie.org
+URL:https://www.visitlaramie.org/event/stand-up-comedy-%40-the-ruffed-up-duck/38212/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250811
@@ -376,6 +394,14 @@ LOCATION:Smile Doctors Parking Lot
 SUMMARY:Foam Party
 UID:38186@visitlaramie.org
 URL:https://www.visitlaramie.org/event/foam-party/38186/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:The Green Oasis Grand Re-Opening\nMore info: https://www.visitlaramie.org/event/the-green-oasis-grand-re-opening/38211/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-11-124939_08895C76-C7A4-24BF-F427E209CFFFF17D_088c41a4-9d62-af92-7459624b32590dc8.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.310591;-105.595359
+SUMMARY:The Green Oasis Grand Re-Opening
+UID:38211@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-green-oasis-grand-re-opening/38211/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
