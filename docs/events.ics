@@ -101,6 +101,15 @@ UID:38199@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/38199/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:UW Cowboy Football vs. University of Utah\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-university-of-utah/38205/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+GEO:41.311627;-105.564677
+LOCATION:War Memorial Stadium
+SUMMARY:UW Cowboy Football vs. University of Utah
+UID:38205@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-university-of-utah/38205/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
 DESCRIPTION:One Sky - Planetarium Show\nMore info: https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2_7CB07A3D-AA4D-338F-27C6394B327B7DCF_7cb9c35a-9677-24e5-2f9b6669976ac20c.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -262,15 +271,6 @@ UID:38201@visitlaramie.org
 URL:https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/38201/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250813
-DESCRIPTION:Jascha Herdt & J Shogren\nMore info: https://www.visitlaramie.org/event/jascha-herdt-%26-j-shogren/37614/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-133711_D3D31FAF-C956-2D07-55BEBA36F217CE47_d3dd2cb6-a0d7-ebbf-8a149207eae4cf12.png\nCategories: Concerts & Live Music
-GEO:41.311952;-105.595415
-LOCATION:Buckhorn Bar & Parlor
-SUMMARY:Jascha Herdt & J Shogren
-UID:37614@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jascha-herdt-%26-j-shogren/37614/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
 DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
 GEO:41.312330;-105.593102
@@ -289,6 +289,15 @@ UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250906
+DESCRIPTION:25th annual Wyoming Buddy Walk\nMore info: https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BW-2025-postcard-7-x-5-in-_93EA2B97-0964-B688-B3FAAFC4D2817CAD_93f0df0a-b04e-3497-5e839d0545900e82.jpg\nCategories: Community
+GEO:41.322649;-105.592719
+LOCATION:Washington Park Bandshell
+SUMMARY:25th annual Wyoming Buddy Walk
+UID:38169@visitlaramie.org
+URL:https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
 DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
 GEO:41.325969;-105.592220
@@ -304,15 +313,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"The Sun: Our Living Star"
 UID:31031@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250906
-DESCRIPTION:25th annual Wyoming Buddy Walk\nMore info: https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BW-2025-postcard-7-x-5-in-_93EA2B97-0964-B688-B3FAAFC4D2817CAD_93f0df0a-b04e-3497-5e839d0545900e82.jpg\nCategories: Community
-GEO:41.322649;-105.592719
-LOCATION:Washington Park Bandshell
-SUMMARY:25th annual Wyoming Buddy Walk
-UID:38169@visitlaramie.org
-URL:https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
@@ -475,6 +475,15 @@ UID:38139@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-tuesday-cruiser-ride/38139/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250814
+DESCRIPTION:UW Cowboy Football\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football/37188/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-13-094926_69AF8F09-A953-0E2B-76A551FC69EDCB0F_69bc81c5-cd6c-b9c0-b527f05f80d14f11.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+GEO:41.311627;-105.564677
+LOCATION:War Memorial Stadium
+SUMMARY:UW Cowboy Football
+UID:37188@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboy-football/37188/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250816
 DESCRIPTION:Evening at the Ivinsons'\nMore info: https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_BE02915A-C828-37EB-E4E3FE9F21B6AEE8_be035d30-fb02-a50a-57b7cd8db4adca00.png\nCategories: Community\, Social Events
 GEO:41.312046;-105.589071
@@ -553,5 +562,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Space Rock
 UID:31525@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-space-rock/31525/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:2025 Wyoming Archaeology Fair\nMore info: https://www.visitlaramie.org/event/2025-wyoming-archaeology-fair/37802/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-Archaeology-Fair_972E4E45-A149-787B-DFD3AE6E74498A23_9746ac4f-d61d-3537-3ff3b41ee198645e.png\nCategories: Annual Events & Festivals\, History\, Community\, Performing Arts & Culture\, Family Fun
+GEO:41.313968;-105.584517
+LOCATION:975 Snowy Range Rd\, Laramie
+SUMMARY:2025 Wyoming Archaeology Fair
+UID:37802@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2025-wyoming-archaeology-fair/37802/
 END:VEVENT
 END:VCALENDAR
