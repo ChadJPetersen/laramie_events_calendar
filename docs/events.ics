@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+DESCRIPTION:Stand-Up Comedy Night @ The Duck feat.\nMore info: https://www.visitlaramie.org/event/stand-up-comedy-night-%40-the-duck-feat/38233/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-125605_D6E612EE-A0F6-49ED-9C4B90B692F5C712_d6f3536a-de91-31ba-5e95454b35ef7b8a.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:Stand-Up Comedy Night @ The Duck feat.
+UID:38233@visitlaramie.org
+URL:https://www.visitlaramie.org/event/stand-up-comedy-night-%40-the-duck-feat/38233/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250816
 DESCRIPTION:Danno from Wyo at  Bud's Bar\nMore info: https://www.visitlaramie.org/event/danno-from-wyo-at-buds-bar/31362/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-11-125743_08D94CDB-C2F6-52D9-5DC9F776256E58A9_08f75e80-fa09-7b99-e511585554f04dab.png\nCategories: Concerts & Live Music\, Family Fun\, Social Events
 GEO:41.313111;-105.599668
@@ -82,15 +91,6 @@ UID:38212@visitlaramie.org
 URL:https://www.visitlaramie.org/event/stand-up-comedy-%40-the-ruffed-up-duck/38212/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250811
-DESCRIPTION:Jurassic Camp\nMore info: https://www.visitlaramie.org/event/jurassic-camp/38089/\nVenue: LEAP\nVenue Info: https://www.visitlaramie.org/listing/leap/380/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-05-131941_8F624A1A-B97E-E419-C0BA7C32A8A00172_8f633a31-fa73-5a8a-8c625ce70e6cf1b1.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.307087;-105.544293
-LOCATION:Leap Ninja Warrior Gym
-SUMMARY:Jurassic Camp
-UID:38089@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jurassic-camp/38089/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250717
 DESCRIPTION:Little Pokes Summer Rodeo Series\nMore info: https://www.visitlaramie.org/event/little-pokes-summer-rodeo-series/37209/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-22-102516_FBFC9FDE-0BF1-1B50-7ED805BAF37549B8_fc3f1366-ebb9-c610-147b35d6869785ec.png\nCategories: Outdoor Recreation\, Sports\, Performing Arts & Culture\, Family Fun
 GEO:41.287684;-105.659222
@@ -100,13 +100,13 @@ UID:37209@visitlaramie.org
 URL:https://www.visitlaramie.org/event/little-pokes-summer-rodeo-series/37209/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-DESCRIPTION:307 Glow & Go Race\nMore info: https://www.visitlaramie.org/event/307-glow-%26-go-race/38140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-124236_98DC5E54-D43D-511E-E253D9E20C729668_98e2a4b1-96b8-3745-55f18f966190201b.png\nCategories: Community\, Outdoor Recreation
-GEO:41.309259;-105.564274
-LOCATION:Laramie Chamber Business Alliance
-SUMMARY:307 Glow & Go Race
-UID:38140@visitlaramie.org
-URL:https://www.visitlaramie.org/event/307-glow-%26-go-race/38140/
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:UW Cowboy Football vs. University of Utah\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-university-of-utah/38205/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+GEO:41.311627;-105.564677
+LOCATION:War Memorial Stadium
+SUMMARY:UW Cowboy Football vs. University of Utah
+UID:38205@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-university-of-utah/38205/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250811
@@ -116,15 +116,6 @@ LOCATION:St. Matthew's Cathedral
 SUMMARY:Wyoming International Chamber Music Festival
 UID:38199@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/38199/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250913
-DESCRIPTION:UW Cowboy Football vs. University of Utah\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-university-of-utah/38205/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.311627;-105.564677
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football vs. University of Utah
-UID:38205@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-university-of-utah/38205/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
@@ -188,15 +179,6 @@ LOCATION:Albany County Public Library
 SUMMARY:Silent Book Club
 UID:38068@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-book-club/38068/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-DESCRIPTION:"Liquid Sky: Funk\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-funk/38061/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Funk
-UID:38061@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-funk/38061/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
@@ -270,6 +252,15 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Ryan Charles Live\nMore info: https://www.visitlaramie.org/event/ryan-charles-live/38234/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-130453_D710458D-0ADE-9936-27621DCF1F5D69D3_d7214794-fb3b-0fcf-ecdd2f4d9e309db8.png\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Ryan Charles Live
+UID:38234@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ryan-charles-live/38234/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
 DESCRIPTION:Big Blocks & Brews Car Show\nMore info: https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/38201/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-132602_D37CC701-EDAC-6579-F21922161865AECD_d37dffce-cfe6-3be1-fa79822dd00e54ad.png\nCategories: Community\, Social Events
 GEO:41.309643;-105.594735
@@ -314,6 +305,15 @@ UID:38071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250823
+DESCRIPTION:Acrylic Pour on the Patio\nMore info: https://www.visitlaramie.org/event/acrylic-pour-on-the-patio/38227/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/workshop-flyer-Instagram-Post-45-_D0168243-B3BD-9678-BF4BFE79796E20A2_d03b572b-cd05-d438-0a6c51b04ae12f61.png\nCategories: Craft Classes & Workshops
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Acrylic Pour on the Patio
+UID:38227@visitlaramie.org
+URL:https://www.visitlaramie.org/event/acrylic-pour-on-the-patio/38227/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
 DESCRIPTION:"The Sun: Our Living Star"\nMore info: https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/sun-living-star_7C348D6B-5056-A36F-2390F2B6203B0215_7c367e10-5056-a36f-2307789ef1d19f39.jpg\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -321,15 +321,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"The Sun: Our Living Star"
 UID:31031@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/38220/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/655/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-14-105428_9EEFFD6C-E40E-0995-99F148EC47D79167_9ef3ff75-e750-a0ec-6308af514af6e7d1.png\nCategories: Concerts & Live Music\, Annual Events & Festivals
-GEO:41.312184;-105.592992
-LOCATION:St. Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
-UID:38220@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/38220/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
@@ -384,6 +375,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Dome After Dark Live Event
 UID:37970@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dome-after-dark-live-event/37970/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250819
+DESCRIPTION:WSSC Laramie Regional Round\nMore info: https://www.visitlaramie.org/event/wssc-laramie-regional-round/38232/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-125034_D68ED0F5-C713-E11E-8DAAA3F3638FB622_d69cddd8-bcd2-f39d-ddaf85b34e32f8b4.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
+GEO:41.311952;-105.595415
+LOCATION:Buckhorn Bar & Parlor
+SUMMARY:WSSC Laramie Regional Round
+UID:38232@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wssc-laramie-regional-round/38232/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250815
@@ -474,15 +474,6 @@ UID:35221@visitlaramie.org
 URL:https://www.visitlaramie.org/event/aurora%3a-dancing-lights/35221/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-DESCRIPTION:The Grieve with Tuff Bluff\nMore info: https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120011_96E651FD-F0AA-9B70-C02C0CA89F7FD43D_96fc6f77-c82b-8693-c634d1f08cd5231e.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:The Grieve with Tuff Bluff
-UID:38165@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-grieve-with-tuff-bluff/38165/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250816
 DESCRIPTION:"Liquid Sky: R & B\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-r-%26-b/31125/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Social Events
 GEO:41.323643;-105.583027
@@ -501,15 +492,6 @@ UID:38139@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-tuesday-cruiser-ride/38139/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250816
-DESCRIPTION:Evening at the Ivinsons'\nMore info: https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_BE02915A-C828-37EB-E4E3FE9F21B6AEE8_be035d30-fb02-a50a-57b7cd8db4adca00.png\nCategories: Community\, Social Events
-GEO:41.312046;-105.589071
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Evening at the Ivinsons'
-UID:37987@visitlaramie.org
-URL:https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
 DESCRIPTION:Bob Lefevre @ SOK Gallery\nMore info: https://www.visitlaramie.org/event/bob-lefevre-%40-sok-gallery/38223/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-14-120538_A16DB9A7-BD51-9708-D5B5A8483DF0C3B8_a17060e8-937b-3396-1dd6bcb386b71662.png\nCategories: Concerts & Live Music
 GEO:41.304361;-105.595919
@@ -517,6 +499,15 @@ LOCATION:SOK Gallery
 SUMMARY:Bob Lefevre @ SOK Gallery
 UID:38223@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bob-lefevre-%40-sok-gallery/38223/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Evening at the Ivinsons'\nMore info: https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110752_BE02915A-C828-37EB-E4E3FE9F21B6AEE8_be035d30-fb02-a50a-57b7cd8db4adca00.png\nCategories: Community\, Social Events
+GEO:41.312046;-105.589071
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Evening at the Ivinsons'
+UID:37987@visitlaramie.org
+URL:https://www.visitlaramie.org/event/evening-at-the-ivinsons/37987/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250821
@@ -528,15 +519,6 @@ UID:38093@visitlaramie.org
 URL:https://www.visitlaramie.org/event/psychic-comedian-peter-antoniou/38093/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-DESCRIPTION:"Search for Extra-Terrestrial Life"\nMore info: https://www.visitlaramie.org/event/search-for-extra-terrestrial-life/31027/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wy-skies-planetarium_1B798C54-5056-A36F-23EA7E8C5B90106C_1b7ae15f-5056-a36f-23ed52716e147bc1.jpg\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Search for Extra-Terrestrial Life"
-UID:31027@visitlaramie.org
-URL:https://www.visitlaramie.org/event/search-for-extra-terrestrial-life/31027/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 DESCRIPTION:A Night of Improv Comedy with the Cooper Center\nMore info: https://www.visitlaramie.org/event/a-night-of-improv-comedy-with-the-cooper-center/38216/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/ComedyImprovNoQR-2-_94196B21-EF57-4F66-80D5DEA7F8A999B4_6bfb3975-3540-4410-ac0969e434f8fd98.png\nCategories: Performing Arts & Culture
 GEO:41.322811;-105.591448
@@ -546,12 +528,12 @@ UID:38216@visitlaramie.org
 URL:https://www.visitlaramie.org/event/a-night-of-improv-comedy-with-the-cooper-center/38216/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250906
-DESCRIPTION:Living in Color Run 2025\nMore info: https://www.visitlaramie.org/event/living-in-color-run-2025/38163/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-105946_94ADF08A-DA1B-A8BF-F2FC6103B6141664_94cef272-e7dd-2ace-19ef71bd1d2a85ce.png\nCategories: Community
-GEO:41.323948;-105.619987
-SUMMARY:Living in Color Run 2025
-UID:38163@visitlaramie.org
-URL:https://www.visitlaramie.org/event/living-in-color-run-2025/38163/
+DTSTART;VALUE=DATE:20250813
+DESCRIPTION:Rendezvous 2025 WE\nMore info: https://www.visitlaramie.org/event/rendezvous-2025-we/38228/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-105246_D2BEAFB6-EE68-7630-30AEC76F4F2C1CEB_d2e0a8aa-a58a-a0d5-1b69c09c17bef570.png\nCategories: Community\, Outdoor Recreation
+LOCATION:Med Bow Forest East of Laramie
+SUMMARY:Rendezvous 2025 WE
+UID:38228@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rendezvous-2025-we/38228/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
@@ -561,6 +543,14 @@ LOCATION:The Gorgon Gallery Rm 332 Laramie Plains Civic Center
 SUMMARY:The Spece Between Closing Reception
 UID:38221@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-spece-between-closing-reception/38221/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250906
+DESCRIPTION:Living in Color Run 2025\nMore info: https://www.visitlaramie.org/event/living-in-color-run-2025/38163/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-105946_94ADF08A-DA1B-A8BF-F2FC6103B6141664_94cef272-e7dd-2ace-19ef71bd1d2a85ce.png\nCategories: Community
+GEO:41.323948;-105.619987
+SUMMARY:Living in Color Run 2025
+UID:38163@visitlaramie.org
+URL:https://www.visitlaramie.org/event/living-in-color-run-2025/38163/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250820
@@ -579,15 +569,6 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Cowboy Yarn Crawl
 UID:37770@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/38214/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/655/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-12-120404_3A6D1A41-92F8-F41A-140A147193EF19B9_3a820873-f511-0f62-4cf920be2b4c1418.png\nCategories: Annual Events & Festivals
-GEO:41.312184;-105.592992
-LOCATION:St. Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
-UID:38214@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/38214/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
