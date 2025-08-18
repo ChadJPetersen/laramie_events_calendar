@@ -261,14 +261,6 @@ UID:38169@visitlaramie.org
 URL:https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250723
-DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
-GEO:41.325969;-105.592220
-SUMMARY:Vinyasa Flow at Laramie Fitness
-UID:38071@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
 DESCRIPTION:Acrylic Pour on the Patio\nMore info: https://www.visitlaramie.org/event/acrylic-pour-on-the-patio/38227/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/workshop-flyer-Instagram-Post-45-_D0168243-B3BD-9678-BF4BFE79796E20A2_d03b572b-cd05-d438-0a6c51b04ae12f61.png\nCategories: Craft Classes & Workshops
 GEO:41.312291;-105.595158
@@ -276,6 +268,14 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Acrylic Pour on the Patio
 UID:38227@visitlaramie.org
 URL:https://www.visitlaramie.org/event/acrylic-pour-on-the-patio/38227/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
+GEO:41.325969;-105.592220
+SUMMARY:Vinyasa Flow at Laramie Fitness
+UID:38071@visitlaramie.org
+URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
@@ -294,15 +294,6 @@ LOCATION:The Great Untamed
 SUMMARY:New Age Phonograph @ The Great Untamed
 UID:37848@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-great-untamed/37848/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250817
-DESCRIPTION:Heal & Restore: Sound Healing and Restorative Yoga\nMore info: https://www.visitlaramie.org/event/heal-%26-restore%3a-sound-healing-and-restorative-yoga/38181/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-17-101151_FB86F3A4-9AD6-19A9-69A45B65D9B21E6B_fb955877-059d-5349-e4ada42f98953fd7.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Heal & Restore: Sound Healing and Restorative Yoga
-UID:38181@visitlaramie.org
-URL:https://www.visitlaramie.org/event/heal-%26-restore%3a-sound-healing-and-restorative-yoga/38181/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
@@ -332,15 +323,6 @@ UID:38232@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wssc-laramie-regional-round/38232/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250815
-DESCRIPTION:"(Un) Common Threads"\nMore info: https://www.visitlaramie.org/event/(un)-common-threads/38193/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-LAQ-poster_EF3FCC7D-9BD6-BA04-DD5610077CD05BD3_f013d615-e9c4-9e76-9927aee6bd1a6c95.jpg\nCategories: Community
-GEO:41.304361;-105.595919
-LOCATION:SOK Gallery\, 1004 S. 2nd St.\, Laramie
-SUMMARY:"(Un) Common Threads"
-UID:38193@visitlaramie.org
-URL:https://www.visitlaramie.org/event/(un)-common-threads/38193/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
 DESCRIPTION:Come to the Source Horse Sale\nMore info: https://www.visitlaramie.org/event/come-to-the-source-horse-sale/38167/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120923_979B2A9A-9358-E6E2-F94FD377BB8023D2_97abdb7d-01c4-a713-afb5e4becc377350.png\nCategories: Community
 GEO:41.286512;-105.592547
@@ -357,15 +339,6 @@ LOCATION:University of Wyoming
 SUMMARY:Campus Pass
 UID:38225@visitlaramie.org
 URL:https://www.visitlaramie.org/event/campus-pass/38225/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250817
-DESCRIPTION:Foam Party\nMore info: https://www.visitlaramie.org/event/foam-party/38186/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-18-110955_31174DE3-A248-273B-8A0D7F54EF14E9B1_312bbb5d-95e4-6ed1-ad61a0d159bd27e3.png\nCategories: Community\, Family Fun
-GEO:41.308794;-105.558865
-LOCATION:Smile Doctors Parking Lot
-SUMMARY:Foam Party
-UID:38186@visitlaramie.org
-URL:https://www.visitlaramie.org/event/foam-party/38186/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
@@ -439,12 +412,12 @@ UID:38216@visitlaramie.org
 URL:https://www.visitlaramie.org/event/a-night-of-improv-comedy-with-the-cooper-center/38216/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250813
-DESCRIPTION:Rendezvous 2025 WE\nMore info: https://www.visitlaramie.org/event/rendezvous-2025-we/38228/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-105246_D2BEAFB6-EE68-7630-30AEC76F4F2C1CEB_d2e0a8aa-a58a-a0d5-1b69c09c17bef570.png\nCategories: Community\, Outdoor Recreation
-LOCATION:Med Bow Forest East of Laramie
-SUMMARY:Rendezvous 2025 WE
-UID:38228@visitlaramie.org
-URL:https://www.visitlaramie.org/event/rendezvous-2025-we/38228/
+DTSTART;VALUE=DATE:20250906
+DESCRIPTION:Living in Color Run 2025\nMore info: https://www.visitlaramie.org/event/living-in-color-run-2025/38163/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-105946_94ADF08A-DA1B-A8BF-F2FC6103B6141664_94cef272-e7dd-2ace-19ef71bd1d2a85ce.png\nCategories: Community
+GEO:41.323948;-105.619987
+SUMMARY:Living in Color Run 2025
+UID:38163@visitlaramie.org
+URL:https://www.visitlaramie.org/event/living-in-color-run-2025/38163/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
@@ -454,14 +427,6 @@ LOCATION:The Gorgon Gallery Rm 332 Laramie Plains Civic Center
 SUMMARY:The Spece Between Closing Reception
 UID:38221@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-spece-between-closing-reception/38221/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250906
-DESCRIPTION:Living in Color Run 2025\nMore info: https://www.visitlaramie.org/event/living-in-color-run-2025/38163/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-105946_94ADF08A-DA1B-A8BF-F2FC6103B6141664_94cef272-e7dd-2ace-19ef71bd1d2a85ce.png\nCategories: Community
-GEO:41.323948;-105.619987
-SUMMARY:Living in Color Run 2025
-UID:38163@visitlaramie.org
-URL:https://www.visitlaramie.org/event/living-in-color-run-2025/38163/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250820
