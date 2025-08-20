@@ -38,6 +38,15 @@ UID:38168@visitlaramie.org
 URL:https://www.visitlaramie.org/event/space-between%3a-exploring-where-contrast-becomes-connection/38168/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+DESCRIPTION:Wyoming Skies and Total Lunar Eclipse over Asia\nMore info: https://www.visitlaramie.org/event/wyoming-skies-and-total-lunar-eclipse-over-asia/36487/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_A14C8405-5056-A36F-2398052104D490A8_a1598b0e-5056-a36f-230d1384b67a284f.png\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.313709;-105.590644
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Wyoming Skies and Total Lunar Eclipse over Asia
+UID:36487@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-skies-and-total-lunar-eclipse-over-asia/36487/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
 DESCRIPTION:Yellowstone to Enceladus\nMore info: https://www.visitlaramie.org/event/yellowstone-to-enceladus/34955/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events12_15E29D4B-5056-A36F-23C3BBAFC5085830_15faac98-5056-a36f-236a04f2965c3d75.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
 GEO:41.313709;-105.590644
@@ -45,6 +54,24 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Yellowstone to Enceladus
 UID:34955@visitlaramie.org
 URL:https://www.visitlaramie.org/event/yellowstone-to-enceladus/34955/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: Metal
+UID:31128@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Liquid Sky: EDM\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-edm/36954/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: EDM
+UID:36954@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-edm/36954/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250914
@@ -64,6 +91,15 @@ UID:37209@visitlaramie.org
 URL:https://www.visitlaramie.org/event/little-pokes-summer-rodeo-series/37209/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:The Great Wyoming Eclipse of 2017\nMore info: https://www.visitlaramie.org/event/the-great-wyoming-eclipse-of-2017/38238/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-19-125434_A4CAA49D-C531-549A-C5B2D36257894C1C_a4ea20fd-f1c0-d4f6-2a57f308cd826b6f.png\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.313709;-105.590644
+LOCATION:University of Wyoming Planetarium
+SUMMARY:The Great Wyoming Eclipse of 2017
+UID:38238@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-great-wyoming-eclipse-of-2017/38238/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
 DESCRIPTION:UW Cowboy Football vs. University of Utah\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-university-of-utah/38205/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
@@ -71,15 +107,6 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football vs. University of Utah
 UID:38205@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-university-of-utah/38205/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250830
-DESCRIPTION:One Sky - Planetarium Show\nMore info: https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2_7CB07A3D-AA4D-338F-27C6394B327B7DCF_7cb9c35a-9677-24e5-2f9b6669976ac20c.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:One Sky - Planetarium Show
-UID:37254@visitlaramie.org
-URL:https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250822
@@ -127,15 +154,6 @@ UID:38094@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-run-club-2025/38094/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-27-140934_C1B11CF5-9562-8BB9-1A485DBA84A82F1B_c1bc88e7-b2d5-9acf-d41b0e2b1ad95ae8.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Silent Book Club
-UID:38068@visitlaramie.org
-URL:https://www.visitlaramie.org/event/silent-book-club/38068/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250829
 DESCRIPTION:Liquid Sky: Pop\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pop/35124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -162,6 +180,15 @@ UID:37948@visitlaramie.org
 URL:https://www.visitlaramie.org/event/j-carmichael-performing-at-the-great-untamed/37948/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+DESCRIPTION:Relative Theatrics Season 13 Kickoff\nMore info: https://www.visitlaramie.org/event/relative-theatrics-season-13-kickoff/38236/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-19-102627_9F7C77DD-FAEA-5542-04183C398718A062_9fb08142-b3e2-130f-36d50345a01f1403.png\nCategories: Annual Events & Festivals\, Community\, Performing Arts & Culture
+GEO:41.309270;-105.587834
+LOCATION:Laramie Plains Civic Center
+SUMMARY:Relative Theatrics Season 13 Kickoff
+UID:38236@visitlaramie.org
+URL:https://www.visitlaramie.org/event/relative-theatrics-season-13-kickoff/38236/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250822
 DESCRIPTION:Gem City Nights - Free Music & Art Event with Patti Fiasco\nMore info: https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-134836_6D55BC49-BC3F-B62D-4DBB67D90DC866A2_6d761a18-f537-5526-9408c538d96b225c.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Family Fun
 GEO:41.307379;-105.596029
@@ -171,7 +198,7 @@ UID:30862@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250812
+DTSTART;VALUE=DATE:20250828
 DESCRIPTION:Dome Club (Learn Immersive Dome Technology)\nMore info: https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_7C50F81E-0DA4-2243-40CFCB6F24A9DB6D_7c608e3a-e8e3-4032-1c1a5954716b25fe.png\nCategories: University of Wyoming\, Education
 GEO:41.312129;-105.579414
 LOCATION:Basement of Physical Sciences Building
@@ -296,6 +323,15 @@ UID:37848@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-great-untamed/37848/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Meet the Planets - Planetarium\nMore info: https://www.visitlaramie.org/event/meet-the-planets-planetarium/30918/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/palnets_601D6042-5056-A36F-234299D552C062EA_6022e4a0-5056-a36f-2389b1f8f27ee136.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Meet the Planets - Planetarium
+UID:30918@visitlaramie.org
+URL:https://www.visitlaramie.org/event/meet-the-planets-planetarium/30918/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250826
 DESCRIPTION:Wyoming Skies: Lunar Conjunction + Losing the Dark\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-lunar-conjunction-%2b-losing-the-dark/37685/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_C7A24CA1-5056-A36F-23689CDFCFFAC9C7_c7a9aa46-5056-a36f-23a7d751b5d7082b.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -314,13 +350,13 @@ UID:37970@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dome-after-dark-live-event/37970/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250819
-DESCRIPTION:WSSC Laramie Regional Round\nMore info: https://www.visitlaramie.org/event/wssc-laramie-regional-round/38232/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-125034_D68ED0F5-C713-E11E-8DAAA3F3638FB622_d69cddd8-bcd2-f39d-ddaf85b34e32f8b4.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
-GEO:41.311952;-105.595415
-LOCATION:Buckhorn Bar & Parlor
-SUMMARY:WSSC Laramie Regional Round
-UID:38232@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wssc-laramie-regional-round/38232/
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:Wyoming Skies Autumnal Equinox & Partial Solar Eclipse over Antartica\nMore info: https://www.visitlaramie.org/event/wyoming-skies-autumnal-equinox-%26-partial-solar-eclipse-over-antartica/36343/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_A14C8405-5056-A36F-2398052104D490A8_a1598b0e-5056-a36f-230d1384b67a284f.png\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.313709;-105.590644
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Wyoming Skies Autumnal Equinox & Partial Solar Eclipse over Antartica
+UID:36343@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-skies-autumnal-equinox-%26-partial-solar-eclipse-over-antartica/36343/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
@@ -341,6 +377,15 @@ UID:38225@visitlaramie.org
 URL:https://www.visitlaramie.org/event/campus-pass/38225/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Black Holes\nMore info: https://www.visitlaramie.org/event/black-holes/36479/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events9_A21DD451-5056-A36F-232786D7CA916103_a224a619-5056-a36f-2314cb9b90a5aa97.png\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.313709;-105.590644
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Black Holes
+UID:36479@visitlaramie.org
+URL:https://www.visitlaramie.org/event/black-holes/36479/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
 DESCRIPTION:Wyoming Book Crawl-Laramie Edition\nMore info: https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-103906_942879F8-94BA-73CD-F89A51FF38A96C51_942e9786-f682-5b51-9015ae55fd604ae6.png\nCategories: Community
 GEO:41.311367;-105.591101
@@ -356,6 +401,15 @@ LOCATION:Harry C. Vaughan Planetarium
 SUMMARY:Liquid Sky: Women Who Rock
 UID:28837@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/28837/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Relative Theatrics Presents: Mary Gets Hers\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents%3a-mary-gets-hers/38237/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-19-103429_9FFF60E2-A96D-C72E-7CCC0ECC7000C69A_a0605203-9087-0699-51cdbf8014ea2b69.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
+GEO:41.311367;-105.591101
+LOCATION:The Buchanan Center/BCPA Studio Theatre
+SUMMARY:Relative Theatrics Presents: Mary Gets Hers
+UID:38237@visitlaramie.org
+URL:https://www.visitlaramie.org/event/relative-theatrics-presents%3a-mary-gets-hers/38237/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
