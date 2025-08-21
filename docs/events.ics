@@ -82,6 +82,15 @@ UID:38187@visitlaramie.org
 URL:https://www.visitlaramie.org/event/all-is-within%3a-a-free-practice/38187/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Cars and Coffee at Toyota of Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Event-Image_2914823C-A70A-118B-32BA80D9FD7E1AE7_29198826-f6a6-cbac-689dfc393670b5c5.png\nCategories: Annual Events & Festivals
+GEO:41.308934;-105.562856
+LOCATION:Toyota of Laramie
+SUMMARY:Cars and Coffee at Toyota of Laramie
+UID:38037@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250717
 DESCRIPTION:Little Pokes Summer Rodeo Series\nMore info: https://www.visitlaramie.org/event/little-pokes-summer-rodeo-series/37209/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-22-102516_FBFC9FDE-0BF1-1B50-7ED805BAF37549B8_fc3f1366-ebb9-c610-147b35d6869785ec.png\nCategories: Outdoor Recreation\, Sports\, Performing Arts & Culture\, Family Fun
 GEO:41.287684;-105.659222
@@ -107,6 +116,15 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football vs. University of Utah
 UID:38205@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-university-of-utah/38205/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250920
+DESCRIPTION:One Sky - Planetarium Show\nMore info: https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2_7CB07A3D-AA4D-338F-27C6394B327B7DCF_7cb9c35a-9677-24e5-2f9b6669976ac20c.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:One Sky - Planetarium Show
+UID:37254@visitlaramie.org
+URL:https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250822
@@ -234,6 +252,15 @@ UID:38092@visitlaramie.org
 URL:https://www.visitlaramie.org/event/la-grande-fleur/38092/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250920
+DESCRIPTION:Higher Ground Fair\nMore info: https://www.visitlaramie.org/event/higher-ground-fair/38215/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-13-123055_6EF7FB53-A751-ECE5-3473C80556B289CB_6f1cc334-dc90-e879-d92a76860d3cc555.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.311613;-105.610512
+LOCATION:Wyoming Territorial Prison State Historic Site
+SUMMARY:Higher Ground Fair
+UID:38215@visitlaramie.org
+URL:https://www.visitlaramie.org/event/higher-ground-fair/38215/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -359,6 +386,15 @@ UID:36343@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies-autumnal-equinox-%26-partial-solar-eclipse-over-antartica/36343/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250920
+DESCRIPTION:Liquid Sky: Dark Side of the Moon\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-dark-side-of-the-moon/35132/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: Dark Side of the Moon
+UID:35132@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-dark-side-of-the-moon/35132/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
 DESCRIPTION:Come to the Source Horse Sale\nMore info: https://www.visitlaramie.org/event/come-to-the-source-horse-sale/38167/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120923_979B2A9A-9358-E6E2-F94FD377BB8023D2_97abdb7d-01c4-a713-afb5e4becc377350.png\nCategories: Community
 GEO:41.286512;-105.592547
@@ -466,6 +502,15 @@ UID:38216@visitlaramie.org
 URL:https://www.visitlaramie.org/event/a-night-of-improv-comedy-with-the-cooper-center/38216/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250920
+DESCRIPTION:Double Feature We Are Stars & Always Above\nMore info: https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Double Feature We Are Stars & Always Above
+UID:38060@visitlaramie.org
+URL:https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250906
 DESCRIPTION:Living in Color Run 2025\nMore info: https://www.visitlaramie.org/event/living-in-color-run-2025/38163/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-105946_94ADF08A-DA1B-A8BF-F2FC6103B6141664_94cef272-e7dd-2ace-19ef71bd1d2a85ce.png\nCategories: Community
 GEO:41.323948;-105.619987
@@ -481,15 +526,6 @@ LOCATION:The Gorgon Gallery Rm 332 Laramie Plains Civic Center
 SUMMARY:The Spece Between Closing Reception
 UID:38221@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-spece-between-closing-reception/38221/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250820
-DESCRIPTION:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight\nMore info: https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/08.20.25-Event_8FFA5A7D-C819-153B-6D1F4EFCB1EC80CE_90009b47-bb82-8dea-b1d3630421f04263.png\nCategories: History\, Community
-GEO:41.310393;-105.594817
-LOCATION:Wyoming Women's History House
-SUMMARY:Sip and Savor "150 Years of Grocery Shopping in Laramie" by Judy Knight
-UID:38091@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sip-and-savor-150-years-of-grocery-shopping-in-laramie-by-judy-knight/38091/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250524
