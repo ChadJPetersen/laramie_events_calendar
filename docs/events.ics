@@ -91,15 +91,6 @@ UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250717
-DESCRIPTION:Little Pokes Summer Rodeo Series\nMore info: https://www.visitlaramie.org/event/little-pokes-summer-rodeo-series/37209/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-22-102516_FBFC9FDE-0BF1-1B50-7ED805BAF37549B8_fc3f1366-ebb9-c610-147b35d6869785ec.png\nCategories: Outdoor Recreation\, Sports\, Performing Arts & Culture\, Family Fun
-GEO:41.287684;-105.659222
-LOCATION:Hansen Arena
-SUMMARY:Little Pokes Summer Rodeo Series
-UID:37209@visitlaramie.org
-URL:https://www.visitlaramie.org/event/little-pokes-summer-rodeo-series/37209/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
 DESCRIPTION:The Great Wyoming Eclipse of 2017\nMore info: https://www.visitlaramie.org/event/the-great-wyoming-eclipse-of-2017/38238/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-19-125434_A4CAA49D-C531-549A-C5B2D36257894C1C_a4ea20fd-f1c0-d4f6-2a57f308cd826b6f.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
@@ -145,6 +136,15 @@ UID:38224@visitlaramie.org
 URL:https://www.visitlaramie.org/event/acpl-drop-in-bead-crafts/38224/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:It Gets Worse\, Kids on Fire (wa) Angelus Aware & Stage Theory\nMore info: https://www.visitlaramie.org/event/it-gets-worse-kids-on-fire-(wa)-angelus-aware-%26-stage-theory/38250/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-133225_0D1F6405-E5E1-BB3F-F0ED3FCDEE901CD9_0d2086db-ddc9-c3c4-4565eb286227b921.png\nCategories: Concerts & Live Music
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:It Gets Worse\, Kids on Fire (wa) Angelus Aware & Stage Theory
+UID:38250@visitlaramie.org
+URL:https://www.visitlaramie.org/event/it-gets-worse-kids-on-fire-(wa)-angelus-aware-%26-stage-theory/38250/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250620
 DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/38107/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Farmersmarket-logo_00CBFB33-0953-3873-966EE253205A3852_00e2a7d3-ec21-ae73-f15905832d23fd4e.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
 GEO:41.310946;-105.596164
@@ -179,6 +179,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Pop
 UID:35124@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/35124/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+DESCRIPTION:Moms+Coffee+Donuts\nMore info: https://www.visitlaramie.org/event/moms%2bcoffee%2bdonuts/38243/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-122456_0AC285A5-94EC-1634-2AB55CE4CC709C63_0ad46317-c250-59cc-fd1fd4449ce8d5cb.png\nCategories: Community\, Social Events
+GEO:41.293922;-105.579955
+SUMMARY:Moms+Coffee+Donuts
+UID:38243@visitlaramie.org
+URL:https://www.visitlaramie.org/event/moms%2bcoffee%2bdonuts/38243/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250701
@@ -252,6 +260,15 @@ UID:38092@visitlaramie.org
 URL:https://www.visitlaramie.org/event/la-grande-fleur/38092/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:Cowboy Breakfast at Ivinson\nMore info: https://www.visitlaramie.org/event/cowboy-breakfast-at-ivinson/38241/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-131132_0C62D209-CC7D-8CA9-772F2EDBD9CA600C_0c6a47a8-ff4c-b362-791e430d30bf7eb1.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Sports
+GEO:41.312268;-105.556237
+LOCATION:Ivinson Memorial Hospitol
+SUMMARY:Cowboy Breakfast at Ivinson
+UID:38241@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-breakfast-at-ivinson/38241/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
 DESCRIPTION:Higher Ground Fair\nMore info: https://www.visitlaramie.org/event/higher-ground-fair/38215/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-13-123055_6EF7FB53-A751-ECE5-3473C80556B289CB_6f1cc334-dc90-e879-d92a76860d3cc555.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.311613;-105.610512
@@ -268,6 +285,15 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+DESCRIPTION:Back-to-School Kids & Families Nature Event\nMore info: https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_02B45455-9483-0FA3-6360CCD003701351_02d2914a-986d-3852-c5733f06f2b5a280.jpg\nCategories: Community\, Education\, Family Fun
+GEO:41.312203;-105.587931
+LOCATION:Trinity Lutheran Church - Gruver Room
+SUMMARY:Back-to-School Kids & Families Nature Event
+UID:38240@visitlaramie.org
+URL:https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
@@ -366,6 +392,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Wyoming Skies: Lunar Conjunction + Losing the Dark
 UID:37685@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies%3a-lunar-conjunction-%2b-losing-the-dark/37685/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Gem City Nights - Wild Love Tigress with Taylor Shae Band\nMore info: https://www.visitlaramie.org/event/gem-city-nights-wild-love-tigress-with-taylor-shae-band/38246/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-125317_0BE9E4DC-B987-CF31-8DA28A3D240B295A_0bf969d9-9939-6c45-85b95f056e42c1af.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Family Fun
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Gem City Nights - Wild Love Tigress with Taylor Shae Band
+UID:38246@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gem-city-nights-wild-love-tigress-with-taylor-shae-band/38246/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
@@ -484,13 +519,13 @@ UID:38223@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bob-lefevre-%40-sok-gallery/38223/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250821
-DESCRIPTION:"Psychic" Comedian Peter Antoniou\nMore info: https://www.visitlaramie.org/event/psychic-comedian-peter-antoniou/38093/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-110915_C112593D-0693-9A94-C599422AAA663B18_c1342de9-ec1f-4483-0e3ef7b829dd5d1d.png\nCategories: Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center  Gryphon Theatre
-SUMMARY:"Psychic" Comedian Peter Antoniou
-UID:38093@visitlaramie.org
-URL:https://www.visitlaramie.org/event/psychic-comedian-peter-antoniou/38093/
+DTSTART;VALUE=DATE:20250920
+DESCRIPTION:8th Annual Underachiever's .5K Race\nMore info: https://www.visitlaramie.org/event/8th-annual-underachievers-5k-race/38242/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-122014_0A8A3CF8-9585-3B51-04FFE6749F251E74_0aa91ef8-020f-130b-289d431d28ddf3c1.png\nCategories: Community\, Family Fun
+GEO:41.311367;-105.591101
+LOCATION:Washington Park
+SUMMARY:8th Annual Underachiever's .5K Race
+UID:38242@visitlaramie.org
+URL:https://www.visitlaramie.org/event/8th-annual-underachievers-5k-race/38242/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
