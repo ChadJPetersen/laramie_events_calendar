@@ -118,13 +118,13 @@ UID:37254@visitlaramie.org
 URL:https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250822
-DESCRIPTION:Espiaille + Cicada Summer LIVE\nMore info: https://www.visitlaramie.org/event/espiaille-%2b-cicada-summer-live/38166/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120707_97127CCF-926B-898F-38723C922D06F9DC_9718407b-0b91-932c-bfc4d1e59941abca.png\nCategories: Concerts & Live Music
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:It Gets Worse\, Kids on Fire (wa) Angelus Aware & Stage Theory\nMore info: https://www.visitlaramie.org/event/it-gets-worse-kids-on-fire-(wa)-angelus-aware-%26-stage-theory/38250/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-133225_0D1F6405-E5E1-BB3F-F0ED3FCDEE901CD9_0d2086db-ddc9-c3c4-4565eb286227b921.png\nCategories: Concerts & Live Music
 GEO:41.310483;-105.591301
 LOCATION:Ruffed Up Duck Saloon
-SUMMARY:Espiaille + Cicada Summer LIVE
-UID:38166@visitlaramie.org
-URL:https://www.visitlaramie.org/event/espiaille-%2b-cicada-summer-live/38166/
+SUMMARY:It Gets Worse\, Kids on Fire (wa) Angelus Aware & Stage Theory
+UID:38250@visitlaramie.org
+URL:https://www.visitlaramie.org/event/it-gets-worse-kids-on-fire-(wa)-angelus-aware-%26-stage-theory/38250/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250824
@@ -134,15 +134,6 @@ LOCATION:Albany County Public Library
 SUMMARY:ACPL Drop in Bead Crafts
 UID:38224@visitlaramie.org
 URL:https://www.visitlaramie.org/event/acpl-drop-in-bead-crafts/38224/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250913
-DESCRIPTION:It Gets Worse\, Kids on Fire (wa) Angelus Aware & Stage Theory\nMore info: https://www.visitlaramie.org/event/it-gets-worse-kids-on-fire-(wa)-angelus-aware-%26-stage-theory/38250/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-133225_0D1F6405-E5E1-BB3F-F0ED3FCDEE901CD9_0d2086db-ddc9-c3c4-4565eb286227b921.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:It Gets Worse\, Kids on Fire (wa) Angelus Aware & Stage Theory
-UID:38250@visitlaramie.org
-URL:https://www.visitlaramie.org/event/it-gets-worse-kids-on-fire-(wa)-angelus-aware-%26-stage-theory/38250/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250620
@@ -215,13 +206,13 @@ UID:38236@visitlaramie.org
 URL:https://www.visitlaramie.org/event/relative-theatrics-season-13-kickoff/38236/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250822
-DESCRIPTION:Gem City Nights - Free Music & Art Event with Patti Fiasco\nMore info: https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-29-134836_6D55BC49-BC3F-B62D-4DBB67D90DC866A2_6d761a18-f537-5526-9408c538d96b225c.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Family Fun
-GEO:41.307379;-105.596029
-LOCATION:Depot Park/Adjacent to the Farmer's Market
-SUMMARY:Gem City Nights - Free Music & Art Event with Patti Fiasco
-UID:30862@visitlaramie.org
-URL:https://www.visitlaramie.org/event/gem-city-nights-free-music-%26-art-event-with-patti-fiasco/30862/
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Into the Badlands Tattoo Expo\nMore info: https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/37168/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-140407_D4D56734-A110-2882-7CBB816B93B8F214_d4dec488-9f09-97a0-40c280d01cd5dcc6.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Social Events
+GEO:41.286512;-105.592547
+LOCATION:Albany County Fairgrounds
+SUMMARY:Into the Badlands Tattoo Expo
+UID:37168@visitlaramie.org
+URL:https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/37168/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
@@ -231,15 +222,6 @@ LOCATION:Basement of Physical Sciences Building
 SUMMARY:Dome Club (Learn Immersive Dome Technology)
 UID:37252@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250912
-DESCRIPTION:Into the Badlands Tattoo Expo\nMore info: https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/37168/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-140407_D4D56734-A110-2882-7CBB816B93B8F214_d4dec488-9f09-97a0-40c280d01cd5dcc6.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Social Events
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Into the Badlands Tattoo Expo
-UID:37168@visitlaramie.org
-URL:https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/37168/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250914
@@ -341,6 +323,14 @@ UID:38169@visitlaramie.org
 URL:https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
+GEO:41.325969;-105.592220
+SUMMARY:Vinyasa Flow at Laramie Fitness
+UID:38071@visitlaramie.org
+URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250823
 DESCRIPTION:Acrylic Pour on the Patio\nMore info: https://www.visitlaramie.org/event/acrylic-pour-on-the-patio/38227/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/workshop-flyer-Instagram-Post-45-_D0168243-B3BD-9678-BF4BFE79796E20A2_d03b572b-cd05-d438-0a6c51b04ae12f61.png\nCategories: Craft Classes & Workshops
 GEO:41.312291;-105.595158
@@ -348,14 +338,6 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Acrylic Pour on the Patio
 UID:38227@visitlaramie.org
 URL:https://www.visitlaramie.org/event/acrylic-pour-on-the-patio/38227/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250723
-DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
-GEO:41.325969;-105.592220
-SUMMARY:Vinyasa Flow at Laramie Fitness
-UID:38071@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
@@ -439,6 +421,15 @@ UID:38167@visitlaramie.org
 URL:https://www.visitlaramie.org/event/come-to-the-source-horse-sale/38167/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:Snow Train Music Festival\nMore info: https://www.visitlaramie.org/event/snow-train-music-festival/38251/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-22-115729_3D6CDB5C-E0E4-08D3-81ED0293555E3F67_3da68965-93d1-16e6-5735c89c000628f9.png\nCategories: Concerts & Live Music\, Community
+GEO:41.311367;-105.591101
+LOCATION:12 Venues Throughout Laramie
+SUMMARY:Snow Train Music Festival
+UID:38251@visitlaramie.org
+URL:https://www.visitlaramie.org/event/snow-train-music-festival/38251/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250906
 DESCRIPTION:Campus Pass\nMore info: https://www.visitlaramie.org/event/campus-pass/38225/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-14-121541_A1C9075E-C53C-DAE9-2ACDB6B60FA61240_a1e388c0-feb0-39ec-6a10566025c13cb0.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Sports
 GEO:41.313968;-105.584517
@@ -466,14 +457,6 @@ UID:38120@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250822
-DESCRIPTION:Liquid Sky: Women Who Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/28837/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/liquid-sky_843c92d4-5056-a36f-2326a969aed298fe.jpg\nCategories: Community\, University of Wyoming
-LOCATION:Harry C. Vaughan Planetarium
-SUMMARY:Liquid Sky: Women Who Rock
-UID:28837@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/28837/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
 DESCRIPTION:Relative Theatrics Presents: Mary Gets Hers\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents%3a-mary-gets-hers/38237/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-19-103429_9FFF60E2-A96D-C72E-7CCC0ECC7000C69A_a0605203-9087-0699-51cdbf8014ea2b69.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
 GEO:41.311367;-105.591101
@@ -490,15 +473,6 @@ LOCATION:Studio City UW
 SUMMARY:Award-winning film 'Elijah' at the 307 International Film Festival
 UID:38204@visitlaramie.org
 URL:https://www.visitlaramie.org/event/award-winning-film-elijah-at-the-307-international-film-festival/38204/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250822
-DESCRIPTION:Aurora: Dancing Lights\nMore info: https://www.visitlaramie.org/event/aurora%3a-dancing-lights/35221/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_745ED552-5056-A36F-232249897B2840E6_74631dcc-5056-a36f-2380bf08c701b612.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Aurora: Dancing Lights
-UID:35221@visitlaramie.org
-URL:https://www.visitlaramie.org/event/aurora%3a-dancing-lights/35221/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250708
