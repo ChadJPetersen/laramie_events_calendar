@@ -233,15 +233,6 @@ UID:38222@visitlaramie.org
 URL:https://www.visitlaramie.org/event/brunch-%26-bubbly/38222/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250823
-DESCRIPTION:La Grande Fleur\nMore info: https://www.visitlaramie.org/event/la-grande-fleur/38092/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-104143_BD102138-A852-834E-3ECEDC639E765F5D_bd330935-bea2-57d8-c8b2bda34bda8e59.png\nCategories: Community
-GEO:41.310063;-105.565482
-LOCATION:Marian H. Rochelle Gateway Center
-SUMMARY:La Grande Fleur
-UID:38092@visitlaramie.org
-URL:https://www.visitlaramie.org/event/la-grande-fleur/38092/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
 DESCRIPTION:Cowboy Breakfast at Ivinson\nMore info: https://www.visitlaramie.org/event/cowboy-breakfast-at-ivinson/38241/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-131132_0C62D209-CC7D-8CA9-772F2EDBD9CA600C_0c6a47a8-ff4c-b362-791e430d30bf7eb1.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Sports
 GEO:41.312268;-105.556237
@@ -287,15 +278,6 @@ UID:38234@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ryan-charles-live/38234/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250823
-DESCRIPTION:Big Blocks & Brews Car Show\nMore info: https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/38201/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-132602_D37CC701-EDAC-6579-F21922161865AECD_d37dffce-cfe6-3be1-fa79822dd00e54ad.png\nCategories: Community\, Social Events
-GEO:41.309643;-105.594735
-LOCATION:Bond's Brewing Company
-SUMMARY:Big Blocks & Brews Car Show
-UID:38201@visitlaramie.org
-URL:https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/38201/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
 DESCRIPTION:Yoga at the Cathedral\nMore info: https://www.visitlaramie.org/event/yoga-at-the-cathedral/37705/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2024-12-05-101453_EE103C14-0142-6903-23D4E15C74C5F076_ee14884a-b7b5-9c9d-add7a912905be3b3.png\nCategories: Community
 GEO:41.312330;-105.593102
@@ -323,23 +305,6 @@ UID:38169@visitlaramie.org
 URL:https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250723
-DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
-GEO:41.325969;-105.592220
-SUMMARY:Vinyasa Flow at Laramie Fitness
-UID:38071@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250823
-DESCRIPTION:Acrylic Pour on the Patio\nMore info: https://www.visitlaramie.org/event/acrylic-pour-on-the-patio/38227/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/workshop-flyer-Instagram-Post-45-_D0168243-B3BD-9678-BF4BFE79796E20A2_d03b572b-cd05-d438-0a6c51b04ae12f61.png\nCategories: Craft Classes & Workshops
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Acrylic Pour on the Patio
-UID:38227@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acrylic-pour-on-the-patio/38227/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
 DESCRIPTION:"The Sun: Our Living Star"\nMore info: https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/sun-living-star_7C348D6B-5056-A36F-2390F2B6203B0215_7c367e10-5056-a36f-2307789ef1d19f39.jpg\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -347,6 +312,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"The Sun: Our Living Star"
 UID:31031@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-sun%3a-our-living-star/31031/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:Vinyasa Flow at Laramie Fitness\nMore info: https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-28-104650_EDD1EEDC-FE3A-0315-4F19807728332B3F_ede4fc35-c9f8-06ec-9b2bb8bd8df2a3a8.png\nCategories: Community\, Sports
+GEO:41.325969;-105.592220
+SUMMARY:Vinyasa Flow at Laramie Fitness
+UID:38071@visitlaramie.org
+URL:https://www.visitlaramie.org/event/vinyasa-flow-at-laramie-fitness/38071/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
@@ -385,15 +358,6 @@ UID:38246@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gem-city-nights-wild-love-tigress-with-taylor-shae-band/38246/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250823
-DESCRIPTION:Dome After Dark Live Event\nMore info: https://www.visitlaramie.org/event/dome-after-dark-live-event/37970/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-04-08-130902_E3EAA106-FEF0-40B6-E4D0E7F5BC92F724_e407c0a4-d635-e2b1-3bf5638cefd3a0de.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, University of Wyoming\, Performing Arts & Culture
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Dome After Dark Live Event
-UID:37970@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dome-after-dark-live-event/37970/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250916
 DESCRIPTION:Wyoming Skies Autumnal Equinox & Partial Solar Eclipse over Antartica\nMore info: https://www.visitlaramie.org/event/wyoming-skies-autumnal-equinox-%26-partial-solar-eclipse-over-antartica/36343/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_A14C8405-5056-A36F-2398052104D490A8_a1598b0e-5056-a36f-230d1384b67a284f.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
@@ -410,15 +374,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Dark Side of the Moon
 UID:35132@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-dark-side-of-the-moon/35132/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250823
-DESCRIPTION:Come to the Source Horse Sale\nMore info: https://www.visitlaramie.org/event/come-to-the-source-horse-sale/38167/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-120923_979B2A9A-9358-E6E2-F94FD377BB8023D2_97abdb7d-01c4-a713-afb5e4becc377350.png\nCategories: Community
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Come to the Source Horse Sale
-UID:38167@visitlaramie.org
-URL:https://www.visitlaramie.org/event/come-to-the-source-horse-sale/38167/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
@@ -482,15 +437,6 @@ LOCATION:Undine Park
 SUMMARY:Laramie Tuesday Cruiser Ride
 UID:38139@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-tuesday-cruiser-ride/38139/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250823
-DESCRIPTION:Bob Lefevre @ SOK Gallery\nMore info: https://www.visitlaramie.org/event/bob-lefevre-%40-sok-gallery/38223/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-14-120538_A16DB9A7-BD51-9708-D5B5A8483DF0C3B8_a17060e8-937b-3396-1dd6bcb386b71662.png\nCategories: Concerts & Live Music
-GEO:41.304361;-105.595919
-LOCATION:SOK Gallery
-SUMMARY:Bob Lefevre @ SOK Gallery
-UID:38223@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bob-lefevre-%40-sok-gallery/38223/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
