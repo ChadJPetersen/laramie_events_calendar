@@ -11,15 +11,6 @@ UID:38233@visitlaramie.org
 URL:https://www.visitlaramie.org/event/stand-up-comedy-night-%40-the-duck-feat/38233/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250824
-DESCRIPTION:Laramie Young Professions Annual Cornhole Tournement\nMore info: https://www.visitlaramie.org/event/laramie-young-professions-annual-cornhole-tournement/38200/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-131951_D34E2DA8-0D08-B762-085F0D155BE77A0D_d34f9cec-0b5d-b70b-faf00972136db872.png\nCategories: Annual Events & Festivals
-GEO:41.308353;-105.596400
-LOCATION:Historic Laramie Union Pacific Train Depot
-SUMMARY:Laramie Young Professions Annual Cornhole Tournement
-UID:38200@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-young-professions-annual-cornhole-tournement/38200/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250906
 DESCRIPTION:UW Cowboy Football vs. Univ. of Northern Iowa\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-univ-of-northern-iowa/37191/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
@@ -125,15 +116,6 @@ LOCATION:Ruffed Up Duck Saloon
 SUMMARY:It Gets Worse\, Kids on Fire (wa) Angelus Aware & Stage Theory
 UID:38250@visitlaramie.org
 URL:https://www.visitlaramie.org/event/it-gets-worse-kids-on-fire-(wa)-angelus-aware-%26-stage-theory/38250/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250824
-DESCRIPTION:ACPL Drop in Bead Crafts\nMore info: https://www.visitlaramie.org/event/acpl-drop-in-bead-crafts/38224/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-14-120902_A199E202-A97E-E74C-232D71E04C28134D_a1ac5832-acb6-cf00-8bedd80bfeaf18cc.png\nCategories: Family Fun\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:ACPL Drop in Bead Crafts
-UID:38224@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acpl-drop-in-bead-crafts/38224/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250620
@@ -258,15 +240,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250830
-DESCRIPTION:Back-to-School Kids & Families Nature Event\nMore info: https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_02B45455-9483-0FA3-6360CCD003701351_02d2914a-986d-3852-c5733f06f2b5a280.jpg\nCategories: Community\, Education\, Family Fun
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church - Gruver Room
-SUMMARY:Back-to-School Kids & Families Nature Event
-UID:38240@visitlaramie.org
-URL:https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
@@ -466,6 +439,15 @@ UID:38060@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250524
+DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Cowboy Yarn Crawl
+UID:37770@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250906
 DESCRIPTION:Living in Color Run 2025\nMore info: https://www.visitlaramie.org/event/living-in-color-run-2025/38163/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-105946_94ADF08A-DA1B-A8BF-F2FC6103B6141664_94cef272-e7dd-2ace-19ef71bd1d2a85ce.png\nCategories: Community
 GEO:41.323948;-105.619987
@@ -483,13 +465,13 @@ UID:38221@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-spece-between-closing-reception/38221/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250524
-DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Cowboy Yarn Crawl
-UID:37770@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
+DTSTART;VALUE=DATE:20250830
+DESCRIPTION:Back-to-School Kids & Families Nature Event\nMore info: https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_02B45455-9483-0FA3-6360CCD003701351_02d2914a-986d-3852-c5733f06f2b5a280.jpg\nCategories: Community\, Education\, Family Fun
+GEO:41.312203;-105.587931
+LOCATION:Trinity Lutheran Church - Gruver Room
+SUMMARY:Back-to-School Kids & Families Nature Event
+UID:38240@visitlaramie.org
+URL:https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
