@@ -20,15 +20,6 @@ UID:37191@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-univ-of-northern-iowa/37191/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
-DESCRIPTION:Space Between: exploring where contrast becomes connection\nMore info: https://www.visitlaramie.org/event/space-between%3a-exploring-where-contrast-becomes-connection/38168/\nCategories: Community\, Performing Arts & Culture\, Social Events
-GEO:41.309270;-105.587834
-LOCATION:Laramie Plains Civic Center\, Gorgon Gallery\, Rm 332
-SUMMARY:Space Between: exploring where contrast becomes connection
-UID:38168@visitlaramie.org
-URL:https://www.visitlaramie.org/event/space-between%3a-exploring-where-contrast-becomes-connection/38168/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:Wyoming Skies and Total Lunar Eclipse over Asia\nMore info: https://www.visitlaramie.org/event/wyoming-skies-and-total-lunar-eclipse-over-asia/36487/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_A14C8405-5056-A36F-2398052104D490A8_a1598b0e-5056-a36f-230d1384b67a284f.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
@@ -38,15 +29,6 @@ UID:36487@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies-and-total-lunar-eclipse-over-asia/36487/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:Yellowstone to Enceladus\nMore info: https://www.visitlaramie.org/event/yellowstone-to-enceladus/34955/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events12_15E29D4B-5056-A36F-23C3BBAFC5085830_15faac98-5056-a36f-236a04f2965c3d75.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Yellowstone to Enceladus
-UID:34955@visitlaramie.org
-URL:https://www.visitlaramie.org/event/yellowstone-to-enceladus/34955/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -54,6 +36,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Metal
 UID:31128@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250829
+DESCRIPTION:Yellowstone to Enceladus\nMore info: https://www.visitlaramie.org/event/yellowstone-to-enceladus/34955/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events12_15E29D4B-5056-A36F-23C3BBAFC5085830_15faac98-5056-a36f-236a04f2965c3d75.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
+GEO:41.313709;-105.590644
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Yellowstone to Enceladus
+UID:34955@visitlaramie.org
+URL:https://www.visitlaramie.org/event/yellowstone-to-enceladus/34955/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
@@ -240,6 +231,15 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+DESCRIPTION:Back-to-School Kids & Families Nature Event\nMore info: https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_02B45455-9483-0FA3-6360CCD003701351_02d2914a-986d-3852-c5733f06f2b5a280.jpg\nCategories: Community\, Education\, Family Fun
+GEO:41.312203;-105.587931
+LOCATION:Trinity Lutheran Church - Gruver Room
+SUMMARY:Back-to-School Kids & Families Nature Event
+UID:38240@visitlaramie.org
+URL:https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
@@ -439,15 +439,6 @@ UID:38060@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250524
-DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Cowboy Yarn Crawl
-UID:37770@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250906
 DESCRIPTION:Living in Color Run 2025\nMore info: https://www.visitlaramie.org/event/living-in-color-run-2025/38163/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-105946_94ADF08A-DA1B-A8BF-F2FC6103B6141664_94cef272-e7dd-2ace-19ef71bd1d2a85ce.png\nCategories: Community
 GEO:41.323948;-105.619987
@@ -465,13 +456,13 @@ UID:38221@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-spece-between-closing-reception/38221/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250830
-DESCRIPTION:Back-to-School Kids & Families Nature Event\nMore info: https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_02B45455-9483-0FA3-6360CCD003701351_02d2914a-986d-3852-c5733f06f2b5a280.jpg\nCategories: Community\, Education\, Family Fun
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church - Gruver Room
-SUMMARY:Back-to-School Kids & Families Nature Event
-UID:38240@visitlaramie.org
-URL:https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/
+DTSTART;VALUE=DATE:20250524
+DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Cowboy Yarn Crawl
+UID:37770@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
