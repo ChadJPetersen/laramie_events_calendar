@@ -100,6 +100,15 @@ UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Live Music @ the Courtyard Party\nMore info: https://www.visitlaramie.org/event/live-music-%40-the-courtyard-party/38264/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-112358_7105D371-EA74-7B30-A3D36174FF88D875_7112aeca-f0a9-b6ac-ae012c0498876d97.png\nCategories: Community\, Performing Arts & Culture\, Family Fun\, Craft Classes & Workshops
+GEO:41.309522;-105.587753
+LOCATION:Large Courtyard
+SUMMARY:Live Music @ the Courtyard Party
+UID:38264@visitlaramie.org
+URL:https://www.visitlaramie.org/event/live-music-%40-the-courtyard-party/38264/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
 DESCRIPTION:The Great Wyoming Eclipse of 2017\nMore info: https://www.visitlaramie.org/event/the-great-wyoming-eclipse-of-2017/38238/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-19-125434_A4CAA49D-C531-549A-C5B2D36257894C1C_a4ea20fd-f1c0-d4f6-2a57f308cd826b6f.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
@@ -198,15 +207,6 @@ UID:37948@visitlaramie.org
 URL:https://www.visitlaramie.org/event/j-carmichael-performing-at-the-great-untamed/37948/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250828
-DESCRIPTION:Relative Theatrics Season 13 Kickoff\nMore info: https://www.visitlaramie.org/event/relative-theatrics-season-13-kickoff/38236/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-19-102627_9F7C77DD-FAEA-5542-04183C398718A062_9fb08142-b3e2-130f-36d50345a01f1403.png\nCategories: Annual Events & Festivals\, Community\, Performing Arts & Culture
-GEO:41.309270;-105.587834
-LOCATION:Laramie Plains Civic Center
-SUMMARY:Relative Theatrics Season 13 Kickoff
-UID:38236@visitlaramie.org
-URL:https://www.visitlaramie.org/event/relative-theatrics-season-13-kickoff/38236/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 DESCRIPTION:Into the Badlands Tattoo Expo\nMore info: https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/37168/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-140407_D4D56734-A110-2882-7CBB816B93B8F214_d4dec488-9f09-97a0-40c280d01cd5dcc6.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Social Events
 GEO:41.286512;-105.592547
@@ -234,6 +234,15 @@ UID:38222@visitlaramie.org
 URL:https://www.visitlaramie.org/event/brunch-%26-bubbly/38222/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+DESCRIPTION:Barely Gettin' By Live\nMore info: https://www.visitlaramie.org/event/barely-gettin-by-live/36476/\nVenue: Woods Landing Resort\nVenue Info: https://www.visitlaramie.org/listing/woods-landing-resort/133/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_5569843A-5056-A36F-232A213287CCF3B9_55752881-5056-a36f-239ade7f02bf969a.png\nCategories: Concerts & Live Music\, Performing Arts & Culture\, Family Fun\, Social Events
+GEO:41.110405;-106.012727
+LOCATION:Woods Landing Resort
+SUMMARY:Barely Gettin' By Live
+UID:36476@visitlaramie.org
+URL:https://www.visitlaramie.org/event/barely-gettin-by-live/36476/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
 DESCRIPTION:Cowboy Breakfast at Ivinson\nMore info: https://www.visitlaramie.org/event/cowboy-breakfast-at-ivinson/38241/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-131132_0C62D209-CC7D-8CA9-772F2EDBD9CA600C_0c6a47a8-ff4c-b362-791e430d30bf7eb1.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Sports
 GEO:41.312268;-105.556237
@@ -243,15 +252,6 @@ UID:38241@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-breakfast-at-ivinson/38241/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DESCRIPTION:Higher Ground Fair\nMore info: https://www.visitlaramie.org/event/higher-ground-fair/38215/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-13-123055_6EF7FB53-A751-ECE5-3473C80556B289CB_6f1cc334-dc90-e879-d92a76860d3cc555.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
-GEO:41.311613;-105.610512
-LOCATION:Wyoming Territorial Prison State Historic Site
-SUMMARY:Higher Ground Fair
-UID:38215@visitlaramie.org
-URL:https://www.visitlaramie.org/event/higher-ground-fair/38215/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -259,6 +259,15 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250920
+DESCRIPTION:Higher Ground Fair\nMore info: https://www.visitlaramie.org/event/higher-ground-fair/38215/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-13-123055_6EF7FB53-A751-ECE5-3473C80556B289CB_6f1cc334-dc90-e879-d92a76860d3cc555.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.311613;-105.610512
+LOCATION:Wyoming Territorial Prison State Historic Site
+SUMMARY:Higher Ground Fair
+UID:38215@visitlaramie.org
+URL:https://www.visitlaramie.org/event/higher-ground-fair/38215/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
@@ -331,6 +340,14 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Gem City Nights - Wild Love Tigress with Taylor Shae Band
 UID:38246@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gem-city-nights-wild-love-tigress-with-taylor-shae-band/38246/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Plant Walk & DIY Plant Press Workshop\nMore info: https://www.visitlaramie.org/event/plant-walk-%26-diy-plant-press-workshop/38265/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-113758_71A15080-0872-C69E-220CB741D1635A59_727bf383-b66c-1204-d936f0e9f4dfdb76.png\nCategories: Community\, Outdoor Recreation\, Craft Classes & Workshops
+GEO:41.313300;-105.546386
+SUMMARY:Plant Walk & DIY Plant Press Workshop
+UID:38265@visitlaramie.org
+URL:https://www.visitlaramie.org/event/plant-walk-%26-diy-plant-press-workshop/38265/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
@@ -414,6 +431,15 @@ UID:38120@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Courtyard Party\nMore info: https://www.visitlaramie.org/event/courtyard-party/38263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-110158_70337E84-E299-ADE3-5B25D7457EA9FD96_70406587-f397-8a4e-cd434ef68675afed.png\nCategories: Community\, Performing Arts & Culture\, Family Fun\, Craft Classes & Workshops
+GEO:41.309522;-105.587753
+LOCATION:Large Courtyard
+SUMMARY:Courtyard Party
+UID:38263@visitlaramie.org
+URL:https://www.visitlaramie.org/event/courtyard-party/38263/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
 DESCRIPTION:Relative Theatrics Presents: Mary Gets Hers\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents%3a-mary-gets-hers/38237/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-19-103429_9FFF60E2-A96D-C72E-7CCC0ECC7000C69A_a0605203-9087-0699-51cdbf8014ea2b69.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
 GEO:41.311367;-105.591101
@@ -430,6 +456,15 @@ LOCATION:Studio City UW
 SUMMARY:Award-winning film 'Elijah' at the 307 International Film Festival
 UID:38204@visitlaramie.org
 URL:https://www.visitlaramie.org/event/award-winning-film-elijah-at-the-307-international-film-festival/38204/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:Parking Lot Vendor Sale @ Snowy Range Flea Market\nMore info: https://www.visitlaramie.org/event/parking-lot-vendor-sale-%40-snowy-range-flea-market/37155/\nVenue: Snowy Range Flea Market\nVenue Info: https://www.visitlaramie.org/listing/snowy-range-flea-market/511/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-111009_708A47B2-9C74-2F42-5F22E1DF434621B7_70942396-c652-ff96-e98ae9221007de8f.png\nCategories: Community
+GEO:41.309295;-105.621917
+LOCATION:Snowy Range Flea Market
+SUMMARY:Parking Lot Vendor Sale @ Snowy Range Flea Market
+UID:37155@visitlaramie.org
+URL:https://www.visitlaramie.org/event/parking-lot-vendor-sale-%40-snowy-range-flea-market/37155/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
