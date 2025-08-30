@@ -11,6 +11,15 @@ UID:38233@visitlaramie.org
 URL:https://www.visitlaramie.org/event/stand-up-comedy-night-%40-the-duck-feat/38233/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DESCRIPTION:Wednesdays at the Buck\nMore info: https://www.visitlaramie.org/event/wednesdays-at-the-buck/37730/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-121052_A62B6916-A48B-8CAD-2133784A40915070_a6353ce0-9cac-4bd9-37ddbca50169066d.png\nCategories: Concerts & Live Music
+GEO:41.311952;-105.595415
+LOCATION:Buckhorn Bar & Parlor
+SUMMARY:Wednesdays at the Buck
+UID:37730@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wednesdays-at-the-buck/37730/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250906
 DESCRIPTION:UW Cowboy Football vs. Univ. of Northern Iowa\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-univ-of-northern-iowa/37191/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
@@ -36,15 +45,6 @@ LOCATION:Laramie Basecamp
 SUMMARY:Explorers Night #6 Riding the Rapids with Tim Hale!
 UID:38252@visitlaramie.org
 URL:https://www.visitlaramie.org/event/explorers-night-%236-riding-the-rapids-with-tim-hale!/38252/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:Yellowstone to Enceladus\nMore info: https://www.visitlaramie.org/event/yellowstone-to-enceladus/34955/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events12_15E29D4B-5056-A36F-23C3BBAFC5085830_15faac98-5056-a36f-236a04f2965c3d75.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Yellowstone to Enceladus
-UID:34955@visitlaramie.org
-URL:https://www.visitlaramie.org/event/yellowstone-to-enceladus/34955/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
@@ -163,15 +163,6 @@ UID:37897@visitlaramie.org
 URL:https://www.visitlaramie.org/event/307-international-film-festival/37897/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:Liquid Sky: Pop\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pop/35124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Pop
-UID:35124@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/35124/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250916
 DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
 GEO:41.310342;-105.587834
@@ -268,6 +259,24 @@ LOCATION:Wyoming Territorial Prison State Historic Site
 SUMMARY:Higher Ground Fair
 UID:38215@visitlaramie.org
 URL:https://www.visitlaramie.org/event/higher-ground-fair/38215/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:Ritual Trance Dance\nMore info: https://www.visitlaramie.org/event/ritual-trance-dance/38267/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-122157_A68F34E5-F02B-5E07-147851967B5DE0D1_a6978085-9b1a-5cfc-3fd7a94cb937a5e1.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Ritual Trance Dance
+UID:38267@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ritual-trance-dance/38267/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+DESCRIPTION:Back-to-School Kids & Families Nature Event\nMore info: https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_02B45455-9483-0FA3-6360CCD003701351_02d2914a-986d-3852-c5733f06f2b5a280.jpg\nCategories: Community\, Education\, Family Fun
+GEO:41.312203;-105.587931
+LOCATION:Trinity Lutheran Church - Gruver Room
+SUMMARY:Back-to-School Kids & Families Nature Event
+UID:38240@visitlaramie.org
+URL:https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
@@ -387,7 +396,7 @@ URL:https://www.visitlaramie.org/event/liquid-sky%3a-dark-side-of-the-moon/35132
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
-DESCRIPTION:Charity Bingo Night @ Bond's Brewing\nMore info: https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nCategories: Community
+DESCRIPTION:Charity Bingo Night @ Bond's Brewing\nMore info: https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-120402_A5E8CAF1-F437-DEBA-F5AAD0712FB27AA8_a5e9acc5-eb03-f513-a76b7c0e534d06b3.png\nCategories: Community
 GEO:41.309643;-105.594735
 LOCATION:Bond's Brewing Company
 SUMMARY:Charity Bingo Night @ Bond's Brewing
@@ -420,6 +429,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Black Holes
 UID:36479@visitlaramie.org
 URL:https://www.visitlaramie.org/event/black-holes/36479/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Line Dance Shuffle\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle/38127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-27-155523_023E33B3-B6B5-8312-CFE19E1296028077_028de4b3-09c4-c349-7a8fd34afec0da7b.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.304734;-105.549039
+LOCATION:Laramie Rec Center
+SUMMARY:Line Dance Shuffle
+UID:38127@visitlaramie.org
+URL:https://www.visitlaramie.org/event/line-dance-shuffle/38127/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250625
@@ -486,12 +504,30 @@ URL:https://www.visitlaramie.org/event/a-night-of-improv-comedy-with-the-cooper-
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
+DESCRIPTION:B. Dylan Hollis Book Signing\nMore info: https://www.visitlaramie.org/event/b-dylan-hollis-book-signing/36535/\nVenue: Blue Mountain Bookstore\nVenue Info: https://www.visitlaramie.org/listing/blue-mountain-bookstore/495/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-125414_A7CE6D74-9E32-684C-AC646C73322A05E0_a7d5ae6c-939c-9d7b-6ac8aef20ea0adab.png\nCategories: Community\, Family Fun\, Social Events
+GEO:41.310951;-105.594539
+LOCATION:Blue Mountain Bookstore
+SUMMARY:B. Dylan Hollis Book Signing
+UID:36535@visitlaramie.org
+URL:https://www.visitlaramie.org/event/b-dylan-hollis-book-signing/36535/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250920
 DESCRIPTION:Double Feature We Are Stars & Always Above\nMore info: https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
 LOCATION:University of Wyoming Planetarium
 SUMMARY:Double Feature We Are Stars & Always Above
 UID:38060@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250907
+DESCRIPTION:Sound + Silence: A Restorative Yoga & Sound Bath Experience\nMore info: https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38268/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-130558_A8B32BFD-E2BF-D468-BB71F122DEB5A8F6_a8c93c5b-9e49-33c5-df1bf3e459115d73.png\nCategories: Community
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Sound + Silence: A Restorative Yoga & Sound Bath Experience
+UID:38268@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38268/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
@@ -501,15 +537,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:Join the Gamelan Ensemble
 UID:38261@visitlaramie.org
 URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250524
-DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Cowboy Yarn Crawl
-UID:37770@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
@@ -529,22 +556,13 @@ UID:38163@visitlaramie.org
 URL:https://www.visitlaramie.org/event/living-in-color-run-2025/38163/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:The Spece Between Closing Reception\nMore info: https://www.visitlaramie.org/event/the-spece-between-closing-reception/38221/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-14-113127_A065758B-E179-38B8-F5C85AD990735160_a06d5c6a-fc8a-8f09-8f95d0ab55064355.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gorgon Gallery Rm 332 Laramie Plains Civic Center
-SUMMARY:The Spece Between Closing Reception
-UID:38221@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-spece-between-closing-reception/38221/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250830
-DESCRIPTION:Back-to-School Kids & Families Nature Event\nMore info: https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_02B45455-9483-0FA3-6360CCD003701351_02d2914a-986d-3852-c5733f06f2b5a280.jpg\nCategories: Community\, Education\, Family Fun
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church - Gruver Room
-SUMMARY:Back-to-School Kids & Families Nature Event
-UID:38240@visitlaramie.org
-URL:https://www.visitlaramie.org/event/back-to-school-kids-%26-families-nature-event/38240/
+DTSTART;VALUE=DATE:20250524
+DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-30-120809_37EC697B-A4B3-74B4-7D24D47E057501BB_3867aca7-b031-48bd-685344af51790cdf.png\nCategories: Annual Events & Festivals
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Cowboy Yarn Crawl
+UID:37770@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/37770/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250830
@@ -563,5 +581,14 @@ LOCATION:975 Snowy Range Rd\, Laramie
 SUMMARY:2025 Wyoming Archaeology Fair
 UID:37802@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2025-wyoming-archaeology-fair/37802/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250914
+DESCRIPTION:Meet The Author Festival\nMore info: https://www.visitlaramie.org/event/meet-the-author-festival/38266/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-121532_A661D10E-09CD-8139-83E44A16B0E0B4FF_a6667559-069f-dae7-8ed3a94cd57a323c.png\nCategories: Annual Events & Festivals
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Meet The Author Festival
+UID:38266@visitlaramie.org
+URL:https://www.visitlaramie.org/event/meet-the-author-festival/38266/
 END:VEVENT
 END:VCALENDAR
