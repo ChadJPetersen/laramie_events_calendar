@@ -404,15 +404,6 @@ UID:38127@visitlaramie.org
 URL:https://www.visitlaramie.org/event/line-dance-shuffle/38127/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250625
-DESCRIPTION:Wyoming Book Crawl-Laramie Edition\nMore info: https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-103906_942879F8-94BA-73CD-F89A51FF38A96C51_942e9786-f682-5b51-9015ae55fd604ae6.png\nCategories: Community
-GEO:41.311367;-105.591101
-LOCATION:Downtown Laramie
-SUMMARY:Wyoming Book Crawl-Laramie Edition
-UID:38120@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-book-crawl-laramie-edition/38120/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 DESCRIPTION:Courtyard Party\nMore info: https://www.visitlaramie.org/event/courtyard-party/38263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-110158_70337E84-E299-ADE3-5B25D7457EA9FD96_70406587-f397-8a4e-cd434ef68675afed.png\nCategories: Community\, Performing Arts & Culture\, Family Fun\, Craft Classes & Workshops
 GEO:41.309522;-105.587753
@@ -429,15 +420,6 @@ LOCATION:The Buchanan Center/BCPA Studio Theatre
 SUMMARY:Relative Theatrics Presents: Mary Gets Hers
 UID:38237@visitlaramie.org
 URL:https://www.visitlaramie.org/event/relative-theatrics-presents%3a-mary-gets-hers/38237/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250831
-DESCRIPTION:Award-winning film 'Elijah' at the 307 International Film Festival\nMore info: https://www.visitlaramie.org/event/award-winning-film-elijah-at-the-307-international-film-festival/38204/\nVenue: Studio City UW\nVenue Info: https://www.visitlaramie.org/listing/studio-city-uw/394/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Elijah-Still-pic-4_1AC2513E-EC18-5E58-0825BA8554301524_1accb4df-b044-c363-0a4d08e8ebafe36e.jpg\nCategories: Annual Events & Festivals
-GEO:41.309950;-105.560391
-LOCATION:Studio City UW
-SUMMARY:Award-winning film 'Elijah' at the 307 International Film Festival
-UID:38204@visitlaramie.org
-URL:https://www.visitlaramie.org/event/award-winning-film-elijah-at-the-307-international-film-festival/38204/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
