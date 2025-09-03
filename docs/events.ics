@@ -20,13 +20,13 @@ UID:37191@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-univ-of-northern-iowa/37191/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250902
-DESCRIPTION:Wyoming Skies and Total Lunar Eclipse over Asia\nMore info: https://www.visitlaramie.org/event/wyoming-skies-and-total-lunar-eclipse-over-asia/36487/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_A14C8405-5056-A36F-2398052104D490A8_a1598b0e-5056-a36f-230d1384b67a284f.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.313709;-105.590644
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming
+GEO:41.323643;-105.583027
 LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies and Total Lunar Eclipse over Asia
-UID:36487@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies-and-total-lunar-eclipse-over-asia/36487/
+SUMMARY:Liquid Sky: Metal
+UID:31128@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250904
@@ -36,15 +36,6 @@ LOCATION:Laramie Basecamp
 SUMMARY:Explorers Night #6 Riding the Rapids with Tim Hale!
 UID:38252@visitlaramie.org
 URL:https://www.visitlaramie.org/event/explorers-night-%236-riding-the-rapids-with-tim-hale!/38252/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250912
-DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Metal
-UID:31128@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250926
@@ -71,6 +62,14 @@ GEO:41.313179;-105.595024
 SUMMARY:All Is Within: A Free Practice
 UID:38187@visitlaramie.org
 URL:https://www.visitlaramie.org/event/all-is-within%3a-a-free-practice/38187/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251003
+DESCRIPTION:University of Wyoming Homecoming 2024\nMore info: https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-111852_70DF8598-AA49-2341-1E2128388F62F1B5_70eb8a53-f407-91ff-ddf106d324721506.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Sports\, Performing Arts & Culture\, Family Fun\, Social Events
+GEO:41.310063;-105.565482
+SUMMARY:University of Wyoming Homecoming 2024
+UID:36421@visitlaramie.org
+URL:https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
@@ -163,14 +162,6 @@ UID:38068@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250902
-DESCRIPTION:Moms+Coffee+Donuts\nMore info: https://www.visitlaramie.org/event/moms%2bcoffee%2bdonuts/38243/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-122456_0AC285A5-94EC-1634-2AB55CE4CC709C63_0ad46317-c250-59cc-fd1fd4449ce8d5cb.png\nCategories: Community\, Social Events
-GEO:41.293922;-105.579955
-SUMMARY:Moms+Coffee+Donuts
-UID:38243@visitlaramie.org
-URL:https://www.visitlaramie.org/event/moms%2bcoffee%2bdonuts/38243/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
 DESCRIPTION:Double Feature: Great Solar System Adventure + Always Above\nMore info: https://www.visitlaramie.org/event/double-feature%3a-great-solar-system-adventure-%2b-always-above/38126/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -214,6 +205,15 @@ LOCATION:Alice Hardie Stevens Center
 SUMMARY:Brunch & Bubbly
 UID:38222@visitlaramie.org
 URL:https://www.visitlaramie.org/event/brunch-%26-bubbly/38222/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251003
+DESCRIPTION:Chris Janson Live in Concert\nMore info: https://www.visitlaramie.org/event/chris-janson-live-in-concert/38248/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-131828_0CA52428-BF32-EDE2-30A4C88940A612B9_0ccae3a0-de09-0a8a-96f8b2717056e9f2.png\nCategories: Concerts & Live Music\, University of Wyoming
+GEO:41.313282;-105.581513
+LOCATION:A & S Auditorium
+SUMMARY:Chris Janson Live in Concert
+UID:38248@visitlaramie.org
+URL:https://www.visitlaramie.org/event/chris-janson-live-in-concert/38248/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
@@ -395,6 +395,15 @@ UID:36479@visitlaramie.org
 URL:https://www.visitlaramie.org/event/black-holes/36479/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251003
+DESCRIPTION:Jalan Crossland with Zephyr Grey\nMore info: https://www.visitlaramie.org/event/jalan-crossland-with-zephyr-grey/38244/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-123200_0B2016ED-BAAD-BDA0-984DC041B4BF5D50_0b362e07-fbe9-beaa-9bca85f3ed47deaa.png\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Jalan Crossland with Zephyr Grey
+UID:38244@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jalan-crossland-with-zephyr-grey/38244/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
 DESCRIPTION:Line Dance Shuffle\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle/38127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-27-155523_023E33B3-B6B5-8312-CFE19E1296028077_028de4b3-09c4-c349-7a8fd34afec0da7b.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
 GEO:41.304734;-105.549039
@@ -500,6 +509,15 @@ GEO:41.323948;-105.619987
 SUMMARY:Living in Color Run 2025
 UID:38163@visitlaramie.org
 URL:https://www.visitlaramie.org/event/living-in-color-run-2025/38163/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251003
+DESCRIPTION:Tipsy Tarot & Terracotta: Teacup Workshop\nMore info: https://www.visitlaramie.org/event/tipsy-tarot-%26-terracotta%3a-teacup-workshop/38247/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-130331_0C2A7826-B9EE-B5EC-D99134A312B1A095_0c498949-d743-9b5a-a9fe03586f7aff7f.png\nCategories: Annual Events & Festivals\, Community\, Craft Classes & Workshops
+GEO:41.309522;-105.587753
+LOCATION:LPCC Phoenix Ballroom\, Rm 271
+SUMMARY:Tipsy Tarot & Terracotta: Teacup Workshop
+UID:38247@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tipsy-tarot-%26-terracotta%3a-teacup-workshop/38247/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
