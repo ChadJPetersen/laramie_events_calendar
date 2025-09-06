@@ -38,15 +38,6 @@ UID:38259@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-homecoming-parade/38259/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:Liquid Sky: EDM\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-edm/36954/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: EDM
-UID:36954@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-edm/36954/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
 DESCRIPTION:Pano Connections @ The Gorgon Gallery\nMore info: https://www.visitlaramie.org/event/pano-connections-%40-the-gorgon-gallery/38278/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-114040_A6B061B9-A91C-8534-0FB1F616C841E2B8_a7070c4c-d20f-c40f-f12d791586ed2d62.png\nCategories: Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -73,15 +64,6 @@ UID:38187@visitlaramie.org
 URL:https://www.visitlaramie.org/event/all-is-within%3a-a-free-practice/38187/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Cars and Coffee at Toyota of Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Event-Image_2914823C-A70A-118B-32BA80D9FD7E1AE7_29198826-f6a6-cbac-689dfc393670b5c5.png\nCategories: Annual Events & Festivals
-GEO:41.308934;-105.562856
-LOCATION:Toyota of Laramie
-SUMMARY:Cars and Coffee at Toyota of Laramie
-UID:38037@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
 DESCRIPTION:"Liquid Sky: Taylor Swift\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/38063/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -89,6 +71,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Liquid Sky: Taylor Swift
 UID:38063@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/38063/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Cars and Coffee at Toyota of Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Event-Image_2914823C-A70A-118B-32BA80D9FD7E1AE7_29198826-f6a6-cbac-689dfc393670b5c5.png\nCategories: Annual Events & Festivals
+GEO:41.308934;-105.562856
+LOCATION:Toyota of Laramie
+SUMMARY:Cars and Coffee at Toyota of Laramie
+UID:38037@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
@@ -314,15 +305,6 @@ UID:38260@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-homecoming-2025-alumni-lunch/38260/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:Ryan Charles Live\nMore info: https://www.visitlaramie.org/event/ryan-charles-live/38234/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-130453_D710458D-0ADE-9936-27621DCF1F5D69D3_d7214794-fb3b-0fcf-ecdd2f4d9e309db8.png\nCategories: Concerts & Live Music
-GEO:41.312609;-105.595118
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Ryan Charles Live
-UID:38234@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ryan-charles-live/38234/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
 DESCRIPTION:"The Sun: Our Living Star"\nMore info: https://www.visitlaramie.org/event/the-sun%3a-our-living-star/30893/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/sun-living-star_BC60B651-5056-A36F-2392CCEB08688E27_bc6159a3-5056-a36f-2303a27464d1d7ac.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -393,14 +375,6 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Gem City Nights - Wild Love Tigress with Taylor Shae Band
 UID:38246@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gem-city-nights-wild-love-tigress-with-taylor-shae-band/38246/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:Plant Walk & DIY Plant Press Workshop\nMore info: https://www.visitlaramie.org/event/plant-walk-%26-diy-plant-press-workshop/38265/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-113758_71A15080-0872-C69E-220CB741D1635A59_727bf383-b66c-1204-d936f0e9f4dfdb76.png\nCategories: Community\, Outdoor Recreation\, Craft Classes & Workshops
-GEO:41.313300;-105.546386
-SUMMARY:Plant Walk & DIY Plant Press Workshop
-UID:38265@visitlaramie.org
-URL:https://www.visitlaramie.org/event/plant-walk-%26-diy-plant-press-workshop/38265/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
@@ -481,15 +455,6 @@ LOCATION:University of Wyoming Business Auditorium
 SUMMARY:26th Annual Frison Institute of Archaeology & Anthropology Public Lecture
 UID:38270@visitlaramie.org
 URL:https://www.visitlaramie.org/event/26th-annual-frison-institute-of-archaeology-%26-anthropology-public-lecture/38270/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:Black Holes\nMore info: https://www.visitlaramie.org/event/black-holes/36479/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events9_A21DD451-5056-A36F-232786D7CA916103_a224a619-5056-a36f-2314cb9b90a5aa97.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Black Holes
-UID:36479@visitlaramie.org
-URL:https://www.visitlaramie.org/event/black-holes/36479/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
