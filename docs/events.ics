@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250906
-DESCRIPTION:UW Cowboy Football vs. Univ. of Northern Iowa\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-univ-of-northern-iowa/37191/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.311627;-105.564677
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football vs. Univ. of Northern Iowa
-UID:37191@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-univ-of-northern-iowa/37191/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -323,13 +314,13 @@ UID:34904@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250906
-DESCRIPTION:25th annual Wyoming Buddy Walk\nMore info: https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BW-2025-postcard-7-x-5-in-_93EA2B97-0964-B688-B3FAAFC4D2817CAD_93f0df0a-b04e-3497-5e839d0545900e82.jpg\nCategories: Community
-GEO:41.322649;-105.592719
-LOCATION:Washington Park Bandshell
-SUMMARY:25th annual Wyoming Buddy Walk
-UID:38169@visitlaramie.org
-URL:https://www.visitlaramie.org/event/25th-annual-wyoming-buddy-walk/38169/
+DTSTART;VALUE=DATE:20251004
+DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/38253/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-26-124129_0E52DC0B-FB30-FF48-6EBC3EC5DBAF30AC_0e5e0822-0038-ffb0-4303ae31f493092b.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Ecstatic Dance
+UID:38253@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ecstatic-dance/38253/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
@@ -339,15 +330,6 @@ LOCATION:The Great Untamed
 SUMMARY:New Age Phonograph @ The Great Untamed
 UID:37848@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-great-untamed/37848/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251004
-DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/38253/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-26-124129_0E52DC0B-FB30-FF48-6EBC3EC5DBAF30AC_0e5e0822-0038-ffb0-4303ae31f493092b.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Ecstatic Dance
-UID:38253@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ecstatic-dance/38253/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
@@ -429,15 +411,6 @@ LOCATION:12 Venues Throughout Laramie
 SUMMARY:Snow Train Music Festival
 UID:38251@visitlaramie.org
 URL:https://www.visitlaramie.org/event/snow-train-music-festival/38251/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250906
-DESCRIPTION:Campus Pass\nMore info: https://www.visitlaramie.org/event/campus-pass/38225/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-14-121541_A1C9075E-C53C-DAE9-2ACDB6B60FA61240_a1e388c0-feb0-39ec-6a10566025c13cb0.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Sports
-GEO:41.313968;-105.584517
-LOCATION:University of Wyoming
-SUMMARY:Campus Pass
-UID:38225@visitlaramie.org
-URL:https://www.visitlaramie.org/event/campus-pass/38225/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
@@ -589,14 +562,6 @@ LOCATION:Large Courtyard
 SUMMARY:Courtyard Party
 UID:38254@visitlaramie.org
 URL:https://www.visitlaramie.org/event/courtyard-party/38254/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250906
-DESCRIPTION:Living in Color Run 2025\nMore info: https://www.visitlaramie.org/event/living-in-color-run-2025/38163/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-105946_94ADF08A-DA1B-A8BF-F2FC6103B6141664_94cef272-e7dd-2ace-19ef71bd1d2a85ce.png\nCategories: Community
-GEO:41.323948;-105.619987
-SUMMARY:Living in Color Run 2025
-UID:38163@visitlaramie.org
-URL:https://www.visitlaramie.org/event/living-in-color-run-2025/38163/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250908
