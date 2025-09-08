@@ -519,15 +519,6 @@ UID:38060@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250907
-DESCRIPTION:Sound + Silence: A Restorative Yoga & Sound Bath Experience\nMore info: https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38268/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-130558_A8B32BFD-E2BF-D468-BB71F122DEB5A8F6_a8c93c5b-9e49-33c5-df1bf3e459115d73.png\nCategories: Community
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Sound + Silence: A Restorative Yoga & Sound Bath Experience
-UID:38268@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38268/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
 DESCRIPTION:Join the Gamelan Ensemble\nMore info: https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Live-Music_439CF9AD-E130-6AC3-EF7D97D5A168E0C6_43aa5787-bc28-ea78-07f5c837c23404d0.png\nCategories: Performing Arts & Culture
 GEO:41.313968;-105.584517
