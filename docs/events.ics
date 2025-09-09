@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251003
+DESCRIPTION:Tris Munsick &#8211\; Live for Homecoming\nMore info: https://www.visitlaramie.org/event/tris-munsick-%26%238211%3b-live-for-homecoming/38285/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_D27A8151-1A64-407F-9E20E81CAD532069_b6e61124-5e1a-4b2d-94bce4d753d845f4.jpg\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Tris Munsick &#8211\; Live for Homecoming
+UID:38285@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tris-munsick-%26%238211%3b-live-for-homecoming/38285/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/31128/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -81,6 +90,15 @@ UID:36421@visitlaramie.org
 URL:https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:Create Nature Crafts @ Centennial Visitor Center\nMore info: https://www.visitlaramie.org/event/create-nature-crafts-%40-centennial-visitor-center/38290/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-08-133430_AC27A0E2-90A2-3D54-EEE40632E230F08A_ac5e209a-0910-72c1-55d1667c3bde34e3.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
+GEO:41.306855;-106.142948
+LOCATION:Centennial Visitor Center
+SUMMARY:Create Nature Crafts @ Centennial Visitor Center
+UID:38290@visitlaramie.org
+URL:https://www.visitlaramie.org/event/create-nature-crafts-%40-centennial-visitor-center/38290/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 DESCRIPTION:Live Music @ the Courtyard Party\nMore info: https://www.visitlaramie.org/event/live-music-%40-the-courtyard-party/38264/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-112358_7105D371-EA74-7B30-A3D36174FF88D875_7112aeca-f0a9-b6ac-ae012c0498876d97.png\nCategories: Community\, Performing Arts & Culture\, Family Fun\, Craft Classes & Workshops
 GEO:41.309522;-105.587753
@@ -115,6 +133,15 @@ LOCATION:Seek Yoga Studio
 SUMMARY:Finding Balance Fall Equinox Yoga Event
 UID:37469@visitlaramie.org
 URL:https://www.visitlaramie.org/event/finding-balance-fall-equinox-yoga-event/37469/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Dori Jo and the Double Standard\nMore info: https://www.visitlaramie.org/event/dori-jo-and-the-double-standard/38283/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-3_0F6E5835-4311-4442-8282CF3FDB117175_562e678e-f6f3-4209-95f8ef685fac5d12.jpg\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Dori Jo and the Double Standard
+UID:38283@visitlaramie.org
+URL:https://www.visitlaramie.org/event/dori-jo-and-the-double-standard/38283/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
@@ -224,6 +251,15 @@ UID:37252@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250927
+DESCRIPTION:2025 National Public Lands Day Service Event\nMore info: https://www.visitlaramie.org/event/2025-national-public-lands-day-service-event/38288/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-08-132146_ABAA8EF0-D28E-0520-8F79958E4B2D4A07_abad2ff2-bd6e-7ac8-fd1ba090efab1157.png\nCategories: Outdoor Recreation\, Volunteering
+GEO:41.306133;-105.576724
+LOCATION:Washington Park Otto Dahl Picnic Shelter (multiple project locations around Laramie)
+SUMMARY:2025 National Public Lands Day Service Event
+UID:38288@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2025-national-public-lands-day-service-event/38288/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250914
 DESCRIPTION:Brunch & Bubbly\nMore info: https://www.visitlaramie.org/event/brunch-%26-bubbly/38222/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-14-114036_A0A19395-FDF6-AB2F-1A9AEA53A438F18C_a0b6d3b5-dfcd-9411-7a5124efb948f87d.png\nCategories: Annual Events & Festivals\, Social Events
 GEO:41.312068;-105.589055
@@ -303,6 +339,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"The Sun: Our Living Star"
 UID:30893@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-sun%3a-our-living-star/30893/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:Jelm Mountain Run\nMore info: https://www.visitlaramie.org/event/jelm-mountain-run/38286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-08-131713_AB7F48B0-E7E0-14F8-83A30755C9ECF274_ab8808a5-a170-3b39-42a0fbe493bdc06d.png\nCategories: Outdoor Recreation
+GEO:41.311367;-105.591101
+LOCATION:Jelm Mountain Road\, Albany County Wyoming
+SUMMARY:Jelm Mountain Run
+UID:38286@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jelm-mountain-run/38286/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250129
@@ -413,6 +458,15 @@ UID:38251@visitlaramie.org
 URL:https://www.visitlaramie.org/event/snow-train-music-festival/38251/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250926
+DESCRIPTION:Cowboy Acoustic Nights with Jason Moore\nMore info: https://www.visitlaramie.org/event/cowboy-acoustic-nights-with-jason-moore/38284/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-4_3166D10D-0F49-4B1B-82082D79A2A02DF8_c785f3f7-7f31-489c-9f89a0ff37f8a7f9.jpg\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Acoustic Nights with Jason Moore
+UID:38284@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-acoustic-nights-with-jason-moore/38284/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
 DESCRIPTION:UW Cowboy Football vs UNLV\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-unlv/26455/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-13-094940_6CF8CD14-DD37-E69A-EABBF73522E335EE_6cff1c89-e99d-ccbb-2393b467654612ef.png\nCategories: Community\, University of Wyoming\, Sports
 LOCATION:War Memorial Stadium
@@ -464,6 +518,15 @@ LOCATION:The Buchanan Center/BCPA Studio Theatre
 SUMMARY:Relative Theatrics Presents: Mary Gets Hers
 UID:38237@visitlaramie.org
 URL:https://www.visitlaramie.org/event/relative-theatrics-presents%3a-mary-gets-hers/38237/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250913
+DESCRIPTION:Print Your Own Postcard with Ashley Quick\nMore info: https://www.visitlaramie.org/event/print-your-own-postcard-with-ashley-quick/38289/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-08-124959_ABE1E4D5-9CC6-494F-C1D560F1A000D7E9_ac108543-d2a5-5f54-9c7ebdce61345dae.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
+GEO:41.306855;-106.142948
+LOCATION:Centennial Visitor Center
+SUMMARY:Print Your Own Postcard with Ashley Quick
+UID:38289@visitlaramie.org
+URL:https://www.visitlaramie.org/event/print-your-own-postcard-with-ashley-quick/38289/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
@@ -546,6 +609,15 @@ UID:36612@visitlaramie.org
 URL:https://www.visitlaramie.org/event/japan-festival-2025/36612/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251005
+DESCRIPTION:Silent Trails Memorial Run\nMore info: https://www.visitlaramie.org/event/silent-trails-memorial-run/38287/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Silent-Trails-Poster-2025_761ECCB9-A0EF-9D0D-8FECDE7A147986F9_761fa703-d8a5-b5c7-75ea0c71f5d86eee.jpg\nCategories: Outdoor Recreation
+GEO:43.075968;-107.290284
+LOCATION:Tie City Trailhead\, Albany County WY
+SUMMARY:Silent Trails Memorial Run
+UID:38287@visitlaramie.org
+URL:https://www.visitlaramie.org/event/silent-trails-memorial-run/38287/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 DESCRIPTION:Courtyard Party\nMore info: https://www.visitlaramie.org/event/courtyard-party/38254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-26-133100_0EBAFE29-ACC8-E1B5-89E8D1CFCF5F884D_0ec358a6-ead3-3e43-4cd6d57973109fa4.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.309522;-105.587753
@@ -553,14 +625,6 @@ LOCATION:Large Courtyard
 SUMMARY:Courtyard Party
 UID:38254@visitlaramie.org
 URL:https://www.visitlaramie.org/event/courtyard-party/38254/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250908
-DESCRIPTION:Aspen Alley Paint Nite @ POP UP PAINT PARTY\nMore info: https://www.visitlaramie.org/event/aspen-alley-paint-nite-%40-pop-up-paint-party/38273/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-104531_A4BA3473-BAB0-06FB-3BA7C6DCAE2A60F8_a4e58ca4-9cc6-9104-80a7ccd84d10f8a4.png\nCategories: Community\, Education\, Craft Classes & Workshops
-GEO:41.311285;-105.593433
-SUMMARY:Aspen Alley Paint Nite @ POP UP PAINT PARTY
-UID:38273@visitlaramie.org
-URL:https://www.visitlaramie.org/event/aspen-alley-paint-nite-%40-pop-up-paint-party/38273/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
