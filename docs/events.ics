@@ -38,13 +38,21 @@ UID:38259@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-homecoming-parade/38259/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Pano Connections @ The Gorgon Gallery\nMore info: https://www.visitlaramie.org/event/pano-connections-%40-the-gorgon-gallery/38278/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-114040_A6B061B9-A91C-8534-0FB1F616C841E2B8_a7070c4c-d20f-c40f-f12d791586ed2d62.png\nCategories: Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Gorgon Gallery Rm 332
-SUMMARY:Pano Connections @ The Gorgon Gallery
-UID:38278@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pano-connections-%40-the-gorgon-gallery/38278/
+DTSTART;VALUE=DATE:20251010
+DESCRIPTION:Family Weekend 2025\nMore info: https://www.visitlaramie.org/event/family-weekend-2025/38226/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-110310_D2B2E10F-C0B3-DF8B-9B4A1799818621C6_d2b4c18b-cb38-b591-b9f66b56870cafc1.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Family Fun
+GEO:41.313057;-105.595859
+LOCATION:Univesity of Wyoming
+SUMMARY:Family Weekend 2025
+UID:38226@visitlaramie.org
+URL:https://www.visitlaramie.org/event/family-weekend-2025/38226/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250914
+DESCRIPTION:All Is Within: A Free Practice\nMore info: https://www.visitlaramie.org/event/all-is-within%3a-a-free-practice/38187/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-18-111937_315F0157-0D41-C1B6-CF04D4EBA225D5B6_317c4d91-9012-a9bb-2c7db94c6aed98f5.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.313179;-105.595024
+SUMMARY:All Is Within: A Free Practice
+UID:38187@visitlaramie.org
+URL:https://www.visitlaramie.org/event/all-is-within%3a-a-free-practice/38187/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
@@ -56,12 +64,12 @@ UID:38271@visitlaramie.org
 URL:https://www.visitlaramie.org/event/reconnect-west-laramie-community-bike-ride/38271/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250914
-DESCRIPTION:All Is Within: A Free Practice\nMore info: https://www.visitlaramie.org/event/all-is-within%3a-a-free-practice/38187/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-18-111937_315F0157-0D41-C1B6-CF04D4EBA225D5B6_317c4d91-9012-a9bb-2c7db94c6aed98f5.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.313179;-105.595024
-SUMMARY:All Is Within: A Free Practice
-UID:38187@visitlaramie.org
-URL:https://www.visitlaramie.org/event/all-is-within%3a-a-free-practice/38187/
+DTSTART;VALUE=DATE:20251003
+DESCRIPTION:University of Wyoming Homecoming 2024\nMore info: https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-111852_70DF8598-AA49-2341-1E2128388F62F1B5_70eb8a53-f407-91ff-ddf106d324721506.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Sports\, Performing Arts & Culture\, Family Fun\, Social Events
+GEO:41.310063;-105.565482
+SUMMARY:University of Wyoming Homecoming 2024
+UID:36421@visitlaramie.org
+URL:https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
@@ -80,14 +88,6 @@ LOCATION:Toyota of Laramie
 SUMMARY:Cars and Coffee at Toyota of Laramie
 UID:38037@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251003
-DESCRIPTION:University of Wyoming Homecoming 2024\nMore info: https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-111852_70DF8598-AA49-2341-1E2128388F62F1B5_70eb8a53-f407-91ff-ddf106d324721506.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Sports\, Performing Arts & Culture\, Family Fun\, Social Events
-GEO:41.310063;-105.565482
-SUMMARY:University of Wyoming Homecoming 2024
-UID:36421@visitlaramie.org
-URL:https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
@@ -169,15 +169,6 @@ LOCATION:Depot Park
 SUMMARY:Downtown Laramie Farmers Market
 UID:38107@visitlaramie.org
 URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/38107/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Breathe for Peace Group Breathwork\nMore info: https://www.visitlaramie.org/event/breathe-for-peace-group-breathwork/38276/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-113133_A6409F12-0C18-9F06-604E017EAE358E49_a64126ab-ac5e-d3e4-41ae2da1b7756027.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.312877;-105.595095
-LOCATION:The Collective
-SUMMARY:Breathe for Peace Group Breathwork
-UID:38276@visitlaramie.org
-URL:https://www.visitlaramie.org/event/breathe-for-peace-group-breathwork/38276/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
@@ -368,15 +359,6 @@ UID:38253@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/38253/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:New Age Phonograph @ The Great Untamed\nMore info: https://www.visitlaramie.org/event/new-age-phonograph-%40-the-great-untamed/37848/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-10-122657_97CBE221-F0FC-7F08-BAFC4C957697EE03_97df25c1-b9ae-7417-830f31e27281c7b5.png\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-LOCATION:The Great Untamed
-SUMMARY:New Age Phonograph @ The Great Untamed
-UID:37848@visitlaramie.org
-URL:https://www.visitlaramie.org/event/new-age-phonograph-%40-the-great-untamed/37848/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250912
 DESCRIPTION:Meet the Planets - Planetarium\nMore info: https://www.visitlaramie.org/event/meet-the-planets-planetarium/30918/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/palnets_601D6042-5056-A36F-234299D552C062EA_6022e4a0-5056-a36f-2389b1f8f27ee136.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -521,12 +503,12 @@ URL:https://www.visitlaramie.org/event/relative-theatrics-presents%3a-mary-gets-
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
-DESCRIPTION:Print Your Own Postcard with Ashley Quick\nMore info: https://www.visitlaramie.org/event/print-your-own-postcard-with-ashley-quick/38289/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-08-124959_ABE1E4D5-9CC6-494F-C1D560F1A000D7E9_ac108543-d2a5-5f54-9c7ebdce61345dae.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
+DESCRIPTION:Event Canceled! Print Your Own Postcard with Ashley Quick\nMore info: https://www.visitlaramie.org/event/event-canceled!-print-your-own-postcard-with-ashley-quick/38289/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-08-124959_ABE1E4D5-9CC6-494F-C1D560F1A000D7E9_ac108543-d2a5-5f54-9c7ebdce61345dae.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
 GEO:41.306855;-106.142948
 LOCATION:Centennial Visitor Center
-SUMMARY:Print Your Own Postcard with Ashley Quick
+SUMMARY:Event Canceled! Print Your Own Postcard with Ashley Quick
 UID:38289@visitlaramie.org
-URL:https://www.visitlaramie.org/event/print-your-own-postcard-with-ashley-quick/38289/
+URL:https://www.visitlaramie.org/event/event-canceled!-print-your-own-postcard-with-ashley-quick/38289/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250913
