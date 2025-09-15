@@ -65,15 +65,6 @@ UID:38126@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature%3a-great-solar-system-adventure-%2b-always-above/38126/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250914
-DESCRIPTION:Brunch & Bubbly\nMore info: https://www.visitlaramie.org/event/brunch-%26-bubbly/38222/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-14-114036_A0A19395-FDF6-AB2F-1A9AEA53A438F18C_a0b6d3b5-dfcd-9411-7a5124efb948f87d.png\nCategories: Annual Events & Festivals\, Social Events
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Brunch & Bubbly
-UID:38222@visitlaramie.org
-URL:https://www.visitlaramie.org/event/brunch-%26-bubbly/38222/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
 DESCRIPTION:Higher Ground Fair\nMore info: https://www.visitlaramie.org/event/higher-ground-fair/38215/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-13-123055_6EF7FB53-A751-ECE5-3473C80556B289CB_6f1cc334-dc90-e879-d92a76860d3cc555.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.311613;-105.610512
@@ -243,6 +234,15 @@ UID:27775@visitlaramie.org
 URL:https://www.visitlaramie.org/event/deerwood-ranch-wild-horse-ecosanctuary-free-day/27775/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:UW Music Presents: Erika Boysen Guest Flute Artist\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-erika-boysen-guest-flute-artist/38313/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-111358_41A8BD67-D213-C27D-C94796065A5683B6_41a9c3ea-bb58-cf1d-4be5075d8ad00162.png\nCategories: Concerts & Live Music\, University of Wyoming
+GEO:41.311991;-105.572082
+LOCATION:Univ. of Wyoming
+SUMMARY:UW Music Presents: Erika Boysen Guest Flute Artist
+UID:38313@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-music-presents%3a-erika-boysen-guest-flute-artist/38313/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
 DESCRIPTION:Open House @ The Historic Ivinson Home for Ladies\nMore info: https://www.visitlaramie.org/event/open-house-%40-the-historic-ivinson-home-for-ladies/38274/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-12-094623_72587DB5-A124-4338-6D88578613BEC1F1_725c4e26-08af-c35b-a97598ba628757de.png\nCategories: History\, Community\, Family Fun\, Social Events
 GEO:41.310139;-105.568059
@@ -341,14 +341,6 @@ UID:38310@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-student-faculty-showcase/38310/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250914
-DESCRIPTION:All Is Within: A Free Practice\nMore info: https://www.visitlaramie.org/event/all-is-within%3a-a-free-practice/38187/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-18-111937_315F0157-0D41-C1B6-CF04D4EBA225D5B6_317c4d91-9012-a9bb-2c7db94c6aed98f5.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.313179;-105.595024
-SUMMARY:All Is Within: A Free Practice
-UID:38187@visitlaramie.org
-URL:https://www.visitlaramie.org/event/all-is-within%3a-a-free-practice/38187/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
 DESCRIPTION:University of Wyoming Homecoming 2024\nMore info: https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-111852_70DF8598-AA49-2341-1E2128388F62F1B5_70eb8a53-f407-91ff-ddf106d324721506.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Sports\, Performing Arts & Culture\, Family Fun\, Social Events
 GEO:41.310063;-105.565482
@@ -437,13 +429,13 @@ UID:38269@visitlaramie.org
 URL:https://www.visitlaramie.org/event/notes-from-a-modern-day-naturalist/38269/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250912
-DESCRIPTION:Into the Badlands Tattoo Expo\nMore info: https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/37168/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-123037_44595BF7-096B-6F34-F6B5F4AD54A40F37_4459df4b-f5fe-e779-f2628740ac13c234.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Social Events
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Into the Badlands Tattoo Expo
-UID:37168@visitlaramie.org
-URL:https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/37168/
+DTSTART;VALUE=DATE:20250927
+DESCRIPTION:2025 National Public Lands Day Service Event\nMore info: https://www.visitlaramie.org/event/2025-national-public-lands-day-service-event/38288/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-08-132146_ABAA8EF0-D28E-0520-8F79958E4B2D4A07_abad2ff2-bd6e-7ac8-fd1ba090efab1157.png\nCategories: Outdoor Recreation\, Volunteering
+GEO:41.306133;-105.576724
+LOCATION:Washington Park Otto Dahl Picnic Shelter (multiple project locations around Laramie)
+SUMMARY:2025 National Public Lands Day Service Event
+UID:38288@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2025-national-public-lands-day-service-event/38288/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
@@ -453,15 +445,6 @@ LOCATION:Basement of Physical Sciences Building
 SUMMARY:Dome Club (Learn Immersive Dome Technology)
 UID:37252@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250927
-DESCRIPTION:2025 National Public Lands Day Service Event\nMore info: https://www.visitlaramie.org/event/2025-national-public-lands-day-service-event/38288/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-08-132146_ABAA8EF0-D28E-0520-8F79958E4B2D4A07_abad2ff2-bd6e-7ac8-fd1ba090efab1157.png\nCategories: Outdoor Recreation\, Volunteering
-GEO:41.306133;-105.576724
-LOCATION:Washington Park Otto Dahl Picnic Shelter (multiple project locations around Laramie)
-SUMMARY:2025 National Public Lands Day Service Event
-UID:38288@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2025-national-public-lands-day-service-event/38288/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
@@ -560,15 +543,6 @@ GEO:41.311479;-105.593276
 SUMMARY:Ethan J. Perry + Molasses Flood @ TGU
 UID:38292@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ethan-j-perry-%2b-molasses-flood-%40-tgu/38292/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250914
-DESCRIPTION:Meet The Author Festival\nMore info: https://www.visitlaramie.org/event/meet-the-author-festival/38266/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-121532_A661D10E-09CD-8139-83E44A16B0E0B4FF_a6667559-069f-dae7-8ed3a94cd57a323c.png\nCategories: Annual Events & Festivals
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Meet The Author Festival
-UID:38266@visitlaramie.org
-URL:https://www.visitlaramie.org/event/meet-the-author-festival/38266/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
