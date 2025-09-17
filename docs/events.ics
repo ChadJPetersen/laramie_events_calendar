@@ -47,15 +47,6 @@ UID:38094@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-run-club-2025/38094/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Silent Book Club
-UID:38068@visitlaramie.org
-URL:https://www.visitlaramie.org/event/silent-book-club/38068/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
 DESCRIPTION:Double Feature: Great Solar System Adventure + Always Above\nMore info: https://www.visitlaramie.org/event/double-feature%3a-great-solar-system-adventure-%2b-always-above/38126/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -217,6 +208,15 @@ UID:36612@visitlaramie.org
 URL:https://www.visitlaramie.org/event/japan-festival-2025/36612/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:High School Art Intensive\nMore info: https://www.visitlaramie.org/event/high-school-art-intensive/38231/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-124154_D656F9CD-EC40-A8E0-B8FEECCC1D8553FA_d65e5860-aeda-cc70-675c5e6a91c43f7b.png\nCategories: University of Wyoming\, Education\, Craft Classes & Workshops
+GEO:41.313464;-105.564486
+LOCATION:University of Wyoming
+SUMMARY:High School Art Intensive
+UID:38231@visitlaramie.org
+URL:https://www.visitlaramie.org/event/high-school-art-intensive/38231/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 DESCRIPTION:Wyoming Skies Saturn in Opposition\nMore info: https://www.visitlaramie.org/event/wyoming-skies-saturn-in-opposition/36335/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_A14C8405-5056-A36F-2398052104D490A8_a1598b0e-5056-a36f-230d1384b67a284f.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
@@ -349,6 +349,15 @@ UID:36421@visitlaramie.org
 URL:https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:Willi Carlisle Winged Victory Tour\nMore info: https://www.visitlaramie.org/event/willi-carlisle-winged-victory-tour/38245/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-125056_0BA46E4E-BBD5-9CB9-1B2789DDEE9B9BF6_0ba673ef-dcf5-eb31-180de107a9b163af.png\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Willi Carlisle Winged Victory Tour
+UID:38245@visitlaramie.org
+URL:https://www.visitlaramie.org/event/willi-carlisle-winged-victory-tour/38245/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
 DESCRIPTION:UW Music Presents: Sarah Coburn\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-sarah-coburn/38303/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-140755_14512EBE-CD29-8730-7CB3BE40F9CDC9E0_1451d939-0d34-9321-92b939b7de8f9236.png\nCategories: Concerts & Live Music\, University of Wyoming
 GEO:41.311991;-105.572082
@@ -385,14 +394,6 @@ UID:37469@visitlaramie.org
 URL:https://www.visitlaramie.org/event/finding-balance-fall-equinox-yoga-event/37469/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:Albany County Historical Society Meeting\nMore info: https://www.visitlaramie.org/event/albany-county-historical-society-meeting/38315/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/189720_108670819213224_8029321_n_83fd790d-5056-a36f-23ef9d8598d32722.jpg\nCategories: History\, Community
-GEO:41.312068;-105.589055
-SUMMARY:Albany County Historical Society Meeting
-UID:38315@visitlaramie.org
-URL:https://www.visitlaramie.org/event/albany-county-historical-society-meeting/38315/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
 DESCRIPTION:UW Symphony Presents: From The New World\nMore info: https://www.visitlaramie.org/event/uw-symphony-presents%3a-from-the-new-world/38308/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-103109_4008CA0E-C980-5FFF-CBEE8390DE4FD4B9_40171aa7-b251-73bc-30182f11de1999b1.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun
 GEO:41.314718;-105.569029
@@ -409,15 +410,6 @@ LOCATION:The Collective
 SUMMARY:Mid and Plus Sized Clothing Swap
 UID:38295@visitlaramie.org
 URL:https://www.visitlaramie.org/event/mid-and-plus-sized-clothing-swap/38295/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:J. Carmichael performing at The Great Untamed\nMore info: https://www.visitlaramie.org/event/j-carmichael-performing-at-the-great-untamed/37948/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_2784_cropped_F99DC409-B29D-485C-2CCDA09D3551E001_f9a26778-bcc8-fcfc-d770883075ff89f1.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-LOCATION:The Great Untamed
-SUMMARY:J. Carmichael performing at The Great Untamed
-UID:37948@visitlaramie.org
-URL:https://www.visitlaramie.org/event/j-carmichael-performing-at-the-great-untamed/37948/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250924
@@ -590,15 +582,6 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:Wyoming Skies Autumnal Equinox & Partial Solar Eclipse over Antartica\nMore info: https://www.visitlaramie.org/event/wyoming-skies-autumnal-equinox-%26-partial-solar-eclipse-over-antartica/36343/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_A14C8405-5056-A36F-2398052104D490A8_a1598b0e-5056-a36f-230d1384b67a284f.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies Autumnal Equinox & Partial Solar Eclipse over Antartica
-UID:36343@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies-autumnal-equinox-%26-partial-solar-eclipse-over-antartica/36343/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
 DESCRIPTION:Snow Train Music Festival\nMore info: https://www.visitlaramie.org/event/snow-train-music-festival/38251/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-22-115729_3D6CDB5C-E0E4-08D3-81ED0293555E3F67_3da68965-93d1-16e6-5735c89c000628f9.png\nCategories: Concerts & Live Music\, Community
 GEO:41.311367;-105.591101
@@ -633,6 +616,15 @@ LOCATION:Roger Canyon
 SUMMARY:Roger Canyon Cleanup
 UID:37884@visitlaramie.org
 URL:https://www.visitlaramie.org/event/roger-canyon-cleanup/37884/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
+DESCRIPTION:UW Chamber Orchestra Presents: A Choral Premiere\nMore info: https://www.visitlaramie.org/event/uw-chamber-orchestra-presents%3a-a-choral-premiere/38314/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-112648_4207911D-C459-7932-E205D9D673E24887_42084388-e7df-0614-f49943c0819432cb.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun
+GEO:41.314718;-105.569029
+LOCATION:Buchanan Center Concert Hall
+SUMMARY:UW Chamber Orchestra Presents: A Choral Premiere
+UID:38314@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-chamber-orchestra-presents%3a-a-choral-premiere/38314/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
