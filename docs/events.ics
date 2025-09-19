@@ -65,6 +65,15 @@ UID:31423@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-country/31423/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251009
+DESCRIPTION:Read\, Rant\, Relate - 72 Miles to Go\nMore info: https://www.visitlaramie.org/event/read-rant-relate-72-miles-to-go/37836/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-17-105212_A7E4B470-A0DD-8154-F3351B115CC92420_a7e97af2-ee3e-8ce5-6c7ce88625a9eccb.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.319964;-105.584748
+LOCATION:Iron Mile Art Space
+SUMMARY:Read\, Rant\, Relate - 72 Miles to Go
+UID:37836@visitlaramie.org
+URL:https://www.visitlaramie.org/event/read-rant-relate-72-miles-to-go/37836/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
 DESCRIPTION:Higher Ground Fair\nMore info: https://www.visitlaramie.org/event/higher-ground-fair/38215/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-13-123055_6EF7FB53-A751-ECE5-3473C80556B289CB_6f1cc334-dc90-e879-d92a76860d3cc555.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.311613;-105.610512
@@ -117,6 +126,15 @@ LOCATION:Buchanan Center Mains Dance Studio
 SUMMARY:El Sueno
 UID:38272@visitlaramie.org
 URL:https://www.visitlaramie.org/event/el-sueno/38272/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251018
+DESCRIPTION:Leaves & Laces 5K Run/Walk\nMore info: https://www.visitlaramie.org/event/leaves-%26-laces-5k-run-walk/38330/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-18-111243_A9FABAF5-AD30-DFB9-06BB1C237CFE3D67_aa069595-b65b-68aa-94c540759b7be891.png\nCategories: Outdoor Recreation
+GEO:41.303505;-105.620984
+LOCATION:Laramie Greenbelt (Optimist Park)
+SUMMARY:Leaves & Laces 5K Run/Walk
+UID:38330@visitlaramie.org
+URL:https://www.visitlaramie.org/event/leaves-%26-laces-5k-run-walk/38330/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
@@ -315,6 +333,15 @@ UID:38248@visitlaramie.org
 URL:https://www.visitlaramie.org/event/chris-janson-live-in-concert/38248/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:Gender\, Activism\, and Cancel Culture: Alice Dreger in conversation with College Democrats & Turning Point USA\nMore info: https://www.visitlaramie.org/event/gender-activism-and-cancel-culture%3a-alice-dreger-in-conversation-with-college-democrats-%26-turning-point-usa/38332/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-18-105412_AA2D0D01-C089-BFD2-B0A55290424F5F0C_aa2e29a0-b42e-39e2-3dd8b94a243f3b2f.png\nCategories: Community\, University of Wyoming\, Education
+GEO:41.313968;-105.584517
+LOCATION:UW Coe Library
+SUMMARY:Gender\, Activism\, and Cancel Culture: Alice Dreger in conversation with College Democrats & Turning Point USA
+UID:38332@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gender-activism-and-cancel-culture%3a-alice-dreger-in-conversation-with-college-democrats-%26-turning-point-usa/38332/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250926
 DESCRIPTION:UW Jazz Presents: Dan Loomis\nMore info: https://www.visitlaramie.org/event/uw-jazz-presents%3a-dan-loomis/38306/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-134023_13512224-AFCB-FF78-B0F97E1EB2401E12_1356b40b-9807-e97d-9bb63fa6ca3ceff7.png\nCategories: Concerts & Live Music\, University of Wyoming
 GEO:41.311991;-105.572082
@@ -402,6 +429,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:We Are Stars + Great Solar System Adventure
 UID:38125@visitlaramie.org
 URL:https://www.visitlaramie.org/event/we-are-stars-%2b-great-solar-system-adventure/38125/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251018
+DESCRIPTION:Laramie Audubon - Annual Spooky Scavenger Hunt\nMore info: https://www.visitlaramie.org/event/laramie-audubon-annual-spooky-scavenger-hunt/37382/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-18-112208_AA6A4353-B647-AF15-E217E85568D2C81F_aa7a334f-e0f8-cd55-1567cbcf1714793c.png\nCategories: Community\, Outdoor Recreation\, Education\, Family Fun
+GEO:41.306841;-105.570520
+LOCATION:Washington Park
+SUMMARY:Laramie Audubon - Annual Spooky Scavenger Hunt
+UID:37382@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-audubon-annual-spooky-scavenger-hunt/37382/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
@@ -654,6 +690,15 @@ UID:38259@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-homecoming-parade/38259/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250926
+DESCRIPTION:Pano Connections @ The Gorgon Gallery Exposition Reception\nMore info: https://www.visitlaramie.org/event/pano-connections-%40-the-gorgon-gallery-exposition-reception/38278/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-114040_A6B061B9-A91C-8534-0FB1F616C841E2B8_a7070c4c-d20f-c40f-f12d791586ed2d62.png\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:Gorgon Gallery Rm 332
+SUMMARY:Pano Connections @ The Gorgon Gallery Exposition Reception
+UID:38278@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pano-connections-%40-the-gorgon-gallery-exposition-reception/38278/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
 DESCRIPTION:Snow Train Music Festival- Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/snow-train-music-festival-gryphon-theatre/38297/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-094929_11302194-F932-F240-1D3C8FCD8DDAC5AF_1133a101-c080-0fde-eeeb8db1ed180910.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -661,6 +706,15 @@ LOCATION:Gryphon Theatre
 SUMMARY:Snow Train Music Festival- Gryphon Theatre
 UID:38297@visitlaramie.org
 URL:https://www.visitlaramie.org/event/snow-train-music-festival-gryphon-theatre/38297/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:Gender\, Activism\, and Cancel Culture: Alice Dreger in conversation with College Democrats & Turning Point USA\nMore info: https://www.visitlaramie.org/event/gender-activism-and-cancel-culture%3a-alice-dreger-in-conversation-with-college-democrats-%26-turning-point-usa/38329/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Alice-Dreger-photo-by-Dylan-Lees-1152x1536_7E203F4E-C261-A819-D7D54C2BEB45A0A6_7e281a0e-b769-0308-ff343600cc2fa474.jpg\nCategories: Community\, University of Wyoming\, Education
+GEO:41.313968;-105.584517
+LOCATION:UW Coe Library
+SUMMARY:Gender\, Activism\, and Cancel Culture: Alice Dreger in conversation with College Democrats & Turning Point USA
+UID:38329@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gender-activism-and-cancel-culture%3a-alice-dreger-in-conversation-with-college-democrats-%26-turning-point-usa/38329/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
@@ -699,15 +753,6 @@ UID:37540@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dome-after-dark%3a-a-live-edm-experience/37540/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250918
-DESCRIPTION:UW Music Presents: Factory Seconds Brass Trio\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-factory-seconds-brass-trio/38302/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-131724_127EFD2A-057E-4C4A-792541954EEB8914_12801a3d-bffc-c51f-83c10588c7858f3a.png\nCategories: Concerts & Live Music\, University of Wyoming
-GEO:41.311991;-105.572082
-LOCATION:Univ. of Wyoming
-SUMMARY:UW Music Presents: Factory Seconds Brass Trio
-UID:38302@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-factory-seconds-brass-trio/38302/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
 DESCRIPTION:Roger Canyon Cleanup\nMore info: https://www.visitlaramie.org/event/roger-canyon-cleanup/37884/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-113157_0EB886D8-C5BD-7D8D-ADC15CEA0D5ABB67_0ecd67ea-edcc-2a77-7268d89f168f74f4.png\nCategories: Community\, Outdoor Recreation
 GEO:41.335729;-105.583211
@@ -734,13 +779,13 @@ UID:38275@visitlaramie.org
 URL:https://www.visitlaramie.org/event/strongman-cowboy-open/38275/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:David Tyler Band Live\nMore info: https://www.visitlaramie.org/event/david-tyler-band-live/38249/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-132431_0CE76B77-A2EC-DE00-F6B63E7F9083657B_0cf36bdd-a31d-1c1f-dd4114e676644d92.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:David Tyler Band Live
-UID:38249@visitlaramie.org
-URL:https://www.visitlaramie.org/event/david-tyler-band-live/38249/
+DTSTART;VALUE=DATE:20251012
+DESCRIPTION:Painted Edges Book Party\nMore info: https://www.visitlaramie.org/event/painted-edges-book-party/38333/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-18-112952_AAA6B157-0247-8152-8E43B1E0EDA39D2A_aab65041-bc27-6f8e-0d622d214ebb8dc2.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library - Wyoming Room
+SUMMARY:Painted Edges Book Party
+UID:38333@visitlaramie.org
+URL:https://www.visitlaramie.org/event/painted-edges-book-party/38333/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
@@ -750,6 +795,15 @@ LOCATION:Univ. of Wyoming
 SUMMARY:UW Jazz Presents: Adam Larsen w/ Wyoming Jazz Ensemble
 UID:38307@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-jazz-presents%3a-adam-larsen-w-wyoming-jazz-ensemble/38307/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:David Tyler Band Live\nMore info: https://www.visitlaramie.org/event/david-tyler-band-live/38249/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-132431_0CE76B77-A2EC-DE00-F6B63E7F9083657B_0cf36bdd-a31d-1c1f-dd4114e676644d92.png\nCategories: Concerts & Live Music
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:David Tyler Band Live
+UID:38249@visitlaramie.org
+URL:https://www.visitlaramie.org/event/david-tyler-band-live/38249/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251011
@@ -777,15 +831,6 @@ LOCATION:Tie City Trailhead\, Albany County WY
 SUMMARY:Silent Trails Memorial Run
 UID:38287@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-trails-memorial-run/38287/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250918
-DESCRIPTION:Caledonia Curry Exhibition Reception\nMore info: https://www.visitlaramie.org/event/caledonia-curry-exhibition-reception/38319/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-12-115353_768D9018-C1F2-0DB6-3786A944C8ECE164_769c733d-cb8d-af79-6acaafd04e564cb4.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Caledonia Curry Exhibition Reception
-UID:38319@visitlaramie.org
-URL:https://www.visitlaramie.org/event/caledonia-curry-exhibition-reception/38319/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
