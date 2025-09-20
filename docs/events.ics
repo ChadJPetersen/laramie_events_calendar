@@ -119,15 +119,6 @@ UID:38311@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-choirs-present%3a-wyosing!/38311/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:El Sueno\nMore info: https://www.visitlaramie.org/event/el-sueno/38272/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/el-sueno-engraving-square-logo_9F9055C0-C147-674C-F11973AC67AE2AEA_9f991ca6-ee80-3db9-c3784ef5d7691363.png\nCategories: Performing Arts & Culture
-GEO:41.313968;-105.584517
-LOCATION:Buchanan Center Mains Dance Studio
-SUMMARY:El Sueno
-UID:38272@visitlaramie.org
-URL:https://www.visitlaramie.org/event/el-sueno/38272/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
 DESCRIPTION:Leaves & Laces 5K Run/Walk\nMore info: https://www.visitlaramie.org/event/leaves-%26-laces-5k-run-walk/38330/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-18-111243_A9FABAF5-AD30-DFB9-06BB1C237CFE3D67_aa069595-b65b-68aa-94c540759b7be891.png\nCategories: Outdoor Recreation
 GEO:41.303505;-105.620984
@@ -215,15 +206,6 @@ LOCATION:Univ. of Wyoming
 SUMMARY:UW Music Presents: Minhwan Lee\, bass trombone
 UID:38309@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-minhwan-lee-bass-trombone/38309/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:Snow Train Music Festival- Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/snow-train-music-festival-gryphon-theatre/38296/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-094827_11252593-C9F8-E7DB-6C6CA954596B2E52_1125fb62-a671-45ff-fd86cd0eaf68dad1.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Gryphon Theatre
-SUMMARY:Snow Train Music Festival- Gryphon Theatre
-UID:38296@visitlaramie.org
-URL:https://www.visitlaramie.org/event/snow-train-music-festival-gryphon-theatre/38296/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
@@ -334,12 +316,12 @@ URL:https://www.visitlaramie.org/event/chris-janson-live-in-concert/38248/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251015
-DESCRIPTION:Gender\, Activism\, and Cancel Culture: Alice Dreger in conversation with College Democrats & Turning Point USA\nMore info: https://www.visitlaramie.org/event/gender-activism-and-cancel-culture%3a-alice-dreger-in-conversation-with-college-democrats-%26-turning-point-usa/38332/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-18-105412_AA2D0D01-C089-BFD2-B0A55290424F5F0C_aa2e29a0-b42e-39e2-3dd8b94a243f3b2f.png\nCategories: Community\, University of Wyoming\, Education
+DESCRIPTION:Gender & Biological Sex within Free Expression & Self-Censorship\nMore info: https://www.visitlaramie.org/event/gender-%26-biological-sex-within-free-expression-%26-self-censorship/38332/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-18-105412_AA2D0D01-C089-BFD2-B0A55290424F5F0C_aa2e29a0-b42e-39e2-3dd8b94a243f3b2f.png\nCategories: Community\, University of Wyoming\, Education
 GEO:41.313968;-105.584517
 LOCATION:UW Coe Library
-SUMMARY:Gender\, Activism\, and Cancel Culture: Alice Dreger in conversation with College Democrats & Turning Point USA
+SUMMARY:Gender & Biological Sex within Free Expression & Self-Censorship
 UID:38332@visitlaramie.org
-URL:https://www.visitlaramie.org/event/gender-activism-and-cancel-culture%3a-alice-dreger-in-conversation-with-college-democrats-%26-turning-point-usa/38332/
+URL:https://www.visitlaramie.org/event/gender-%26-biological-sex-within-free-expression-%26-self-censorship/38332/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250926
@@ -367,15 +349,6 @@ LOCATION:The Stock Grower's Room
 SUMMARY:War Work and Women
 UID:38318@visitlaramie.org
 URL:https://www.visitlaramie.org/event/war-work-and-women/38318/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:Snow Train Music Festival- Cowboy Saloon & Dance Hall\nMore info: https://www.visitlaramie.org/event/snow-train-music-festival-cowboy-saloon-%26-dance-hall/38298/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-094857_0E31EC17-DCCD-6CE5-76A66EB660908853_0e425b5f-90a0-be1f-65cf2117e21a04eb.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-LOCATION:Cowboy Saloon & Dance Hall
-SUMMARY:Snow Train Music Festival- Cowboy Saloon & Dance Hall
-UID:38298@visitlaramie.org
-URL:https://www.visitlaramie.org/event/snow-train-music-festival-cowboy-saloon-%26-dance-hall/38298/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
@@ -475,15 +448,6 @@ UID:38245@visitlaramie.org
 URL:https://www.visitlaramie.org/event/willi-carlisle-winged-victory-tour/38245/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:UW Music Presents: Sarah Coburn\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-sarah-coburn/38303/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-140755_14512EBE-CD29-8730-7CB3BE40F9CDC9E0_1451d939-0d34-9321-92b939b7de8f9236.png\nCategories: Concerts & Live Music\, University of Wyoming
-GEO:41.311991;-105.572082
-LOCATION:Univ. of Wyoming
-SUMMARY:UW Music Presents: Sarah Coburn
-UID:38303@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-sarah-coburn/38303/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
 DESCRIPTION:Create Nature Crafts @ Centennial Visitor Center\nMore info: https://www.visitlaramie.org/event/create-nature-crafts-%40-centennial-visitor-center/38290/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-08-133430_AC27A0E2-90A2-3D54-EEE40632E230F08A_ac5e209a-0910-72c1-55d1667c3bde34e3.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
 GEO:41.306855;-106.142948
@@ -491,15 +455,6 @@ LOCATION:Centennial Visitor Center
 SUMMARY:Create Nature Crafts @ Centennial Visitor Center
 UID:38290@visitlaramie.org
 URL:https://www.visitlaramie.org/event/create-nature-crafts-%40-centennial-visitor-center/38290/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:The Great Wyoming Eclipse of 2017\nMore info: https://www.visitlaramie.org/event/the-great-wyoming-eclipse-of-2017/38238/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-19-125434_A4CAA49D-C531-549A-C5B2D36257894C1C_a4ea20fd-f1c0-d4f6-2a57f308cd826b6f.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:The Great Wyoming Eclipse of 2017
-UID:38238@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-great-wyoming-eclipse-of-2017/38238/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
@@ -610,15 +565,6 @@ UID:38242@visitlaramie.org
 URL:https://www.visitlaramie.org/event/8th-annual-underachievers-5k-race/38242/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:UW Dance Presents: El Sueño  Buchanan Center - Mains Dance Studio\nMore info: https://www.visitlaramie.org/event/uw-dance-presents%3a-el-sue%c3%b1o-buchanan-center-mains-dance-studio/38300/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-130021_11E3E07D-9A59-152B-0E7E9F0CA9E8F728_121378cd-ba58-d238-04a9914a45f355bb.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
-GEO:43.075968;-107.290284
-LOCATION:University of Wyoming
-SUMMARY:UW Dance Presents: El Sueño  Buchanan Center - Mains Dance Studio
-UID:38300@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-dance-presents%3a-el-sue%c3%b1o-buchanan-center-mains-dance-studio/38300/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
 DESCRIPTION:Join the Gamelan Ensemble\nMore info: https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-140011_47863089-DB0C-BE67-01F8D189390D7E94_478713a8-fef5-c78e-b53a710bf07069e5.png\nCategories: Performing Arts & Culture
 GEO:41.313968;-105.584517
@@ -706,15 +652,6 @@ LOCATION:Gryphon Theatre
 SUMMARY:Snow Train Music Festival- Gryphon Theatre
 UID:38297@visitlaramie.org
 URL:https://www.visitlaramie.org/event/snow-train-music-festival-gryphon-theatre/38297/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251015
-DESCRIPTION:Gender\, Activism\, and Cancel Culture: Alice Dreger in conversation with College Democrats & Turning Point USA\nMore info: https://www.visitlaramie.org/event/gender-activism-and-cancel-culture%3a-alice-dreger-in-conversation-with-college-democrats-%26-turning-point-usa/38329/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Alice-Dreger-photo-by-Dylan-Lees-1152x1536_7E203F4E-C261-A819-D7D54C2BEB45A0A6_7e281a0e-b769-0308-ff343600cc2fa474.jpg\nCategories: Community\, University of Wyoming\, Education
-GEO:41.313968;-105.584517
-LOCATION:UW Coe Library
-SUMMARY:Gender\, Activism\, and Cancel Culture: Alice Dreger in conversation with College Democrats & Turning Point USA
-UID:38329@visitlaramie.org
-URL:https://www.visitlaramie.org/event/gender-activism-and-cancel-culture%3a-alice-dreger-in-conversation-with-college-democrats-%26-turning-point-usa/38329/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
