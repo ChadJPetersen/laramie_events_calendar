@@ -20,15 +20,6 @@ UID:38063@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-taylor-swift/38063/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Cars and Coffee at Toyota of Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Event-Image_2914823C-A70A-118B-32BA80D9FD7E1AE7_29198826-f6a6-cbac-689dfc393670b5c5.png\nCategories: Annual Events & Festivals
-GEO:41.308934;-105.562856
-LOCATION:Toyota of Laramie
-SUMMARY:Cars and Coffee at Toyota of Laramie
-UID:38037@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cars-and-coffee-at-toyota-of-laramie/38037/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250620
 DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/38107/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Farmersmarket-logo_00CBFB33-0953-3873-966EE253205A3852_00e2a7d3-ec21-ae73-f15905832d23fd4e.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
 GEO:41.310946;-105.596164
@@ -45,6 +36,15 @@ LOCATION:Bond's Brewing Company
 SUMMARY:Bond's Run Club 2025
 UID:38094@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-run-club-2025/38094/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Silent Book Club
+UID:38068@visitlaramie.org
+URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
@@ -128,15 +128,6 @@ UID:38330@visitlaramie.org
 URL:https://www.visitlaramie.org/event/leaves-%26-laces-5k-run-walk/38330/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DESCRIPTION:UW Music Presents: Wyoming Chorale\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-wyoming-chorale/38304/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/09.14.25-Music-Event_1295CD24-AFBB-266E-7D9F42F4EBAD90C6_12969dc9-c1e6-d7b0-0ae2f00701c03d63.png\nCategories: Concerts & Live Music\, University of Wyoming
-GEO:41.311991;-105.572082
-LOCATION:Univ. of Wyoming
-SUMMARY:UW Music Presents: Wyoming Chorale
-UID:38304@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-wyoming-chorale/38304/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
 DESCRIPTION:The Great Untamed 10th Anniversary Shindig\nMore info: https://www.visitlaramie.org/event/the-great-untamed-10th-anniversary-shindig/38291/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/logo-final_C1E40D71-680D-45B4-8136E1D2244BB2D4_f6450cc2-edd8-4625-832883167e30cde1.jpg\nCategories: Community
 GEO:41.311479;-105.593276
@@ -206,24 +197,6 @@ LOCATION:Univ. of Wyoming
 SUMMARY:UW Music Presents: Minhwan Lee\, bass trombone
 UID:38309@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-minhwan-lee-bass-trombone/38309/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DESCRIPTION:B. Dylan Hollis Book Signing\nMore info: https://www.visitlaramie.org/event/b-dylan-hollis-book-signing/36535/\nVenue: Blue Mountain Bookstore\nVenue Info: https://www.visitlaramie.org/listing/blue-mountain-bookstore/495/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-103516_A43D53B6-B813-15BC-0AABF3DC46117AB6_a43dd37f-cbe0-4f75-9f8a21d5e6095710.png\nCategories: Community\, Family Fun\, Social Events
-GEO:41.310951;-105.594539
-LOCATION:Blue Mountain Bookstore
-SUMMARY:B. Dylan Hollis Book Signing
-UID:36535@visitlaramie.org
-URL:https://www.visitlaramie.org/event/b-dylan-hollis-book-signing/36535/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DESCRIPTION:Double Feature We Are Stars & Always Above\nMore info: https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_1B5E6143-5056-A36F-2355820ACDB1C035_1b607989-5056-a36f-236dac61f8e11418.jpg\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Double Feature We Are Stars & Always Above
-UID:38060@visitlaramie.org
-URL:https://www.visitlaramie.org/event/double-feature-we-are-stars-%26-always-above/38060/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250921
@@ -538,15 +511,6 @@ UID:30893@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-sun%3a-our-living-star/30893/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DESCRIPTION:Liquid Sky: Dark Side of the Moon\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-dark-side-of-the-moon/35132/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Dark Side of the Moon
-UID:35132@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-dark-side-of-the-moon/35132/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
 DESCRIPTION:Line Dance Shuffle\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle/38127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-27-155523_023E33B3-B6B5-8312-CFE19E1296028077_028de4b3-09c4-c349-7a8fd34afec0da7b.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
 GEO:41.304734;-105.549039
@@ -554,15 +518,6 @@ LOCATION:Laramie Rec Center
 SUMMARY:Line Dance Shuffle
 UID:38127@visitlaramie.org
 URL:https://www.visitlaramie.org/event/line-dance-shuffle/38127/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DESCRIPTION:8th Annual Underachiever's .5K Race\nMore info: https://www.visitlaramie.org/event/8th-annual-underachievers-5k-race/38242/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-122014_0A8A3CF8-9585-3B51-04FFE6749F251E74_0aa91ef8-020f-130b-289d431d28ddf3c1.png\nCategories: Community\, Family Fun
-GEO:41.311367;-105.591101
-LOCATION:Washington Park
-SUMMARY:8th Annual Underachiever's .5K Race
-UID:38242@visitlaramie.org
-URL:https://www.visitlaramie.org/event/8th-annual-underachievers-5k-race/38242/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
@@ -599,6 +554,15 @@ LOCATION:LPCC Phoenix Ballroom\, Rm 271
 SUMMARY:Tipsy Tarot & Terracotta: Teacup Workshop
 UID:38247@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tipsy-tarot-%26-terracotta%3a-teacup-workshop/38247/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:Trap Release Workshop\nMore info: https://www.visitlaramie.org/event/trap-release-workshop/38331/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-18-110335_A9B1DDAB-FA62-A94B-EF79F1C5753E37DF_a9c89525-ec35-f7d2-c789e703cb8f0482.png\nCategories: Community
+GEO:41.310316;-105.558383
+LOCATION:Holiday Inn
+SUMMARY:Trap Release Workshop
+UID:38331@visitlaramie.org
+URL:https://www.visitlaramie.org/event/trap-release-workshop/38331/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
@@ -643,24 +607,6 @@ LOCATION:Gorgon Gallery Rm 332
 SUMMARY:Pano Connections @ The Gorgon Gallery Exposition Reception
 UID:38278@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pano-connections-%40-the-gorgon-gallery-exposition-reception/38278/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DESCRIPTION:Snow Train Music Festival- Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/snow-train-music-festival-gryphon-theatre/38297/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-094929_11302194-F932-F240-1D3C8FCD8DDAC5AF_1133a101-c080-0fde-eeeb8db1ed180910.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Gryphon Theatre
-SUMMARY:Snow Train Music Festival- Gryphon Theatre
-UID:38297@visitlaramie.org
-URL:https://www.visitlaramie.org/event/snow-train-music-festival-gryphon-theatre/38297/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DESCRIPTION:One Sky - Planetarium Show\nMore info: https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2_7CB07A3D-AA4D-338F-27C6394B327B7DCF_7cb9c35a-9677-24e5-2f9b6669976ac20c.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:One Sky - Planetarium Show
-UID:37254@visitlaramie.org
-URL:https://www.visitlaramie.org/event/one-sky-planetarium-show/37254/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
