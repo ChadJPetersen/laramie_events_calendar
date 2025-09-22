@@ -74,15 +74,6 @@ UID:37836@visitlaramie.org
 URL:https://www.visitlaramie.org/event/read-rant-relate-72-miles-to-go/37836/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DESCRIPTION:Higher Ground Fair\nMore info: https://www.visitlaramie.org/event/higher-ground-fair/38215/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-13-123055_6EF7FB53-A751-ECE5-3473C80556B289CB_6f1cc334-dc90-e879-d92a76860d3cc555.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
-GEO:41.311613;-105.610512
-LOCATION:Wyoming Territorial Prison State Historic Site
-SUMMARY:Higher Ground Fair
-UID:38215@visitlaramie.org
-URL:https://www.visitlaramie.org/event/higher-ground-fair/38215/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
 DESCRIPTION:UW Homecoming 2025 Alumni Lunch\nMore info: https://www.visitlaramie.org/event/uw-homecoming-2025-alumni-lunch/38260/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-123513_400B68C5-0DD6-B827-5877CA6DF3F548C8_401757fa-c3ce-75ad-84697171cd559b4d.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun\, Social Events
 GEO:41.310063;-105.565482
@@ -197,15 +188,6 @@ LOCATION:Univ. of Wyoming
 SUMMARY:UW Music Presents: Minhwan Lee\, bass trombone
 UID:38309@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-minhwan-lee-bass-trombone/38309/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250921
-DESCRIPTION:Japan Festival 2025\nMore info: https://www.visitlaramie.org/event/japan-festival-2025/36612/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-130204_A993D577-B581-C6FD-6639A3D182A2EAA5_a9d75d79-0a57-86e7-9341f2009b1c7001.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture\, Education\, Family Fun\, Social Events
-GEO:41.299595;-105.550918
-LOCATION:Laramie High School
-SUMMARY:Japan Festival 2025
-UID:36612@visitlaramie.org
-URL:https://www.visitlaramie.org/event/japan-festival-2025/36612/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
@@ -616,15 +598,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:Snow Train Music Festival\nMore info: https://www.visitlaramie.org/event/snow-train-music-festival/38251/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-22-115729_3D6CDB5C-E0E4-08D3-81ED0293555E3F67_3da68965-93d1-16e6-5735c89c000628f9.png\nCategories: Concerts & Live Music\, Community
-GEO:41.311367;-105.591101
-LOCATION:12 Venues Throughout Laramie
-SUMMARY:Snow Train Music Festival
-UID:38251@visitlaramie.org
-URL:https://www.visitlaramie.org/event/snow-train-music-festival/38251/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
