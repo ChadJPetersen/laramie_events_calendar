@@ -421,15 +421,6 @@ UID:38322@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jalan-crossland-w-zephyr-grey/38322/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250922
-DESCRIPTION:Finding Balance Fall Equinox Yoga Event\nMore info: https://www.visitlaramie.org/event/finding-balance-fall-equinox-yoga-event/37469/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_DB3BF4A0-AB32-242F-2DA6625A4CE13F3A_db5634ff-d302-5d75-cbac6c0a0a6d41a0.png\nCategories: Community\, Outdoor Recreation
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Finding Balance Fall Equinox Yoga Event
-UID:37469@visitlaramie.org
-URL:https://www.visitlaramie.org/event/finding-balance-fall-equinox-yoga-event/37469/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
 DESCRIPTION:Cosmic Mashups + James Webb Space Telescope\nMore info: https://www.visitlaramie.org/event/cosmic-mashups-%2b-james-webb-space-telescope/36349/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_6E0A503A-5056-A36F-2360D66FE71B6EFF_6e258baf-5056-a36f-230916283c18fa76.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
 GEO:41.313709;-105.590644
@@ -437,6 +428,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Cosmic Mashups + James Webb Space Telescope
 UID:36349@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cosmic-mashups-%2b-james-webb-space-telescope/36349/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251005
+DESCRIPTION:Touch the Truck @ Firehouse Subs\nMore info: https://www.visitlaramie.org/event/touch-the-truck-%40-firehouse-subs/38334/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-22-131026_7D3C2851-0B31-BB28-EBBADF9A120DAD4C_7d483ca0-c843-d66d-f2cc28c6f47b0156.png\nCategories: Community\, Family Fun\, Social Events
+GEO:41.317650;-105.594476
+LOCATION:Gateway Plaza @ Firehouse Subs
+SUMMARY:Touch the Truck @ Firehouse Subs
+UID:38334@visitlaramie.org
+URL:https://www.visitlaramie.org/event/touch-the-truck-%40-firehouse-subs/38334/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
@@ -696,14 +696,5 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Tranquility
 UID:34957@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-tranquility/34957/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250922
-DESCRIPTION:Music is the Best @ U of Wyoming\nMore info: https://www.visitlaramie.org/event/music-is-the-best-%40-u-of-wyoming/38299/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-10-114326_0F42C600-C64A-621C-4EFDC917C1E7E3D6_0fc063b8-a9b6-638f-c24b09d5df85cf80.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming\, Performing Arts & Culture
-GEO:41.308951;-105.621676
-LOCATION:Buchanan Performing Arts Center
-SUMMARY:Music is the Best @ U of Wyoming
-UID:38299@visitlaramie.org
-URL:https://www.visitlaramie.org/event/music-is-the-best-%40-u-of-wyoming/38299/
 END:VEVENT
 END:VCALENDAR
