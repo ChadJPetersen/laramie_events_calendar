@@ -29,15 +29,6 @@ UID:38107@visitlaramie.org
 URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/38107/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250716
-DESCRIPTION:Bond's Run Club 2025\nMore info: https://www.visitlaramie.org/event/bonds-run-club-2025/38094/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-06-06-123934_C20BFBFA-CE2F-8322-29BDBF1E176BFAD3_c20d3352-ab4c-f0f6-91f46fc17b2ba03a.png\nCategories: Community\, Outdoor Recreation
-GEO:41.309643;-105.594735
-LOCATION:Bond's Brewing Company
-SUMMARY:Bond's Run Club 2025
-UID:38094@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bonds-run-club-2025/38094/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250916
 DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
 GEO:41.310342;-105.587834
@@ -90,15 +81,6 @@ LOCATION:Univ of Wyoming Campus
 SUMMARY:UW Homecoming 2025 Alumni Lunch
 UID:38260@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-homecoming-2025-alumni-lunch/38260/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250129
-DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
-GEO:41.312265;-105.595644
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Open Mic Poetry at Night Heron
-UID:34904@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
@@ -172,13 +154,12 @@ UID:38258@visitlaramie.org
 URL:https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250924
-DESCRIPTION:Exhibit Opening: The West is Waiting: An Exploration of Railroad Advertising\nMore info: https://www.visitlaramie.org/event/exhibit-opening%3a-the-west-is-waiting%3a-an-exploration-of-railroad-advertising/38316/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Untitled-design-37-_6914948A-C2B8-6D2E-A93772FA726652D3_691713b6-e95e-c272-0f8e31b91408cce0.png\nCategories: History\, Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:American Heritage Center
-SUMMARY:Exhibit Opening: The West is Waiting: An Exploration of Railroad Advertising
-UID:38316@visitlaramie.org
-URL:https://www.visitlaramie.org/event/exhibit-opening%3a-the-west-is-waiting%3a-an-exploration-of-railroad-advertising/38316/
+DTSTART;VALUE=DATE:20251001
+DESCRIPTION:University of Wyoming Art Gallery: Pat Guthrie Special Exhibitions Teaching Gallery Fall 2025\nMore info: https://www.visitlaramie.org/event/university-of-wyoming-art-gallery%3a-pat-guthrie-special-exhibitions-teaching-gallery-fall-2025/38342/\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+LOCATION:University of Wyoming Art Museum
+SUMMARY:University of Wyoming Art Gallery: Pat Guthrie Special Exhibitions Teaching Gallery Fall 2025
+UID:38342@visitlaramie.org
+URL:https://www.visitlaramie.org/event/university-of-wyoming-art-gallery%3a-pat-guthrie-special-exhibitions-teaching-gallery-fall-2025/38342/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
@@ -206,6 +187,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Double Feature: Double Feature: Always Above + Dark Biosphere
 UID:38065@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-always-above-%2b-dark-biosphere/38065/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251025
+DESCRIPTION:UW Cowboy Football vs. Colorado State University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-colorado-state-university/36265/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+GEO:41.311627;-105.564677
+LOCATION:War Memorial Stadium
+SUMMARY:UW Cowboy Football vs. Colorado State University
+UID:36265@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-colorado-state-university/36265/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
@@ -324,15 +314,6 @@ UID:38318@visitlaramie.org
 URL:https://www.visitlaramie.org/event/war-work-and-women/38318/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250924
-DESCRIPTION:Public Artist Talk by Robin Frohardt and Patrick Dougher\nMore info: https://www.visitlaramie.org/event/public-artist-talk-by-robin-frohardt-and-patrick-dougher/38337/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-105917_AB1B1A81-C7F8-EC87-E65CE0EB9AFEA503_ab3751d8-aef1-d62d-2be1de03b63f896e.png\nCategories: University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.310354;-105.574244
-LOCATION:Univ of Wyoming
-SUMMARY:Public Artist Talk by Robin Frohardt and Patrick Dougher
-UID:38337@visitlaramie.org
-URL:https://www.visitlaramie.org/event/public-artist-talk-by-robin-frohardt-and-patrick-dougher/38337/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:Bond's Trivia & Tacos Night\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-133010_D3950AB0-0555-6E30-3A8DE518E87CC400_d3b73155-b2bf-cc8b-d45f3fe48f1b6b76.png\nCategories: Community\, Social Events
 GEO:41.309652;-105.594751
@@ -414,11 +395,11 @@ URL:https://www.visitlaramie.org/event/uw-music-presents%3a-student-faculty-show
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
-DESCRIPTION:University of Wyoming Homecoming 2024\nMore info: https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-111852_70DF8598-AA49-2341-1E2128388F62F1B5_70eb8a53-f407-91ff-ddf106d324721506.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Sports\, Performing Arts & Culture\, Family Fun\, Social Events
+DESCRIPTION:University of Wyoming Homecoming 2025\nMore info: https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2025/36421/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-28-111852_70DF8598-AA49-2341-1E2128388F62F1B5_70eb8a53-f407-91ff-ddf106d324721506.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Sports\, Performing Arts & Culture\, Family Fun\, Social Events
 GEO:41.310063;-105.565482
-SUMMARY:University of Wyoming Homecoming 2024
+SUMMARY:University of Wyoming Homecoming 2025
 UID:36421@visitlaramie.org
-URL:https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2024/36421/
+URL:https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2025/36421/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
@@ -457,6 +438,15 @@ UID:36349@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cosmic-mashups-%2b-james-webb-space-telescope/36349/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251025
+DESCRIPTION:The Haunted Basement - Radiation\nMore info: https://www.visitlaramie.org/event/the-haunted-basement-radiation/38257/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-120831_3F2D21D6-D4D3-30B2-AF6ECF377C9C7CAE_3f35f352-91d6-6313-486d33dace7b7bc7.png\nCategories: Community\, Family Fun
+GEO:41.311404;-105.595232
+LOCATION:La Morenita Tiendita
+SUMMARY:The Haunted Basement - Radiation
+UID:38257@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-haunted-basement-radiation/38257/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
 DESCRIPTION:Belly Dance: Level 1\nMore info: https://www.visitlaramie.org/event/belly-dance%3a-level-1/38341/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-115757_AD4DA6B8-027D-1E11-D0CD894C1ED53183_ad609a4d-c2a9-8774-ddb3b81b88f6df68.png\nCategories: Community\, Performing Arts & Culture\, Craft Classes & Workshops
 GEO:41.312877;-105.595095
@@ -491,15 +481,6 @@ LOCATION:The Collective
 SUMMARY:Mid and Plus Sized Clothing Swap
 UID:38295@visitlaramie.org
 URL:https://www.visitlaramie.org/event/mid-and-plus-sized-clothing-swap/38295/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250924
-DESCRIPTION:Notes from a Modern-day Naturalist\nMore info: https://www.visitlaramie.org/event/notes-from-a-modern-day-naturalist/38269/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Rankins_SNBS_03_E66C53AF-B8B6-9677-B44E29482EA67FBA_e670c651-d77e-6986-3cf33fa5b2b5dd2a.jpg\nCategories: Community\, Education
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church
-SUMMARY:Notes from a Modern-day Naturalist
-UID:38269@visitlaramie.org
-URL:https://www.visitlaramie.org/event/notes-from-a-modern-day-naturalist/38269/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250927
