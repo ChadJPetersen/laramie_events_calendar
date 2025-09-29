@@ -298,6 +298,15 @@ UID:38260@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-homecoming-2025-alumni-lunch/38260/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250129
+DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
+GEO:41.312265;-105.595644
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Open Mic Poetry at Night Heron
+UID:34904@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
 DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/38253/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-26-124129_0E52DC0B-FB30-FF48-6EBC3EC5DBAF30AC_0e5e0822-0038-ffb0-4303ae31f493092b.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.313179;-105.595024
