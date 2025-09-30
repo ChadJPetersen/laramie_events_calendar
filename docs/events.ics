@@ -181,15 +181,6 @@ UID:38327@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies-losing-the-dark-%2b-mercury-at-greatest-elongation/38327/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250927
-DESCRIPTION:Friends of the Albany County Public Library Fall Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-fall-book-sale/38320/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-17-122718_79299022-97E8-9A21-9A8ADBA4EE99A00B_7944599e-ddc0-9102-e40c2b645fbf20be.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Friends of the Albany County Public Library Fall Book Sale
-UID:38320@visitlaramie.org
-URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-fall-book-sale/38320/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 DESCRIPTION:Live in Laramie\nMore info: https://www.visitlaramie.org/event/live-in-laramie/37649/\nVenue: Chalk n' Cheese\nVenue Info: https://www.visitlaramie.org/listing/chalk-n-cheese/601/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-123534_AE9398F2-EF55-59CA-E8229190F312CD1D_af05fc3a-f7a0-43f0-3e66923980c317eb.png\nCategories: Concerts & Live Music\, Community
 GEO:41.311591;-105.594568
