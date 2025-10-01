@@ -55,6 +55,15 @@ UID:36421@visitlaramie.org
 URL:https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2025/36421/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Liquid Sky: Spooky Tunes\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-spooky-tunes/36954/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-17-134424_7BEDE6B3-0ACA-8BA0-D12E4970063AD3F2_7bef8534-0368-e710-974d6a8e4f3f4820.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: Spooky Tunes
+UID:36954@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-spooky-tunes/36954/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
 DESCRIPTION:Willi Carlisle Winged Victory Tour\nMore info: https://www.visitlaramie.org/event/willi-carlisle-winged-victory-tour/38245/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-125056_0BA46E4E-BBD5-9CB9-1B2789DDEE9B9BF6_0ba673ef-dcf5-eb31-180de107a9b163af.png\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -118,13 +127,13 @@ UID:38341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/belly-dance%3a-level-1/38341/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250930
-DESCRIPTION:Wyoming Skies Saturn in Opposition\nMore info: https://www.visitlaramie.org/event/wyoming-skies-saturn-in-opposition/36335/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_A14C8405-5056-A36F-2398052104D490A8_a1598b0e-5056-a36f-230d1384b67a284f.png\nCategories: University of Wyoming\, Education\, Family Fun
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Stellar Graveyard\nMore info: https://www.visitlaramie.org/event/stellar-graveyard/36485/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_711BA66A-5056-A36F-230BD5DE3EC0FCF1_7120ee56-5056-a36f-2361a2c331042ab6.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
 LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies Saturn in Opposition
-UID:36335@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies-saturn-in-opposition/36335/
+SUMMARY:Stellar Graveyard
+UID:36485@visitlaramie.org
+URL:https://www.visitlaramie.org/event/stellar-graveyard/36485/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
@@ -334,6 +343,15 @@ UID:38330@visitlaramie.org
 URL:https://www.visitlaramie.org/event/leaves-%26-laces-5k-run-walk/38330/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Bond's Brewing Halloween Costume Party\nMore info: https://www.visitlaramie.org/event/bonds-brewing-halloween-costume-party/32787/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-18-111521_AA1A005F-AE7D-9C0C-B2477123C68C8E3C_aa25e8b1-ff39-36b3-628e529969525882.png\nCategories: Social Events
+GEO:41.309652;-105.594751
+LOCATION:Bond's Brewing Company
+SUMMARY:Bond's Brewing Halloween Costume Party
+UID:32787@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bonds-brewing-halloween-costume-party/32787/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:Bond's Trivia & Tacos Night\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-133010_D3950AB0-0555-6E30-3A8DE518E87CC400_d3b73155-b2bf-cc8b-d45f3fe48f1b6b76.png\nCategories: Community\, Social Events
 GEO:41.309652;-105.594751
@@ -388,7 +406,7 @@ URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-san-jose-state-univ
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
-DESCRIPTION:Dome After Dark: A Live EDM Experience\nMore info: https://www.visitlaramie.org/event/dome-after-dark%3a-a-live-edm-experience/37540/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-03-13-110602_A48F7F8D-B527-7907-E5DC457A769BD4E1_a49004b4-d94b-5dc9-68e060ea030affca.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, University of Wyoming\, Performing Arts & Culture
+DESCRIPTION:Dome After Dark: A Live EDM Experience\nMore info: https://www.visitlaramie.org/event/dome-after-dark%3a-a-live-edm-experience/37540/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-30-121142_181E7B15-CF99-E04C-D3D7E421AAABF3C0_1823805c-f3eb-b989-1f29273f12a89d9b.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, University of Wyoming\, Performing Arts & Culture
 GEO:41.313709;-105.590644
 LOCATION:University of Wyoming Planetarium
 SUMMARY:Dome After Dark: A Live EDM Experience
@@ -546,6 +564,15 @@ LOCATION:VFW #2221
 SUMMARY:VFW hosting Albany County Toys for Tots breakfast
 UID:38345@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vfw-hosting-albany-county-toys-for-tots-breakfast/38345/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Halloween Party - Ozzie Osborne Themed\nMore info: https://www.visitlaramie.org/event/halloween-party-ozzie-osborne-themed/36755/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-110915_A585744C-EA24-3A32-6F2F17A90AF76DD1_a58e11f1-04a6-d098-34af8e73cb571cd9.png\nCategories: Annual Events & Festivals\, Social Events
+GEO:41.324869;-105.593743
+LOCATION:FOE Laramie
+SUMMARY:Halloween Party - Ozzie Osborne Themed
+UID:36755@visitlaramie.org
+URL:https://www.visitlaramie.org/event/halloween-party-ozzie-osborne-themed/36755/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
