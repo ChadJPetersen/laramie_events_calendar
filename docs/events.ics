@@ -388,14 +388,6 @@ UID:38258@visitlaramie.org
 URL:https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251001
-DESCRIPTION:University of Wyoming Art Gallery: Pat Guthrie Special Exhibitions Teaching Gallery Fall 2025\nMore info: https://www.visitlaramie.org/event/university-of-wyoming-art-gallery%3a-pat-guthrie-special-exhibitions-teaching-gallery-fall-2025/38342/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-26-113044_494E9E66-D355-98B3-BA4692C3C580F7EC_494f3581-cdfe-a62c-e8f91c7e0cf842f2.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-LOCATION:University of Wyoming Art Museum
-SUMMARY:University of Wyoming Art Gallery: Pat Guthrie Special Exhibitions Teaching Gallery Fall 2025
-UID:38342@visitlaramie.org
-URL:https://www.visitlaramie.org/event/university-of-wyoming-art-gallery%3a-pat-guthrie-special-exhibitions-teaching-gallery-fall-2025/38342/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251011
 DESCRIPTION:UW Cowboy Football vs. San Jose State University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-san-jose-state-university/31302/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
