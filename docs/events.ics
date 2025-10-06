@@ -92,13 +92,13 @@ UID:36485@visitlaramie.org
 URL:https://www.visitlaramie.org/event/stellar-graveyard/36485/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251005
-DESCRIPTION:Touch the Truck @ Firehouse Subs\nMore info: https://www.visitlaramie.org/event/touch-the-truck-%40-firehouse-subs/38334/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-22-131026_7D3C2851-0B31-BB28-EBBADF9A120DAD4C_7d483ca0-c843-d66d-f2cc28c6f47b0156.png\nCategories: Community\, Family Fun\, Social Events
-GEO:41.317650;-105.594476
-LOCATION:Gateway Plaza @ Firehouse Subs
-SUMMARY:Touch the Truck @ Firehouse Subs
-UID:38334@visitlaramie.org
-URL:https://www.visitlaramie.org/event/touch-the-truck-%40-firehouse-subs/38334/
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Silent Book Club
+UID:38068@visitlaramie.org
+URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
@@ -108,15 +108,6 @@ LOCATION:Buchanan Center Concert Hall
 SUMMARY:UW Symphony Presents: From The New World
 UID:38308@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-from-the-new-world/38308/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Silent Book Club
-UID:38068@visitlaramie.org
-URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251012
@@ -431,24 +422,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:Join the Gamelan Ensemble
 UID:38261@visitlaramie.org
 URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251005
-DESCRIPTION:Silent Trails Memorial Run\nMore info: https://www.visitlaramie.org/event/silent-trails-memorial-run/38287/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Silent-Trails-Poster-2025_761ECCB9-A0EF-9D0D-8FECDE7A147986F9_761fa703-d8a5-b5c7-75ea0c71f5d86eee.jpg\nCategories: Outdoor Recreation
-GEO:43.075968;-107.290284
-LOCATION:Tie City Trailhead\, Albany County WY
-SUMMARY:Silent Trails Memorial Run
-UID:38287@visitlaramie.org
-URL:https://www.visitlaramie.org/event/silent-trails-memorial-run/38287/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251005
-DESCRIPTION:VFW hosting Albany County Toys for Tots breakfast\nMore info: https://www.visitlaramie.org/event/vfw-hosting-albany-county-toys-for-tots-breakfast/38345/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-26-124619_496A5598-B1C5-03F0-B2431F41A8BE7671_499911cb-cc80-d4b9-766a0ffdd9203059.png\nCategories: Community\, Social Events
-GEO:41.308313;-105.565468
-LOCATION:VFW #2221
-SUMMARY:VFW hosting Albany County Toys for Tots breakfast
-UID:38345@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vfw-hosting-albany-county-toys-for-tots-breakfast/38345/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
