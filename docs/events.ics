@@ -47,6 +47,15 @@ UID:36265@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-colorado-state-university/36265/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251011
+DESCRIPTION:Chili Cook-off Tailgate\nMore info: https://www.visitlaramie.org/event/chili-cook-off-tailgate/38355/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-07-133023_B0C7735A-0899-6CA7-48EA1BF3B312423B_b1019ab3-ac74-413e-d7397031b77c5843.png\nCategories: Community\, Sports\, Family Fun
+GEO:41.309143;-105.564383
+LOCATION:Laramie Chamber Business Alliance
+SUMMARY:Chili Cook-off Tailgate
+UID:38355@visitlaramie.org
+URL:https://www.visitlaramie.org/event/chili-cook-off-tailgate/38355/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
 DESCRIPTION:High School Art Intensive\nMore info: https://www.visitlaramie.org/event/high-school-art-intensive/38231/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-124154_D656F9CD-EC40-A8E0-B8FEECCC1D8553FA_d65e5860-aeda-cc70-675c5e6a91c43f7b.png\nCategories: University of Wyoming\, Education\, Craft Classes & Workshops
 GEO:41.313464;-105.564486
@@ -119,6 +128,15 @@ UID:38295@visitlaramie.org
 URL:https://www.visitlaramie.org/event/mid-and-plus-sized-clothing-swap/38295/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:Live in Laramie\nMore info: https://www.visitlaramie.org/event/live-in-laramie/38353/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LIL---ACJC---November_4AC85B58-A1C2-DC7E-9BA00E0436133283_4ad29e79-9afe-1461-7f2eb72c21ce9727.png\nCategories: Concerts & Live Music
+GEO:41.311389;-105.595899
+LOCATION:Elks Lodge\, North Lounge\, 103 S 2nd Street
+SUMMARY:Live in Laramie
+UID:38353@visitlaramie.org
+URL:https://www.visitlaramie.org/event/live-in-laramie/38353/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
 DESCRIPTION:Wyoming Skies-Losing the Dark + Mercury at Greatest Elongation\nMore info: https://www.visitlaramie.org/event/wyoming-skies-losing-the-dark-%2b-mercury-at-greatest-elongation/38327/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-17-133455_7B90E31C-D12C-245D-83F97BA143586B82_7bb11831-bf5f-0fe3-a6418135e22cb7db.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -164,6 +182,14 @@ UID:36340@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/36340/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251108
+DESCRIPTION:Country Christmas Bazaar\nMore info: https://www.visitlaramie.org/event/country-christmas-bazaar/38255/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-100044_3A99946B-D442-C573-91CC665B2C24A916_3aaf9fd0-cd91-bd1f-5c8972820bbf9f96.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.389463;-105.875993
+SUMMARY:Country Christmas Bazaar
+UID:38255@visitlaramie.org
+URL:https://www.visitlaramie.org/event/country-christmas-bazaar/38255/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251015
 DESCRIPTION:UW Music Presents: Erika Boysen Guest Flute Artist\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-erika-boysen-guest-flute-artist/38313/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-111358_41A8BD67-D213-C27D-C94796065A5683B6_41a9c3ea-bb58-cf1d-4be5075d8ad00162.png\nCategories: Concerts & Live Music\, University of Wyoming
 GEO:41.311991;-105.572082
@@ -183,7 +209,7 @@ URL:https://www.visitlaramie.org/event/leftovers!-asteroids-comets-meteors-and-r
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
-DESCRIPTION:Read\, Rant\, Relate - 72 Miles to Go\nMore info: https://www.visitlaramie.org/event/read-rant-relate-72-miles-to-go/37836/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-17-105212_A7E4B470-A0DD-8154-F3351B115CC92420_a7e97af2-ee3e-8ce5-6c7ce88625a9eccb.png\nCategories: Community\, Performing Arts & Culture
+DESCRIPTION:Read\, Rant\, Relate - 72 Miles to Go\nMore info: https://www.visitlaramie.org/event/read-rant-relate-72-miles-to-go/37836/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-17-105212_A7E4B470-A0DD-8154-F3351B115CC92420_a7e97af2-ee3e-8ce5-6c7ce88625a9eccb.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.319964;-105.584748
 LOCATION:Iron Mile Art Space
 SUMMARY:Read\, Rant\, Relate - 72 Miles to Go
@@ -209,6 +235,15 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Tell Me More! With Jessica Labozetta\nMore info: https://www.visitlaramie.org/event/tell-me-more!-with-jessica-labozetta/38358/\nVenue: Coal Creek Coffee Co. (Downtown)\nVenue Info: https://www.visitlaramie.org/listing/coal-creek-coffee-co-(downtown)/28/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-151658_B841C5A8-04DC-98B2-56F57266DF383D83_b8479f39-ad3a-550f-354f6893da66e080.png\nCategories: History\, Community\, Education
+GEO:41.310977;-105.595679
+LOCATION:Coal Creek Coffee - Downtown
+SUMMARY:Tell Me More! With Jessica Labozetta
+UID:38358@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tell-me-more!-with-jessica-labozetta/38358/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
 GEO:41.312265;-105.595644
@@ -228,12 +263,20 @@ URL:https://www.visitlaramie.org/event/spooktacular-paint-party/38344/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
-DESCRIPTION:UW Choirs Present: WyoSING!\nMore info: https://www.visitlaramie.org/event/uw-choirs-present%3a-wyosing!/38311/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_41282909-BD80-3297-37D4539583B7B52E_413b8b4e-ed5a-6e02-575ba657058c717e.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun
+DESCRIPTION:UW Choirs Present: WyoSING!\nMore info: https://www.visitlaramie.org/event/uw-choirs-present%3a-wyosing!/38311/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-135732_B572652F-06D3-4370-AC69F4D7890C4C09_b595a27e-0429-eef7-4f59286b9c14b43f.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun
 GEO:41.314718;-105.569029
 LOCATION:Buchanan Center Concert Hall
 SUMMARY:UW Choirs Present: WyoSING!
 UID:38311@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-choirs-present%3a-wyosing!/38311/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251108
+DESCRIPTION:Steve Frame Live\nMore info: https://www.visitlaramie.org/event/steve-frame-live/38279/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-121724_A7F1F538-0FAF-448D-6771420882D8E15F_a80341ed-c5b8-e5ad-4ee61eb31968f605.png\nCategories: Concerts & Live Music
+GEO:41.312129;-105.591254
+SUMMARY:Steve Frame Live
+UID:38279@visitlaramie.org
+URL:https://www.visitlaramie.org/event/steve-frame-live/38279/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
@@ -325,6 +368,15 @@ UID:38309@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-minhwan-lee-bass-trombone/38309/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251018
+DESCRIPTION:BooFest on the Big Screen\nMore info: https://www.visitlaramie.org/event/boofest-on-the-big-screen/38354/\nVenue: Studio City UW\nVenue Info: https://www.visitlaramie.org/listing/studio-city-uw/394/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BooFest-2025-Cover-Photo_825E2ED8-BADA-0498-9686C2D1229AF127_826099f9-d86a-44ff-74232e308765c7d0.png\nCategories: Annual Events & Festivals
+GEO:41.309950;-105.560391
+LOCATION:Studio City UW
+SUMMARY:BooFest on the Big Screen
+UID:38354@visitlaramie.org
+URL:https://www.visitlaramie.org/event/boofest-on-the-big-screen/38354/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251014
 DESCRIPTION:Wyoming Skies: Losing the Dark + Orionid Meteors\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-losing-the-dark-%2b-orionid-meteors/30980/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_C7A24CA1-5056-A36F-23689CDFCFFAC9C7_c7a9aa46-5056-a36f-23a7d751b5d7082b.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -406,6 +458,15 @@ UID:38294@visitlaramie.org
 URL:https://www.visitlaramie.org/event/west-side-art-market/38294/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:The Pedal House Spooky Season Halloween Adventure by Bike\nMore info: https://www.visitlaramie.org/event/the-pedal-house-spooky-season-halloween-adventure-by-bike/38359/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-152528_B8A1A622-989F-68E2-22CD02AB0BD1A579_b8ab42fd-d932-3297-f545abfbe1e52661.png\nCategories: Annual Events & Festivals\, Community
+GEO:41.311776;-105.595892
+LOCATION:The Pedal House
+SUMMARY:The Pedal House Spooky Season Halloween Adventure by Bike
+UID:38359@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-pedal-house-spooky-season-halloween-adventure-by-bike/38359/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
 DESCRIPTION:Join the Gamelan Ensemble\nMore info: https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-140011_47863089-DB0C-BE67-01F8D189390D7E94_478713a8-fef5-c78e-b53a710bf07069e5.png\nCategories: Performing Arts & Culture
 GEO:41.313968;-105.584517
@@ -413,6 +474,24 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:Join the Gamelan Ensemble
 UID:38261@visitlaramie.org
 URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:Live in Laramie\nMore info: https://www.visitlaramie.org/event/live-in-laramie/38352/\nVenue: Chalk n' Cheese\nVenue Info: https://www.visitlaramie.org/listing/chalk-n-cheese/212/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LIL---Julie-K---October_4AAFB65C-ADB1-5301-08D025240B6119CA_4ab182df-d6df-c90d-0f22d7343521577c.png\nCategories: Concerts & Live Music
+GEO:41.311591;-105.594568
+LOCATION:Chalk n' Cheese
+SUMMARY:Live in Laramie
+UID:38352@visitlaramie.org
+URL:https://www.visitlaramie.org/event/live-in-laramie/38352/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Trick or Treat with Albany County Government\nMore info: https://www.visitlaramie.org/event/trick-or-treat-with-albany-county-government/32822/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-152025_B86F675F-F7D7-6589-5D7069CFBEFC1E07_b87a307c-dc21-8143-27073a721f3e3813.png\nCategories: Family Fun\, Social Events
+GEO:41.305440;-105.595500
+LOCATION:Albany County Courthouse and Albany County Planning
+SUMMARY:Trick or Treat with Albany County Government
+UID:32822@visitlaramie.org
+URL:https://www.visitlaramie.org/event/trick-or-treat-with-albany-county-government/32822/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
@@ -449,6 +528,23 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Double Feature: Double Feature: Always Above + Dark Biosphere
 UID:38065@visitlaramie.org
 URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-always-above-%2b-dark-biosphere/38065/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:Relative Theatrics Presents: Straight White Men by Young Jean Lee\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents%3a-straight-white-men-by-young-jean-lee/38357/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-145056_B79FFC03-F0FC-455F-1D192D1F3B787E1F_b7a54f2f-fd3e-091b-3c8831aeda0f9d5c.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+SUMMARY:Relative Theatrics Presents: Straight White Men by Young Jean Lee
+UID:38357@visitlaramie.org
+URL:https://www.visitlaramie.org/event/relative-theatrics-presents%3a-straight-white-men-by-young-jean-lee/38357/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251018
+DESCRIPTION:Spooky Haloween Scavenger Hunt\nMore info: https://www.visitlaramie.org/event/spooky-haloween-scavenger-hunt/38350/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Hallo-2025_BB89067A-D0EC-1512-2EAE9A57F7E9CFCD_bb9015e1-f8cd-ca5c-684792691821e354.jpg\nCategories: Family Fun
+GEO:41.311367;-105.591101
+LOCATION:Washington Park Bandshell
+SUMMARY:Spooky Haloween Scavenger Hunt
+UID:38350@visitlaramie.org
+URL:https://www.visitlaramie.org/event/spooky-haloween-scavenger-hunt/38350/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
