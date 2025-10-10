@@ -30,6 +30,15 @@ URL:https://www.visitlaramie.org/event/liquid-sky%3a-spooky-tunes/36954/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
+DESCRIPTION:Acoustic Nights with Chad Bishop\nMore info: https://www.visitlaramie.org/event/acoustic-nights-with-chad-bishop/38362/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_1167_126FCEDE-CC41-49B4-8B70A5D45F024573_ffbf51ab-987b-48be-ba752d6834e39a15.jpg\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Acoustic Nights with Chad Bishop
+UID:38362@visitlaramie.org
+URL:https://www.visitlaramie.org/event/acoustic-nights-with-chad-bishop/38362/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251017
 DESCRIPTION:Willi Carlisle Winged Victory Tour\nMore info: https://www.visitlaramie.org/event/willi-carlisle-winged-victory-tour/38245/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-125056_0BA46E4E-BBD5-9CB9-1B2789DDEE9B9BF6_0ba673ef-dcf5-eb31-180de107a9b163af.png\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
 LOCATION:The Gryphon Theatre
@@ -101,6 +110,14 @@ UID:36485@visitlaramie.org
 URL:https://www.visitlaramie.org/event/stellar-graveyard/36485/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:Tapas & Tours\nMore info: https://www.visitlaramie.org/event/tapas-%26-tours/38367/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-09-145023_EAE6D28B-FE79-DC45-00478BB6BAA4C73E_eaf868d5-dc07-4ba8-38056d59dba5e0b5.png\nCategories: Community\, Family Fun\, Social Events\, Volunteering
+GEO:41.311531;-105.586309
+SUMMARY:Tapas & Tours
+UID:38367@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tapas-%26-tours/38367/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250916
 DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
 GEO:41.310342;-105.587834
@@ -108,15 +125,6 @@ LOCATION:Albany County Public Library
 SUMMARY:Silent Book Club
 UID:38068@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-book-club/38068/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251009
-DESCRIPTION:UW Symphony Presents: From The New World\nMore info: https://www.visitlaramie.org/event/uw-symphony-presents%3a-from-the-new-world/38308/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-103109_4008CA0E-C980-5FFF-CBEE8390DE4FD4B9_40171aa7-b251-73bc-30182f11de1999b1.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun
-GEO:41.314718;-105.569029
-LOCATION:Buchanan Center Concert Hall
-SUMMARY:UW Symphony Presents: From The New World
-UID:38308@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-from-the-new-world/38308/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251012
@@ -199,6 +207,15 @@ UID:38313@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-erika-boysen-guest-flute-artist/38313/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Endurance Across Tahoe\nMore info: https://www.visitlaramie.org/event/endurance-across-tahoe/38365/\nVenue: Laramie's Basecamp\nVenue Info: https://www.visitlaramie.org/listing/laramies-basecamp/384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/EXPLORERS-NIGHT_Reilly-Dibner_E310EEF3-0287-17BE-C1B14B81C0ECF448_e3181e9e-0fc6-33ac-b36259ea2d2c8e11.png\nCategories: Social Events
+GEO:41.311263;-105.595108
+LOCATION:Laramie's Basecamp
+SUMMARY:Endurance Across Tahoe
+UID:38365@visitlaramie.org
+URL:https://www.visitlaramie.org/event/endurance-across-tahoe/38365/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
 DESCRIPTION:Leftovers! Asteroids\, Comets\, Meteors\, and Rings\nMore info: https://www.visitlaramie.org/event/leftovers!-asteroids-comets-meteors-and-rings/35122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_959EBB34-5056-A36F-236F23D8CE530757_959ff568-5056-a36f-239cd17e4db934f1.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -206,15 +223,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Leftovers! Asteroids\, Comets\, Meteors\, and Rings
 UID:35122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/leftovers!-asteroids-comets-meteors-and-rings/35122/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251009
-DESCRIPTION:Read\, Rant\, Relate - 72 Miles to Go\nMore info: https://www.visitlaramie.org/event/read-rant-relate-72-miles-to-go/37836/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-17-105212_A7E4B470-A0DD-8154-F3351B115CC92420_a7e97af2-ee3e-8ce5-6c7ce88625a9eccb.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.319964;-105.584748
-LOCATION:Iron Mile Art Space
-SUMMARY:Read\, Rant\, Relate - 72 Miles to Go
-UID:37836@visitlaramie.org
-URL:https://www.visitlaramie.org/event/read-rant-relate-72-miles-to-go/37836/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251015
@@ -242,6 +250,15 @@ LOCATION:Coal Creek Coffee - Downtown
 SUMMARY:Tell Me More! With Jessica Labozetta
 UID:38358@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tell-me-more!-with-jessica-labozetta/38358/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:How to Talk to ANYONE About ANYTHING (And Why You Should Do It!) -- Presentation by Dr. Simon Cullen\nMore info: https://www.visitlaramie.org/event/how-to-talk-to-anyone-about-anything-(and-why-you-should-do-it!)-presentation-by-dr-simon-cullen/38351/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-09-130733_E721235A-B066-23FF-082BC436E930A689_e7225505-9153-2ae7-ce0c9ffd3cd87316.png\nCategories: University of Wyoming
+GEO:41.314718;-105.569029
+LOCATION:University of Wyoming- Student Union Family Room
+SUMMARY:How to Talk to ANYONE About ANYTHING (And Why You Should Do It!) -- Presentation by Dr. Simon Cullen
+UID:38351@visitlaramie.org
+URL:https://www.visitlaramie.org/event/how-to-talk-to-anyone-about-anything-(and-why-you-should-do-it!)-presentation-by-dr-simon-cullen/38351/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250129
@@ -277,6 +294,15 @@ GEO:41.312129;-105.591254
 SUMMARY:Steve Frame Live
 UID:38279@visitlaramie.org
 URL:https://www.visitlaramie.org/event/steve-frame-live/38279/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Jaden Schumacher w/ Emily Raff\nMore info: https://www.visitlaramie.org/event/jaden-schumacher-w-emily-raff/38363/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_1084_76C7DB00-DA9C-4FD0-AA788FE599D909C6_d0b15d68-b34d-4855-8784696775cf1b0c.jpg\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Jaden Schumacher w/ Emily Raff
+UID:38363@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jaden-schumacher-w-emily-raff/38363/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
@@ -324,15 +350,6 @@ UID:38331@visitlaramie.org
 URL:https://www.visitlaramie.org/event/trap-release-workshop/38331/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250828
-DESCRIPTION:Charity Bingo Night @ Bond's Brewing\nMore info: https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-120402_A5E8CAF1-F437-DEBA-F5AAD0712FB27AA8_a5e9acc5-eb03-f513-a76b7c0e534d06b3.png\nCategories: Community
-GEO:41.309643;-105.594735
-LOCATION:Bond's Brewing Company
-SUMMARY:Charity Bingo Night @ Bond's Brewing
-UID:38258@visitlaramie.org
-URL:https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251011
 DESCRIPTION:UW Cowboy Football vs. San Jose State University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-san-jose-state-university/31302/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
@@ -340,6 +357,15 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football vs. San Jose State University
 UID:31302@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-san-jose-state-university/31302/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+DESCRIPTION:Charity Bingo Night @ Bond's Brewing\nMore info: https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-120402_A5E8CAF1-F437-DEBA-F5AAD0712FB27AA8_a5e9acc5-eb03-f513-a76b7c0e534d06b3.png\nCategories: Community
+GEO:41.309643;-105.594735
+LOCATION:Bond's Brewing Company
+SUMMARY:Charity Bingo Night @ Bond's Brewing
+UID:38258@visitlaramie.org
+URL:https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
@@ -357,6 +383,15 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:The 2025 Biggest Ever Fabric Sale
 UID:38277@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-2025-biggest-ever-fabric-sale/38277/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251010
+DESCRIPTION:Gabe Jackson Concert\nMore info: https://www.visitlaramie.org/event/gabe-jackson-concert/38361/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-10-9-25-at-9.07-AM_176BCCD8-7834-42C9-997D7DB3074D4C2A_3d253299-6f8d-4b15-87b4d1edaf6cdc20.png\nCategories: Concerts & Live Music
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Gabe Jackson Concert
+UID:38361@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gabe-jackson-concert/38361/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
@@ -402,6 +437,15 @@ LOCATION:Buchanan Center Concert Hall
 SUMMARY:UW Chamber Orchestra Presents: A Choral Premiere
 UID:38314@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-chamber-orchestra-presents%3a-a-choral-premiere/38314/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251011
+DESCRIPTION:Annual Kids Pumpkin Walk\nMore info: https://www.visitlaramie.org/event/annual-kids-pumpkin-walk/38366/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-09-132206_E7A0D938-F29F-4371-ABF46077B542F1F8_e7b0f3ca-cba8-1790-790c1234b79bb595.png\nCategories: Annual Events & Festivals
+GEO:41.311613;-105.610512
+LOCATION:Wyoming Territorial Prison State Historic Stie
+SUMMARY:Annual Kids Pumpkin Walk
+UID:38366@visitlaramie.org
+URL:https://www.visitlaramie.org/event/annual-kids-pumpkin-walk/38366/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
@@ -536,15 +580,6 @@ GEO:41.309522;-105.587753
 SUMMARY:Relative Theatrics Presents: Straight White Men by Young Jean Lee
 UID:38357@visitlaramie.org
 URL:https://www.visitlaramie.org/event/relative-theatrics-presents%3a-straight-white-men-by-young-jean-lee/38357/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251018
-DESCRIPTION:Spooky Haloween Scavenger Hunt\nMore info: https://www.visitlaramie.org/event/spooky-haloween-scavenger-hunt/38350/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Hallo-2025_BB89067A-D0EC-1512-2EAE9A57F7E9CFCD_bb9015e1-f8cd-ca5c-684792691821e354.jpg\nCategories: Family Fun
-GEO:41.311367;-105.591101
-LOCATION:Washington Park Bandshell
-SUMMARY:Spooky Haloween Scavenger Hunt
-UID:38350@visitlaramie.org
-URL:https://www.visitlaramie.org/event/spooky-haloween-scavenger-hunt/38350/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
