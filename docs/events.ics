@@ -11,13 +11,12 @@ UID:38226@visitlaramie.org
 URL:https://www.visitlaramie.org/event/family-weekend-2025/38226/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:UW Music Presents: Student/Faculty Showcase\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-student-faculty-showcase/38310/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-105643_40F29F1A-E72C-0F0F-BAB3C69D614AE6DF_40f8f414-f8d4-139b-365c7008b1c89e73.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.311991;-105.572082
-LOCATION:Univ. of Wyoming
-SUMMARY:UW Music Presents: Student/Faculty Showcase
-UID:38310@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-student-faculty-showcase/38310/
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Mountain West Halloween Carnival\nMore info: https://www.visitlaramie.org/event/mountain-west-halloween-carnival/38369/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Halloween-Party-11-1-_157DAB9A-AB61-7DB7-64A3088712E24BA4_1594d034-e700-8fd3-395d710004c61579.png\nCategories: Family Fun
+GEO:41.304317;-105.545291
+SUMMARY:Mountain West Halloween Carnival
+UID:38369@visitlaramie.org
+URL:https://www.visitlaramie.org/event/mountain-west-halloween-carnival/38369/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
@@ -74,15 +73,6 @@ UID:38231@visitlaramie.org
 URL:https://www.visitlaramie.org/event/high-school-art-intensive/38231/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:Cosmic Mashups + James Webb Space Telescope\nMore info: https://www.visitlaramie.org/event/cosmic-mashups-%2b-james-webb-space-telescope/36349/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_6E0A503A-5056-A36F-2360D66FE71B6EFF_6e258baf-5056-a36f-230916283c18fa76.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Cosmic Mashups + James Webb Space Telescope
-UID:36349@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cosmic-mashups-%2b-james-webb-space-telescope/36349/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251025
 DESCRIPTION:The Haunted Basement - Radiation\nMore info: https://www.visitlaramie.org/event/the-haunted-basement-radiation/38257/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-120831_3F2D21D6-D4D3-30B2-AF6ECF377C9C7CAE_3f35f352-91d6-6313-486d33dace7b7bc7.png\nCategories: Community\, Family Fun
 GEO:41.311404;-105.595232
@@ -111,7 +101,7 @@ URL:https://www.visitlaramie.org/event/stellar-graveyard/36485/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251015
-DESCRIPTION:Tapas & Tours\nMore info: https://www.visitlaramie.org/event/tapas-%26-tours/38367/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-09-145023_EAE6D28B-FE79-DC45-00478BB6BAA4C73E_eaf868d5-dc07-4ba8-38056d59dba5e0b5.png\nCategories: Community\, Family Fun\, Social Events\, Volunteering
+DESCRIPTION:Tapas & Tours\nMore info: https://www.visitlaramie.org/event/tapas-%26-tours/38367/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-10-111000_1668D851-AC5E-3BDB-1FC17DF0F876CAD5_166c1c8f-b77a-459b-531aac9765577f31.png\nCategories: Community\, Family Fun\, Social Events\, Volunteering
 GEO:41.311531;-105.586309
 SUMMARY:Tapas & Tours
 UID:38367@visitlaramie.org
@@ -279,15 +269,6 @@ UID:38344@visitlaramie.org
 URL:https://www.visitlaramie.org/event/spooktacular-paint-party/38344/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:UW Choirs Present: WyoSING!\nMore info: https://www.visitlaramie.org/event/uw-choirs-present%3a-wyosing!/38311/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-135732_B572652F-06D3-4370-AC69F4D7890C4C09_b595a27e-0429-eef7-4f59286b9c14b43f.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun
-GEO:41.314718;-105.569029
-LOCATION:Buchanan Center Concert Hall
-SUMMARY:UW Choirs Present: WyoSING!
-UID:38311@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-choirs-present%3a-wyosing!/38311/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251108
 DESCRIPTION:Steve Frame Live\nMore info: https://www.visitlaramie.org/event/steve-frame-live/38279/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-121724_A7F1F538-0FAF-448D-6771420882D8E15F_a80341ed-c5b8-e5ad-4ee61eb31968f605.png\nCategories: Concerts & Live Music
 GEO:41.312129;-105.591254
@@ -385,22 +366,13 @@ UID:38277@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-2025-biggest-ever-fabric-sale/38277/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:Gabe Jackson Concert\nMore info: https://www.visitlaramie.org/event/gabe-jackson-concert/38361/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-10-9-25-at-9.07-AM_176BCCD8-7834-42C9-997D7DB3074D4C2A_3d253299-6f8d-4b15-87b4d1edaf6cdc20.png\nCategories: Concerts & Live Music
-GEO:41.312609;-105.595118
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Gabe Jackson Concert
-UID:38361@visitlaramie.org
-URL:https://www.visitlaramie.org/event/gabe-jackson-concert/38361/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:UW Music Presents: Minhwan Lee\, bass trombone\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-minhwan-lee-bass-trombone/38309/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-104612_40C4DC65-A1F9-E56F-237301B4FCF5761C_40c7595d-bd7f-e478-8f2142bd0e45abe2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.311991;-105.572082
-LOCATION:Univ. of Wyoming
-SUMMARY:UW Music Presents: Minhwan Lee\, bass trombone
-UID:38309@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-minhwan-lee-bass-trombone/38309/
+DTSTART;VALUE=DATE:20251109
+DESCRIPTION:Wreaths Across America Fundraising Breakfast\nMore info: https://www.visitlaramie.org/event/wreaths-across-america-fundraising-breakfast/38368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-WAA-Logo_EE70E0CA-9CFD-87B2-4B407BA827F5D2E5_eeaaac50-eac8-c8c0-2bfc9193560402b4.jpg\nCategories: Community
+GEO:41.308313;-105.565468
+LOCATION:VFW Post 2221
+SUMMARY:Wreaths Across America Fundraising Breakfast
+UID:38368@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wreaths-across-america-fundraising-breakfast/38368/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
@@ -545,15 +517,6 @@ LOCATION:FOE Laramie
 SUMMARY:Halloween Party - Ozzie Osborne Themed
 UID:36755@visitlaramie.org
 URL:https://www.visitlaramie.org/event/halloween-party-ozzie-osborne-themed/36755/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:Liquid Sky: Tranquility\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-tranquility/34957/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events11_15C87778-5056-A36F-23D10544D73C2012_15d1ae5a-5056-a36f-23ffbc32f80cb1da.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Tranquility
-UID:34957@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-tranquility/34957/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251012
