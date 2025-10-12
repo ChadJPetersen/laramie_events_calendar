@@ -55,15 +55,6 @@ UID:36265@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-colorado-state-university/36265/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251011
-DESCRIPTION:Chili Cook-off Tailgate\nMore info: https://www.visitlaramie.org/event/chili-cook-off-tailgate/38355/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-07-133023_B0C7735A-0899-6CA7-48EA1BF3B312423B_b1019ab3-ac74-413e-d7397031b77c5843.png\nCategories: Community\, Sports\, Family Fun
-GEO:41.309143;-105.564383
-LOCATION:Laramie Chamber Business Alliance
-SUMMARY:Chili Cook-off Tailgate
-UID:38355@visitlaramie.org
-URL:https://www.visitlaramie.org/event/chili-cook-off-tailgate/38355/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
 DESCRIPTION:High School Art Intensive\nMore info: https://www.visitlaramie.org/event/high-school-art-intensive/38231/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-124154_D656F9CD-EC40-A8E0-B8FEECCC1D8553FA_d65e5860-aeda-cc70-675c5e6a91c43f7b.png\nCategories: University of Wyoming\, Education\, Craft Classes & Workshops
 GEO:41.313464;-105.564486
@@ -331,15 +322,6 @@ UID:38331@visitlaramie.org
 URL:https://www.visitlaramie.org/event/trap-release-workshop/38331/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251011
-DESCRIPTION:UW Cowboy Football vs. San Jose State University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-san-jose-state-university/31302/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.311627;-105.564677
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football vs. San Jose State University
-UID:31302@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-san-jose-state-university/31302/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
 DESCRIPTION:Charity Bingo Night @ Bond's Brewing\nMore info: https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-120402_A5E8CAF1-F437-DEBA-F5AAD0712FB27AA8_a5e9acc5-eb03-f513-a76b7c0e534d06b3.png\nCategories: Community
 GEO:41.309643;-105.594735
@@ -393,15 +375,6 @@ UID:30980@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies%3a-losing-the-dark-%2b-orionid-meteors/30980/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251011
-DESCRIPTION:Wyoming Rocks: Water Ways!\nMore info: https://www.visitlaramie.org/event/wyoming-rocks%3a-water-ways!/32745/\nVenue: University of Wyoming Geological Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-geological-museum/125/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-03-134331_B434E1D0-B1A3-A32B-EAA6602921EC4BF2_b436d0a3-0465-56d7-3be805547f1febf0.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.304853;-105.585000
-LOCATION:UW Geological Museum & Wyoming State Geological Survey
-SUMMARY:Wyoming Rocks: Water Ways!
-UID:32745@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-rocks%3a-water-ways!/32745/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
 DESCRIPTION:UW Chamber Orchestra Presents: A Choral Premiere\nMore info: https://www.visitlaramie.org/event/uw-chamber-orchestra-presents%3a-a-choral-premiere/38314/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-112648_4207911D-C459-7932-E205D9D673E24887_42084388-e7df-0614-f49943c0819432cb.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun
 GEO:41.314718;-105.569029
@@ -409,15 +382,6 @@ LOCATION:Buchanan Center Concert Hall
 SUMMARY:UW Chamber Orchestra Presents: A Choral Premiere
 UID:38314@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-chamber-orchestra-presents%3a-a-choral-premiere/38314/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251011
-DESCRIPTION:Annual Kids Pumpkin Walk\nMore info: https://www.visitlaramie.org/event/annual-kids-pumpkin-walk/38366/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-09-132206_E7A0D938-F29F-4371-ABF46077B542F1F8_e7b0f3ca-cba8-1790-790c1234b79bb595.png\nCategories: Annual Events & Festivals
-GEO:41.311613;-105.610512
-LOCATION:Wyoming Territorial Prison State Historic Stie
-SUMMARY:Annual Kids Pumpkin Walk
-UID:38366@visitlaramie.org
-URL:https://www.visitlaramie.org/event/annual-kids-pumpkin-walk/38366/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
@@ -465,15 +429,6 @@ UID:37382@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-audubon-annual-spooky-scavenger-hunt/37382/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251011
-DESCRIPTION:West Side Art Market\nMore info: https://www.visitlaramie.org/event/west-side-art-market/38294/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/31F45F19-D485-482D-BCFE-31F6CA07603C_0A69252D-B9A6-4AA7-AAAAD483D30BD179_0a832948-f729-61bc-62c18781663625ad.jpg\nCategories: Community\, Family Fun\, Social Events
-GEO:41.311928;-105.600431
-LOCATION:Lincoln Community Center
-SUMMARY:West Side Art Market
-UID:38294@visitlaramie.org
-URL:https://www.visitlaramie.org/event/west-side-art-market/38294/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 DESCRIPTION:The Pedal House Spooky Season Halloween Adventure by Bike\nMore info: https://www.visitlaramie.org/event/the-pedal-house-spooky-season-halloween-adventure-by-bike/38359/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-152528_B8A1A622-989F-68E2-22CD02AB0BD1A579_b8ab42fd-d932-3297-f545abfbe1e52661.png\nCategories: Annual Events & Festivals\, Community
 GEO:41.311776;-105.595892
@@ -481,6 +436,15 @@ LOCATION:The Pedal House
 SUMMARY:The Pedal House Spooky Season Halloween Adventure by Bike
 UID:38359@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-pedal-house-spooky-season-halloween-adventure-by-bike/38359/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Trick or Treat with Albany County Government\nMore info: https://www.visitlaramie.org/event/trick-or-treat-with-albany-county-government/32822/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-152025_B86F675F-F7D7-6589-5D7069CFBEFC1E07_b87a307c-dc21-8143-27073a721f3e3813.png\nCategories: Family Fun\, Social Events
+GEO:41.305440;-105.595500
+LOCATION:Albany County Courthouse and Albany County Planning
+SUMMARY:Trick or Treat with Albany County Government
+UID:32822@visitlaramie.org
+URL:https://www.visitlaramie.org/event/trick-or-treat-with-albany-county-government/32822/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
@@ -499,15 +463,6 @@ LOCATION:Chalk n' Cheese
 SUMMARY:Live in Laramie
 UID:38352@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-in-laramie/38352/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251031
-DESCRIPTION:Trick or Treat with Albany County Government\nMore info: https://www.visitlaramie.org/event/trick-or-treat-with-albany-county-government/32822/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-152025_B86F675F-F7D7-6589-5D7069CFBEFC1E07_b87a307c-dc21-8143-27073a721f3e3813.png\nCategories: Family Fun\, Social Events
-GEO:41.305440;-105.595500
-LOCATION:Albany County Courthouse and Albany County Planning
-SUMMARY:Trick or Treat with Albany County Government
-UID:32822@visitlaramie.org
-URL:https://www.visitlaramie.org/event/trick-or-treat-with-albany-county-government/32822/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
