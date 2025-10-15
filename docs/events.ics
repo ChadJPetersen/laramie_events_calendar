@@ -2,6 +2,42 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Wednesdays at the Buck: Niccole Blaze With Lisa Sherrodd and Dana Paige\nMore info: https://www.visitlaramie.org/event/wednesdays-at-the-buck%3a-niccole-blaze-with-lisa-sherrodd-and-dana-paige/37730/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-120045_E632767E-C2F7-6C44-D1CA5650BF4337F0_e64206fe-a0a0-3d47-abf9e0727d314525.png\nCategories: Concerts & Live Music
+GEO:41.311952;-105.595415
+LOCATION:Buckhorn Bar & Parlor
+SUMMARY:Wednesdays at the Buck: Niccole Blaze With Lisa Sherrodd and Dana Paige
+UID:37730@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wednesdays-at-the-buck%3a-niccole-blaze-with-lisa-sherrodd-and-dana-paige/37730/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251018
+DESCRIPTION:LAWS Famous Cookout\nMore info: https://www.visitlaramie.org/event/laws-famous-cookout/38376/\nVenue: Murdoch's Ranch & Home Supply\nVenue Info: https://www.visitlaramie.org/listing/murdochs-ranch-%26-home-supply/370/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-112255_E51FED97-BC11-B9D8-4E69C72C0D68BC7A_e539b339-9902-34d6-6b9eaf80d34e04f4.png\nCategories: Community
+GEO:41.307561;-105.553169
+LOCATION:Murdoch's Ranch & Home Supply
+SUMMARY:LAWS Famous Cookout
+UID:38376@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laws-famous-cookout/38376/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Free Drive in Movie Night: Encanto\nMore info: https://www.visitlaramie.org/event/free-drive-in-movie-night%3a-encanto/34936/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-110804_E4E8D34F-C62C-9702-B2C60E120BECE2A7_e50814bb-d5ce-a1c6-3efff79757241a61.png\nCategories: Community\, Family Fun
+GEO:41.307440;-105.548994
+LOCATION:Laramie Range Ford
+SUMMARY:Free Drive in Movie Night: Encanto
+UID:34936@visitlaramie.org
+URL:https://www.visitlaramie.org/event/free-drive-in-movie-night%3a-encanto/34936/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Open Mic Comedy Night\nMore info: https://www.visitlaramie.org/event/open-mic-comedy-night/38161/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-103039_E2F6B1CD-A801-3CB1-7F7BB319B325BACD_e301ff0d-c8d1-3117-7a03e039e5f1c495.png\nCategories: Performing Arts & Culture
+GEO:41.312280;-105.595636
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Open Mic Comedy Night
+UID:38161@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-mic-comedy-night/38161/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 DESCRIPTION:Mountain West Halloween Carnival\nMore info: https://www.visitlaramie.org/event/mountain-west-halloween-carnival/38369/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Halloween-Party-11-1-_157DAB9A-AB61-7DB7-64A3088712E24BA4_1594d034-e700-8fd3-395d710004c61579.png\nCategories: Family Fun
 GEO:41.304317;-105.545291
@@ -55,6 +91,14 @@ UID:38231@visitlaramie.org
 URL:https://www.visitlaramie.org/event/high-school-art-intensive/38231/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Jaden Schumacher & Emily Raff @ The Cowboy\nMore info: https://www.visitlaramie.org/event/jaden-schumacher-%26-emily-raff-%40-the-cowboy/38374/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-105643_E3EFE68C-B76C-1B10-42CD6A426CD08BF7_e3f5fc74-96cf-847e-7372c500f32d3db0.png\nCategories: Concerts & Live Music\, Social Events
+GEO:41.312609;-105.595118
+SUMMARY:Jaden Schumacher & Emily Raff @ The Cowboy
+UID:38374@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jaden-schumacher-%26-emily-raff-%40-the-cowboy/38374/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251025
 DESCRIPTION:The Haunted Basement - Radiation\nMore info: https://www.visitlaramie.org/event/the-haunted-basement-radiation/38257/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-120831_3F2D21D6-D4D3-30B2-AF6ECF377C9C7CAE_3f35f352-91d6-6313-486d33dace7b7bc7.png\nCategories: Community\, Family Fun
 GEO:41.311404;-105.595232
@@ -99,13 +143,22 @@ UID:38068@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DESCRIPTION:Live in Laramie\nMore info: https://www.visitlaramie.org/event/live-in-laramie/38353/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LIL---ACJC---November_4AC85B58-A1C2-DC7E-9BA00E0436133283_4ad29e79-9afe-1461-7f2eb72c21ce9727.png\nCategories: Concerts & Live Music
-GEO:41.311389;-105.595899
-LOCATION:Elks Lodge\, North Lounge\, 103 S 2nd Street
-SUMMARY:Live in Laramie
-UID:38353@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-in-laramie/38353/
+DTSTART;VALUE=DATE:20251108
+DESCRIPTION:Laramie Railroad Depot Open House\nMore info: https://www.visitlaramie.org/event/laramie-railroad-depot-open-house/36744/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/53/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-13-140912_E2AE9575-C6B9-011E-C69F036ED5A4646D_e2b4ae9a-ffc3-328b-a35f6d94e8104b74.png\nCategories: History\, Community\, Education\, Family Fun\, Social Events
+GEO:41.308353;-105.596400
+LOCATION:Historic Laramie Union Pacific Train Depot
+SUMMARY:Laramie Railroad Depot Open House
+UID:36744@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-railroad-depot-open-house/36744/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Pumpkin Carving Night\nMore info: https://www.visitlaramie.org/event/pumpkin-carving-night/32784/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-132227_E91E883C-9503-4666-04F2914EA588A199_e929c15f-c3ca-8a6e-f481b9c55ddce7ea.png\nCategories: Community\, Family Fun\, Social Events
+GEO:41.309652;-105.594751
+LOCATION:Bond's Brewing Company
+SUMMARY:Pumpkin Carving Night
+UID:32784@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pumpkin-carving-night/32784/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
@@ -117,6 +170,15 @@ UID:38327@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies-losing-the-dark-%2b-mercury-at-greatest-elongation/38327/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:Live in Laramie\nMore info: https://www.visitlaramie.org/event/live-in-laramie/38353/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LIL---ACJC---November_4AC85B58-A1C2-DC7E-9BA00E0436133283_4ad29e79-9afe-1461-7f2eb72c21ce9727.png\nCategories: Concerts & Live Music
+GEO:41.311389;-105.595899
+LOCATION:Elks Lodge\, North Lounge\, 103 S 2nd Street
+SUMMARY:Live in Laramie
+UID:38353@visitlaramie.org
+URL:https://www.visitlaramie.org/event/live-in-laramie/38353/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 DESCRIPTION:Live in Laramie\nMore info: https://www.visitlaramie.org/event/live-in-laramie/37649/\nVenue: Chalk n' Cheese\nVenue Info: https://www.visitlaramie.org/listing/chalk-n-cheese/601/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-123534_AE9398F2-EF55-59CA-E8229190F312CD1D_af05fc3a-f7a0-43f0-3e66923980c317eb.png\nCategories: Concerts & Live Music\, Community
 GEO:41.311591;-105.594568
@@ -124,6 +186,15 @@ LOCATION:Chalk n' Cheese
 SUMMARY:Live in Laramie
 UID:37649@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-in-laramie/37649/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:David Romtvedt Poetry Reading@ SOK Gallery\nMore info: https://www.visitlaramie.org/event/david-romtvedt-poetry-reading%40-sok-gallery/38379/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-124643_E88B0D3D-E15C-7CD9-EFC1313736A712E2_e8e424a5-c497-49cb-f5ab61dda89ba652.png\nCategories: Community
+GEO:41.304518;-105.595634
+LOCATION:SOK Gallery
+SUMMARY:David Romtvedt Poetry Reading@ SOK Gallery
+UID:38379@visitlaramie.org
+URL:https://www.visitlaramie.org/event/david-romtvedt-poetry-reading%40-sok-gallery/38379/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
@@ -215,6 +286,15 @@ UID:38351@visitlaramie.org
 URL:https://www.visitlaramie.org/event/how-to-talk-to-anyone-about-anything-(and-why-you-should-do-it!)-presentation-by-dr-simon-cullen/38351/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:ZP Open House\nMore info: https://www.visitlaramie.org/event/zp-open-house/38377/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-114645_E5B05517-E669-D717-BE66AF4ECC33937F_e5c1206b-0a63-e5ff-8189707c31a37ed4.png\nCategories: Community\, University of Wyoming\, Education
+GEO:41.312942;-105.583692
+LOCATION:University of Wyoming
+SUMMARY:ZP Open House
+UID:38377@visitlaramie.org
+URL:https://www.visitlaramie.org/event/zp-open-house/38377/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
 GEO:41.312265;-105.595644
@@ -233,21 +313,30 @@ UID:38344@visitlaramie.org
 URL:https://www.visitlaramie.org/event/spooktacular-paint-party/38344/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:WyoTech Trunk or Treat\nMore info: https://www.visitlaramie.org/event/wyotech-trunk-or-treat/38370/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Community-Flyer_2457AC41-05DC-DACF-0879B1E426B7CD1C_2463970c-a827-5875-37f696ec85589b15.png\nCategories: Annual Events & Festivals
+GEO:41.311367;-105.591101
+LOCATION:WyoTech Auto Shop
+SUMMARY:WyoTech Trunk or Treat
+UID:38370@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyotech-trunk-or-treat/38370/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251015
+DESCRIPTION:Open Mic Poetry\nMore info: https://www.visitlaramie.org/event/open-mic-poetry/38019/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-103039_E9842151-C02D-DF8B-6E432FEF52704844_e9857913-e491-5a9e-1ef97316f18cd488.png\nCategories: Community\, Performing Arts & Culture\, Social Events
+GEO:41.312265;-105.595644
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Open Mic Poetry
+UID:38019@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-mic-poetry/38019/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251108
 DESCRIPTION:Steve Frame Live\nMore info: https://www.visitlaramie.org/event/steve-frame-live/38279/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-121724_A7F1F538-0FAF-448D-6771420882D8E15F_a80341ed-c5b8-e5ad-4ee61eb31968f605.png\nCategories: Concerts & Live Music
 GEO:41.312129;-105.591254
 SUMMARY:Steve Frame Live
 UID:38279@visitlaramie.org
 URL:https://www.visitlaramie.org/event/steve-frame-live/38279/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Jaden Schumacher w/ Emily Raff\nMore info: https://www.visitlaramie.org/event/jaden-schumacher-w-emily-raff/38363/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_1084_76C7DB00-DA9C-4FD0-AA788FE599D909C6_d0b15d68-b34d-4855-8784696775cf1b0c.jpg\nCategories: Concerts & Live Music
-GEO:41.312609;-105.595118
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Jaden Schumacher w/ Emily Raff
-UID:38363@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jaden-schumacher-w-emily-raff/38363/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
@@ -295,6 +384,15 @@ UID:38331@visitlaramie.org
 URL:https://www.visitlaramie.org/event/trap-release-workshop/38331/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251025
+DESCRIPTION:Scaramie Portrait Day & Food Drive\nMore info: https://www.visitlaramie.org/event/scaramie-portrait-day-%26-food-drive/38375/\nVenue: Ludwig Photography Studio\nVenue Info: https://www.visitlaramie.org/listing/ludwig-photography-studio/228/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-110010_E414849A-C772-55D7-5F4AB15EC05E676A_e42511ca-ef57-39ff-271ecd392dd03441.png\nCategories: Community\, Family Fun
+GEO:41.311807;-105.593779
+LOCATION:Ludwig Photography Studio
+SUMMARY:Scaramie Portrait Day & Food Drive
+UID:38375@visitlaramie.org
+URL:https://www.visitlaramie.org/event/scaramie-portrait-day-%26-food-drive/38375/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
 DESCRIPTION:Charity Bingo Night @ Bond's Brewing\nMore info: https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-120402_A5E8CAF1-F437-DEBA-F5AAD0712FB27AA8_a5e9acc5-eb03-f513-a76b7c0e534d06b3.png\nCategories: Community
 GEO:41.309643;-105.594735
@@ -330,6 +428,14 @@ UID:38368@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wreaths-across-america-fundraising-breakfast/38368/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:David Romtvedt Poetry Reading@ SOK Gallery\nMore info: https://www.visitlaramie.org/event/david-romtvedt-poetry-reading%40-sok-gallery/38380/\nCategories: Community
+LOCATION:SOK Gallery
+SUMMARY:David Romtvedt Poetry Reading@ SOK Gallery
+UID:38380@visitlaramie.org
+URL:https://www.visitlaramie.org/event/david-romtvedt-poetry-reading%40-sok-gallery/38380/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251018
 DESCRIPTION:BooFest on the Big Screen\nMore info: https://www.visitlaramie.org/event/boofest-on-the-big-screen/38354/\nVenue: Studio City UW\nVenue Info: https://www.visitlaramie.org/listing/studio-city-uw/394/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BooFest-2025-Cover-Photo_825E2ED8-BADA-0498-9686C2D1229AF127_826099f9-d86a-44ff-74232e308765c7d0.png\nCategories: Annual Events & Festivals
 GEO:41.309950;-105.560391
@@ -339,13 +445,12 @@ UID:38354@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boofest-on-the-big-screen/38354/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:Wyoming Skies: Losing the Dark + Orionid Meteors\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-losing-the-dark-%2b-orionid-meteors/30980/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/New-Planetarium-4_C7A24CA1-5056-A36F-23689CDFCFFAC9C7_c7a9aa46-5056-a36f-23a7d751b5d7082b.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies: Losing the Dark + Orionid Meteors
-UID:30980@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies%3a-losing-the-dark-%2b-orionid-meteors/30980/
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:The Coveralls Live @ The Cowboy\nMore info: https://www.visitlaramie.org/event/the-coveralls-live-%40-the-cowboy/38373/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-104130_E36C5F0B-AA6B-A055-0DA274BDB3436624_e3dd7b5f-e036-d892-e5b553c7da568347.png\nCategories: Concerts & Live Music\, Social Events
+GEO:41.312609;-105.595118
+SUMMARY:The Coveralls Live @ The Cowboy
+UID:38373@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-coveralls-live-%40-the-cowboy/38373/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
@@ -429,6 +534,24 @@ UID:38261@visitlaramie.org
 URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:Live in Laramie-Afro Carribean Jazz Collective\nMore info: https://www.visitlaramie.org/event/live-in-laramie-afro-carribean-jazz-collective/38378/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-115156_E611FA58-B05F-8682-171008F5C1AF3A36_e619cc8e-c584-7a5a-b141381a5237e2be.png\nCategories: Concerts & Live Music
+GEO:41.312770;-105.594361
+LOCATION:Elks Club - North Lounge
+SUMMARY:Live in Laramie-Afro Carribean Jazz Collective
+UID:38378@visitlaramie.org
+URL:https://www.visitlaramie.org/event/live-in-laramie-afro-carribean-jazz-collective/38378/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251101
+DESCRIPTION:A Heartwarming & Interactive Book Walk for the Entire Family\nMore info: https://www.visitlaramie.org/event/a-heartwarming-%26-interactive-book-walk-for-the-entire-family/38371/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Back-cover-2-1-_AE466F77-926A-95AE-DE9D627663D47421_ae848d00-f1a4-67fd-f44b4c72a1ef312c.png\nCategories: Family Fun
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:A Heartwarming & Interactive Book Walk for the Entire Family
+UID:38371@visitlaramie.org
+URL:https://www.visitlaramie.org/event/a-heartwarming-%26-interactive-book-walk-for-the-entire-family/38371/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 DESCRIPTION:Halloween Party - Ozzie Osborne Themed\nMore info: https://www.visitlaramie.org/event/halloween-party-ozzie-osborne-themed/36755/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-03-110915_A585744C-EA24-3A32-6F2F17A90AF76DD1_a58e11f1-04a6-d098-34af8e73cb571cd9.png\nCategories: Annual Events & Festivals\, Social Events
 GEO:41.324869;-105.593743
@@ -448,7 +571,7 @@ URL:https://www.visitlaramie.org/event/double-feature%3a-double-feature%3a-alway
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
-DESCRIPTION:Relative Theatrics Presents: Straight White Men by Young Jean Lee\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents%3a-straight-white-men-by-young-jean-lee/38357/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-08-145056_B79FFC03-F0FC-455F-1D192D1F3B787E1F_b7a54f2f-fd3e-091b-3c8831aeda0f9d5c.png\nCategories: Community\, Performing Arts & Culture
+DESCRIPTION:Relative Theatrics Presents: Straight White Men by Young Jean Lee\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents%3a-straight-white-men-by-young-jean-lee/38357/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-13-100216_E679A0C2-EBB1-1F9F-A67D1912BCAAE5E3_e67cb301-b373-739d-5a71e76077255c37.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
 SUMMARY:Relative Theatrics Presents: Straight White Men by Young Jean Lee
 UID:38357@visitlaramie.org
