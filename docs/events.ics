@@ -411,15 +411,6 @@ UID:37382@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-audubon-annual-spooky-scavenger-hunt/37382/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:Willi Carlisle Winged Victory Tour\nMore info: https://www.visitlaramie.org/event/willi-carlisle-winged-victory-tour/38245/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-21-125056_0BA46E4E-BBD5-9CB9-1B2789DDEE9B9BF6_0ba673ef-dcf5-eb31-180de107a9b163af.png\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Willi Carlisle Winged Victory Tour
-UID:38245@visitlaramie.org
-URL:https://www.visitlaramie.org/event/willi-carlisle-winged-victory-tour/38245/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251025
 DESCRIPTION:The Haunted Basement - Radiation\nMore info: https://www.visitlaramie.org/event/the-haunted-basement-radiation/38257/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-120831_3F2D21D6-D4D3-30B2-AF6ECF377C9C7CAE_3f35f352-91d6-6313-486d33dace7b7bc7.png\nCategories: Community\, Family Fun
 GEO:41.311404;-105.595232
@@ -591,15 +582,6 @@ UID:38401@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-rosana-lamose-guest-vocal-recital/38401/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:Acoustic Nights with Chad Bishop\nMore info: https://www.visitlaramie.org/event/acoustic-nights-with-chad-bishop/38362/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_1167_126FCEDE-CC41-49B4-8B70A5D45F024573_ffbf51ab-987b-48be-ba752d6834e39a15.jpg\nCategories: Concerts & Live Music
-GEO:41.312609;-105.595118
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Acoustic Nights with Chad Bishop
-UID:38362@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acoustic-nights-with-chad-bishop/38362/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
 DESCRIPTION:Jaden Schumacher & Emily Raff @ The Cowboy\nMore info: https://www.visitlaramie.org/event/jaden-schumacher-%26-emily-raff-%40-the-cowboy/38374/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-105643_E3EFE68C-B76C-1B10-42CD6A426CD08BF7_e3f5fc74-96cf-847e-7372c500f32d3db0.png\nCategories: Concerts & Live Music\, Social Events
 GEO:41.312609;-105.595118
@@ -689,15 +671,6 @@ UID:38340@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonsai-%26-blue-bazaar/38340/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251017
-DESCRIPTION:UW Chamber Orchestra Presents: A Choral Premiere\nMore info: https://www.visitlaramie.org/event/uw-chamber-orchestra-presents%3a-a-choral-premiere/38314/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-112648_4207911D-C459-7932-E205D9D673E24887_42084388-e7df-0614-f49943c0819432cb.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun
-GEO:41.314718;-105.569029
-LOCATION:Buchanan Center Concert Hall
-SUMMARY:UW Chamber Orchestra Presents: A Choral Premiere
-UID:38314@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-chamber-orchestra-presents%3a-a-choral-premiere/38314/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
 DESCRIPTION:Flickerlight Tours at Ivinson Mansion\nMore info: https://www.visitlaramie.org/event/flickerlight-tours-at-ivinson-mansion/37545/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-16-100608_491FF565-E22B-AB87-EBC9FB187AEEFD6C_49211cbf-9905-62af-a13c8d3bad5b5b8e.png\nCategories: History\, Family Fun
 GEO:41.312068;-105.589055
@@ -705,6 +678,15 @@ LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
 SUMMARY:Flickerlight Tours at Ivinson Mansion
 UID:37545@visitlaramie.org
 URL:https://www.visitlaramie.org/event/flickerlight-tours-at-ivinson-mansion/37545/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251117
+DESCRIPTION:Music Student Recital: Renato Silva Graduate Recital\nMore info: https://www.visitlaramie.org/event/music-student-recital%3a-renato-silva-graduate-recital/38410/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.313968;-105.584517
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:Music Student Recital: Renato Silva Graduate Recital
+UID:38410@visitlaramie.org
+URL:https://www.visitlaramie.org/event/music-student-recital%3a-renato-silva-graduate-recital/38410/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251101
