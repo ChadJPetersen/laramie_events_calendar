@@ -64,15 +64,6 @@ UID:38427@visitlaramie.org
 URL:https://www.visitlaramie.org/event/science-on-tap/38427/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251025
-DESCRIPTION:Scaramie Trick or Treat in Downtown Laramie\nMore info: https://www.visitlaramie.org/event/scaramie-trick-or-treat-in-downtown-laramie/38388/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-16-094831_49252299-B4A0-4A36-F428750A02A74248_4927319b-958d-b5bc-320edce271b4803e.png\nCategories: Community\, Family Fun
-GEO:41.311367;-105.591101
-LOCATION:Downtown Laramie Businesses
-SUMMARY:Scaramie Trick or Treat in Downtown Laramie
-UID:38388@visitlaramie.org
-URL:https://www.visitlaramie.org/event/scaramie-trick-or-treat-in-downtown-laramie/38388/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
 DESCRIPTION:Special Sneak Peek Extended Trailer of new Wyoming PBS Documentary on Vietnam Veteran Lt. Lee Alley at the Governor's Business Forum\nMore info: https://www.visitlaramie.org/event/special-sneak-peek-extended-trailer-of-new-wyoming-pbs-documentary-on-vietnam-veteran-lt-lee-alley-at-the-governors-business-forum/38439/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/HomeVietnam_emailinvite_General_B88264A7-FB40-ABB4-3EAF4217C3447E88_b8c230be-e625-b6b9-3b819874e967d6a8.png\nCategories: History\, Community\, University of Wyoming\, Performing Arts & Culture
 GEO:41.310305;-105.564114
@@ -261,15 +252,6 @@ UID:30919@visitlaramie.org
 URL:https://www.visitlaramie.org/event/astrobiology/30919/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251025
-DESCRIPTION:UW Cowboy Football vs. Colorado State University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-colorado-state-university/36265/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events2_E00E70B0-5056-A36F-234F54185E1605D9_e028488d-5056-a36f-23d94cd13667078a.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.311627;-105.564677
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football vs. Colorado State University
-UID:36265@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-colorado-state-university/36265/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251108
 DESCRIPTION:Laramie Railroad Depot Open House\nMore info: https://www.visitlaramie.org/event/laramie-railroad-depot-open-house/36744/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/53/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-13-140912_E2AE9575-C6B9-011E-C69F036ED5A4646D_e2b4ae9a-ffc3-328b-a35f6d94e8104b74.png\nCategories: History\, Community\, Education\, Family Fun\, Social Events
 GEO:41.308353;-105.596400
@@ -377,15 +359,6 @@ URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-romeo-%26-juliet/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251025
-DESCRIPTION:Scaramie Portrait Day & Food Drive\nMore info: https://www.visitlaramie.org/event/scaramie-portrait-day-%26-food-drive/38375/\nVenue: Ludwig Photography Studio\nVenue Info: https://www.visitlaramie.org/listing/ludwig-photography-studio/228/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-152558_8A1CB64C-BB6E-E5E9-7716F085ABF6640E_8a1d11f6-a671-2264-a2ce64ee822d1397.png\nCategories: Community\, Family Fun
-GEO:41.311807;-105.593779
-LOCATION:Ludwig Photography Studio
-SUMMARY:Scaramie Portrait Day & Food Drive
-UID:38375@visitlaramie.org
-URL:https://www.visitlaramie.org/event/scaramie-portrait-day-%26-food-drive/38375/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251025
 DESCRIPTION:Desert Dreamscape\nMore info: https://www.visitlaramie.org/event/desert-dreamscape/38433/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-100113_7E975C10-B993-1886-6FA15E3A77D89268_7e9a231d-f14e-494e-baba53b07bc89576.png\nCategories: History\, University of Wyoming\, Education
 GEO:41.314165;-105.568122
 LOCATION:University of Wyoming Art Museum
@@ -464,15 +437,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Europe to the Stars
 UID:35123@visitlaramie.org
 URL:https://www.visitlaramie.org/event/europe-to-the-stars/35123/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251025
-DESCRIPTION:The Haunted Basement - Radiation\nMore info: https://www.visitlaramie.org/event/the-haunted-basement-radiation/38257/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-120831_3F2D21D6-D4D3-30B2-AF6ECF377C9C7CAE_3f35f352-91d6-6313-486d33dace7b7bc7.png\nCategories: Community\, Family Fun
-GEO:41.311404;-105.595232
-LOCATION:La Morenita Tiendita
-SUMMARY:The Haunted Basement - Radiation
-UID:38257@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-haunted-basement-radiation/38257/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
@@ -787,15 +751,6 @@ LOCATION:Laramie Plains Civic Center South Gym
 SUMMARY:Bonsai & Blue Bazaar
 UID:38340@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonsai-%26-blue-bazaar/38340/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Flickerlight Tours at Ivinson Mansion\nMore info: https://www.visitlaramie.org/event/flickerlight-tours-at-ivinson-mansion/37545/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-16-100608_491FF565-E22B-AB87-EBC9FB187AEEFD6C_49211cbf-9905-62af-a13c8d3bad5b5b8e.png\nCategories: Annual Events & Festivals\, History\, Community
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Flickerlight Tours at Ivinson Mansion
-UID:37545@visitlaramie.org
-URL:https://www.visitlaramie.org/event/flickerlight-tours-at-ivinson-mansion/37545/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
