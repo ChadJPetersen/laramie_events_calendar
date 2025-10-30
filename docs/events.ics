@@ -91,6 +91,15 @@ UID:38439@visitlaramie.org
 URL:https://www.visitlaramie.org/event/special-sneak-peek-extended-trailer-of-new-wyoming-pbs-documentary-on-vietnam-veteran-lt-lee-alley-at-the-governors-business-forum/38439/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251108
+DESCRIPTION:Drop-in Ornament Painting with Tara Pappas\nMore info: https://www.visitlaramie.org/event/drop-in-ornament-painting-with-tara-pappas/38458/\nVenue: Chalk n' Cheese\nVenue Info: https://www.visitlaramie.org/listing/chalk-n-cheese/637/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-29-101643_E79D0809-D0E6-AA4E-CCBCD178385A9D70_e7a6d867-0abe-e531-1c12dc37652c2be2.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311591;-105.594568
+LOCATION:Chalk n' Cheese
+SUMMARY:Drop-in Ornament Painting with Tara Pappas
+UID:38458@visitlaramie.org
+URL:https://www.visitlaramie.org/event/drop-in-ornament-painting-with-tara-pappas/38458/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250916
 DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
 GEO:41.310342;-105.587834
@@ -107,15 +116,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Folk
 UID:31052@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-folk/31052/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250129
-DESCRIPTION:Open Mic Poetry at Night Heron\nMore info: https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_B44D0E83-B9AA-3C22-3A6F24A34AFF6E29_b45ac5d3-0764-a251-3cb16bbc44a143d5.png\nCategories: Community\, Social Events
-GEO:41.312265;-105.595644
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Open Mic Poetry at Night Heron
-UID:34904@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-mic-poetry-at-night-heron/34904/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251104
@@ -771,6 +771,15 @@ UID:26459@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-nevada/26459/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Ghost Tours\nMore info: https://www.visitlaramie.org/event/ghost-tours/38456/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Untitled_Artwork-8-_B8F6A9CD-01E7-F0D1-705DB667715152EF_b8fc4cb4-bca5-6bc9-691d9c12fc495ce8.jpg\nCategories: History
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Ghost Tours
+UID:38456@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ghost-tours/38456/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -796,15 +805,6 @@ LOCATION:Laramie Plains Civic Center South Gym
 SUMMARY:Bonsai & Blue Bazaar
 UID:38340@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonsai-%26-blue-bazaar/38340/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-DESCRIPTION:Sound + Silence: A Restorative Yoga & Sound Bath Experience\nMore info: https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38268/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-130558_A8B32BFD-E2BF-D468-BB71F122DEB5A8F6_a8c93c5b-9e49-33c5-df1bf3e459115d73.png\nCategories: Community
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Sound + Silence: A Restorative Yoga & Sound Bath Experience
-UID:38268@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38268/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251117
@@ -841,15 +841,6 @@ LOCATION:Laramie Plains Civic Center South Gym
 SUMMARY:Fall Bazaar
 UID:38422@visitlaramie.org
 URL:https://www.visitlaramie.org/event/fall-bazaar/38422/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-DESCRIPTION:Halloween Fundraising Photo-Op\nMore info: https://www.visitlaramie.org/event/halloween-fundraising-photo-op/38383/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_1717_BD07BEE6-0E5A-4156-9646621731A69AF8_57e77973-338d-4e06-9c35418510a25770.jpg\nCategories: Community
-GEO:41.312609;-105.595118
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Halloween Fundraising Photo-Op
-UID:38383@visitlaramie.org
-URL:https://www.visitlaramie.org/event/halloween-fundraising-photo-op/38383/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
