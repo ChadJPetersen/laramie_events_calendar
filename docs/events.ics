@@ -11,6 +11,15 @@ UID:30892@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pluto-and-the-kuiper-belt/30892/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Costume & Carving Contest\nMore info: https://www.visitlaramie.org/event/costume-%26-carving-contest/38460/\nVenue: Bud's Bar\nVenue Info: https://www.visitlaramie.org/listing/buds-bar/147/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-30-113841_1DEC0424-043D-D7DE-23C36B954D306888_1df20514-db95-6d6d-4afe5978baab75f0.png\nCategories: Community
+GEO:41.313111;-105.599668
+LOCATION:Bud's Bar
+SUMMARY:Costume & Carving Contest
+UID:38460@visitlaramie.org
+URL:https://www.visitlaramie.org/event/costume-%26-carving-contest/38460/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251024
 DESCRIPTION:Katie Hargrave & Meredith Laura Lynn\nMore info: https://www.visitlaramie.org/event/katie-hargrave-%26-meredith-laura-lynn/38434/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-101041_7ED001B5-F620-AF68-2A306B7AF4B40CE5_7ed11d13-ac32-0917-57a9f9e281b2bd25.png\nCategories: History\, University of Wyoming\, Education
 GEO:41.314165;-105.568122
@@ -214,6 +223,15 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:45th Annual Holiday Bazaar
 UID:38450@visitlaramie.org
 URL:https://www.visitlaramie.org/event/45th-annual-holiday-bazaar/38450/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251130
+DESCRIPTION:Artist Market @ LPCC\nMore info: https://www.visitlaramie.org/event/artist-market-%40-lpcc/38424/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-154514_8AE47295-B490-6379-9CAB864EDD73EFE6_8ae73372-e353-b72a-1c3ff47cd821d6a3.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center -South Gymnasium
+SUMMARY:Artist Market @ LPCC
+UID:38424@visitlaramie.org
+URL:https://www.visitlaramie.org/event/artist-market-%40-lpcc/38424/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
@@ -421,24 +439,6 @@ UID:38452@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-chocolate-cellar-holiday-open-house/38452/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-DESCRIPTION:Bat Film Screening\nMore info: https://www.visitlaramie.org/event/bat-film-screening/38426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/568027786_1412448910885406_323832161512376871_n_4BB2B640-DEC0-C549-B78E72C439984F15_4bf3bc95-be8d-9444-4e4e70dcead5b3a7.jpg\nCategories: Community\, University of Wyoming\, Education
-GEO:41.315183;-105.583887
-LOCATION:Berry Biodiversity Conservation Center
-SUMMARY:Bat Film Screening
-UID:38426@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bat-film-screening/38426/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-DESCRIPTION:Global Goosebumps\nMore info: https://www.visitlaramie.org/event/global-goosebumps/38387/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Global-Goosebumps-2025_1E675479-D378-F8E9-2E10D0EC10E1B4DB_1e8b23ba-a49f-9245-20c9a16dddf52bd4.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum and American Heritage Center
-SUMMARY:Global Goosebumps
-UID:38387@visitlaramie.org
-URL:https://www.visitlaramie.org/event/global-goosebumps/38387/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251102
 DESCRIPTION:Toddler Halloween Rave\nMore info: https://www.visitlaramie.org/event/toddler-halloween-rave/38445/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-27-123007_85D921A3-E13D-B1B0-A8B48994F03105A9_869d7dd5-e486-bd40-0fb9fefe26133704.png\nCategories: Community\, Family Fun
 GEO:41.312877;-105.595095
@@ -538,6 +538,15 @@ UID:38384@visitlaramie.org
 URL:https://www.visitlaramie.org/event/rhett-haney-live-at-the-cowboy-saloon/38384/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251031
+DESCRIPTION:Community Halloween Dinner & Carnival\nMore info: https://www.visitlaramie.org/event/community-halloween-dinner-%26-carnival/38461/\nVenue: Cavalryman Steakhouse\nVenue Info: https://www.visitlaramie.org/listing/cavalryman-steakhouse/600/\nCategories: Community\, Social Events
+GEO:41.269715;-105.593100
+LOCATION:Cavalryman Steakhouse
+SUMMARY:Community Halloween Dinner & Carnival
+UID:38461@visitlaramie.org
+URL:https://www.visitlaramie.org/event/community-halloween-dinner-%26-carnival/38461/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
 DESCRIPTION:"Decay" Gallery Opening @ Cooper Center for Creative Arts\nMore info: https://www.visitlaramie.org/event/decay-gallery-opening-%40-cooper-center-for-creative-arts/38435/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-102108_7F50A4AD-C725-1721-8FF05AB5E0A86007_7f792768-ea13-6f02-cd00201eeb773cee.png\nCategories: Community\, Performing Arts & Culture\, Social Events
 GEO:41.322811;-105.591448
@@ -581,15 +590,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Wyoming Skies: Losing the Dark + Leonid Meteor Shower
 UID:37685@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies%3a-losing-the-dark-%2b-leonid-meteor-shower/37685/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-DESCRIPTION:Frankenstein in Film with UW Symphony\nMore info: https://www.visitlaramie.org/event/frankenstein-in-film-with-uw-symphony/38389/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-16-095902_48D1EB3F-9988-5AFF-31AC843B99BD62C2_48d67cff-b9c3-9349-51b0d38f54e42d58.png\nCategories: Concerts & Live Music\, Community
-GEO:41.313163;-105.581309
-LOCATION:A & S Auditorium
-SUMMARY:Frankenstein in Film with UW Symphony
-UID:38389@visitlaramie.org
-URL:https://www.visitlaramie.org/event/frankenstein-in-film-with-uw-symphony/38389/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
@@ -682,15 +682,6 @@ UID:38413@visitlaramie.org
 URL:https://www.visitlaramie.org/event/music-student-recital%3a-francine-cancians-master-piano-recital/38413/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095605_7E4E3F38-C748-8987-454AD7F3904038A5_7e62af7f-e765-3e11-cb7adb7c08abd00c.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Where the Heck is Yucca Fountain?
-UID:38432@visitlaramie.org
-URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251031
 DESCRIPTION:Stellar Graveyard\nMore info: https://www.visitlaramie.org/event/stellar-graveyard/36485/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_711BA66A-5056-A36F-230BD5DE3EC0FCF1_7120ee56-5056-a36f-2361a2c331042ab6.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
@@ -698,6 +689,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Stellar Graveyard
 UID:36485@visitlaramie.org
 URL:https://www.visitlaramie.org/event/stellar-graveyard/36485/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095605_7E4E3F38-C748-8987-454AD7F3904038A5_7e62af7f-e765-3e11-cb7adb7c08abd00c.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Where the Heck is Yucca Fountain?
+UID:38432@visitlaramie.org
+URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251115
