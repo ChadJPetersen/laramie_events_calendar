@@ -306,6 +306,15 @@ UID:38325@visitlaramie.org
 URL:https://www.visitlaramie.org/event/blue-violin%3a-candlelight-christmas-extravaganza/38325/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+DESCRIPTION:UW Choirs Presents: A Choral Holiday\nMore info: https://www.visitlaramie.org/event/uw-choirs-presents%3a-a-choral-holiday/38416/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.311991;-105.572082
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:UW Choirs Presents: A Choral Holiday
+UID:38416@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-choirs-presents%3a-a-choral-holiday/38416/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
 DESCRIPTION:"Decay" Gallery Opening @ Cooper Center for Creative Arts\nMore info: https://www.visitlaramie.org/event/decay-gallery-opening-%40-cooper-center-for-creative-arts/38435/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-102108_7F50A4AD-C725-1721-8FF05AB5E0A86007_7f792768-ea13-6f02-cd00201eeb773cee.png\nCategories: Community\, Performing Arts & Culture\, Social Events
 GEO:41.322811;-105.591448
@@ -411,6 +420,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:UW Symphony Presents: Romeo & Juliet
 UID:38414@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-romeo-%26-juliet/38414/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+DESCRIPTION:Clearing the Channel with Meghan Lucas (in-person or virtual)\nMore info: https://www.visitlaramie.org/event/clearing-the-channel-with-meghan-lucas-(in-person-or-virtual)/38440/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-23-141236_BB199936-BAEF-5526-FE84D4800FBD4DD1_bb2d88bc-ce53-ac46-c33b628896472f00.png\nCategories: Community\, Virtual\, Performing Arts & Culture
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Clearing the Channel with Meghan Lucas (in-person or virtual)
+UID:38440@visitlaramie.org
+URL:https://www.visitlaramie.org/event/clearing-the-channel-with-meghan-lucas-(in-person-or-virtual)/38440/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
@@ -608,6 +626,15 @@ LOCATION:Elks Club - North Lounge
 SUMMARY:Live in Laramie-Afro Carribean Jazz Collective
 UID:38378@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-in-laramie-afro-carribean-jazz-collective/38378/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251115
+DESCRIPTION:BASECAMP OPEN HOUSE\nMore info: https://www.visitlaramie.org/event/basecamp-open-house/38462/\nVenue: Laramie's Basecamp\nVenue Info: https://www.visitlaramie.org/listing/laramies-basecamp/384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/F25_Open-House_FLYER-1-1-_4E93F203-DA01-4B15-51D6D8763C6E633A_4e9682a6-f22d-1e57-662bea3887e6bdec.png\nCategories: Community\, Outdoor Recreation\, Social Events
+GEO:41.311263;-105.595108
+LOCATION:Laramie's Basecamp
+SUMMARY:BASECAMP OPEN HOUSE
+UID:38462@visitlaramie.org
+URL:https://www.visitlaramie.org/event/basecamp-open-house/38462/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251109
