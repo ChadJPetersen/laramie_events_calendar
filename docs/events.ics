@@ -182,6 +182,15 @@ UID:38430@visitlaramie.org
 URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251213
+DESCRIPTION:Christmas in Centennial\nMore info: https://www.visitlaramie.org/event/christmas-in-centennial/38372/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-101041_E23FF02C-0FF9-F829-D90155F5F4C9C092_e24214f9-e9e0-32ab-34b1227bdaca7bb0.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.299163;-106.142280
+LOCATION:Centennial Elementary School
+SUMMARY:Christmas in Centennial
+UID:38372@visitlaramie.org
+URL:https://www.visitlaramie.org/event/christmas-in-centennial/38372/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251122
 DESCRIPTION:UW Cowboy Football vs Nevada\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-nevada/26459/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-100953_3AD625A6-D58B-ECEA-207E6EB987301807_3ad6c1ca-d29a-b34a-7490f1698169ba1a.png\nCategories: Community\, University of Wyoming\, Sports
 LOCATION:War Memorial Stadium
@@ -208,13 +217,13 @@ UID:34886@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2025-holiday-bazaar/34886/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251112
-DESCRIPTION:Sip & Savor with Bernadette Horst\nMore info: https://www.visitlaramie.org/event/sip-%26-savor-with-bernadette-horst/38475/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-07-135103_C0C16D0D-B4D9-7FD8-72FFCEEA45163F76_c0c51590-eece-1ab1-dfac07729406650a.png\nCategories: History\, Social Events
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Sip & Savor with Bernadette Horst
-UID:38475@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sip-%26-savor-with-bernadette-horst/38475/
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251115
@@ -233,15 +242,6 @@ LOCATION:Laramie Community Recreation Center
 SUMMARY:Pilates for Everyone Specialty Class
 UID:38449@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pilates-for-everyone-specialty-class/38449/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
@@ -375,6 +375,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:Music Student Recital: Emilee Ewing Graduate Flute Recital
 UID:38407@visitlaramie.org
 URL:https://www.visitlaramie.org/event/music-student-recital%3a-emilee-ewing-graduate-flute-recital/38407/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251213
+DESCRIPTION:Dinner with Dickens\nMore info: https://www.visitlaramie.org/event/dinner-with-dickens/34896/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-101716_A9A547E5-DF2E-B045-BEEBF13C4F7FADF1_a9a97c72-faea-6068-9c7da698883c58f8.png\nCategories: Annual Events & Festivals\, Community\, Performing Arts & Culture\, Social Events
+GEO:41.326519;-105.592598
+LOCATION:The Eppson Center for Seniors
+SUMMARY:Dinner with Dickens
+UID:34896@visitlaramie.org
+URL:https://www.visitlaramie.org/event/dinner-with-dickens/34896/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
@@ -591,15 +600,6 @@ LOCATION:Historic Laramie Train Depot & Downtown
 SUMMARY:WyHoming for the Holidays Parade & Celebration
 UID:38429@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyhoming-for-the-holidays-parade-%26-celebration/38429/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251112
-DESCRIPTION:Sip & Savor with Bernadette Horst\nMore info: https://www.visitlaramie.org/event/sip-%26-savor-with-bernadette-horst/38474/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_63DF82F3-5056-A36F-2355DBC4A0BD736E_63fa2fd6-5056-a36f-23b5c1b289bfdaa8.png\nCategories: History\, Social Events
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Sip & Savor with Bernadette Horst
-UID:38474@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sip-%26-savor-with-bernadette-horst/38474/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
