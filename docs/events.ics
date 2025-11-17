@@ -11,15 +11,6 @@ UID:38434@visitlaramie.org
 URL:https://www.visitlaramie.org/event/katie-hargrave-%26-meredith-laura-lynn/38434/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251116
-DESCRIPTION:Music Student Recital: Carson Rabou Senior Recital\nMore info: https://www.visitlaramie.org/event/music-student-recital%3a-carson-rabou-senior-recital/38408/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.313968;-105.584517
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:Music Student Recital: Carson Rabou Senior Recital
-UID:38408@visitlaramie.org
-URL:https://www.visitlaramie.org/event/music-student-recital%3a-carson-rabou-senior-recital/38408/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 DESCRIPTION:Black Friday & Small Business Saturday BOGO Gift Card Event\nMore info: https://www.visitlaramie.org/event/black-friday-%26-small-business-saturday-bogo-gift-card-event/38453/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-28-104010_B4E396CE-CD6E-7644-FB6BFDCBDEA38660_b501d0d6-e901-067c-1416fce837c054d9.png\nCategories: Community
 GEO:41.311165;-105.593401
@@ -222,15 +213,6 @@ GEO:41.333170;-105.577957
 SUMMARY:Cloverton Christmas Concert
 UID:38468@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cloverton-christmas-concert/38468/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251116
-DESCRIPTION:Music Student Recital: Brent Church Graduate Recital\nMore info: https://www.visitlaramie.org/event/music-student-recital%3a-brent-church-graduate-recital/38409/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.313968;-105.584517
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:Music Student Recital: Brent Church Graduate Recital
-UID:38409@visitlaramie.org
-URL:https://www.visitlaramie.org/event/music-student-recital%3a-brent-church-graduate-recital/38409/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
