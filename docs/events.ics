@@ -119,15 +119,6 @@ UID:38418@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-gala-holiday-concert/38418/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251119
-DESCRIPTION:UW Music Presents: Wind Symphony\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-wind-symphony/38411/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.311991;-105.572082
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:UW Music Presents: Wind Symphony
-UID:38411@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-wind-symphony/38411/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 DESCRIPTION:Dome Club (Learn Immersive Dome Technology)\nMore info: https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_7C50F81E-0DA4-2243-40CFCB6F24A9DB6D_7c608e3a-e8e3-4032-1c1a5954716b25fe.png\nCategories: University of Wyoming\, Education
 GEO:41.312129;-105.579414
@@ -187,6 +178,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Folk
 UID:31052@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-folk/31052/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251220
+DESCRIPTION:Breathing Into Creativity with Tara Pappas & Sarah Stepans\nMore info: https://www.visitlaramie.org/event/breathing-into-creativity-with-tara-pappas-%26-sarah-stepans/38339/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-111148_AB98F172-BA3E-D279-2465466621C2A7CE_abd2c616-e61a-d6f0-712728825d1fad12.png\nCategories: Community\, Education
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Breathing Into Creativity with Tara Pappas & Sarah Stepans
+UID:38339@visitlaramie.org
+URL:https://www.visitlaramie.org/event/breathing-into-creativity-with-tara-pappas-%26-sarah-stepans/38339/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251122
@@ -465,15 +465,6 @@ LOCATION:UW Conference Center
 SUMMARY:UW Holiday Market 2025
 UID:38347@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251119
-DESCRIPTION:Laramie Audubon Presentation: Effects of Barn Owls on Small Mammals\nMore info: https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-effects-of-barn-owls-on-small-mammals/38483/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/image1_F7F29C97-04C8-B957-841CE674E0701171_f8080412-fdee-7a29-9e457ad715ffdc51.jpg\nCategories: Education
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church
-SUMMARY:Laramie Audubon Presentation: Effects of Barn Owls on Small Mammals
-UID:38483@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-effects-of-barn-owls-on-small-mammals/38483/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251130
