@@ -11,15 +11,6 @@ UID:38434@visitlaramie.org
 URL:https://www.visitlaramie.org/event/katie-hargrave-%26-meredith-laura-lynn/38434/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251120
-DESCRIPTION:Calico Boys\nMore info: https://www.visitlaramie.org/event/calico-boys/38486/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/-POSTER-1120-Calico-Boys_BDAF23E8-BCC7-16FE-4C15E2A1F1264B37_bdbf48ea-eabc-1173-dee8d2ea0facf448.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community
-GEO:41.312352;-105.579420
-LOCATION:Pokes Pub
-SUMMARY:Calico Boys
-UID:38486@visitlaramie.org
-URL:https://www.visitlaramie.org/event/calico-boys/38486/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 DESCRIPTION:Black Friday & Small Business Saturday BOGO Gift Card Event\nMore info: https://www.visitlaramie.org/event/black-friday-%26-small-business-saturday-bogo-gift-card-event/38453/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-28-104010_B4E396CE-CD6E-7644-FB6BFDCBDEA38660_b501d0d6-e901-067c-1416fce837c054d9.png\nCategories: Community
 GEO:41.311165;-105.593401
@@ -54,6 +45,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:Music Student Recital: Francine Cancian's Master Piano Recital
 UID:38413@visitlaramie.org
 URL:https://www.visitlaramie.org/event/music-student-recital%3a-francine-cancians-master-piano-recital/38413/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.305988;-105.569902
+LOCATION:Washington Park
+SUMMARY:Winter Lights Festival @ Washington Park
+UID:38498@visitlaramie.org
+URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
@@ -119,22 +119,13 @@ UID:38418@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-gala-holiday-concert/38418/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:Dome Club (Learn Immersive Dome Technology)\nMore info: https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_7C50F81E-0DA4-2243-40CFCB6F24A9DB6D_7c608e3a-e8e3-4032-1c1a5954716b25fe.png\nCategories: University of Wyoming\, Education
-GEO:41.312129;-105.579414
-LOCATION:Basement of Physical Sciences Building
-SUMMARY:Dome Club (Learn Immersive Dome Technology)
-UID:37252@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dome-club-(learn-immersive-dome-technology)/37252/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Thomas Moran Exhibition\nMore info: https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-112637_81898F53-0B54-5C26-EE7A0771476921E8_818a2d81-cca9-71da-54dad4635d53b8fb.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Thomas Moran Exhibition
-UID:38430@visitlaramie.org
-URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
+DTSTART;VALUE=DATE:20251206
+DESCRIPTION:Winter/Holiday Book Sale\nMore info: https://www.visitlaramie.org/event/winter-holiday-book-sale/38496/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-111311_58AF79E5-01EE-C104-607883D444EFE7EA_58b10b7b-c0c3-b8ec-e32385f8a458ec3c.png\nCategories: Community\, Family Fun
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Winter/Holiday Book Sale
+UID:38496@visitlaramie.org
+URL:https://www.visitlaramie.org/event/winter-holiday-book-sale/38496/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
@@ -144,6 +135,15 @@ LOCATION:Centennial Elementary School
 SUMMARY:Christmas in Centennial
 UID:38372@visitlaramie.org
 URL:https://www.visitlaramie.org/event/christmas-in-centennial/38372/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Thomas Moran Exhibition\nMore info: https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-112637_81898F53-0B54-5C26-EE7A0771476921E8_818a2d81-cca9-71da-54dad4635d53b8fb.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Thomas Moran Exhibition
+UID:38430@visitlaramie.org
+URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
@@ -260,15 +260,6 @@ UID:38487@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies-geminid-meteor-shower-and-the-winter-solstice/38487/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251120
-DESCRIPTION:International Trans Day of Remembrance\nMore info: https://www.visitlaramie.org/event/international-trans-day-of-remembrance/38480/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-Trans-Day-of-Remembrance_859C03C0-EF58-4BFE-4FB56152DB1B587A_85b038cc-da81-5d7d-253bd53c0a4936a7.png\nCategories: Community
-GEO:41.312078;-105.585940
-LOCATION:Canterbury House
-SUMMARY:International Trans Day of Remembrance
-UID:38480@visitlaramie.org
-URL:https://www.visitlaramie.org/event/international-trans-day-of-remembrance/38480/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
 DESCRIPTION:Pints & Pronunciation @ Bond's\nMore info: https://www.visitlaramie.org/event/pints-%26-pronunciation-%40-bonds/38454/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/287/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-28-105306_B54A4233-0BAE-39C9-DD7D7BFC259F7E7C_b55edce7-0307-3f8f-11413f75e53fd726.png\nCategories: Community\, Social Events
 GEO:41.309643;-105.594735
@@ -330,6 +321,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Holiday Hits
 UID:34961@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-holiday-hits/34961/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251206
+DESCRIPTION:Member Preview Friends of the Albany County Public Library Holiday Book Sale\nMore info: https://www.visitlaramie.org/event/member-preview-friends-of-the-albany-county-public-library-holiday-book-sale/38492/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/December-2025-book-sale-8.5-x-11-poster_F19BBEB6-97A8-8B2C-7838A0318ACC9A63_f1e4aed1-c58c-ce19-4cef7809ce080ed4.jpg\nCategories: Community\, Family Fun
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Member Preview Friends of the Albany County Public Library Holiday Book Sale
+UID:38492@visitlaramie.org
+URL:https://www.visitlaramie.org/event/member-preview-friends-of-the-albany-county-public-library-holiday-book-sale/38492/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
@@ -413,6 +413,15 @@ UID:38230@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-gold-zone-tailgate/38230/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DESCRIPTION:Winter Lights Festival - The Grand Opening 2025\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-the-grand-opening-2025/38497/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-111811_58F003D3-DC22-E3BD-01927D8F5C1611AD_5924b7ed-bbef-e132-145f2c2bb303649d.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.305988;-105.569902
+LOCATION:Washington Park
+SUMMARY:Winter Lights Festival - The Grand Opening 2025
+UID:38497@visitlaramie.org
+URL:https://www.visitlaramie.org/event/winter-lights-festival-the-grand-opening-2025/38497/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
 DESCRIPTION:Frozen Worlds\nMore info: https://www.visitlaramie.org/event/frozen-worlds/38490/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events4_A1802917-5056-A36F-2347A0E155E62F61_a19f7bd7-5056-a36f-23d22ebd22df216d.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
@@ -420,15 +429,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Frozen Worlds
 UID:38490@visitlaramie.org
 URL:https://www.visitlaramie.org/event/frozen-worlds/38490/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251219
-DESCRIPTION:Ticket Please! Polar Express Party\nMore info: https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-07-101748_B91ABFFF-C87D-7344-46F4C03FD1980CB5_b91edad3-d568-4779-681b4f0d971ced08.png\nCategories: Community\, Family Fun
-GEO:41.305337;-105.559431
-LOCATION:Whiting High School
-SUMMARY:Ticket Please! Polar Express Party
-UID:37617@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
@@ -465,6 +465,15 @@ LOCATION:UW Conference Center
 SUMMARY:UW Holiday Market 2025
 UID:38347@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251219
+DESCRIPTION:Ticket Please! Polar Express Party\nMore info: https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-07-101748_B91ABFFF-C87D-7344-46F4C03FD1980CB5_b91edad3-d568-4779-681b4f0d971ced08.png\nCategories: Community\, Family Fun
+GEO:41.305337;-105.559431
+LOCATION:Whiting High School
+SUMMARY:Ticket Please! Polar Express Party
+UID:37617@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251130
