@@ -155,22 +155,6 @@ UID:38489@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dawn-of-the-space-age-%26-always-above/38489/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251122
-DESCRIPTION:Ultimate Tailgate Party\nMore info: https://www.visitlaramie.org/event/ultimate-tailgate-party/38482/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-13-091911_EC28F7CE-BACF-261E-EA7C7B329FCA003B_ec5c30bf-02b3-86b8-cd28a8344d759f85.png\nCategories: Community\, University of Wyoming\, Sports\, Social Events
-GEO:41.309143;-105.564383
-SUMMARY:Ultimate Tailgate Party
-UID:38482@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ultimate-tailgate-party/38482/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251122
-DESCRIPTION:UW Cowboy Football vs Nevada\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-vs-nevada/26459/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-100953_3AD625A6-D58B-ECEA-207E6EB987301807_3ad6c1ca-d29a-b34a-7490f1698169ba1a.png\nCategories: Community\, University of Wyoming\, Sports
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football vs Nevada
-UID:26459@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-vs-nevada/26459/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251220
 DESCRIPTION:Breathing Into Creativity with Tara Pappas & Sarah Stepans\nMore info: https://www.visitlaramie.org/event/breathing-into-creativity-with-tara-pappas-%26-sarah-stepans/38339/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-111148_AB98F172-BA3E-D279-2465466621C2A7CE_abd2c616-e61a-d6f0-712728825d1fad12.png\nCategories: Community\, Education
 GEO:41.312877;-105.595095
@@ -178,15 +162,6 @@ LOCATION:The Collective
 SUMMARY:Breathing Into Creativity with Tara Pappas & Sarah Stepans
 UID:38339@visitlaramie.org
 URL:https://www.visitlaramie.org/event/breathing-into-creativity-with-tara-pappas-%26-sarah-stepans/38339/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251122
-DESCRIPTION:2025 Holiday Bazaar\nMore info: https://www.visitlaramie.org/event/2025-holiday-bazaar/34886/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-114803_ACE4B94B-E692-E6B7-9BC8BF0D94726129_acef413c-fa8c-0789-0eb3ae21a5c354ec.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:2025 Holiday Bazaar
-UID:34886@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2025-holiday-bazaar/34886/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -332,15 +307,6 @@ UID:34896@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dinner-with-dickens/34896/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251122
-DESCRIPTION:Community Cleanup\nMore info: https://www.visitlaramie.org/event/community-cleanup/38485/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-21-133103_911F06EF-B3F2-CB9C-D43520BBF86299AD_91267e9f-f91f-bcd7-ac4d1f4efb70816d.png\nCategories: Community
-GEO:41.309421;-105.627367
-LOCATION:Lincoln Community Center\, The Collective\, Civic Center South Gym
-SUMMARY:Community Cleanup
-UID:38485@visitlaramie.org
-URL:https://www.visitlaramie.org/event/community-cleanup/38485/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
 DESCRIPTION:Christmas Bazaar\nMore info: https://www.visitlaramie.org/event/christmas-bazaar/38335/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-22-135425_7E007510-BA91-9805-2A923F3BA259189A_7e235a5a-01f7-b9bc-a65debbbd2ff1603.png\nCategories: Community\, Family Fun
 GEO:41.307701;-105.593024
@@ -368,15 +334,6 @@ UID:38478@visitlaramie.org
 URL:https://www.visitlaramie.org/event/umw-christmas-bazaar/38478/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251121
-DESCRIPTION:Pirettes of Penzance\nMore info: https://www.visitlaramie.org/event/pirettes-of-penzance/38503/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-21-131700_90911811-AD21-E14F-40007AD0145A1C25_909e0323-c284-27b2-289c5f136d431ed0.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Family Fun\, Social Events
-GEO:41.300642;-105.551101
-LOCATION:Laramie High School Theatre
-SUMMARY:Pirettes of Penzance
-UID:38503@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pirettes-of-penzance/38503/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251207
 DESCRIPTION:UW Symphony Presents: Gala Holiday Concert\nMore info: https://www.visitlaramie.org/event/uw-symphony-presents%3a-gala-holiday-concert/38419/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
 GEO:41.311991;-105.572082
@@ -395,15 +352,6 @@ UID:38497@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-lights-festival-the-grand-opening-2025/38497/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251122
-DESCRIPTION:Wyoming Gold Zone Tailgate\nMore info: https://www.visitlaramie.org/event/wyoming-gold-zone-tailgate/38230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-15-120916_D5832AC9-9552-CFE9-F16E22758E3A68BD_d5abd9d7-04a6-639e-cc889f46bdf6343d.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.311367;-105.591101
-LOCATION:Downtown
-SUMMARY:Wyoming Gold Zone Tailgate
-UID:38230@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-gold-zone-tailgate/38230/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
 DESCRIPTION:Frozen Worlds\nMore info: https://www.visitlaramie.org/event/frozen-worlds/38490/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events4_A1802917-5056-A36F-2347A0E155E62F61_a19f7bd7-5056-a36f-23d22ebd22df216d.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
@@ -411,6 +359,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Frozen Worlds
 UID:38490@visitlaramie.org
 URL:https://www.visitlaramie.org/event/frozen-worlds/38490/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251219
+DESCRIPTION:Ticket Please! Polar Express Party\nMore info: https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-07-101748_B91ABFFF-C87D-7344-46F4C03FD1980CB5_b91edad3-d568-4779-681b4f0d971ced08.png\nCategories: Community\, Family Fun
+GEO:41.305337;-105.559431
+LOCATION:Whiting High School
+SUMMARY:Ticket Please! Polar Express Party
+UID:37617@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
@@ -447,15 +404,6 @@ LOCATION:UW Conference Center
 SUMMARY:UW Holiday Market 2025
 UID:38347@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251219
-DESCRIPTION:Ticket Please! Polar Express Party\nMore info: https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-07-101748_B91ABFFF-C87D-7344-46F4C03FD1980CB5_b91edad3-d568-4779-681b4f0d971ced08.png\nCategories: Community\, Family Fun
-GEO:41.305337;-105.559431
-LOCATION:Whiting High School
-SUMMARY:Ticket Please! Polar Express Party
-UID:37617@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251130
