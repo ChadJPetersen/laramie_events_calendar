@@ -415,15 +415,6 @@ UID:38424@visitlaramie.org
 URL:https://www.visitlaramie.org/event/artist-market-%40-lpcc/38424/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250831
-DESCRIPTION:Join the Gamelan Ensemble\nMore info: https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-140011_47863089-DB0C-BE67-01F8D189390D7E94_478713a8-fef5-c78e-b53a710bf07069e5.png\nCategories: Performing Arts & Culture
-GEO:41.313968;-105.584517
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:Join the Gamelan Ensemble
-UID:38261@visitlaramie.org
-URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 DESCRIPTION:Shop Laramie Small Business Weekend\nMore info: https://www.visitlaramie.org/event/shop-laramie-small-business-weekend/26082/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-112710_AC5A7BF4-FB33-C9E5-14C4F879D6E3CF93_acb2674a-0a20-d1d1-269a3110ff716cc5.png\nCategories: Community
 GEO:41.311389;-105.595899
@@ -431,6 +422,15 @@ LOCATION:Downtown Laramie
 SUMMARY:Shop Laramie Small Business Weekend
 UID:26082@visitlaramie.org
 URL:https://www.visitlaramie.org/event/shop-laramie-small-business-weekend/26082/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+DESCRIPTION:Join the Gamelan Ensemble\nMore info: https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-140011_47863089-DB0C-BE67-01F8D189390D7E94_478713a8-fef5-c78e-b53a710bf07069e5.png\nCategories: Performing Arts & Culture
+GEO:41.313968;-105.584517
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:Join the Gamelan Ensemble
+UID:38261@visitlaramie.org
+URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251205
