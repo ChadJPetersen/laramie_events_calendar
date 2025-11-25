@@ -316,6 +316,15 @@ UID:38335@visitlaramie.org
 URL:https://www.visitlaramie.org/event/christmas-bazaar/38335/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251214
+DESCRIPTION:Laramie Plains Museum Annual Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38510/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-24-140529_2CE010DA-F90E-6C64-3FA84AA15AFBAB74_2ce28a3d-096d-10ec-7bf96700c5a70aeb.png\nCategories: Annual Events & Festivals
+GEO:41.312068;-105.589055
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Laramie Plains Museum Annual Holiday Open House
+UID:38510@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38510/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 DESCRIPTION:Line Dance Shuffle Specialty Class\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-104850_80342D91-E28D-630C-6157B702AC2705B0_8041e973-b6bd-5909-eb2b3c53bde0d885.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
 GEO:41.304734;-105.549039
@@ -460,6 +469,15 @@ UID:38501@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-gabe-jackson-concert/38501/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251213
+DESCRIPTION:Laramie Plains Museum Annual Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38508/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-24-140529_2CCCA31B-D341-BD74-0281AB64D947BC34_2ccf7b06-98e7-a6a3-b43eaf4fea80ce98.png\nCategories: Annual Events & Festivals
+GEO:41.312068;-105.589055
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Laramie Plains Museum Annual Holiday Open House
+UID:38508@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38508/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251205
 DESCRIPTION:Aurorae: Dancing Lights\nMore info: https://www.visitlaramie.org/event/aurorae%3a-dancing-lights/38488/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events4_74698F91-5056-A36F-23AD1679961BBD1D_74723a95-5056-a36f-2306dc0fe75de9af.png\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.313709;-105.590644
@@ -478,12 +496,12 @@ UID:38429@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyhoming-for-the-holidays-parade-%26-celebration/38429/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251124
-DESCRIPTION:UW Jazz Presents: Wyoming Jazz Ensemble\nMore info: https://www.visitlaramie.org/event/uw-jazz-presents%3a-wyoming-jazz-ensemble/38415/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.311991;-105.572082
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:UW Jazz Presents: Wyoming Jazz Ensemble
-UID:38415@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-jazz-presents%3a-wyoming-jazz-ensemble/38415/
+DTSTART;VALUE=DATE:20251212
+DESCRIPTION:Lights on the Range: Light Trail\nMore info: https://www.visitlaramie.org/event/lights-on-the-range%3a-light-trail/38506/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Prison-and-Wagon_765A2FD7-F20E-40DC-A8DAFB7D8CD7FBCD_f92aeaff-43a3-4ac8-97e91c2523e125d5.jpg\nCategories: Annual Events & Festivals\, Family Fun
+GEO:41.311613;-105.610512
+LOCATION:Wyoming Territorial Prison State Historic Site
+SUMMARY:Lights on the Range: Light Trail
+UID:38506@visitlaramie.org
+URL:https://www.visitlaramie.org/event/lights-on-the-range%3a-light-trail/38506/
 END:VEVENT
 END:VCALENDAR
