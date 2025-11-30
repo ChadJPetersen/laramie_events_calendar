@@ -11,15 +11,6 @@ UID:38434@visitlaramie.org
 URL:https://www.visitlaramie.org/event/katie-hargrave-%26-meredith-laura-lynn/38434/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251128
-DESCRIPTION:Black Friday & Small Business Saturday BOGO Gift Card Event\nMore info: https://www.visitlaramie.org/event/black-friday-%26-small-business-saturday-bogo-gift-card-event/38453/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-28-104010_B4E396CE-CD6E-7644-FB6BFDCBDEA38660_b501d0d6-e901-067c-1416fce837c054d9.png\nCategories: Community
-GEO:41.311165;-105.593401
-LOCATION:The Railyard
-SUMMARY:Black Friday & Small Business Saturday BOGO Gift Card Event
-UID:38453@visitlaramie.org
-URL:https://www.visitlaramie.org/event/black-friday-%26-small-business-saturday-bogo-gift-card-event/38453/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251201
 DESCRIPTION:Explorers Night: Snowy Range Ski Patrol\nMore info: https://www.visitlaramie.org/event/explorers-night%3a-snowy-range-ski-patrol/38479/\nVenue: Laramie's Basecamp\nVenue Info: https://www.visitlaramie.org/listing/laramies-basecamp/384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-13-092313_EC22A25C-BC7C-6593-15052DD918872B04_ec24cdb3-9aed-7baa-6bfb6bf6f8508044.png\nCategories: Community\, Outdoor Recreation\, Social Events
 GEO:41.311263;-105.595108
@@ -341,15 +332,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:UW Symphony Presents: Gala Holiday Concert
 UID:38419@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-gala-holiday-concert/38419/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251129
-DESCRIPTION:Winter Lights Festival - The Grand Opening 2025\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-the-grand-opening-2025/38497/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-111811_58F003D3-DC22-E3BD-01927D8F5C1611AD_5924b7ed-bbef-e132-145f2c2bb303649d.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.305988;-105.569902
-LOCATION:Washington Park
-SUMMARY:Winter Lights Festival - The Grand Opening 2025
-UID:38497@visitlaramie.org
-URL:https://www.visitlaramie.org/event/winter-lights-festival-the-grand-opening-2025/38497/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
