@@ -155,15 +155,6 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251102
-DESCRIPTION:Pilates for Everyone Specialty Class\nMore info: https://www.visitlaramie.org/event/pilates-for-everyone-specialty-class/38449/\nVenue: Laramie Community Recreation Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-community-recreation-center/66/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-27-134314_87FECFA8-D4D4-E69A-1F06FA0C3B1233BF_8816b314-9e9d-2909-8a659b34da2dde8d.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.304977;-105.548536
-LOCATION:Laramie Community Recreation Center
-SUMMARY:Pilates for Everyone Specialty Class
-UID:38449@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pilates-for-everyone-specialty-class/38449/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
 DESCRIPTION:Blue Violin: Candlelight Christmas Extravaganza\nMore info: https://www.visitlaramie.org/event/blue-violin%3a-candlelight-christmas-extravaganza/38325/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-123248_83EC0C15-E9EC-E7E8-BB5EBEDD1BE60E79_83f019db-e3c8-fef3-19ccd383b7ecbf79.png\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -388,22 +379,13 @@ UID:38347@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251130
-DESCRIPTION:Artist Market @ LPCC\nMore info: https://www.visitlaramie.org/event/artist-market-%40-lpcc/38424/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-154514_8AE47295-B490-6379-9CAB864EDD73EFE6_8ae73372-e353-b72a-1c3ff47cd821d6a3.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center -South Gymnasium
-SUMMARY:Artist Market @ LPCC
-UID:38424@visitlaramie.org
-URL:https://www.visitlaramie.org/event/artist-market-%40-lpcc/38424/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251128
-DESCRIPTION:Shop Laramie Small Business Weekend\nMore info: https://www.visitlaramie.org/event/shop-laramie-small-business-weekend/26082/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-112710_AC5A7BF4-FB33-C9E5-14C4F879D6E3CF93_acb2674a-0a20-d1d1-269a3110ff716cc5.png\nCategories: Community
-GEO:41.311389;-105.595899
-LOCATION:Downtown Laramie
-SUMMARY:Shop Laramie Small Business Weekend
-UID:26082@visitlaramie.org
-URL:https://www.visitlaramie.org/event/shop-laramie-small-business-weekend/26082/
+DTSTART;VALUE=DATE:20251205
+DESCRIPTION:Buchanan Center Special Events: Christmas Movie Night\nMore info: https://www.visitlaramie.org/event/buchanan-center-special-events%3a-christmas-movie-night/38417/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-16-140743_51B5A786-9E1B-D1A6-6E339C79B5F4566C_51bc068f-e706-ef10-9bf886cf7cc60ef9.png\nCategories: Concerts & Live Music\, Community
+GEO:41.313163;-105.581309
+LOCATION:A & S Auditorium
+SUMMARY:Buchanan Center Special Events: Christmas Movie Night
+UID:38417@visitlaramie.org
+URL:https://www.visitlaramie.org/event/buchanan-center-special-events%3a-christmas-movie-night/38417/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
@@ -413,15 +395,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:Join the Gamelan Ensemble
 UID:38261@visitlaramie.org
 URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251205
-DESCRIPTION:Buchanan Center Special Events: Christmas Movie Night\nMore info: https://www.visitlaramie.org/event/buchanan-center-special-events%3a-christmas-movie-night/38417/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-16-140743_51B5A786-9E1B-D1A6-6E339C79B5F4566C_51bc068f-e706-ef10-9bf886cf7cc60ef9.png\nCategories: Concerts & Live Music\, Community
-GEO:41.313163;-105.581309
-LOCATION:A & S Auditorium
-SUMMARY:Buchanan Center Special Events: Christmas Movie Night
-UID:38417@visitlaramie.org
-URL:https://www.visitlaramie.org/event/buchanan-center-special-events%3a-christmas-movie-night/38417/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
