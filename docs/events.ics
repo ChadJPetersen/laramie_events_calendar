@@ -11,15 +11,6 @@ UID:38434@visitlaramie.org
 URL:https://www.visitlaramie.org/event/katie-hargrave-%26-meredith-laura-lynn/38434/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Explorers Night: Snowy Range Ski Patrol\nMore info: https://www.visitlaramie.org/event/explorers-night%3a-snowy-range-ski-patrol/38479/\nVenue: Laramie's Basecamp\nVenue Info: https://www.visitlaramie.org/listing/laramies-basecamp/384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-13-092313_EC22A25C-BC7C-6593-15052DD918872B04_ec24cdb3-9aed-7baa-6bfb6bf6f8508044.png\nCategories: Community\, Outdoor Recreation\, Social Events
-GEO:41.311263;-105.595108
-LOCATION:Laramie's Basecamp
-SUMMARY:Explorers Night: Snowy Range Ski Patrol
-UID:38479@visitlaramie.org
-URL:https://www.visitlaramie.org/event/explorers-night%3a-snowy-range-ski-patrol/38479/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
 DESCRIPTION:Float Like A Buffalo with Frogboat\nMore info: https://www.visitlaramie.org/event/float-like-a-buffalo-with-frogboat/38472/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Float4x5_BACD210B-ABA5-C199-69323736B8467421_bad0362e-a802-e248-6e817fcb7690628a.jpg\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -182,14 +173,6 @@ UID:38059@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-stoner-space-rock/38059/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Cloverton Christmas Concert\nMore info: https://www.visitlaramie.org/event/cloverton-christmas-concert/38468/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-07-100115_B88A7859-BAE3-4CDA-E9E214A6FAA00C39_b8b9b95e-ad03-83b6-ee929872c8fbcbe1.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
-GEO:41.333170;-105.577957
-SUMMARY:Cloverton Christmas Concert
-UID:38468@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cloverton-christmas-concert/38468/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
 DESCRIPTION:Wyoming Skies-Geminid Meteor Shower and the Winter Solstice\nMore info: https://www.visitlaramie.org/event/wyoming-skies-geminid-meteor-shower-and-the-winter-solstice/38487/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-17-131044_C25F27E7-C66A-9D74-E26CAE5FAF77AC4E_c2608851-d263-6b35-43c474ca2f78923a.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -197,6 +180,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Wyoming Skies-Geminid Meteor Shower and the Winter Solstice
 UID:38487@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies-geminid-meteor-shower-and-the-winter-solstice/38487/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251220
+DESCRIPTION:Free Movie at the Gryphon: National Lampoon’s Christmas Vacation\nMore info: https://www.visitlaramie.org/event/free-movie-at-the-gryphon%3a-national-lampoon%e2%80%99s-christmas-vacation/38512/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Untitled_Artwork_8901DF54-07E0-3866-ED6444BE27F0DA10_890c3bfe-c63b-13a8-1d3d754fa94e5f26.jpg\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Free Movie at the Gryphon: National Lampoon’s Christmas Vacation
+UID:38512@visitlaramie.org
+URL:https://www.visitlaramie.org/event/free-movie-at-the-gryphon%3a-national-lampoon%e2%80%99s-christmas-vacation/38512/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
