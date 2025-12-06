@@ -38,6 +38,15 @@ UID:38472@visitlaramie.org
 URL:https://www.visitlaramie.org/event/float-like-a-buffalo-with-frogboat/38472/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251213
+DESCRIPTION:Eagles Christmas Party\nMore info: https://www.visitlaramie.org/event/eagles-christmas-party/38537/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-05-133504_62360F96-E7D3-A824-74DC9B58124B0BC2_6239e085-be79-6fa1-1e8b0b1889fecae8.png\nCategories: Community
+GEO:41.325456;-105.596768
+LOCATION:Eagles Club
+SUMMARY:Eagles Christmas Party
+UID:38537@visitlaramie.org
+URL:https://www.visitlaramie.org/event/eagles-christmas-party/38537/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
 DESCRIPTION:Christmas Heist Mystery Dinner\nMore info: https://www.visitlaramie.org/event/christmas-heist-mystery-dinner/38530/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-135900_2F96C371-D07E-638F-53F1DFD0F5513C94_2fa92c32-a2f5-320a-353f29ec0f3f67c3.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.311165;-105.593401
@@ -110,6 +119,15 @@ UID:38068@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251208
+DESCRIPTION:Porch Stories\nMore info: https://www.visitlaramie.org/event/porch-stories/38535/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-05-125934_6105069B-F105-0D4B-FCFA45D6CE335FE1_613a22f6-ecd2-b59d-7385670fa4ae1fc2.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
+GEO:41.313464;-105.564486
+LOCATION:Visual Art Building
+SUMMARY:Porch Stories
+UID:38535@visitlaramie.org
+URL:https://www.visitlaramie.org/event/porch-stories/38535/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
 DESCRIPTION:UW Symphony Presents: Gala Holiday Concert\nMore info: https://www.visitlaramie.org/event/uw-symphony-presents%3a-gala-holiday-concert/38418/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
 GEO:41.311991;-105.572082
@@ -119,13 +137,13 @@ UID:38418@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-gala-holiday-concert/38418/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251205
-DESCRIPTION:Cowboy Saloon Presents: Science on Tap\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-science-on-tap/38502/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Resized_base_sci_on_tap_image_7468B46A-FF25-40D5-8CF6A4819C4673D4_85b4dc9c-0d4c-4a3d-95f15c34ea41e985.png\nCategories: Education
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: Science on Tap
-UID:38502@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-science-on-tap/38502/
+DTSTART;VALUE=DATE:20251214
+DESCRIPTION:Laramie Plains Museum Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-holiday-open-house/38509/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Holiday-Open-House_292EF1BD-ECD2-3598-34D688936CCD9560_2941605f-c7df-3fac-fd5272adb1657754.jpg\nCategories: Annual Events & Festivals
+GEO:41.312068;-105.589055
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Laramie Plains Museum Holiday Open House
+UID:38509@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-plains-museum-holiday-open-house/38509/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
@@ -135,15 +153,6 @@ LOCATION:Albany County Public Library
 SUMMARY:Winter/Holiday Book Sale
 UID:38496@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-holiday-book-sale/38496/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251214
-DESCRIPTION:Laramie Plains Museum Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-holiday-open-house/38509/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Holiday-Open-House_292EF1BD-ECD2-3598-34D688936CCD9560_2941605f-c7df-3fac-fd5272adb1657754.jpg\nCategories: Annual Events & Festivals
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Laramie Plains Museum Holiday Open House
-UID:38509@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-plains-museum-holiday-open-house/38509/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
@@ -200,15 +209,6 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251205
-DESCRIPTION:"Liquid Sky: Stoner Space Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-stoner-space-rock/38059/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-135938_B9BC70FD-A566-7698-44817F4C054485BB_ba151bbb-ed1f-a89c-5215be9b47e23104.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Stoner Space Rock
-UID:38059@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-stoner-space-rock/38059/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251220
 DESCRIPTION:WinterFest @ ACPL\nMore info: https://www.visitlaramie.org/event/winterfest-%40-acpl/38526/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-130400_2DC73581-0F0F-97E7-E097B8B3EFF17AB2_2dccedce-a019-57e0-c983203517a748a6.png\nCategories: Community
 GEO:41.310342;-105.587834
@@ -252,6 +252,15 @@ LOCATION:Ivinson Memorial Hospital
 SUMMARY:Pinecone Gift Shop Holiday Open House
 UID:38447@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pinecone-gift-shop-holiday-open-house/38447/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251208
+DESCRIPTION:Poppy's Wreath Workshop\nMore info: https://www.visitlaramie.org/event/poppys-wreath-workshop/38538/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-05-133840_6257B225-BEE8-B3BC-78FE8B603A593D82_6284e238-e723-7de4-31ecffd6b48850f5.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Laramie Plains Civic Center South Gym
+SUMMARY:Poppy's Wreath Workshop
+UID:38538@visitlaramie.org
+URL:https://www.visitlaramie.org/event/poppys-wreath-workshop/38538/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
@@ -362,6 +371,15 @@ UID:38478@visitlaramie.org
 URL:https://www.visitlaramie.org/event/umw-christmas-bazaar/38478/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251206
+DESCRIPTION:UPC's Annual Christmas Cookie Sale & Bazaar\nMore info: https://www.visitlaramie.org/event/upcs-annual-christmas-cookie-sale-%26-bazaar/38536/\nVenue: United Presbyterian Church\nVenue Info: https://www.visitlaramie.org/listing/united-presbyterian-church/1655/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-05-132029_61BB5500-B5B9-049E-E6C24F50CBBDEF7E_61ca28ee-06f1-2732-ad99cf3a2ef752bd.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.310745;-105.582719
+LOCATION:United Presbyterian Church
+SUMMARY:UPC's Annual Christmas Cookie Sale & Bazaar
+UID:38536@visitlaramie.org
+URL:https://www.visitlaramie.org/event/upcs-annual-christmas-cookie-sale-%26-bazaar/38536/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251207
 DESCRIPTION:UW Symphony Presents: Gala Holiday Concert\nMore info: https://www.visitlaramie.org/event/uw-symphony-presents%3a-gala-holiday-concert/38419/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
 GEO:41.311991;-105.572082
@@ -452,15 +470,6 @@ UID:38515@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wreaths-across-america-day-ceremony-saturday-december-13/38515/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251205
-DESCRIPTION:Buchanan Center Special Events: Christmas Movie Night\nMore info: https://www.visitlaramie.org/event/buchanan-center-special-events%3a-christmas-movie-night/38417/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-16-140743_51B5A786-9E1B-D1A6-6E339C79B5F4566C_51bc068f-e706-ef10-9bf886cf7cc60ef9.png\nCategories: Concerts & Live Music\, Community
-GEO:41.313163;-105.581309
-LOCATION:A & S Auditorium
-SUMMARY:Buchanan Center Special Events: Christmas Movie Night
-UID:38417@visitlaramie.org
-URL:https://www.visitlaramie.org/event/buchanan-center-special-events%3a-christmas-movie-night/38417/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
 DESCRIPTION:Join the Gamelan Ensemble\nMore info: https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-140011_47863089-DB0C-BE67-01F8D189390D7E94_478713a8-fef5-c78e-b53a710bf07069e5.png\nCategories: Performing Arts & Culture
 GEO:41.313968;-105.584517
@@ -513,15 +522,6 @@ LOCATION:LaBonte Park
 SUMMARY:Soup and Solstice
 UID:38520@visitlaramie.org
 URL:https://www.visitlaramie.org/event/soup-and-solstice/38520/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251205
-DESCRIPTION:Aurorae: Dancing Lights\nMore info: https://www.visitlaramie.org/event/aurorae%3a-dancing-lights/38488/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events4_74698F91-5056-A36F-23AD1679961BBD1D_74723a95-5056-a36f-2306dc0fe75de9af.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Aurorae: Dancing Lights
-UID:38488@visitlaramie.org
-URL:https://www.visitlaramie.org/event/aurorae%3a-dancing-lights/38488/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
