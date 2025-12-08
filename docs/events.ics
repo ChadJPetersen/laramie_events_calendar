@@ -201,21 +201,21 @@ URL:https://www.visitlaramie.org/event/free-movie-at-the-gryphon%3a-national-lam
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Pinecone Gift Shop Holiday Open House\nMore info: https://www.visitlaramie.org/event/pinecone-gift-shop-holiday-open-house/38447/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-27-133053_87718B49-AC98-19E3-11F4179E10DF8DC0_877c7164-993a-8339-746b6ac139d90031.png\nCategories: Annual Events & Festivals\, Community
-GEO:41.313461;-105.557518
-LOCATION:Ivinson Memorial Hospital
-SUMMARY:Pinecone Gift Shop Holiday Open House
-UID:38447@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pinecone-gift-shop-holiday-open-house/38447/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251208
 DESCRIPTION:Poppy's Wreath Workshop\nMore info: https://www.visitlaramie.org/event/poppys-wreath-workshop/38538/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-05-133840_6257B225-BEE8-B3BC-78FE8B603A593D82_6284e238-e723-7de4-31ecffd6b48850f5.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
 LOCATION:Laramie Plains Civic Center South Gym
 SUMMARY:Poppy's Wreath Workshop
 UID:38538@visitlaramie.org
 URL:https://www.visitlaramie.org/event/poppys-wreath-workshop/38538/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251208
+DESCRIPTION:Pinecone Gift Shop Holiday Open House\nMore info: https://www.visitlaramie.org/event/pinecone-gift-shop-holiday-open-house/38447/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-27-133053_87718B49-AC98-19E3-11F4179E10DF8DC0_877c7164-993a-8339-746b6ac139d90031.png\nCategories: Annual Events & Festivals\, Community
+GEO:41.313461;-105.557518
+LOCATION:Ivinson Memorial Hospital
+SUMMARY:Pinecone Gift Shop Holiday Open House
+UID:38447@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pinecone-gift-shop-holiday-open-house/38447/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
@@ -279,15 +279,6 @@ LOCATION:Laramie Rec Center
 SUMMARY:Line Dance Shuffle Specialty Class
 UID:38127@visitlaramie.org
 URL:https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38127/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251207
-DESCRIPTION:UW Symphony Presents: Gala Holiday Concert\nMore info: https://www.visitlaramie.org/event/uw-symphony-presents%3a-gala-holiday-concert/38419/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-110228_4D9B47E8-BF10-8464-9482E4FFD396562C_4dc038a4-b7f2-5a43-f20dbf8b40e6b3e2.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.311991;-105.572082
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:UW Symphony Presents: Gala Holiday Concert
-UID:38419@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-symphony-presents%3a-gala-holiday-concert/38419/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
@@ -362,15 +353,6 @@ UID:38515@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wreaths-across-america-day-ceremony-saturday-december-13/38515/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250831
-DESCRIPTION:Join the Gamelan Ensemble\nMore info: https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-140011_47863089-DB0C-BE67-01F8D189390D7E94_478713a8-fef5-c78e-b53a710bf07069e5.png\nCategories: Performing Arts & Culture
-GEO:41.313968;-105.584517
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:Join the Gamelan Ensemble
-UID:38261@visitlaramie.org
-URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
 DESCRIPTION:B. Dylan Hollis Booksigning\nMore info: https://www.visitlaramie.org/event/b-dylan-hollis-booksigning/38513/\nVenue: 2nd Story Books\nVenue Info: https://www.visitlaramie.org/listing/2nd-story-books/410/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8186_C053A1EA-0E25-006F-201E710D1C1912A9_c09e875b-9610-9978-604f060e922f1cbd.jpg\nCategories: Community\, Social Events
 GEO:41.312280;-105.595636
@@ -396,6 +378,15 @@ LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
 SUMMARY:Laramie Plains Museum Annual Holiday Open House
 UID:38508@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38508/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+DESCRIPTION:Join the Gamelan Ensemble\nMore info: https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-140011_47863089-DB0C-BE67-01F8D189390D7E94_478713a8-fef5-c78e-b53a710bf07069e5.png\nCategories: Performing Arts & Culture
+GEO:41.313968;-105.584517
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:Join the Gamelan Ensemble
+UID:38261@visitlaramie.org
+URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251209
