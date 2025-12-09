@@ -155,6 +155,15 @@ UID:38528@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-solstice-release/38528/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251212
+DESCRIPTION:WyHoming for the Holidays Parade & Celebration\nMore info: https://www.visitlaramie.org/event/wyhoming-for-the-holidays-parade-%26-celebration/38429/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-21-104204_4C71374A-963E-CB82-CAE19B629CFACF16_4c861a16-e760-95da-d66402da5ab0e55f.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Family Fun\, Social Events
+GEO:41.311367;-105.591101
+LOCATION:Historic Laramie Train Depot & Downtown
+SUMMARY:WyHoming for the Holidays Parade & Celebration
+UID:38429@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyhoming-for-the-holidays-parade-%26-celebration/38429/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251220
 DESCRIPTION:Breathing Into Creativity with Tara Pappas & Sarah Stepans\nMore info: https://www.visitlaramie.org/event/breathing-into-creativity-with-tara-pappas-%26-sarah-stepans/38339/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-111148_AB98F172-BA3E-D279-2465466621C2A7CE_abd2c616-e61a-d6f0-712728825d1fad12.png\nCategories: Community\, Education
 GEO:41.312877;-105.595095
@@ -198,24 +207,6 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Free Movie at the Gryphon: National Lampoon’s Christmas Vacation
 UID:38512@visitlaramie.org
 URL:https://www.visitlaramie.org/event/free-movie-at-the-gryphon%3a-national-lampoon%e2%80%99s-christmas-vacation/38512/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Poppy's Wreath Workshop\nMore info: https://www.visitlaramie.org/event/poppys-wreath-workshop/38538/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-05-133840_6257B225-BEE8-B3BC-78FE8B603A593D82_6284e238-e723-7de4-31ecffd6b48850f5.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Laramie Plains Civic Center South Gym
-SUMMARY:Poppy's Wreath Workshop
-UID:38538@visitlaramie.org
-URL:https://www.visitlaramie.org/event/poppys-wreath-workshop/38538/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Pinecone Gift Shop Holiday Open House\nMore info: https://www.visitlaramie.org/event/pinecone-gift-shop-holiday-open-house/38447/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-27-133053_87718B49-AC98-19E3-11F4179E10DF8DC0_877c7164-993a-8339-746b6ac139d90031.png\nCategories: Annual Events & Festivals\, Community
-GEO:41.313461;-105.557518
-LOCATION:Ivinson Memorial Hospital
-SUMMARY:Pinecone Gift Shop Holiday Open House
-UID:38447@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pinecone-gift-shop-holiday-open-house/38447/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
@@ -299,13 +290,13 @@ UID:37617@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251013
-DESCRIPTION:Somatic & Breathwork Workshop\nMore info: https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-111255_815A093A-FC7B-F61D-A48EB3A5F60E6022_816bd862-d947-9782-951e92ff7fe9309a.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.312877;-105.595095
-LOCATION:The Collective
-SUMMARY:Somatic & Breathwork Workshop
-UID:38438@visitlaramie.org
-URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
+DTSTART;VALUE=DATE:20251212
+DESCRIPTION:UW Holiday Market 2025\nMore info: https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-101756_7F12EFF3-9B0A-15A5-742B7BCDBB7535B9_7f135cdb-d6f4-535d-dc7884185af75808.png\nCategories: Annual Events & Festivals
+GEO:41.310305;-105.564114
+LOCATION:UW Conference Center
+SUMMARY:UW Holiday Market 2025
+UID:38347@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
@@ -315,15 +306,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
 UID:38431@visitlaramie.org
 URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-DESCRIPTION:UW Holiday Market 2025\nMore info: https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-101756_7F12EFF3-9B0A-15A5-742B7BCDBB7535B9_7f135cdb-d6f4-535d-dc7884185af75808.png\nCategories: Annual Events & Festivals
-GEO:41.310305;-105.564114
-LOCATION:UW Conference Center
-SUMMARY:UW Holiday Market 2025
-UID:38347@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
@@ -344,6 +326,15 @@ UID:38529@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sacred-new-year/38529/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Somatic & Breathwork Workshop\nMore info: https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-111255_815A093A-FC7B-F61D-A48EB3A5F60E6022_816bd862-d947-9782-951e92ff7fe9309a.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Somatic & Breathwork Workshop
+UID:38438@visitlaramie.org
+URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
 DESCRIPTION:Wreaths Across America Day Ceremony\, Saturday December 13\nMore info: https://www.visitlaramie.org/event/wreaths-across-america-day-ceremony-saturday-december-13/38515/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-WAA-Logo_F4BEDD0F-B421-5AE6-4BA9EED42F3EB551_f5637de4-07a2-a5f0-7667e901fc153b9e.jpg\nCategories: Volunteering
 GEO:41.315062;-105.575284
@@ -354,12 +345,12 @@ URL:https://www.visitlaramie.org/event/wreaths-across-america-day-ceremony-satur
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
-DESCRIPTION:B. Dylan Hollis Booksigning\nMore info: https://www.visitlaramie.org/event/b-dylan-hollis-booksigning/38513/\nVenue: 2nd Story Books\nVenue Info: https://www.visitlaramie.org/listing/2nd-story-books/410/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8186_C053A1EA-0E25-006F-201E710D1C1912A9_c09e875b-9610-9978-604f060e922f1cbd.jpg\nCategories: Community\, Social Events
-GEO:41.312280;-105.595636
-LOCATION:Second Story Bookstore
-SUMMARY:B. Dylan Hollis Booksigning
-UID:38513@visitlaramie.org
-URL:https://www.visitlaramie.org/event/b-dylan-hollis-booksigning/38513/
+DESCRIPTION:Laramie Plains Museum Annual Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38508/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-24-140529_2CCCA31B-D341-BD74-0281AB64D947BC34_2ccf7b06-98e7-a6a3-b43eaf4fea80ce98.png\nCategories: Annual Events & Festivals
+GEO:41.312068;-105.589055
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Laramie Plains Museum Annual Holiday Open House
+UID:38508@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38508/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
@@ -369,15 +360,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: Gabe Jackson Concert
 UID:38501@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-gabe-jackson-concert/38501/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Laramie Plains Museum Annual Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38508/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-24-140529_2CCCA31B-D341-BD74-0281AB64D947BC34_2ccf7b06-98e7-a6a3-b43eaf4fea80ce98.png\nCategories: Annual Events & Festivals
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Laramie Plains Museum Annual Holiday Open House
-UID:38508@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38508/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
@@ -407,13 +389,13 @@ UID:38520@visitlaramie.org
 URL:https://www.visitlaramie.org/event/soup-and-solstice/38520/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-DESCRIPTION:WyHoming for the Holidays Parade & Celebration\nMore info: https://www.visitlaramie.org/event/wyhoming-for-the-holidays-parade-%26-celebration/38429/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-21-104204_4C71374A-963E-CB82-CAE19B629CFACF16_4c861a16-e760-95da-d66402da5ab0e55f.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Family Fun\, Social Events
-GEO:41.311367;-105.591101
-LOCATION:Historic Laramie Train Depot & Downtown
-SUMMARY:WyHoming for the Holidays Parade & Celebration
-UID:38429@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyhoming-for-the-holidays-parade-%26-celebration/38429/
+DTSTART;VALUE=DATE:20251213
+DESCRIPTION:B. Dylan Hollis Booksigning\nMore info: https://www.visitlaramie.org/event/b-dylan-hollis-booksigning/38513/\nVenue: 2nd Story Books\nVenue Info: https://www.visitlaramie.org/listing/2nd-story-books/410/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8186_C053A1EA-0E25-006F-201E710D1C1912A9_c09e875b-9610-9978-604f060e922f1cbd.jpg\nCategories: Community\, Social Events
+GEO:41.312280;-105.595636
+LOCATION:Second Story Bookstore
+SUMMARY:B. Dylan Hollis Booksigning
+UID:38513@visitlaramie.org
+URL:https://www.visitlaramie.org/event/b-dylan-hollis-booksigning/38513/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
