@@ -119,15 +119,6 @@ UID:38509@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-plains-museum-holiday-open-house/38509/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251206
-DESCRIPTION:Winter/Holiday Book Sale\nMore info: https://www.visitlaramie.org/event/winter-holiday-book-sale/38496/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-111311_58AF79E5-01EE-C104-607883D444EFE7EA_58b10b7b-c0c3-b8ec-e32385f8a458ec3c.png\nCategories: Community\, Family Fun
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Winter/Holiday Book Sale
-UID:38496@visitlaramie.org
-URL:https://www.visitlaramie.org/event/winter-holiday-book-sale/38496/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
 DESCRIPTION:Christmas in Centennial\nMore info: https://www.visitlaramie.org/event/christmas-in-centennial/38372/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-101041_E23FF02C-0FF9-F829-D90155F5F4C9C092_e24214f9-e9e0-32ab-34b1227bdaca7bb0.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.299163;-106.142280
@@ -299,15 +290,6 @@ UID:38347@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-DESCRIPTION:Serena Perrone: A Volcano Pilgrim in Exchange for Fire\nMore info: https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095332_7E33039A-C437-C0DA-36104A10D0F26917_7e410ef5-f4c7-34c8-23307934da782f3c.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
-UID:38431@visitlaramie.org
-URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251206
 DESCRIPTION:Star of the Magi\nMore info: https://www.visitlaramie.org/event/star-of-the-magi/35013/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events9_BB634FDA-5056-A36F-2360DBF71FD00495_bb7be45b-5056-a36f-234b3e908e27c0c3.png\nCategories: University of Wyoming\, Education\, Social Events
 GEO:41.311367;-105.591101
@@ -315,6 +297,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Star of the Magi
 UID:35013@visitlaramie.org
 URL:https://www.visitlaramie.org/event/star-of-the-magi/35013/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:Serena Perrone: A Volcano Pilgrim in Exchange for Fire\nMore info: https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095332_7E33039A-C437-C0DA-36104A10D0F26917_7e410ef5-f4c7-34c8-23307934da782f3c.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
+UID:38431@visitlaramie.org
+URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
@@ -369,15 +360,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:Join the Gamelan Ensemble
 UID:38261@visitlaramie.org
 URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Santa's Workshop @ Premier Bone and Joint Centers\nMore info: https://www.visitlaramie.org/event/santas-workshop-%40-premier-bone-and-joint-centers/38527/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-131421_2E078E5A-E131-74D5-8BFE8EFFFDC1BCF9_2e219d60-95b2-8f1e-512008f5963796a4.png\nCategories: Community\, Family Fun
-GEO:41.300757;-105.537775
-LOCATION:Premier Bone and Joint Centers
-SUMMARY:Santa's Workshop @ Premier Bone and Joint Centers
-UID:38527@visitlaramie.org
-URL:https://www.visitlaramie.org/event/santas-workshop-%40-premier-bone-and-joint-centers/38527/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251217
