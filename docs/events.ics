@@ -173,6 +173,15 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Snowflake Colorwork Sweater Class\nMore info: https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-142109_30554D2B-D89A-40E4-A88751FB0099BD69_306e0665-eae0-061c-ddcf241751758608.png\nCategories: Community\, Education\, Craft Classes & Workshops
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Snowflake Colorwork Sweater Class
+UID:38533@visitlaramie.org
+URL:https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251220
 DESCRIPTION:WinterFest @ ACPL\nMore info: https://www.visitlaramie.org/event/winterfest-%40-acpl/38526/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-130400_2DC73581-0F0F-97E7-E097B8B3EFF17AB2_2dccedce-a019-57e0-c983203517a748a6.png\nCategories: Community
 GEO:41.310342;-105.587834
@@ -378,6 +387,15 @@ LOCATION:Second Story Bookstore
 SUMMARY:B. Dylan Hollis Booksigning
 UID:38513@visitlaramie.org
 URL:https://www.visitlaramie.org/event/b-dylan-hollis-booksigning/38513/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)\nMore info: https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-141539_3027C8A3-0E0E-84FE-3105410A7D929F53_303995ff-cf23-acaa-8d9a98fbd981fb68.png\nCategories: Community\, Outdoor Recreation\, Family Fun
+GEO:41.306158;-105.573624
+LOCATION:Washington Park
+SUMMARY:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)
+UID:38532@visitlaramie.org
+URL:https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251212
