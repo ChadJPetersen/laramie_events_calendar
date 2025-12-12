@@ -101,15 +101,6 @@ UID:38068@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Porch Stories\nMore info: https://www.visitlaramie.org/event/porch-stories/38535/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-05-125934_6105069B-F105-0D4B-FCFA45D6CE335FE1_613a22f6-ecd2-b59d-7385670fa4ae1fc2.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
-GEO:41.313464;-105.564486
-LOCATION:Visual Art Building
-SUMMARY:Porch Stories
-UID:38535@visitlaramie.org
-URL:https://www.visitlaramie.org/event/porch-stories/38535/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251214
 DESCRIPTION:Laramie Plains Museum Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-holiday-open-house/38509/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Holiday-Open-House_292EF1BD-ECD2-3598-34D688936CCD9560_2941605f-c7df-3fac-fd5272adb1657754.jpg\nCategories: Annual Events & Festivals
 GEO:41.312068;-105.589055
@@ -243,15 +234,6 @@ LOCATION:The Eppson Center for Seniors
 SUMMARY:Dinner with Dickens
 UID:34896@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dinner-with-dickens/34896/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251211
-DESCRIPTION:Henrik Ibsen's "A Doll's House"\, A Staged Reading\nMore info: https://www.visitlaramie.org/event/henrik-ibsens-a-dolls-house-a-staged-reading/38517/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-112636_2A248766-9512-484C-2DD4805F1B74E3D2_2a2e7850-9920-1626-2632559e1db6c88a.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.310840;-105.578309
-LOCATION:The Carriage House
-SUMMARY:Henrik Ibsen's "A Doll's House"\, A Staged Reading
-UID:38517@visitlaramie.org
-URL:https://www.visitlaramie.org/event/henrik-ibsens-a-dolls-house-a-staged-reading/38517/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251214
