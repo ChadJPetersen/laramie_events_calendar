@@ -29,15 +29,6 @@ UID:38518@visitlaramie.org
 URL:https://www.visitlaramie.org/event/meet-santa-%40-the-wild-bison/38518/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-DESCRIPTION:Float Like A Buffalo with Frogboat\nMore info: https://www.visitlaramie.org/event/float-like-a-buffalo-with-frogboat/38472/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Float4x5_BACD210B-ABA5-C199-69323736B8467421_bad0362e-a802-e248-6e817fcb7690628a.jpg\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Float Like A Buffalo with Frogboat
-UID:38472@visitlaramie.org
-URL:https://www.visitlaramie.org/event/float-like-a-buffalo-with-frogboat/38472/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
 DESCRIPTION:Eagles Christmas Party\nMore info: https://www.visitlaramie.org/event/eagles-christmas-party/38537/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-05-133504_62360F96-E7D3-A824-74DC9B58124B0BC2_6239e085-be79-6fa1-1e8b0b1889fecae8.png\nCategories: Community
 GEO:41.325456;-105.596768
@@ -137,15 +128,6 @@ UID:38528@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-solstice-release/38528/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-DESCRIPTION:WyHoming for the Holidays Parade & Celebration\nMore info: https://www.visitlaramie.org/event/wyhoming-for-the-holidays-parade-%26-celebration/38429/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-21-104204_4C71374A-963E-CB82-CAE19B629CFACF16_4c861a16-e760-95da-d66402da5ab0e55f.png\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Family Fun\, Social Events
-GEO:41.311367;-105.591101
-LOCATION:Historic Laramie Train Depot & Downtown
-SUMMARY:WyHoming for the Holidays Parade & Celebration
-UID:38429@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyhoming-for-the-holidays-parade-%26-celebration/38429/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251220
 DESCRIPTION:Breathing Into Creativity with Tara Pappas & Sarah Stepans\nMore info: https://www.visitlaramie.org/event/breathing-into-creativity-with-tara-pappas-%26-sarah-stepans/38339/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-111148_AB98F172-BA3E-D279-2465466621C2A7CE_abd2c616-e61a-d6f0-712728825d1fad12.png\nCategories: Community\, Education
 GEO:41.312877;-105.595095
@@ -209,15 +191,6 @@ UID:36915@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251206
-DESCRIPTION:Liquid Sky: Holiday Hits\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-holiday-hits/34961/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BAAAAA54-5056-A36F-23C0CAB45135790B_baab9b42-5056-a36f-23d92769e0390b03.jpg\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Holiday Hits
-UID:34961@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-holiday-hits/34961/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250828
 DESCRIPTION:Charity Bingo Night @ Bond's Brewing\nMore info: https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-120402_A5E8CAF1-F437-DEBA-F5AAD0712FB27AA8_a5e9acc5-eb03-f513-a76b7c0e534d06b3.png\nCategories: Community
 GEO:41.309643;-105.594735
@@ -245,24 +218,6 @@ UID:38510@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38510/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DESCRIPTION:Line Dance Shuffle Specialty Class\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-104850_80342D91-E28D-630C-6157B702AC2705B0_8041e973-b6bd-5909-eb2b3c53bde0d885.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.304734;-105.549039
-LOCATION:Laramie Rec Center
-SUMMARY:Line Dance Shuffle Specialty Class
-UID:38127@visitlaramie.org
-URL:https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38127/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-DESCRIPTION:Frozen Worlds\nMore info: https://www.visitlaramie.org/event/frozen-worlds/38490/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events4_A1802917-5056-A36F-2347A0E155E62F61_a19f7bd7-5056-a36f-23d22ebd22df216d.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Frozen Worlds
-UID:38490@visitlaramie.org
-URL:https://www.visitlaramie.org/event/frozen-worlds/38490/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251219
 DESCRIPTION:Ticket Please! Polar Express Party\nMore info: https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-07-101748_B91ABFFF-C87D-7344-46F4C03FD1980CB5_b91edad3-d568-4779-681b4f0d971ced08.png\nCategories: Community\, Family Fun
 GEO:41.305337;-105.559431
@@ -270,33 +225,6 @@ LOCATION:Whiting High School
 SUMMARY:Ticket Please! Polar Express Party
 UID:37617@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-DESCRIPTION:UW Holiday Market 2025\nMore info: https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-101756_7F12EFF3-9B0A-15A5-742B7BCDBB7535B9_7f135cdb-d6f4-535d-dc7884185af75808.png\nCategories: Annual Events & Festivals
-GEO:41.310305;-105.564114
-LOCATION:UW Conference Center
-SUMMARY:UW Holiday Market 2025
-UID:38347@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-holiday-market-2025/38347/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251206
-DESCRIPTION:Star of the Magi\nMore info: https://www.visitlaramie.org/event/star-of-the-magi/35013/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events9_BB634FDA-5056-A36F-2360DBF71FD00495_bb7be45b-5056-a36f-234b3e908e27c0c3.png\nCategories: University of Wyoming\, Education\, Social Events
-GEO:41.311367;-105.591101
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Star of the Magi
-UID:35013@visitlaramie.org
-URL:https://www.visitlaramie.org/event/star-of-the-magi/35013/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-DESCRIPTION:Serena Perrone: A Volcano Pilgrim in Exchange for Fire\nMore info: https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095332_7E33039A-C437-C0DA-36104A10D0F26917_7e410ef5-f4c7-34c8-23307934da782f3c.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
-UID:38431@visitlaramie.org
-URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
@@ -315,6 +243,24 @@ LOCATION:The Collective
 SUMMARY:Somatic & Breathwork Workshop
 UID:38438@visitlaramie.org
 URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251206
+DESCRIPTION:Star of the Magi\nMore info: https://www.visitlaramie.org/event/star-of-the-magi/35013/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events9_BB634FDA-5056-A36F-2360DBF71FD00495_bb7be45b-5056-a36f-234b3e908e27c0c3.png\nCategories: University of Wyoming\, Education\, Social Events
+GEO:41.311367;-105.591101
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Star of the Magi
+UID:35013@visitlaramie.org
+URL:https://www.visitlaramie.org/event/star-of-the-magi/35013/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:Serena Perrone: A Volcano Pilgrim in Exchange for Fire\nMore info: https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095332_7E33039A-C437-C0DA-36104A10D0F26917_7e410ef5-f4c7-34c8-23307934da782f3c.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
+UID:38431@visitlaramie.org
+URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251213
