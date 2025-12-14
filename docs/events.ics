@@ -20,24 +20,6 @@ UID:38525@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-years-brunch-%40-the-alibi/38525/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Meet Santa @ The Wild Bison\nMore info: https://www.visitlaramie.org/event/meet-santa-%40-the-wild-bison/38518/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-113137_2A4CEA5C-E8FF-43D0-68BF2119F296FC77_2a631cda-f489-98da-b7400f332ee0eb53.png\nCategories: Community\, Family Fun
-GEO:41.311745;-105.595093
-LOCATION:The Wild Bison Fleamarket & Farmstand
-SUMMARY:Meet Santa @ The Wild Bison
-UID:38518@visitlaramie.org
-URL:https://www.visitlaramie.org/event/meet-santa-%40-the-wild-bison/38518/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Eagles Christmas Party\nMore info: https://www.visitlaramie.org/event/eagles-christmas-party/38537/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-05-133504_62360F96-E7D3-A824-74DC9B58124B0BC2_6239e085-be79-6fa1-1e8b0b1889fecae8.png\nCategories: Community
-GEO:41.325456;-105.596768
-LOCATION:Eagles Club
-SUMMARY:Eagles Christmas Party
-UID:38537@visitlaramie.org
-URL:https://www.visitlaramie.org/event/eagles-christmas-party/38537/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
 DESCRIPTION:Christmas Heist Mystery Dinner\nMore info: https://www.visitlaramie.org/event/christmas-heist-mystery-dinner/38530/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-135900_2F96C371-D07E-638F-53F1DFD0F5513C94_2fa92c32-a2f5-320a-353f29ec0f3f67c3.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.311165;-105.593401
@@ -54,15 +36,6 @@ LOCATION:Washington Park
 SUMMARY:Winter Lights Festival @ Washington Park
 UID:38498@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:We Are Stars + Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/we-are-stars-%2b-great-solar-system-adventure/38491/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.19.25-2pm-Event_F9A431D2-A396-D98A-2B31D5461FB12874_f9a70f5e-dc50-4537-2049669dc4af82a7.png\nCategories: Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:We Are Stars + Great Solar System Adventure
-UID:38491@visitlaramie.org
-URL:https://www.visitlaramie.org/event/we-are-stars-%2b-great-solar-system-adventure/38491/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
@@ -101,13 +74,13 @@ UID:38509@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-plains-museum-holiday-open-house/38509/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Christmas in Centennial\nMore info: https://www.visitlaramie.org/event/christmas-in-centennial/38372/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-14-101041_E23FF02C-0FF9-F829-D90155F5F4C9C092_e24214f9-e9e0-32ab-34b1227bdaca7bb0.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
-GEO:41.299163;-106.142280
-LOCATION:Centennial Elementary School
-SUMMARY:Christmas in Centennial
-UID:38372@visitlaramie.org
-URL:https://www.visitlaramie.org/event/christmas-in-centennial/38372/
+DTSTART;VALUE=DATE:20251221
+DESCRIPTION:Winter Solstice Release\nMore info: https://www.visitlaramie.org/event/winter-solstice-release/38528/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-134840_2F326D7D-BD88-0950-186FC085851B557E_2f32f2b3-0cd9-3d75-165d15e369f63b19.png\nCategories: Community
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Winter Solstice Release
+UID:38528@visitlaramie.org
+URL:https://www.visitlaramie.org/event/winter-solstice-release/38528/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
@@ -117,15 +90,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Thomas Moran Exhibition
 UID:38430@visitlaramie.org
 URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251221
-DESCRIPTION:Winter Solstice Release\nMore info: https://www.visitlaramie.org/event/winter-solstice-release/38528/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-134840_2F326D7D-BD88-0950-186FC085851B557E_2f32f2b3-0cd9-3d75-165d15e369f63b19.png\nCategories: Community
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Winter Solstice Release
-UID:38528@visitlaramie.org
-URL:https://www.visitlaramie.org/event/winter-solstice-release/38528/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251220
@@ -200,15 +164,6 @@ UID:38258@visitlaramie.org
 URL:https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Dinner with Dickens\nMore info: https://www.visitlaramie.org/event/dinner-with-dickens/34896/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-101716_A9A547E5-DF2E-B045-BEEBF13C4F7FADF1_a9a97c72-faea-6068-9c7da698883c58f8.png\nCategories: Annual Events & Festivals\, Community\, Performing Arts & Culture\, Social Events
-GEO:41.326519;-105.592598
-LOCATION:The Eppson Center for Seniors
-SUMMARY:Dinner with Dickens
-UID:34896@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dinner-with-dickens/34896/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251214
 DESCRIPTION:Laramie Plains Museum Annual Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38510/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-24-140529_2CE010DA-F90E-6C64-3FA84AA15AFBAB74_2ce28a3d-096d-10ec-7bf96700c5a70aeb.png\nCategories: Annual Events & Festivals
 GEO:41.312068;-105.589055
@@ -245,15 +200,6 @@ UID:38438@visitlaramie.org
 URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251206
-DESCRIPTION:Star of the Magi\nMore info: https://www.visitlaramie.org/event/star-of-the-magi/35013/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events9_BB634FDA-5056-A36F-2360DBF71FD00495_bb7be45b-5056-a36f-234b3e908e27c0c3.png\nCategories: University of Wyoming\, Education\, Social Events
-GEO:41.311367;-105.591101
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Star of the Magi
-UID:35013@visitlaramie.org
-URL:https://www.visitlaramie.org/event/star-of-the-magi/35013/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
 DESCRIPTION:Serena Perrone: A Volcano Pilgrim in Exchange for Fire\nMore info: https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095332_7E33039A-C437-C0DA-36104A10D0F26917_7e410ef5-f4c7-34c8-23307934da782f3c.png\nCategories: History\, University of Wyoming\, Education
 GEO:41.314165;-105.568122
@@ -261,33 +207,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
 UID:38431@visitlaramie.org
 URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Wreaths Across America Day Ceremony\, Saturday December 13\nMore info: https://www.visitlaramie.org/event/wreaths-across-america-day-ceremony-saturday-december-13/38515/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2025-WAA-Logo_F4BEDD0F-B421-5AE6-4BA9EED42F3EB551_f5637de4-07a2-a5f0-7667e901fc153b9e.jpg\nCategories: Volunteering
-GEO:41.315062;-105.575284
-LOCATION:Greenhill Cemetery
-SUMMARY:Wreaths Across America Day Ceremony\, Saturday December 13
-UID:38515@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wreaths-across-america-day-ceremony-saturday-december-13/38515/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Laramie Plains Museum Annual Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38508/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-24-140529_2CCCA31B-D341-BD74-0281AB64D947BC34_2ccf7b06-98e7-a6a3-b43eaf4fea80ce98.png\nCategories: Annual Events & Festivals
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Laramie Plains Museum Annual Holiday Open House
-UID:38508@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38508/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Cowboy Saloon Presents: Gabe Jackson Concert\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-gabe-jackson-concert/38501/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-11-20-25-at-12.27-PM_0E6B6EA4-334A-4FE9-B7E606CA36E85D63_536c8b4a-3b91-440b-ac2170dbf945cccf.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: Gabe Jackson Concert
-UID:38501@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-gabe-jackson-concert/38501/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
@@ -308,15 +227,6 @@ UID:38520@visitlaramie.org
 URL:https://www.visitlaramie.org/event/soup-and-solstice/38520/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:B. Dylan Hollis Booksigning\nMore info: https://www.visitlaramie.org/event/b-dylan-hollis-booksigning/38513/\nVenue: 2nd Story Books\nVenue Info: https://www.visitlaramie.org/listing/2nd-story-books/410/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8186_C053A1EA-0E25-006F-201E710D1C1912A9_c09e875b-9610-9978-604f060e922f1cbd.jpg\nCategories: Community\, Social Events
-GEO:41.312280;-105.595636
-LOCATION:Second Story Bookstore
-SUMMARY:B. Dylan Hollis Booksigning
-UID:38513@visitlaramie.org
-URL:https://www.visitlaramie.org/event/b-dylan-hollis-booksigning/38513/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DESCRIPTION:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)\nMore info: https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-141539_3027C8A3-0E0E-84FE-3105410A7D929F53_303995ff-cf23-acaa-8d9a98fbd981fb68.png\nCategories: Community\, Outdoor Recreation\, Family Fun
 GEO:41.306158;-105.573624
@@ -324,14 +234,5 @@ LOCATION:Washington Park
 SUMMARY:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)
 UID:38532@visitlaramie.org
 URL:https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251212
-DESCRIPTION:Lights on the Range: Light Trail\nMore info: https://www.visitlaramie.org/event/lights-on-the-range%3a-light-trail/38506/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Prison-and-Wagon_765A2FD7-F20E-40DC-A8DAFB7D8CD7FBCD_f92aeaff-43a3-4ac8-97e91c2523e125d5.jpg\nCategories: Annual Events & Festivals\, Family Fun
-GEO:41.311613;-105.610512
-LOCATION:Wyoming Territorial Prison State Historic Site
-SUMMARY:Lights on the Range: Light Trail
-UID:38506@visitlaramie.org
-URL:https://www.visitlaramie.org/event/lights-on-the-range%3a-light-trail/38506/
 END:VEVENT
 END:VCALENDAR
