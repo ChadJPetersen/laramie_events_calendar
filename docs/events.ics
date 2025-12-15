@@ -65,15 +65,6 @@ UID:38068@visitlaramie.org
 URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251214
-DESCRIPTION:Laramie Plains Museum Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-holiday-open-house/38509/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Holiday-Open-House_292EF1BD-ECD2-3598-34D688936CCD9560_2941605f-c7df-3fac-fd5272adb1657754.jpg\nCategories: Annual Events & Festivals
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Laramie Plains Museum Holiday Open House
-UID:38509@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-plains-museum-holiday-open-house/38509/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251221
 DESCRIPTION:Winter Solstice Release\nMore info: https://www.visitlaramie.org/event/winter-solstice-release/38528/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-134840_2F326D7D-BD88-0950-186FC085851B557E_2f32f2b3-0cd9-3d75-165d15e369f63b19.png\nCategories: Community
 GEO:41.313179;-105.595024
@@ -128,15 +119,6 @@ UID:38526@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winterfest-%40-acpl/38526/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251213
-DESCRIPTION:Christmas Bazaar @ Albany County Fairgrounds\nMore info: https://www.visitlaramie.org/event/christmas-bazaar-%40-albany-county-fairgrounds/38519/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nCategories: Annual Events & Festivals\, Community\, Family Fun
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Christmas Bazaar @ Albany County Fairgrounds
-UID:38519@visitlaramie.org
-URL:https://www.visitlaramie.org/event/christmas-bazaar-%40-albany-county-fairgrounds/38519/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251220
 DESCRIPTION:Free Movie at the Gryphon: National Lampoon’s Christmas Vacation\nMore info: https://www.visitlaramie.org/event/free-movie-at-the-gryphon%3a-national-lampoon%e2%80%99s-christmas-vacation/38512/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Untitled_Artwork_8901DF54-07E0-3866-ED6444BE27F0DA10_890c3bfe-c63b-13a8-1d3d754fa94e5f26.jpg\nCategories: Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -162,15 +144,6 @@ LOCATION:Bond's Brewing Company
 SUMMARY:Charity Bingo Night @ Bond's Brewing
 UID:38258@visitlaramie.org
 URL:https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251214
-DESCRIPTION:Laramie Plains Museum Annual Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38510/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-24-140529_2CE010DA-F90E-6C64-3FA84AA15AFBAB74_2ce28a3d-096d-10ec-7bf96700c5a70aeb.png\nCategories: Annual Events & Festivals
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Laramie Plains Museum Annual Holiday Open House
-UID:38510@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-plains-museum-annual-holiday-open-house/38510/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251219
@@ -207,15 +180,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
 UID:38431@visitlaramie.org
 URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250831
-DESCRIPTION:Join the Gamelan Ensemble\nMore info: https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-140011_47863089-DB0C-BE67-01F8D189390D7E94_478713a8-fef5-c78e-b53a710bf07069e5.png\nCategories: Performing Arts & Culture
-GEO:41.313968;-105.584517
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:Join the Gamelan Ensemble
-UID:38261@visitlaramie.org
-URL:https://www.visitlaramie.org/event/join-the-gamelan-ensemble/38261/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251217
