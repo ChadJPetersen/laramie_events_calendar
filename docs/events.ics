@@ -20,6 +20,15 @@ UID:38525@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-years-brunch-%40-the-alibi/38525/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:Denim & Diamonds\nMore info: https://www.visitlaramie.org/event/denim-%26-diamonds/38544/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-15-133723_65C3E087-047C-AC52-E9E8F3248F3C892D_65c5d0f0-d209-2827-2ea5136acd28c8e6.png\nCategories: Concerts & Live Music\, Community\, Social Events
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Denim & Diamonds
+UID:38544@visitlaramie.org
+URL:https://www.visitlaramie.org/event/denim-%26-diamonds/38544/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
 DESCRIPTION:Christmas Heist Mystery Dinner\nMore info: https://www.visitlaramie.org/event/christmas-heist-mystery-dinner/38530/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-135900_2F96C371-D07E-638F-53F1DFD0F5513C94_2fa92c32-a2f5-320a-353f29ec0f3f67c3.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.311165;-105.593401
@@ -144,6 +153,15 @@ LOCATION:Bond's Brewing Company
 SUMMARY:Charity Bingo Night @ Bond's Brewing
 UID:38258@visitlaramie.org
 URL:https://www.visitlaramie.org/event/charity-bingo-night-%40-bonds-brewing/38258/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251216
+DESCRIPTION:Open Play at the Mouse Hole\nMore info: https://www.visitlaramie.org/event/open-play-at-the-mouse-hole/38543/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-15-133042_650F63E9-A334-628F-5E363770122AB7A1_652efce9-a418-c31c-4c7008474156ac69.png\nCategories: Community\, Family Fun
+GEO:41.311367;-105.591101
+LOCATION:The Sugar Mouse
+SUMMARY:Open Play at the Mouse Hole
+UID:38543@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-play-at-the-mouse-hole/38543/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251219
