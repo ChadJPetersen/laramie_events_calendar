@@ -29,15 +29,6 @@ UID:38544@visitlaramie.org
 URL:https://www.visitlaramie.org/event/denim-%26-diamonds/38544/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251216
-DESCRIPTION:Christmas Heist Mystery Dinner\nMore info: https://www.visitlaramie.org/event/christmas-heist-mystery-dinner/38530/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-135900_2F96C371-D07E-638F-53F1DFD0F5513C94_2fa92c32-a2f5-320a-353f29ec0f3f67c3.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.311165;-105.593401
-LOCATION:The RailYard
-SUMMARY:Christmas Heist Mystery Dinner
-UID:38530@visitlaramie.org
-URL:https://www.visitlaramie.org/event/christmas-heist-mystery-dinner/38530/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
 DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
 GEO:41.305988;-105.569902
@@ -63,15 +54,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Where the Heck is Yucca Fountain?
 UID:38432@visitlaramie.org
 URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38068/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Silent Book Club
-UID:38068@visitlaramie.org
-URL:https://www.visitlaramie.org/event/silent-book-club/38068/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251221
@@ -126,6 +108,15 @@ LOCATION:Albany County Public Library
 SUMMARY:WinterFest @ ACPL
 UID:38526@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winterfest-%40-acpl/38526/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/38253/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-26-124129_0E52DC0B-FB30-FF48-6EBC3EC5DBAF30AC_0e5e0822-0038-ffb0-4303ae31f493092b.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Ecstatic Dance
+UID:38253@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ecstatic-dance/38253/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251220
