@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Katie Hargrave & Meredith Laura Lynn\nMore info: https://www.visitlaramie.org/event/katie-hargrave-%26-meredith-laura-lynn/38434/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-101041_7ED001B5-F620-AF68-2A306B7AF4B40CE5_7ed11d13-ac32-0917-57a9f9e281b2bd25.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Katie Hargrave & Meredith Laura Lynn
-UID:38434@visitlaramie.org
-URL:https://www.visitlaramie.org/event/katie-hargrave-%26-meredith-laura-lynn/38434/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
 DESCRIPTION:New Year's Brunch @ The Alibi\nMore info: https://www.visitlaramie.org/event/new-years-brunch-%40-the-alibi/38525/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-125514_2D4E3142-D1AF-4CB1-339B83B344E13694_2d607c05-f797-c789-d5838a26e436af64.png\nCategories: Community
 GEO:41.309855;-105.592736
@@ -144,15 +135,6 @@ LOCATION:The Sugar Mouse
 SUMMARY:Open Play at the Mouse Hole
 UID:38543@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-play-at-the-mouse-hole/38543/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251219
-DESCRIPTION:Ticket Please! Polar Express Party\nMore info: https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-07-101748_B91ABFFF-C87D-7344-46F4C03FD1980CB5_b91edad3-d568-4779-681b4f0d971ced08.png\nCategories: Community\, Family Fun
-GEO:41.305337;-105.559431
-LOCATION:Whiting High School
-SUMMARY:Ticket Please! Polar Express Party
-UID:37617@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ticket-please!-polar-express-party/37617/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
