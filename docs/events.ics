@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:Serena Perrone: A Volcano Pilgrim in Exchange for Fire\nMore info: https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095332_7E33039A-C437-C0DA-36104A10D0F26917_7e410ef5-f4c7-34c8-23307934da782f3c.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
+UID:38431@visitlaramie.org
+URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
 DESCRIPTION:New Year's Brunch @ The Alibi\nMore info: https://www.visitlaramie.org/event/new-years-brunch-%40-the-alibi/38525/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-125514_2D4E3142-D1AF-4CB1-339B83B344E13694_2d607c05-f797-c789-d5838a26e436af64.png\nCategories: Community
 GEO:41.309855;-105.592736
@@ -9,42 +18,6 @@ LOCATION:The Alibi
 SUMMARY:New Year's Brunch @ The Alibi
 UID:38525@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-years-brunch-%40-the-alibi/38525/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:Denim & Diamonds\nMore info: https://www.visitlaramie.org/event/denim-%26-diamonds/38544/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-15-133723_65C3E087-047C-AC52-E9E8F3248F3C892D_65c5d0f0-d209-2827-2ea5136acd28c8e6.png\nCategories: Concerts & Live Music\, Community\, Social Events
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Denim & Diamonds
-UID:38544@visitlaramie.org
-URL:https://www.visitlaramie.org/event/denim-%26-diamonds/38544/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251129
-DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.305988;-105.569902
-LOCATION:Washington Park
-SUMMARY:Winter Lights Festival @ Washington Park
-UID:38498@visitlaramie.org
-URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-DESCRIPTION:First Day Hikes - Wyoming Territorial Prison\nMore info: https://www.visitlaramie.org/event/first-day-hikes-wyoming-territorial-prison/38523/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/1660/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-122505_2C3FFFD7-99FC-C450-9570C1BA2052FCDD_2c449844-e8fd-cc8a-abffee37b70f3f7a.png\nCategories: History\, Community\, Outdoor Recreation\, Family Fun\, Social Events
-GEO:41.310551;-105.610098
-LOCATION:Wyoming Territorial Prison State Historic Site
-SUMMARY:First Day Hikes - Wyoming Territorial Prison
-UID:38523@visitlaramie.org
-URL:https://www.visitlaramie.org/event/first-day-hikes-wyoming-territorial-prison/38523/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095605_7E4E3F38-C748-8987-454AD7F3904038A5_7e62af7f-e765-3e11-cb7adb7c08abd00c.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Where the Heck is Yucca Fountain?
-UID:38432@visitlaramie.org
-URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251221
@@ -56,6 +29,24 @@ UID:38528@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-solstice-release/38528/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250902
+DESCRIPTION:Bond's Trivia & Tacos Night\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-133010_D3950AB0-0555-6E30-3A8DE518E87CC400_d3b73155-b2bf-cc8b-d45f3fe48f1b6b76.png\nCategories: Community\, Social Events
+GEO:41.309652;-105.594751
+LOCATION:Bond's Brewing Company
+SUMMARY:Bond's Trivia & Tacos Night
+UID:36915@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DESCRIPTION:Denim & Diamonds\nMore info: https://www.visitlaramie.org/event/denim-%26-diamonds/38544/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-15-133723_65C3E087-047C-AC52-E9E8F3248F3C892D_65c5d0f0-d209-2827-2ea5136acd28c8e6.png\nCategories: Concerts & Live Music\, Community\, Social Events
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Denim & Diamonds
+UID:38544@visitlaramie.org
+URL:https://www.visitlaramie.org/event/denim-%26-diamonds/38544/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:Thomas Moran Exhibition\nMore info: https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-112637_81898F53-0B54-5C26-EE7A0771476921E8_818a2d81-cca9-71da-54dad4635d53b8fb.png\nCategories: History\, University of Wyoming\, Education
 GEO:41.314165;-105.568122
@@ -65,13 +56,40 @@ UID:38430@visitlaramie.org
 URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251220
-DESCRIPTION:Breathing Into Creativity with Tara Pappas & Sarah Stepans\nMore info: https://www.visitlaramie.org/event/breathing-into-creativity-with-tara-pappas-%26-sarah-stepans/38339/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-111148_AB98F172-BA3E-D279-2465466621C2A7CE_abd2c616-e61a-d6f0-712728825d1fad12.png\nCategories: Community\, Education
-GEO:41.312877;-105.595095
-LOCATION:The Collective
-SUMMARY:Breathing Into Creativity with Tara Pappas & Sarah Stepans
-UID:38339@visitlaramie.org
-URL:https://www.visitlaramie.org/event/breathing-into-creativity-with-tara-pappas-%26-sarah-stepans/38339/
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)\nMore info: https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-141539_3027C8A3-0E0E-84FE-3105410A7D929F53_303995ff-cf23-acaa-8d9a98fbd981fb68.png\nCategories: Community\, Outdoor Recreation\, Family Fun
+GEO:41.306158;-105.573624
+LOCATION:Washington Park
+SUMMARY:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)
+UID:38532@visitlaramie.org
+URL:https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Murder Mystery Dinner @ The Switch & Signal Speakeasy\nMore info: https://www.visitlaramie.org/event/murder-mystery-dinner-%40-the-switch-%26-signal-speakeasy/38521/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-114600_2AC3B47F-D2A9-C288-F0705C188168802A_2ae8acc1-9fdd-c9e1-6704d3bc605d120d.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.311165;-105.593401
+LOCATION:The RailYard
+SUMMARY:Murder Mystery Dinner @ The Switch & Signal Speakeasy
+UID:38521@visitlaramie.org
+URL:https://www.visitlaramie.org/event/murder-mystery-dinner-%40-the-switch-%26-signal-speakeasy/38521/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.305988;-105.569902
+LOCATION:Washington Park
+SUMMARY:Winter Lights Festival @ Washington Park
+UID:38498@visitlaramie.org
+URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251216
+DESCRIPTION:Open Play at the Mouse Hole\nMore info: https://www.visitlaramie.org/event/open-play-at-the-mouse-hole/38543/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-15-133042_650F63E9-A334-628F-5E363770122AB7A1_652efce9-a418-c31c-4c7008474156ac69.png\nCategories: Community\, Family Fun
+GEO:41.311367;-105.591101
+LOCATION:The Sugar Mouse
+SUMMARY:Open Play at the Mouse Hole
+UID:38543@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-play-at-the-mouse-hole/38543/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -92,13 +110,22 @@ UID:38533@visitlaramie.org
 URL:https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251220
-DESCRIPTION:WinterFest @ ACPL\nMore info: https://www.visitlaramie.org/event/winterfest-%40-acpl/38526/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-130400_2DC73581-0F0F-97E7-E097B8B3EFF17AB2_2dccedce-a019-57e0-c983203517a748a6.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:WinterFest @ ACPL
-UID:38526@visitlaramie.org
-URL:https://www.visitlaramie.org/event/winterfest-%40-acpl/38526/
+DTSTART;VALUE=DATE:20260101
+DESCRIPTION:First Day Hikes - Wyoming Territorial Prison\nMore info: https://www.visitlaramie.org/event/first-day-hikes-wyoming-territorial-prison/38523/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/1660/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-122505_2C3FFFD7-99FC-C450-9570C1BA2052FCDD_2c449844-e8fd-cc8a-abffee37b70f3f7a.png\nCategories: History\, Community\, Outdoor Recreation\, Family Fun\, Social Events
+GEO:41.310551;-105.610098
+LOCATION:Wyoming Territorial Prison State Historic Site
+SUMMARY:First Day Hikes - Wyoming Territorial Prison
+UID:38523@visitlaramie.org
+URL:https://www.visitlaramie.org/event/first-day-hikes-wyoming-territorial-prison/38523/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095605_7E4E3F38-C748-8987-454AD7F3904038A5_7e62af7f-e765-3e11-cb7adb7c08abd00c.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Where the Heck is Yucca Fountain?
+UID:38432@visitlaramie.org
+URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260116
@@ -108,33 +135,6 @@ LOCATION:Seek Yoga Studio
 SUMMARY:Ecstatic Dance
 UID:38253@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/38253/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251220
-DESCRIPTION:Free Movie at the Gryphon: National Lampoon’s Christmas Vacation\nMore info: https://www.visitlaramie.org/event/free-movie-at-the-gryphon%3a-national-lampoon%e2%80%99s-christmas-vacation/38512/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Untitled_Artwork_8901DF54-07E0-3866-ED6444BE27F0DA10_890c3bfe-c63b-13a8-1d3d754fa94e5f26.jpg\nCategories: Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Free Movie at the Gryphon: National Lampoon’s Christmas Vacation
-UID:38512@visitlaramie.org
-URL:https://www.visitlaramie.org/event/free-movie-at-the-gryphon%3a-national-lampoon%e2%80%99s-christmas-vacation/38512/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250902
-DESCRIPTION:Bond's Trivia & Tacos Night\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-133010_D3950AB0-0555-6E30-3A8DE518E87CC400_d3b73155-b2bf-cc8b-d45f3fe48f1b6b76.png\nCategories: Community\, Social Events
-GEO:41.309652;-105.594751
-LOCATION:Bond's Brewing Company
-SUMMARY:Bond's Trivia & Tacos Night
-UID:36915@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251216
-DESCRIPTION:Open Play at the Mouse Hole\nMore info: https://www.visitlaramie.org/event/open-play-at-the-mouse-hole/38543/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-15-133042_650F63E9-A334-628F-5E363770122AB7A1_652efce9-a418-c31c-4c7008474156ac69.png\nCategories: Community\, Family Fun
-GEO:41.311367;-105.591101
-LOCATION:The Sugar Mouse
-SUMMARY:Open Play at the Mouse Hole
-UID:38543@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-play-at-the-mouse-hole/38543/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
@@ -153,23 +153,5 @@ LOCATION:The Collective
 SUMMARY:Somatic & Breathwork Workshop
 UID:38438@visitlaramie.org
 URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-DESCRIPTION:Serena Perrone: A Volcano Pilgrim in Exchange for Fire\nMore info: https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095332_7E33039A-C437-C0DA-36104A10D0F26917_7e410ef5-f4c7-34c8-23307934da782f3c.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
-UID:38431@visitlaramie.org
-URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)\nMore info: https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-141539_3027C8A3-0E0E-84FE-3105410A7D929F53_303995ff-cf23-acaa-8d9a98fbd981fb68.png\nCategories: Community\, Outdoor Recreation\, Family Fun
-GEO:41.306158;-105.573624
-LOCATION:Washington Park
-SUMMARY:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)
-UID:38532@visitlaramie.org
-URL:https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/
 END:VEVENT
 END:VCALENDAR
