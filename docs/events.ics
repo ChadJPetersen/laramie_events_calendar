@@ -20,15 +20,6 @@ UID:38525@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-years-brunch-%40-the-alibi/38525/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251221
-DESCRIPTION:Winter Solstice Release\nMore info: https://www.visitlaramie.org/event/winter-solstice-release/38528/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-134840_2F326D7D-BD88-0950-186FC085851B557E_2f32f2b3-0cd9-3d75-165d15e369f63b19.png\nCategories: Community
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Winter Solstice Release
-UID:38528@visitlaramie.org
-URL:https://www.visitlaramie.org/event/winter-solstice-release/38528/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:Bond's Trivia & Tacos Night\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/36915/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-31-133010_D3950AB0-0555-6E30-3A8DE518E87CC400_d3b73155-b2bf-cc8b-d45f3fe48f1b6b76.png\nCategories: Community\, Social Events
 GEO:41.309652;-105.594751
@@ -72,6 +63,15 @@ LOCATION:The RailYard
 SUMMARY:Murder Mystery Dinner @ The Switch & Signal Speakeasy
 UID:38521@visitlaramie.org
 URL:https://www.visitlaramie.org/event/murder-mystery-dinner-%40-the-switch-%26-signal-speakeasy/38521/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Sound + Silence: A Restorative Yoga & Sound Bath Experience\nMore info: https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-130558_A8B32BFD-E2BF-D468-BB71F122DEB5A8F6_a8c93c5b-9e49-33c5-df1bf3e459115d73.png\nCategories: Craft Classes & Workshops
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Sound + Silence: A Restorative Yoga & Sound Bath Experience
+UID:38542@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
