@@ -128,6 +128,15 @@ UID:38432@visitlaramie.org
 URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260117
+DESCRIPTION:Pole Mountain Shuffle Nordic Ski Race\nMore info: https://www.visitlaramie.org/event/pole-mountain-shuffle-nordic-ski-race/38552/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-22-133230_CDF6229D-B619-93A1-80632B34CAEF0199_ce0e3a2a-c588-ff93-e378c704696857bc.png\nCategories: Community\, Outdoor Recreation
+GEO:41.311367;-105.591101
+LOCATION:Happy Jack Ski Trails
+SUMMARY:Pole Mountain Shuffle Nordic Ski Race
+UID:38552@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pole-mountain-shuffle-nordic-ski-race/38552/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260116
 DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/38253/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-26-124129_0E52DC0B-FB30-FF48-6EBC3EC5DBAF30AC_0e5e0822-0038-ffb0-4303ae31f493092b.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.313179;-105.595024
