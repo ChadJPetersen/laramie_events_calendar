@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-DESCRIPTION:Serena Perrone: A Volcano Pilgrim in Exchange for Fire\nMore info: https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095332_7E33039A-C437-C0DA-36104A10D0F26917_7e410ef5-f4c7-34c8-23307934da782f3c.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Serena Perrone: A Volcano Pilgrim in Exchange for Fire
-UID:38431@visitlaramie.org
-URL:https://www.visitlaramie.org/event/serena-perrone%3a-a-volcano-pilgrim-in-exchange-for-fire/38431/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260101
 DESCRIPTION:New Year's Brunch @ The Alibi\nMore info: https://www.visitlaramie.org/event/new-years-brunch-%40-the-alibi/38525/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-125514_2D4E3142-D1AF-4CB1-339B83B344E13694_2d607c05-f797-c789-d5838a26e436af64.png\nCategories: Community
 GEO:41.309855;-105.592736
@@ -72,6 +63,15 @@ LOCATION:Seek Yoga Studio
 SUMMARY:Sound + Silence: A Restorative Yoga & Sound Bath Experience
 UID:38542@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Cowboy Saloon Presents: Brett Hendrix Band\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-brett-hendrix-band/38511/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-11-26-25-at-3.46-PM_A4B986FA-9DC2-4087-94C8A63C8918F7E8_aa129b3d-3364-48e6-8cd700a0383b2ec0.png\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Brett Hendrix Band
+UID:38511@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-brett-hendrix-band/38511/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
