@@ -74,15 +74,6 @@ UID:38511@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-brett-hendrix-band/38511/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251129
-DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.305988;-105.569902
-LOCATION:Washington Park
-SUMMARY:Winter Lights Festival @ Washington Park
-UID:38498@visitlaramie.org
-URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251216
 DESCRIPTION:Open Play at the Mouse Hole\nMore info: https://www.visitlaramie.org/event/open-play-at-the-mouse-hole/38543/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-15-133042_650F63E9-A334-628F-5E363770122AB7A1_652efce9-a418-c31c-4c7008474156ac69.png\nCategories: Community\, Family Fun
 GEO:41.311367;-105.591101
@@ -90,6 +81,15 @@ LOCATION:The Sugar Mouse
 SUMMARY:Open Play at the Mouse Hole
 UID:38543@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-play-at-the-mouse-hole/38543/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.305988;-105.569902
+LOCATION:Washington Park
+SUMMARY:Winter Lights Festival @ Washington Park
+UID:38498@visitlaramie.org
+URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
