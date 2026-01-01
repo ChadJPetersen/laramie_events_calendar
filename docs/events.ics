@@ -29,15 +29,6 @@ UID:38542@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251231
-DESCRIPTION:Denim & Diamonds\nMore info: https://www.visitlaramie.org/event/denim-%26-diamonds/38544/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-15-133723_65C3E087-047C-AC52-E9E8F3248F3C892D_65c5d0f0-d209-2827-2ea5136acd28c8e6.png\nCategories: Concerts & Live Music\, Community\, Social Events
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Denim & Diamonds
-UID:38544@visitlaramie.org
-URL:https://www.visitlaramie.org/event/denim-%26-diamonds/38544/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:Thomas Moran Exhibition\nMore info: https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-112637_81898F53-0B54-5C26-EE7A0771476921E8_818a2d81-cca9-71da-54dad4635d53b8fb.png\nCategories: History\, University of Wyoming\, Education
 GEO:41.314165;-105.568122
@@ -74,15 +65,6 @@ UID:38511@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-brett-hendrix-band/38511/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251129
-DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.305988;-105.569902
-LOCATION:Washington Park
-SUMMARY:Winter Lights Festival @ Washington Park
-UID:38498@visitlaramie.org
-URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -90,6 +72,15 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.305988;-105.569902
+LOCATION:Washington Park
+SUMMARY:Winter Lights Festival @ Washington Park
+UID:38498@visitlaramie.org
+URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
