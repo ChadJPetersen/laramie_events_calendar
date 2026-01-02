@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-DESCRIPTION:New Year's Brunch @ The Alibi\nMore info: https://www.visitlaramie.org/event/new-years-brunch-%40-the-alibi/38525/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-125514_2D4E3142-D1AF-4CB1-339B83B344E13694_2d607c05-f797-c789-d5838a26e436af64.png\nCategories: Community
-GEO:41.309855;-105.592736
-LOCATION:The Alibi
-SUMMARY:New Year's Brunch @ The Alibi
-UID:38525@visitlaramie.org
-URL:https://www.visitlaramie.org/event/new-years-brunch-%40-the-alibi/38525/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DESCRIPTION:Resonate & Create\nMore info: https://www.visitlaramie.org/event/resonate-%26-create/38531/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-140835_2FDDBD1D-B433-D338-6BE904049FDB5E1D_2ff2732c-0002-e2e2-37fb92fc9660a62f.png\nCategories: Community
 GEO:41.312877;-105.595095
@@ -38,15 +29,6 @@ UID:38430@visitlaramie.org
 URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)\nMore info: https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-141539_3027C8A3-0E0E-84FE-3105410A7D929F53_303995ff-cf23-acaa-8d9a98fbd981fb68.png\nCategories: Community\, Outdoor Recreation\, Family Fun
-GEO:41.306158;-105.573624
-LOCATION:Washington Park
-SUMMARY:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)
-UID:38532@visitlaramie.org
-URL:https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260120
 DESCRIPTION:Murder Mystery Dinner @ The Switch & Signal Speakeasy\nMore info: https://www.visitlaramie.org/event/murder-mystery-dinner-%40-the-switch-%26-signal-speakeasy/38521/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-114600_2AC3B47F-D2A9-C288-F0705C188168802A_2ae8acc1-9fdd-c9e1-6704d3bc605d120d.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.311165;-105.593401
@@ -65,15 +47,6 @@ UID:38511@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-brett-hendrix-band/38511/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
 DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
 GEO:41.305988;-105.569902
@@ -83,6 +56,15 @@ UID:38498@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DESCRIPTION:Snowflake Colorwork Sweater Class\nMore info: https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-142109_30554D2B-D89A-40E4-A88751FB0099BD69_306e0665-eae0-061c-ddcf241751758608.png\nCategories: Community\, Education\, Craft Classes & Workshops
 GEO:41.312291;-105.595158
@@ -90,15 +72,6 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Snowflake Colorwork Sweater Class
 UID:38533@visitlaramie.org
 URL:https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-DESCRIPTION:First Day Hikes - Wyoming Territorial Prison\nMore info: https://www.visitlaramie.org/event/first-day-hikes-wyoming-territorial-prison/38523/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/1660/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-122505_2C3FFFD7-99FC-C450-9570C1BA2052FCDD_2c449844-e8fd-cc8a-abffee37b70f3f7a.png\nCategories: History\, Community\, Outdoor Recreation\, Family Fun\, Social Events
-GEO:41.310551;-105.610098
-LOCATION:Wyoming Territorial Prison State Historic Site
-SUMMARY:First Day Hikes - Wyoming Territorial Prison
-UID:38523@visitlaramie.org
-URL:https://www.visitlaramie.org/event/first-day-hikes-wyoming-territorial-prison/38523/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
@@ -137,13 +110,13 @@ UID:38253@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/38253/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260101
-DESCRIPTION:Sacred New Year\nMore info: https://www.visitlaramie.org/event/sacred-new-year/38529/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-135610_2F69EB2E-BD7A-179E-0AB9BA4D41FEFF86_2f70f368-e8c2-555c-7ba4b395d02394a6.png\nCategories: Community
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Sacred New Year
-UID:38529@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sacred-new-year/38529/
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)\nMore info: https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-141539_3027C8A3-0E0E-84FE-3105410A7D929F53_303995ff-cf23-acaa-8d9a98fbd981fb68.png\nCategories: Community\, Outdoor Recreation\, Family Fun
+GEO:41.306158;-105.573624
+LOCATION:Washington Park
+SUMMARY:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)
+UID:38532@visitlaramie.org
+URL:https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
