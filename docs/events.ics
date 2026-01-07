@@ -29,6 +29,15 @@ UID:38511@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-brett-hendrix-band/38511/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Laradise Music Showcase: The Athletics / Red Dangit\nMore info: https://www.visitlaramie.org/event/laradise-music-showcase%3a-the-athletics-red-dangit/38563/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/AthleticsRed_Dangit_91694242-E399-8418-BE0EC8B5A4EBCD21_91755e29-bdd2-59a0-29d2920c9c90f258.jpg\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Laradise Music Showcase: The Athletics / Red Dangit
+UID:38563@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laradise-music-showcase%3a-the-athletics-red-dangit/38563/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
 DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
 GEO:41.305988;-105.569902
