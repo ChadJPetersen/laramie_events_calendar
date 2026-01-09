@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260208
+DESCRIPTION:6th Annual Snow Dawg\nMore info: https://www.visitlaramie.org/event/6th-annual-snow-dawg/38551/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-22-133316_CDCB6700-063B-9E69-AB215E2BD037C8CF_cde7a63d-cf58-e624-3722bc96ca6adbe8.png\nCategories: Community\, Outdoor Recreation
+GEO:41.311367;-105.591101
+LOCATION:Happy Jack Rec. Area
+SUMMARY:6th Annual Snow Dawg
+UID:38551@visitlaramie.org
+URL:https://www.visitlaramie.org/event/6th-annual-snow-dawg/38551/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DESCRIPTION:Liquid Sky: Dark Side of the Moon\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-dark-side-of-the-moon/38577/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -56,6 +65,15 @@ UID:38582@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-elks-582-cornhole-tournement/38582/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:18+ Latin Night\nMore info: https://www.visitlaramie.org/event/18%2b-latin-night/38589/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-10_16B57FA5-F0B1-4997-87EEE5EE5B4CB4BC_2cc6d41b-11b1-4436-bded262959e8dc7e.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:18+ Latin Night
+UID:38589@visitlaramie.org
+URL:https://www.visitlaramie.org/event/18%2b-latin-night/38589/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
 DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095605_7E4E3F38-C748-8987-454AD7F3904038A5_7e62af7f-e765-3e11-cb7adb7c08abd00c.png\nCategories: History\, University of Wyoming\, Education
 GEO:41.314165;-105.568122
@@ -102,12 +120,12 @@ URL:https://www.visitlaramie.org/event/dawn-of-the-space-age-%26-always-above/38
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Pkemon League\nMore info: https://www.visitlaramie.org/event/pkemon-league/38580/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-05-133452_9EA90BCF-B218-DF82-CB86FCD7514431CE_9eba12b7-e333-976f-d7ab7d7c52cadaef.png\nCategories: Community
+DESCRIPTION:Pokemon League\nMore info: https://www.visitlaramie.org/event/pokemon-league/38580/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-05-133452_9EA90BCF-B218-DF82-CB86FCD7514431CE_9eba12b7-e333-976f-d7ab7d7c52cadaef.png\nCategories: Community
 GEO:41.310901;-105.595118
 LOCATION:The Collector's Hub
-SUMMARY:Pkemon League
+SUMMARY:Pokemon League
 UID:38580@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pkemon-league/38580/
+URL:https://www.visitlaramie.org/event/pokemon-league/38580/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
@@ -146,6 +164,15 @@ UID:38573@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-sun%3a-our-living-star-%2b-europe-to-the-stars/38573/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+DESCRIPTION:Line Dance Shuffle Specialty Class\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38592/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-130045_37D907E7-0C84-62D0-C4C2D1D9F959129C_37d9cd2b-9933-d8b1-1e8782c397e08b2b.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.304734;-105.549039
+LOCATION:Laramie Rec Center
+SUMMARY:Line Dance Shuffle Specialty Class
+UID:38592@visitlaramie.org
+URL:https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38592/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260116
 DESCRIPTION:"Liquid Sky: Indie Folk\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38566/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-135938_B9BC70FD-A566-7698-44817F4C054485BB_ba151bbb-ed1f-a89c-5215be9b47e23104.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -171,6 +198,15 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Snowflake Colorwork Sweater Class
 UID:38533@visitlaramie.org
 URL:https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:History of Pole Mountain Including Military Installations\nMore info: https://www.visitlaramie.org/event/history-of-pole-mountain-including-military-installations/38585/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/ACHS-EVENT_31A02060-BE1D-2117-F16BC33CD3FF4073_31a22e86-bb6e-a89f-20dcee26c68ca796.png\nCategories: History\, Community
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:History of Pole Mountain Including Military Installations
+UID:38585@visitlaramie.org
+URL:https://www.visitlaramie.org/event/history-of-pole-mountain-including-military-installations/38585/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
@@ -215,6 +251,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Dark Biosphere
 UID:38571@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dark-biosphere/38571/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Bond's Trivia & Tacos Tuesdays\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-124616_3777E407-90DA-7991-E6BF0FD77B3A4180_377bbbf4-fac6-2373-5775b9dbbc83b354.png\nCategories: Community\, Social Events
+GEO:41.309652;-105.594751
+LOCATION:Bond's Brewing Company
+SUMMARY:Bond's Trivia & Tacos Tuesdays
+UID:38590@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
@@ -298,6 +343,15 @@ UID:38567@visitlaramie.org
 URL:https://www.visitlaramie.org/event/we-are-stars-%2b-great-solar-system-adventure/38567/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Buchanan Center presents: FRÄNDER\nMore info: https://www.visitlaramie.org/event/buchanan-center-presents%3a-fr%c3%84nder/38586/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-102136_322E4AEE-C68F-D660-FE92EC54456677E3_323ce1a6-d2e8-22f7-0861962c6aceb218.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming\, Performing Arts & Culture
+GEO:41.312616;-105.570928
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:Buchanan Center presents: FRÄNDER
+UID:38586@visitlaramie.org
+URL:https://www.visitlaramie.org/event/buchanan-center-presents%3a-fr%c3%84nder/38586/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
 DESCRIPTION:"Dark Matter Mystery"\nMore info: https://www.visitlaramie.org/event/dark-matter-mystery/38579/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wallpaper-25-fs-0-space-planetary-nebula-fs_BA4D362C-5056-A36F-231FA3E82D8FB8E0_ba8189d1-5056-a36f-2381a647082db979.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -314,6 +368,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Tranquility + Relaxation
 UID:38572@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-tranquility-%2b-relaxation/38572/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Winter Gals’ Night at Rasmussen Jewelers &#8211\; Laramie\nMore info: https://www.visitlaramie.org/event/winter-gals%e2%80%99-night-at-rasmussen-jewelers-%26%238211%3b-laramie/38591/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-125241_37A2B824-BB72-4208-444B59C826A4A650_37a9ba1a-d802-743c-3495b47fb4aafa45.png\nCategories: Community\, Social Events
+GEO:41.311767;-105.594545
+SUMMARY:Winter Gals’ Night at Rasmussen Jewelers &#8211\; Laramie
+UID:38591@visitlaramie.org
+URL:https://www.visitlaramie.org/event/winter-gals%e2%80%99-night-at-rasmussen-jewelers-%26%238211%3b-laramie/38591/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260116
