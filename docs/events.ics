@@ -56,15 +56,6 @@ UID:38498@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260109
-DESCRIPTION:Laramie Elks 582 Cornhole Tournement\nMore info: https://www.visitlaramie.org/event/laramie-elks-582-cornhole-tournement/38582/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/01.09.26-Event_9F3A54A3-0AEC-0884-0B9E013BB2776D40_9f504f22-e732-3d68-742d0ae2a51f4bb4.png\nCategories: Community
-GEO:41.312770;-105.594361
-LOCATION:Laramie Elks #582
-SUMMARY:Laramie Elks 582 Cornhole Tournement
-UID:38582@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-elks-582-cornhole-tournement/38582/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260122
 DESCRIPTION:18+ Latin Night\nMore info: https://www.visitlaramie.org/event/18%2b-latin-night/38589/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-10_16B57FA5-F0B1-4997-87EEE5EE5B4CB4BC_2cc6d41b-11b1-4436-bded262959e8dc7e.jpg\nCategories: Community
 GEO:41.312707;-105.595125
@@ -117,6 +108,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Dawn of the Space Age & Always Above
 UID:38568@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dawn-of-the-space-age-%26-always-above/38568/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:18+ College County Night\nMore info: https://www.visitlaramie.org/event/18%2b-college-county-night/38587/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_F5F8D51C-79B2-4543-8988DEE5E4863805_9f4bd647-7c90-41cf-a6ca1edfedb14bc9.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:18+ College County Night
+UID:38587@visitlaramie.org
+URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
@@ -307,6 +307,15 @@ UID:38562@visitlaramie.org
 URL:https://www.visitlaramie.org/event/west-side-neighborhood-historic-district-celebration/38562/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Boot Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_70AAE39C-4641-416E-B5AB1E8747F100BC_c1e14bdb-b5f1-4ddc-9b38fc57fde60d89.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Boot Night at The Cowboy Saloon
+UID:38588@visitlaramie.org
+URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260117
 DESCRIPTION:Bounce Cancer Walk 2026\nMore info: https://www.visitlaramie.org/event/bounce-cancer-walk-2026/38555/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Bounce-Cancer-Cover-Photo---Swoop_A350383A-C9D2-9043-515A3F3ECAE42E57_a36914fa-f2e5-8083-d7882c15c40505bc.png\nCategories: Community\, University of Wyoming
 GEO:43.075968;-107.290284
@@ -323,6 +332,15 @@ LOCATION:Albany County Public Library
 SUMMARY:Create Your 2026 Vision Board
 UID:38581@visitlaramie.org
 URL:https://www.visitlaramie.org/event/create-your-2026-vision-board/38581/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Somatic & Breathwork Workshop\nMore info: https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-111255_815A093A-FC7B-F61D-A48EB3A5F60E6022_816bd862-d947-9782-951e92ff7fe9309a.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Somatic & Breathwork Workshop
+UID:38438@visitlaramie.org
+URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260124
