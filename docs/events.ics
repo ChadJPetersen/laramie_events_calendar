@@ -119,15 +119,6 @@ UID:38587@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Pokemon League\nMore info: https://www.visitlaramie.org/event/pokemon-league/38580/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-05-133452_9EA90BCF-B218-DF82-CB86FCD7514431CE_9eba12b7-e333-976f-d7ab7d7c52cadaef.png\nCategories: Community
-GEO:41.310901;-105.595118
-LOCATION:The Collector's Hub
-SUMMARY:Pokemon League
-UID:38580@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pokemon-league/38580/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DESCRIPTION:WHAT WAS OURS\, WHO SHE IS\nMore info: https://www.visitlaramie.org/event/what-was-ours-who-she-is/38554/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/what-was-ours-who-she-is_F93CF254-C298-3316-8289B19FDA18F591_f9501edb-fb7b-e66f-de7580b211eb8da2.png\nCategories: Performing Arts & Culture
 GEO:41.312616;-105.570928
@@ -403,14 +394,5 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Big Astronomy
 UID:38565@visitlaramie.org
 URL:https://www.visitlaramie.org/event/big-astronomy/38565/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)\nMore info: https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-141539_3027C8A3-0E0E-84FE-3105410A7D929F53_303995ff-cf23-acaa-8d9a98fbd981fb68.png\nCategories: Community\, Outdoor Recreation\, Family Fun
-GEO:41.306158;-105.573624
-LOCATION:Washington Park
-SUMMARY:Stay Warm with POM @ Tough Guys Winter Lights Festival (Part 2!)
-UID:38532@visitlaramie.org
-URL:https://www.visitlaramie.org/event/stay-warm-with-pom-%40-tough-guys-winter-lights-festival-(part-2!)/38532/
 END:VEVENT
 END:VCALENDAR
