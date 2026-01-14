@@ -253,6 +253,15 @@ UID:38590@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Laradise Music Showcase: iluvnandi / Beef / treetrunk / Yegarma\nMore info: https://www.visitlaramie.org/event/laradise-music-showcase%3a-iluvnandi-beef-treetrunk-yegarma/38564/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/EDM2026_93BCFEBE-BE04-787C-CD0FEEE6BBBCB77B_93bdb42d-0fe1-de92-36648946064bd732.jpg\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Laradise Music Showcase: iluvnandi / Beef / treetrunk / Yegarma
+UID:38564@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laradise-music-showcase%3a-iluvnandi-beef-treetrunk-yegarma/38564/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DESCRIPTION:Resonate & Create\nMore info: https://www.visitlaramie.org/event/resonate-%26-create/38531/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-140835_2FDDBD1D-B433-D338-6BE904049FDB5E1D_2ff2732c-0002-e2e2-37fb92fc9660a62f.png\nCategories: Community
 GEO:41.312877;-105.595095
@@ -343,6 +352,15 @@ UID:38567@visitlaramie.org
 URL:https://www.visitlaramie.org/event/we-are-stars-%2b-great-solar-system-adventure/38567/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Cowboy Saloon Presents: Valentine's Day with "Men Next Door"\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-valentines-day-with-men-next-door/38560/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/image001_3CBB24FF-2592-4F41-A6A62A96764FC9D1_1a46fd7c-6015-4996-bf1d737a15a14338.png\nCategories: Performing Arts & Culture
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Valentine's Day with "Men Next Door"
+UID:38560@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-valentines-day-with-men-next-door/38560/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DESCRIPTION:Buchanan Center presents: FRÄNDER\nMore info: https://www.visitlaramie.org/event/buchanan-center-presents%3a-fr%c3%84nder/38586/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-102136_322E4AEE-C68F-D660-FE92EC54456677E3_323ce1a6-d2e8-22f7-0861962c6aceb218.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming\, Performing Arts & Culture
 GEO:41.312616;-105.570928
@@ -350,6 +368,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:Buchanan Center presents: FRÄNDER
 UID:38586@visitlaramie.org
 URL:https://www.visitlaramie.org/event/buchanan-center-presents%3a-fr%c3%84nder/38586/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Repertory Dance Theatre\nMore info: https://www.visitlaramie.org/event/repertory-dance-theatre/38553/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Ursula-Alex-in-beige-season-brochure_F7EE3C7C-BCAC-3722-2345F68A8F523824_f815bf04-f844-875e-d816b6479ac250b8.png\nCategories: Performing Arts & Culture
+GEO:41.311795;-105.581222
+LOCATION:Buchanan Center for the Performing Arts Main Stage
+SUMMARY:Repertory Dance Theatre
+UID:38553@visitlaramie.org
+URL:https://www.visitlaramie.org/event/repertory-dance-theatre/38553/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
