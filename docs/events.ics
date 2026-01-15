@@ -128,15 +128,6 @@ UID:38554@visitlaramie.org
 URL:https://www.visitlaramie.org/event/what-was-ours-who-she-is/38554/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Thomas Moran Exhibition\nMore info: https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-112637_81898F53-0B54-5C26-EE7A0771476921E8_818a2d81-cca9-71da-54dad4635d53b8fb.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Thomas Moran Exhibition
-UID:38430@visitlaramie.org
-URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260120
 DESCRIPTION:Murder Mystery Dinner @ The Switch & Signal Speakeasy\nMore info: https://www.visitlaramie.org/event/murder-mystery-dinner-%40-the-switch-%26-signal-speakeasy/38521/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-114600_2AC3B47F-D2A9-C288-F0705C188168802A_2ae8acc1-9fdd-c9e1-6704d3bc605d120d.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.311165;-105.593401
@@ -144,6 +135,15 @@ LOCATION:The RailYard
 SUMMARY:Murder Mystery Dinner @ The Switch & Signal Speakeasy
 UID:38521@visitlaramie.org
 URL:https://www.visitlaramie.org/event/murder-mystery-dinner-%40-the-switch-%26-signal-speakeasy/38521/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Thomas Moran Exhibition\nMore info: https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-112637_81898F53-0B54-5C26-EE7A0771476921E8_818a2d81-cca9-71da-54dad4635d53b8fb.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Thomas Moran Exhibition
+UID:38430@visitlaramie.org
+URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260124
