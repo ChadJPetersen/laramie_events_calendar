@@ -164,15 +164,6 @@ UID:38592@visitlaramie.org
 URL:https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38592/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260116
-DESCRIPTION:"Liquid Sky: Indie Folk\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38566/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-135938_B9BC70FD-A566-7698-44817F4C054485BB_ba151bbb-ed1f-a89c-5215be9b47e23104.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Indie Folk
-UID:38566@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38566/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -216,15 +207,6 @@ LOCATION:Happy Jack Ski Trails
 SUMMARY:Pole Mountain Shuffle Nordic Ski Race
 UID:38552@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pole-mountain-shuffle-nordic-ski-race/38552/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260116
-DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/38253/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-26-124129_0E52DC0B-FB30-FF48-6EBC3EC5DBAF30AC_0e5e0822-0038-ffb0-4303ae31f493092b.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Ecstatic Dance
-UID:38253@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ecstatic-dance/38253/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
@@ -296,15 +278,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Space Rock
 UID:38569@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-space-rock/38569/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260116
-DESCRIPTION:West Side Neighborhood Historic District Celebration\nMore info: https://www.visitlaramie.org/event/west-side-neighborhood-historic-district-celebration/38562/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_9789CE03-EA4A-CA55-CB26020ABF693933_979a615d-d8d7-0dbb-df46a18cc9c2820f.png\nCategories: Community
-GEO:41.312612;-105.601041
-LOCATION:Lincoln Community Center
-SUMMARY:West Side Neighborhood Historic District Celebration
-UID:38562@visitlaramie.org
-URL:https://www.visitlaramie.org/event/west-side-neighborhood-historic-district-celebration/38562/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260115
@@ -403,14 +376,5 @@ GEO:41.311767;-105.594545
 SUMMARY:Winter Gals’ Night at Rasmussen Jewelers &#8211\; Laramie
 UID:38591@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-gals%e2%80%99-night-at-rasmussen-jewelers-%26%238211%3b-laramie/38591/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260116
-DESCRIPTION:Big Astronomy\nMore info: https://www.visitlaramie.org/event/big-astronomy/38565/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_7AFB539B-0FD9-D474-C229D412CE2225A5_7b02f603-9e96-af70-a99b58766601bb44.png\nCategories: University of Wyoming\, Education
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Big Astronomy
-UID:38565@visitlaramie.org
-URL:https://www.visitlaramie.org/event/big-astronomy/38565/
 END:VEVENT
 END:VCALENDAR
