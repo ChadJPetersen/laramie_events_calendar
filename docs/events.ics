@@ -101,15 +101,6 @@ UID:38542@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260117
-DESCRIPTION:Dawn of the Space Age & Always Above\nMore info: https://www.visitlaramie.org/event/dawn-of-the-space-age-%26-always-above/38568/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_9B1BE0C2-C9BF-C96C-A72910487BEFCBA6_9b257c8c-ded3-9b6f-5850127f40f2b8a9.png\nCategories: University of Wyoming\, Education
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Dawn of the Space Age & Always Above
-UID:38568@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dawn-of-the-space-age-%26-always-above/38568/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 DESCRIPTION:18+ College County Night\nMore info: https://www.visitlaramie.org/event/18%2b-college-county-night/38587/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_F5F8D51C-79B2-4543-8988DEE5E4863805_9f4bd647-7c90-41cf-a6ca1edfedb14bc9.jpg\nCategories: Community
 GEO:41.312707;-105.595125
@@ -200,15 +191,6 @@ UID:38559@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-fretliners-with-box-of-rocks/38559/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260117
-DESCRIPTION:Pole Mountain Shuffle Nordic Ski Race\nMore info: https://www.visitlaramie.org/event/pole-mountain-shuffle-nordic-ski-race/38552/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-22-133230_CDF6229D-B619-93A1-80632B34CAEF0199_ce0e3a2a-c588-ff93-e378c704696857bc.png\nCategories: Community\, Outdoor Recreation
-GEO:41.311367;-105.591101
-LOCATION:Happy Jack Ski Trails
-SUMMARY:Pole Mountain Shuffle Nordic Ski Race
-UID:38552@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pole-mountain-shuffle-nordic-ski-race/38552/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
 DESCRIPTION:"Two Small Pieces of Glass - the Amazing Telescope" + Seeing\nMore info: https://www.visitlaramie.org/event/two-small-pieces-of-glass-the-amazing-telescope-%2b-seeing/38578/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/two-small-glass_C78F13A8-5056-A36F-2382A5F2D9D668CC_c7902b1a-5056-a36f-23f8270e8b759e59.jpg\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -271,15 +253,6 @@ UID:38576@visitlaramie.org
 URL:https://www.visitlaramie.org/event/hot-and-energetic-universe/38576/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260117
-DESCRIPTION:Liquid Sky: Space Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-space-rock/38569/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Space Rock
-UID:38569@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-space-rock/38569/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:Boot Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_70AAE39C-4641-416E-B5AB1E8747F100BC_c1e14bdb-b5f1-4ddc-9b38fc57fde60d89.jpg\nCategories: Community
 GEO:41.312707;-105.595125
@@ -287,15 +260,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Boot Night at The Cowboy Saloon
 UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260117
-DESCRIPTION:Bounce Cancer Walk 2026\nMore info: https://www.visitlaramie.org/event/bounce-cancer-walk-2026/38555/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Bounce-Cancer-Cover-Photo---Swoop_A350383A-C9D2-9043-515A3F3ECAE42E57_a36914fa-f2e5-8083-d7882c15c40505bc.png\nCategories: Community\, University of Wyoming
-GEO:43.075968;-107.290284
-LOCATION:UW Arena Auditorium
-SUMMARY:Bounce Cancer Walk 2026
-UID:38555@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bounce-cancer-walk-2026/38555/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
@@ -314,15 +278,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:One Sky - Planetarium Show
 UID:38574@visitlaramie.org
 URL:https://www.visitlaramie.org/event/one-sky-planetarium-show/38574/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260117
-DESCRIPTION:We Are Stars + Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/we-are-stars-%2b-great-solar-system-adventure/38567/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.19.25-2pm-Event_F9A431D2-A396-D98A-2B31D5461FB12874_f9a70f5e-dc50-4537-2049669dc4af82a7.png\nCategories: Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:We Are Stars + Great Solar System Adventure
-UID:38567@visitlaramie.org
-URL:https://www.visitlaramie.org/event/we-are-stars-%2b-great-solar-system-adventure/38567/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
