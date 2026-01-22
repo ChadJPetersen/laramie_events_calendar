@@ -29,15 +29,6 @@ UID:38577@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-dark-side-of-the-moon/38577/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-DESCRIPTION:Comedy Night! Alan Bromwell\nMore info: https://www.visitlaramie.org/event/comedy-night!-alan-bromwell/38602/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-19-134628_7017B8E8-A708-39FD-30C4DA2867E97D04_70389d69-d3a3-5a4b-9dd32465f81e1285.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:Comedy Night! Alan Bromwell
-UID:38602@visitlaramie.org
-URL:https://www.visitlaramie.org/event/comedy-night!-alan-bromwell/38602/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
 DESCRIPTION:Cowboy Saloon Presents: Brett Hendrix Band\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-brett-hendrix-band/38511/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-11-26-25-at-3.46-PM_A4B986FA-9DC2-4087-94C8A63C8918F7E8_aa129b3d-3364-48e6-8cd700a0383b2ec0.png\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -65,15 +56,6 @@ UID:38563@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laradise-music-showcase%3a-the-athletics-red-dangit/38563/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251129
-DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.305988;-105.569902
-LOCATION:Washington Park
-SUMMARY:Winter Lights Festival @ Washington Park
-UID:38498@visitlaramie.org
-URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260122
 DESCRIPTION:18+ Latin Night\nMore info: https://www.visitlaramie.org/event/18%2b-latin-night/38589/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-10_16B57FA5-F0B1-4997-87EEE5EE5B4CB4BC_2cc6d41b-11b1-4436-bded262959e8dc7e.jpg\nCategories: Community
 GEO:41.312707;-105.595125
@@ -81,6 +63,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:18+ Latin Night
 UID:38589@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-latin-night/38589/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DESCRIPTION:Winter Lights Festival @ Washington Park\nMore info: https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-11-20-112706_594FEFA0-C148-BA41-D4FC419F4D73AC79_5957819a-06d4-2a5c-615e3538a96615f6.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.305988;-105.569902
+LOCATION:Washington Park
+SUMMARY:Winter Lights Festival @ Washington Park
+UID:38498@visitlaramie.org
+URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
@@ -110,13 +101,13 @@ UID:38549@visitlaramie.org
 URL:https://www.visitlaramie.org/event/frander/38549/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-DESCRIPTION:Sound + Silence: A Restorative Yoga & Sound Bath Experience\nMore info: https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-130558_A8B32BFD-E2BF-D468-BB71F122DEB5A8F6_a8c93c5b-9e49-33c5-df1bf3e459115d73.png\nCategories: Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Sound + Silence: A Restorative Yoga & Sound Bath Experience
-UID:38542@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38600/\nVenue: Moose Lodge\nVenue Info: https://www.visitlaramie.org/listing/moose-lodge/650/\nCategories: Social Events
+GEO:41.309647;-105.593394
+LOCATION:Moose Lodge
+SUMMARY:Bingo
+UID:38600@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bingo/38600/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
