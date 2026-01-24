@@ -11,6 +11,15 @@ UID:38584@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laradise-music-showcase%3a-bob-lefevre-%26-the-already-gone-pushroot/38584/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260207
+DESCRIPTION:Puzzle Palooza 2026\nMore info: https://www.visitlaramie.org/event/puzzle-palooza-2026/38642/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/PuzzleCover_100DD93B-BC05-812C-D6A4D0E83B379078_103373f9-eac0-c1af-344e244b5770411d.png\nCategories: Family Fun
+GEO:41.326525;-105.592575
+LOCATION:Eppson Center of Laramie
+SUMMARY:Puzzle Palooza 2026
+UID:38642@visitlaramie.org
+URL:https://www.visitlaramie.org/event/puzzle-palooza-2026/38642/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
 DESCRIPTION:6th Annual Snow Dawg\nMore info: https://www.visitlaramie.org/event/6th-annual-snow-dawg/38551/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-22-133316_CDCB6700-063B-9E69-AB215E2BD037C8CF_cde7a63d-cf58-e624-3722bc96ca6adbe8.png\nCategories: Community\, Outdoor Recreation
 GEO:41.311367;-105.591101
@@ -56,15 +65,6 @@ UID:38609@visitlaramie.org
 URL:https://www.visitlaramie.org/event/lift-every-voice-and-sing%3a-celebrating-the-music-of-black-composers/38609/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260123
-DESCRIPTION:Cowboy Saloon Presents: Brett Hendrix Band\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-brett-hendrix-band/38511/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-11-26-25-at-3.46-PM_A4B986FA-9DC2-4087-94C8A63C8918F7E8_aa129b3d-3364-48e6-8cd700a0383b2ec0.png\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: Brett Hendrix Band
-UID:38511@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-brett-hendrix-band/38511/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DESCRIPTION:UNDIVIDE US Film Screening\nMore info: https://www.visitlaramie.org/event/undivide-us-film-screening/38596/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Undivide-US_3908D7EE-0F7E-D8E1-D7CE4EAA9EB91EC1_392d433b-d942-8a1a-bab01cf70df40fca.jpg\nCategories: University of Wyoming
 GEO:41.313163;-105.581309
@@ -99,6 +99,15 @@ LOCATION:Washington Park
 SUMMARY:Winter Lights Festival @ Washington Park
 UID:38498@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Ecstatic Dance @ Seek Yoga Studio\nMore info: https://www.visitlaramie.org/event/ecstatic-dance-%40-seek-yoga-studio/38647/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-23-112708_3903DA47-A288-9532-6F0E9B8BA53043F1_390d32d4-f957-2188-565ce94049459caf.png\nCategories: Craft Classes & Workshops
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Ecstatic Dance @ Seek Yoga Studio
+UID:38647@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ecstatic-dance-%40-seek-yoga-studio/38647/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
@@ -191,6 +200,15 @@ UID:38587@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260124
+DESCRIPTION:High vs. Low\nMore info: https://www.visitlaramie.org/event/high-vs-low/38645/\nVenue: Black Tooth Brewing Company - Laramie\nVenue Info: https://www.visitlaramie.org/listing/black-tooth-brewing-company-laramie/1865/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-23-111105_3871E968-D5C9-29D4-40719CB12754994D_3878fd77-aa11-6dfe-77a4ffa3d0476152.png\nCategories: Concerts & Live Music\, Community
+GEO:41.310983;-105.595782
+LOCATION:Black Tooth Brewing Company - Laramie
+SUMMARY:High vs. Low
+UID:38645@visitlaramie.org
+URL:https://www.visitlaramie.org/event/high-vs-low/38645/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DESCRIPTION:WHAT WAS OURS\, WHO SHE IS\nMore info: https://www.visitlaramie.org/event/what-was-ours-who-she-is/38554/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/what-was-ours-who-she-is_F93CF254-C298-3316-8289B19FDA18F591_f9501edb-fb7b-e66f-de7580b211eb8da2.png\nCategories: Performing Arts & Culture
 GEO:41.312616;-105.570928
@@ -281,15 +299,6 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260124
-DESCRIPTION:Cowboy Basketball Vs. San Jose State\nMore info: https://www.visitlaramie.org/event/cowboy-basketball-vs-san-jose-state/38624/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124246_0843794F-C365-8251-F852A7E8A4CFB686_086c4019-a95e-acd4-8f849364737a91b5.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.313459;-105.561558
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowboy Basketball Vs. San Jose State
-UID:38624@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-basketball-vs-san-jose-state/38624/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DESCRIPTION:Snowflake Colorwork Sweater Class\nMore info: https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-142109_30554D2B-D89A-40E4-A88751FB0099BD69_306e0665-eae0-061c-ddcf241751758608.png\nCategories: Community\, Education\, Craft Classes & Workshops
 GEO:41.312291;-105.595158
@@ -299,6 +308,15 @@ UID:38533@visitlaramie.org
 URL:https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260124
+DESCRIPTION:Cowboy Basketball Vs. San Jose State\nMore info: https://www.visitlaramie.org/event/cowboy-basketball-vs-san-jose-state/38624/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124246_0843794F-C365-8251-F852A7E8A4CFB686_086c4019-a95e-acd4-8f849364737a91b5.png\nCategories: Community\, University of Wyoming\, Sports
+GEO:41.313459;-105.561558
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowboy Basketball Vs. San Jose State
+UID:38624@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-basketball-vs-san-jose-state/38624/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260130
 DESCRIPTION:The Fretliners with Box of Rocks\nMore info: https://www.visitlaramie.org/event/the-fretliners-with-box-of-rocks/38559/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FretlinersBoR4x5-1-_2CE87656-B971-4A8C-AB4B067BC3E2048E_2cebefcf-c34d-d8e2-6cbff70805c89c89.jpg\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -306,6 +324,24 @@ LOCATION:The Gryphon Theatre
 SUMMARY:The Fretliners with Box of Rocks
 UID:38559@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-fretliners-with-box-of-rocks/38559/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Liquid Sky: Beatles\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-beatles/31070/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-134308_B924C571-90E1-43C6-81FFA1C74555C792_b92674a5-dcea-7463-71aa80ea2cd7e058.png\nCategories: University of Wyoming\, Social Events
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: Beatles
+UID:31070@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-beatles/31070/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Cowboy Saloon Presents: Jason Moore Live &#8211\; Friday\, February 6th\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-jason-moore-live-%26%238211%3b-friday-february-6th/38617/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_F573B95A-8883-4456-A960B78A14A84CCA_d67994ed-10e1-4f82-abda4ea46ee79a37.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Jason Moore Live &#8211\; Friday\, February 6th
+UID:38617@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-jason-moore-live-%26%238211%3b-friday-february-6th/38617/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
@@ -324,14 +360,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Two Small Pieces of Glass - the Amazing Telescope" + Seeing
 UID:38578@visitlaramie.org
 URL:https://www.visitlaramie.org/event/two-small-pieces-of-glass-the-amazing-telescope-%2b-seeing/38578/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260123
-DESCRIPTION:Dark Biosphere\nMore info: https://www.visitlaramie.org/event/dark-biosphere/38571/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.12.25-Event_F919F728-0DF9-3621-61A6A2B43E9EBE7B_f91cd057-a46f-7ab1-a1b7d04c10567177.png\nCategories: Community\, University of Wyoming
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Dark Biosphere
-UID:38571@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dark-biosphere/38571/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
@@ -386,6 +414,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:An Evening with Renee Elise Goldsberry
 UID:38550@visitlaramie.org
 URL:https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry/38550/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260131
+DESCRIPTION:Cowboy Saloon Presents: Thane Zickefoose Live &#8211\; Saturday\, January 31st\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-thane-zickefoose-live-%26%238211%3b-saturday-january-31st/38615/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_BBD7BEBE-77A5-45E2-BBCF61384158398C_ebe972b2-c349-4f10-86dc91cbcdf28944.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Thane Zickefoose Live &#8211\; Saturday\, January 31st
+UID:38615@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-thane-zickefoose-live-%26%238211%3b-saturday-january-31st/38615/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260207
@@ -550,6 +587,15 @@ UID:38553@visitlaramie.org
 URL:https://www.visitlaramie.org/event/repertory-dance-theatre/38553/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Cowboy Saloon Presents: Mix & Mingle &#8211\; Valentine’s Day Party & Scavenger Hunt\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-mix-%26-mingle-%26%238211%3b-valentine%e2%80%99s-day-party-%26-scavenger-hunt/38618/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-3_095C748F-D2E1-43F6-98169D4DA9570E44_c526668b-1376-4779-87f8e1cd8989e90f.jpg\nCategories: Social Events
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Mix & Mingle &#8211\; Valentine’s Day Party & Scavenger Hunt
+UID:38618@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-mix-%26-mingle-%26%238211%3b-valentine%e2%80%99s-day-party-%26-scavenger-hunt/38618/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260206
 DESCRIPTION:All About Apollo\nMore info: https://www.visitlaramie.org/event/all-about-apollo/38611/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_4D49613E-5056-A36F-234534B12371FDCE_4d4c2f56-5056-a36f-2393b1f52dc3135f.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
 GEO:41.313709;-105.590644
@@ -566,15 +612,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:"Dark Matter Mystery"
 UID:38579@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dark-matter-mystery/38579/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260123
-DESCRIPTION:Liquid Sky: Tranquility + Relaxation\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-tranquility-%2b-relaxation/38572/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events11_15C87778-5056-A36F-23D10544D73C2012_15d1ae5a-5056-a36f-23ffbc32f80cb1da.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Tranquility + Relaxation
-UID:38572@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-tranquility-%2b-relaxation/38572/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260207
@@ -604,12 +641,21 @@ UID:38604@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sock-hop/38604/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Liquid Sky: Beatles\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-beatles/31070/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-134308_B924C571-90E1-43C6-81FFA1C74555C792_b92674a5-dcea-7463-71aa80ea2cd7e058.png\nCategories: University of Wyoming\, Social Events
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Beatles
-UID:31070@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-beatles/31070/
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Friday at the Buck Presents: Gardj's Birthday Show\nMore info: https://www.visitlaramie.org/event/friday-at-the-buck-presents%3a-gardjs-birthday-show/37711/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/1799/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-121735_076E8891-0B37-4195-DE255C5BD0EFEA41_076f1198-c501-d263-88179371dddd77ae.png\nCategories: Concerts & Live Music
+GEO:41.311952;-105.595415
+LOCATION:Buckhorn Bar & Parlor
+SUMMARY:Friday at the Buck Presents: Gardj's Birthday Show
+UID:37711@visitlaramie.org
+URL:https://www.visitlaramie.org/event/friday-at-the-buck-presents%3a-gardjs-birthday-show/37711/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260207
+DESCRIPTION:Cowboy Saloon Presents: Ryan Charles aka Jiggy Buckaroo with guest Jaden Schumacher - February 7th\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-ryan-charles-aka-jiggy-buckaroo-with-guest-jaden-schumacher-february-7th/38623/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_0975A3A8-0175-4584-88F460BB72172FB0_664b208c-1d1a-4e9b-9e79df4cb2075e49.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Ryan Charles aka Jiggy Buckaroo with guest Jaden Schumacher - February 7th
+UID:38623@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-ryan-charles-aka-jiggy-buckaroo-with-guest-jaden-schumacher-february-7th/38623/
 END:VEVENT
 END:VCALENDAR
