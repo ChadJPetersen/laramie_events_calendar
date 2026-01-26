@@ -128,13 +128,22 @@ UID:38432@visitlaramie.org
 URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260125
-DESCRIPTION:CELEBRATING 100 YEARS OF THE E.M. SKINNER ORGAN\nMore info: https://www.visitlaramie.org/event/celebrating-100-years-of-the-e-m-skinner-organ/38607/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-103313_039F2FEB-FF52-580E-8081180BBB62587D_03a2723b-dd49-ed6b-4608a3a17cf63071.png\nCategories: Performing Arts & Culture
-GEO:41.312183;-105.592984
-LOCATION:St. Matthew's Cathedral
-SUMMARY:CELEBRATING 100 YEARS OF THE E.M. SKINNER ORGAN
-UID:38607@visitlaramie.org
-URL:https://www.visitlaramie.org/event/celebrating-100-years-of-the-e-m-skinner-organ/38607/
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Sound + Silence: A Restorative Yoga & Sound Bath Experience\nMore info: https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-130558_A8B32BFD-E2BF-D468-BB71F122DEB5A8F6_a8c93c5b-9e49-33c5-df1bf3e459115d73.png\nCategories: Craft Classes & Workshops
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Sound + Silence: A Restorative Yoga & Sound Bath Experience
+UID:38542@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Liquid Sky: Pop\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pop/35124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: Pop
+UID:35124@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/35124/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
@@ -153,15 +162,6 @@ LOCATION:Laramie's Historic Railroad Depot
 SUMMARY:Peace of Mind's 4th Annual Hot Cocoa Contest
 UID:38594@visitlaramie.org
 URL:https://www.visitlaramie.org/event/peace-of-minds-4th-annual-hot-cocoa-contest/38594/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260221
-DESCRIPTION:Liquid Sky: Pop\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pop/35124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Pop
-UID:35124@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/35124/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
