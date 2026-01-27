@@ -101,6 +101,15 @@ UID:38498@visitlaramie.org
 URL:https://www.visitlaramie.org/event/winter-lights-festival-%40-washington-park/38498/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:18+ Latin Night\nMore info: https://www.visitlaramie.org/event/18%2b-latin-night/38589/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-10_16B57FA5-F0B1-4997-87EEE5EE5B4CB4BC_2cc6d41b-11b1-4436-bded262959e8dc7e.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:18+ Latin Night
+UID:38589@visitlaramie.org
+URL:https://www.visitlaramie.org/event/18%2b-latin-night/38589/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DESCRIPTION:Ecstatic Dance @ Seek Yoga Studio\nMore info: https://www.visitlaramie.org/event/ecstatic-dance-%40-seek-yoga-studio/38647/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-23-112708_3903DA47-A288-9532-6F0E9B8BA53043F1_390d32d4-f957-2188-565ce94049459caf.png\nCategories: Craft Classes & Workshops
 GEO:41.313179;-105.595024
