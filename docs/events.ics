@@ -84,7 +84,7 @@ URL:https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38592/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
-DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nCategories: University of Wyoming\, Performing Arts & Culture
+DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
 LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: 15 Prints
@@ -137,6 +137,15 @@ UID:38597@visitlaramie.org
 URL:https://www.visitlaramie.org/event/public-enemies-private-friends-film-screening/38597/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Backcountry Film Festival\nMore info: https://www.visitlaramie.org/event/backcountry-film-festival/38655/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Laramie-Poster-Updated_6B3E9D13-EB71-EB7A-8B87C7ACC1B327B9_6b44c20c-0356-1485-8fd1fa048314a7af.png\nCategories: Annual Events & Festivals
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Backcountry Film Festival
+UID:38655@visitlaramie.org
+URL:https://www.visitlaramie.org/event/backcountry-film-festival/38655/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260207
 DESCRIPTION:Cowboy Basketball Vs. Utah State\nMore info: https://www.visitlaramie.org/event/cowboy-basketball-vs-utah-state/38629/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124246_0843794F-C365-8251-F852A7E8A4CFB686_086c4019-a95e-acd4-8f849364737a91b5.png\nCategories: Community\, University of Wyoming\, Sports
 GEO:41.313459;-105.561558
@@ -147,7 +156,7 @@ URL:https://www.visitlaramie.org/event/cowboy-basketball-vs-utah-state/38629/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
-DESCRIPTION:Relative Theatrics Presents: Feast\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents%3a-feast/38648/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-12-133804_06D07A37-B57D-A571-1F28111D68B82ED7_0708c9d3-c968-250c-0045d1f13ff9208f.png\nCategories: Community\, Performing Arts & Culture
+DESCRIPTION:Relative Theatrics Presents: Feast\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents%3a-feast/38648/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-124232_70BA0209-9F2B-B692-46C3A13327CD31DA_70bade3f-0fcf-5ce1-491fba7ce9cd3bb5.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
 LOCATION:Laramie Plains Civic Center
 SUMMARY:Relative Theatrics Presents: Feast
@@ -234,6 +243,15 @@ LOCATION:Laramie Ice & Event Center
 SUMMARY:Cupid's Curling Classic
 UID:38599@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cupids-curling-classic/38599/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260131
+DESCRIPTION:Patrick Kikut Exhibit\nMore info: https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-125343_712CE6BE-B0EE-9262-527DA15C39363978_720426be-04ff-9e88-8d65986d09c3ef1e.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Patrick Kikut Exhibit
+UID:38657@visitlaramie.org
+URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
@@ -389,6 +407,15 @@ UID:38596@visitlaramie.org
 URL:https://www.visitlaramie.org/event/undivide-us-film-screening/38596/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Open Jam Night at the Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Open-Jams-Poster-OFF-CAMPUS-NO-QR_6ADB1FA1-F2DF-AC3F-37D8170BA0BFFE9A_6aec4520-d398-8ef9-48eb157459b0f6a4.png\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Open Jam Night at the Gryphon Theatre
+UID:38654@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
 DESCRIPTION:Cowboy Wrestling vs Oregon State University\nMore info: https://www.visitlaramie.org/event/cowboy-wrestling-vs-oregon-state-university/38628/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-130126_08F8ADF3-0A67-0A54-E2E2E0BA761CB8BA_090dbe41-f33b-cb50-7318b6bda8fd74c9.png\nCategories: Community\, University of Wyoming\, Sports
 GEO:41.312460;-105.570067
@@ -495,15 +522,6 @@ LOCATION:University of Wyoming
 SUMMARY:Cowboy Wrestling vs Univ of Oklahoma
 UID:38632@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-wrestling-vs-univ-of-oklahoma/38632/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260130
-DESCRIPTION:UW Theatre Presents: What Was Ours / Who She Is\nMore info: https://www.visitlaramie.org/event/uw-theatre-presents%3a-what-was-ours-who-she-is/38651/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-27-130442_0A83AB55-FC25-613B-CB64A72E01EF848E_0a9ca6d4-a2cf-fc21-2156c2ce96b31148.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:UW Theatre Presents: What Was Ours / Who She Is
-UID:38651@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-theatre-presents%3a-what-was-ours-who-she-is/38651/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260220
@@ -711,6 +729,15 @@ LOCATION:Seek Yoga Studio
 SUMMARY:Rhythmic Flow @ Seek Yoga Studio
 UID:38646@visitlaramie.org
 URL:https://www.visitlaramie.org/event/rhythmic-flow-%40-seek-yoga-studio/38646/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260131
+DESCRIPTION:Andy Warhol: Ten Clips\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-ten-clips/38658/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-26-113044_7295C141-D088-B65B-EB31ABF30CB336DD_730fdef2-c687-094e-c0813a15df591e59.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Andy Warhol: Ten Clips
+UID:38658@visitlaramie.org
+URL:https://www.visitlaramie.org/event/andy-warhol%3a-ten-clips/38658/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
