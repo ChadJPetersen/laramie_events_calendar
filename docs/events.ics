@@ -263,13 +263,13 @@ UID:38592@visitlaramie.org
 URL:https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38592/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+DTSTART;VALUE=DATE:20260131
+DESCRIPTION:Patrick Kikut Exhibit\nMore info: https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-125343_712CE6BE-B0EE-9262-527DA15C39363978_720426be-04ff-9e88-8d65986d09c3ef1e.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Patrick Kikut Exhibit
+UID:38657@visitlaramie.org
+URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
@@ -281,15 +281,6 @@ UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260131
-DESCRIPTION:Patrick Kikut Exhibit\nMore info: https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-125343_712CE6BE-B0EE-9262-527DA15C39363978_720426be-04ff-9e88-8d65986d09c3ef1e.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Patrick Kikut Exhibit
-UID:38657@visitlaramie.org
-URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DESCRIPTION:Snowflake Colorwork Sweater Class\nMore info: https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-142109_30554D2B-D89A-40E4-A88751FB0099BD69_306e0665-eae0-061c-ddcf241751758608.png\nCategories: Community\, Education\, Craft Classes & Workshops
 GEO:41.312291;-105.595158
@@ -297,6 +288,15 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Snowflake Colorwork Sweater Class
 UID:38533@visitlaramie.org
 URL:https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
