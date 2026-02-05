@@ -182,15 +182,6 @@ UID:38551@visitlaramie.org
 URL:https://www.visitlaramie.org/event/6th-annual-snow-dawg/38551/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-DESCRIPTION:Open Mic Comedy Night\nMore info: https://www.visitlaramie.org/event/open-mic-comedy-night/38161/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-30-134126_A64EADAE-E5F8-3F5E-0C68B73FD2A5374D_a64f5a17-ac5f-2fcc-1191d245b32e2224.png\nCategories: Performing Arts & Culture
-GEO:41.312280;-105.595636
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Open Mic Comedy Night
-UID:38161@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-mic-comedy-night/38161/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260206
 DESCRIPTION:Laradise Music Showcase: The Athletics / Red Dangit\nMore info: https://www.visitlaramie.org/event/laradise-music-showcase%3a-the-athletics-red-dangit/38563/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/AthleticsRed_Dangit_91694242-E399-8418-BE0EC8B5A4EBCD21_91755e29-bdd2-59a0-29d2920c9c90f258.jpg\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -218,8 +209,17 @@ UID:38587@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:Cowboy Saloon Presents: Kenny Feidler Live &#8211\; March 7th (Wyoming Day)\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-kenny-feidler-live-%26%238211%3b-march-7th-(wyoming-day)/38619/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-4_CA3D47F2-40EA-46F6-BF6BBBEB78A1F946_2c037b34-2806-4cd6-abdfeb0416389158.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Kenny Feidler Live &#8211\; March 7th (Wyoming Day)
+UID:38619@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-kenny-feidler-live-%26%238211%3b-march-7th-(wyoming-day)/38619/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260214
-DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/38664/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-03-095118_6C138B2E-E125-9DA9-A35288B97D490CD6_6c192817-d865-f866-47717eacc2c3be47.png\nCategories: Concerts & Live Music\, Community
+DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/38664/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/image0-1-_9FEE75E4-04EE-BC02-0F0CD8EEE6ED3A3F_9feff5a3-ea92-5e5a-9659da4a517a63b8.jpg\nCategories: Concerts & Live Music\, Community
 GEO:41.311928;-105.600431
 LOCATION:Lincoln Community Center
 SUMMARY:Ecstatic Dance
@@ -605,6 +605,15 @@ UID:38610@visitlaramie.org
 URL:https://www.visitlaramie.org/event/lift-every-voice-and-sing%3a-celebrating-the-music-of-black-composers/38610/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:The Emerald Society Gin House\nMore info: https://www.visitlaramie.org/event/the-emerald-society-gin-house/38603/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-19-135300_7054AFE9-B2DC-CFC7-527669840AB1ECD5_705fb5ea-c994-4e03-349a2490e6c84cf0.png\nCategories: Community
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:The Emerald Society Gin House
+UID:38603@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-emerald-society-gin-house/38603/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
 DESCRIPTION:Bond's Trivia & Tacos Tuesdays\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-124616_3777E407-90DA-7991-E6BF0FD77B3A4180_377bbbf4-fac6-2373-5775b9dbbc83b354.png\nCategories: Community\, Social Events
 GEO:41.309652;-105.594751
@@ -675,15 +684,6 @@ LOCATION:Laramie Community Recreation Center
 SUMMARY:Luau in Laradise
 UID:38653@visitlaramie.org
 URL:https://www.visitlaramie.org/event/luau-in-laradise/38653/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-DESCRIPTION:Cowgirl Basketball vs. New Mexico\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-new-mexico/38627/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.313459;-105.561558
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowgirl Basketball vs. New Mexico
-UID:38627@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-basketball-vs-new-mexico/38627/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260115
