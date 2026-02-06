@@ -245,13 +245,13 @@ UID:38657@visitlaramie.org
 URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251204
-DESCRIPTION:Clearing the Channel with Meghan Lucas (in-person or virtual)\nMore info: https://www.visitlaramie.org/event/clearing-the-channel-with-meghan-lucas-(in-person-or-virtual)/38440/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-23-141236_BB199936-BAEF-5526-FE84D4800FBD4DD1_bb2d88bc-ce53-ac46-c33b628896472f00.png\nCategories: Community\, Virtual\, Performing Arts & Culture
-GEO:41.312877;-105.595095
-LOCATION:The Collective
-SUMMARY:Clearing the Channel with Meghan Lucas (in-person or virtual)
-UID:38440@visitlaramie.org
-URL:https://www.visitlaramie.org/event/clearing-the-channel-with-meghan-lucas-(in-person-or-virtual)/38440/
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:Home Brewer's Festival\nMore info: https://www.visitlaramie.org/event/home-brewers-festival/38669/\nVenue: Gym Event Spaces at Laramie Plains Civic Center\nVenue Info: https://www.visitlaramie.org/listing/gym-event-spaces-at-laramie-plains-civic-center/647/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-095653_D35B26FA-0C7C-2E9A-591733F5FF7A8379_d3756d61-0d10-f6d7-aba52307922de413.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:Gym Event Spaces at Laramie Plains Civic Center
+SUMMARY:Home Brewer's Festival
+UID:38669@visitlaramie.org
+URL:https://www.visitlaramie.org/event/home-brewers-festival/38669/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260207
@@ -524,6 +524,15 @@ UID:31520@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dust-light-dust/31520/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Comedy That Cares- Cody Woods & Isaac Knoxx\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-cody-woods-%26-isaac-knoxx/38670/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-03-140951_D3CF09E8-FAE3-18CA-6382B324E28DC208_d41356d0-be41-b0f9-2111225131355621.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Comedy That Cares- Cody Woods & Isaac Knoxx
+UID:38670@visitlaramie.org
+URL:https://www.visitlaramie.org/event/comedy-that-cares-cody-woods-%26-isaac-knoxx/38670/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260214
 DESCRIPTION:Cowboy Saloon Presents: Mix & Mingle &#8211\; Valentine’s Day Party & Scavenger Hunt\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-mix-%26-mingle-%26%238211%3b-valentine%e2%80%99s-day-party-%26-scavenger-hunt/38618/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-3_095C748F-D2E1-43F6-98169D4DA9570E44_c526668b-1376-4779-87f8e1cd8989e90f.jpg\nCategories: Social Events
 GEO:41.312707;-105.595125
@@ -693,6 +702,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Boot Night at The Cowboy Saloon
 UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Poker Run 2026\nMore info: https://www.visitlaramie.org/event/poker-run-2026/38672/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-103622_D4AA3E3E-B14A-D6FF-74615EC5C424BC9A_d4bf9b41-dcfd-7260-c506361e618b4db7.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Sports\, Social Events
+GEO:41.298305;-106.141677
+LOCATION:Medicine Bow National Forest
+SUMMARY:Poker Run 2026
+UID:38672@visitlaramie.org
+URL:https://www.visitlaramie.org/event/poker-run-2026/38672/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
