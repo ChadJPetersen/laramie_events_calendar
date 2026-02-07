@@ -83,15 +83,6 @@ UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260206
-DESCRIPTION:Cowboy Saloon Presents: Jason Moore Live &#8211\; Friday\, February 6th\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-jason-moore-live-%26%238211%3b-friday-february-6th/38617/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_F573B95A-8883-4456-A960B78A14A84CCA_d67994ed-10e1-4f82-abda4ea46ee79a37.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: Jason Moore Live &#8211\; Friday\, February 6th
-UID:38617@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-jason-moore-live-%26%238211%3b-friday-february-6th/38617/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260207
 DESCRIPTION:Send-It Weekend Sale\nMore info: https://www.visitlaramie.org/event/send-it-weekend-sale/38662/\nVenue: Westgate Sports and Trading Post\nVenue Info: https://www.visitlaramie.org/listing/westgate-sports-and-trading-post/416/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-03-095622_6C3C7AB6-CA60-0D78-D54D86D2F85B79C3_6c3d5c5d-c618-b7fd-ee31d85c039a20f3.png\nCategories: Outdoor Recreation
 GEO:41.309200;-105.622880
@@ -146,6 +137,15 @@ UID:38648@visitlaramie.org
 URL:https://www.visitlaramie.org/event/relative-theatrics-presents%3a-feast/38648/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Valentine's Day Dinner & Live Music\nMore info: https://www.visitlaramie.org/event/valentines-day-dinner-%26-live-music/38674/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-06-112258_0A30E9A6-C268-D772-2CC36048238690EE_0a65cde6-0fb3-4873-b9cb6aabbde8bc27.png\nCategories: Concerts & Live Music\, Community
+GEO:41.312129;-105.591254
+LOCATION:Husted-Pendleton American Legion Post 14
+SUMMARY:Valentine's Day Dinner & Live Music
+UID:38674@visitlaramie.org
+URL:https://www.visitlaramie.org/event/valentines-day-dinner-%26-live-music/38674/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
 DESCRIPTION:UW Cowboy W's Basketball vs. Grand Canyon University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events5_D79E1239-5056-A36F-2378598A883507C9_d7e2c9cc-5056-a36f-23586dc850bbdd92.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.313325;-105.569388
@@ -180,15 +180,6 @@ LOCATION:Happy Jack Rec. Area
 SUMMARY:6th Annual Snow Dawg
 UID:38551@visitlaramie.org
 URL:https://www.visitlaramie.org/event/6th-annual-snow-dawg/38551/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260206
-DESCRIPTION:Laradise Music Showcase: The Athletics / Red Dangit\nMore info: https://www.visitlaramie.org/event/laradise-music-showcase%3a-the-athletics-red-dangit/38563/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/AthleticsRed_Dangit_91694242-E399-8418-BE0EC8B5A4EBCD21_91755e29-bdd2-59a0-29d2920c9c90f258.jpg\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Laradise Music Showcase: The Athletics / Red Dangit
-UID:38563@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laradise-music-showcase%3a-the-athletics-red-dangit/38563/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
@@ -245,6 +236,15 @@ UID:38657@visitlaramie.org
 URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Valentine's Day Dinner & Beer Pairing\nMore info: https://www.visitlaramie.org/event/valentines-day-dinner-%26-beer-pairing/38676/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-06-115151_0AE46582-911E-3581-66B36388125B32C8_0b00d7dc-9fa4-a044-599edf2610fb9602.png\nCategories: Community\, Social Events
+GEO:41.309643;-105.594735
+LOCATION:Bond's Brewing Company
+SUMMARY:Valentine's Day Dinner & Beer Pairing
+UID:38676@visitlaramie.org
+URL:https://www.visitlaramie.org/event/valentines-day-dinner-%26-beer-pairing/38676/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
 DESCRIPTION:Home Brewer's Festival\nMore info: https://www.visitlaramie.org/event/home-brewers-festival/38669/\nVenue: Gym Event Spaces at Laramie Plains Civic Center\nVenue Info: https://www.visitlaramie.org/listing/gym-event-spaces-at-laramie-plains-civic-center/647/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-095653_D35B26FA-0C7C-2E9A-591733F5FF7A8379_d3756d61-0d10-f6d7-aba52307922de413.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -288,15 +288,6 @@ LOCATION:Buchanan Center for the Performing Arts Main Stage
 SUMMARY:Repertory Dance Theatre
 UID:38553@visitlaramie.org
 URL:https://www.visitlaramie.org/event/repertory-dance-theatre/38553/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260206
-DESCRIPTION:All About Apollo\nMore info: https://www.visitlaramie.org/event/all-about-apollo/38611/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events1_4D49613E-5056-A36F-234534B12371FDCE_4d4c2f56-5056-a36f-2393b1f52dc3135f.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:All About Apollo
-UID:38611@visitlaramie.org
-URL:https://www.visitlaramie.org/event/all-about-apollo/38611/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
@@ -416,6 +407,15 @@ UID:38589@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-latin-night/38589/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Sweetheart Public Skate\nMore info: https://www.visitlaramie.org/event/sweetheart-public-skate/38673/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Sweetheart-Skate_DF30BFBE-0622-8D81-18314F1C084FD53C_df41c68e-0074-3a88-707b299f5d753053.png\nCategories: Family Fun\, Social Events
+GEO:41.305775;-105.551024
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Sweetheart Public Skate
+UID:38673@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sweetheart-public-skate/38673/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DESCRIPTION:Ecstatic Dance @ Seek Yoga Studio\nMore info: https://www.visitlaramie.org/event/ecstatic-dance-%40-seek-yoga-studio/38647/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-23-112708_3903DA47-A288-9532-6F0E9B8BA53043F1_390d32d4-f957-2188-565ce94049459caf.png\nCategories: Craft Classes & Workshops
 GEO:41.313179;-105.595024
@@ -450,6 +450,15 @@ LOCATION:Arena-Auditorium
 SUMMARY:UW Cowboy M's Basketball vs. Univ of Nevada
 UID:38666@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-ms-basketball-vs-univ-of-nevada/38666/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:A Sometimes Paradise: Reflections on Life in a Wyoming Ranch Family\nMore info: https://www.visitlaramie.org/event/a-sometimes-paradise%3a-reflections-on-life-in-a-wyoming-ranch-family/38678/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-094254_0F511CFB-C21D-05A5-474B615B19BC8EA6_0f66ee2b-ae6e-4d71-cda0f41fa73d339c.png\nCategories: History\, Community\, Performing Arts & Culture
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:A Sometimes Paradise: Reflections on Life in a Wyoming Ranch Family
+UID:38678@visitlaramie.org
+URL:https://www.visitlaramie.org/event/a-sometimes-paradise%3a-reflections-on-life-in-a-wyoming-ranch-family/38678/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
@@ -677,15 +686,6 @@ UID:38608@visitlaramie.org
 URL:https://www.visitlaramie.org/event/trio-grande-2-0-multinational-jazz-trio/38608/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260206
-DESCRIPTION:Liquid Sky: Space Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-space-rock/38569/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events6_A1C97AF3-5056-A36F-23E23360D94AA06A_a1d832a0-5056-a36f-2321ec9fdaadb3bf.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Space Rock
-UID:38569@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-space-rock/38569/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260306
 DESCRIPTION:Luau in Laradise\nMore info: https://www.visitlaramie.org/event/luau-in-laradise/38653/\nVenue: Laramie Community Recreation Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-community-recreation-center/66/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Luau-in-Laradise-Graphins-1-_3F9CB437-DE95-8AE9-B877BF62E6B41375_3fa35d25-b970-7384-b2670676572545e8.png\nCategories: Annual Events & Festivals\, Community
 GEO:41.304977;-105.548536
@@ -705,7 +705,7 @@ URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
-DESCRIPTION:Poker Run 2026\nMore info: https://www.visitlaramie.org/event/poker-run-2026/38672/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-103622_D4AA3E3E-B14A-D6FF-74615EC5C424BC9A_d4bf9b41-dcfd-7260-c506361e618b4db7.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Sports\, Social Events
+DESCRIPTION:Poker Run 2026\nMore info: https://www.visitlaramie.org/event/poker-run-2026/38672/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-06-125023_0CF6F056-A999-B498-C86E69769B055EBD_0cf9b284-e0f3-0853-d5e060d74ae8aab1.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Sports\, Social Events
 GEO:41.298305;-106.141677
 LOCATION:Medicine Bow National Forest
 SUMMARY:Poker Run 2026
@@ -738,6 +738,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: Ten Clips
 UID:38658@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-ten-clips/38658/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Valentine's Day Dinner\nMore info: https://www.visitlaramie.org/event/valentines-day-dinner/38677/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-06-115925_0B2AEC11-F28B-0B37-C077435ED10C5636_0b743930-e0d7-aab1-ea94837890db97c1.png\nCategories: Community\, Social Events
+GEO:41.325456;-105.596768
+LOCATION:FOE Laramie\, Wy Eagles 3493
+SUMMARY:Valentine's Day Dinner
+UID:38677@visitlaramie.org
+URL:https://www.visitlaramie.org/event/valentines-day-dinner/38677/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
