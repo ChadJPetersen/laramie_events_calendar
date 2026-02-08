@@ -38,15 +38,6 @@ UID:38561@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-carson-jeffrey/38561/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260207
-DESCRIPTION:Liquid Sky: Country\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-country/31423/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events11_15C87778-5056-A36F-23D10544D73C2012_15d1ae5a-5056-a36f-23ffbc32f80cb1da.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Country
-UID:31423@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-country/31423/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260210
 DESCRIPTION:Wyoming Skies: Herschel Objects\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-herschel-objects/38612/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-105325_0453B2C2-9BDC-D9D4-5C85CDE6173FFA6D_045919ca-e7f1-a61a-6e0570a24a5c4482.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
 GEO:41.323643;-105.583027
@@ -119,15 +110,6 @@ UID:38655@visitlaramie.org
 URL:https://www.visitlaramie.org/event/backcountry-film-festival/38655/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260207
-DESCRIPTION:Cowboy Basketball Vs. Utah State\nMore info: https://www.visitlaramie.org/event/cowboy-basketball-vs-utah-state/38629/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124246_0843794F-C365-8251-F852A7E8A4CFB686_086c4019-a95e-acd4-8f849364737a91b5.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.313459;-105.561558
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowboy Basketball Vs. Utah State
-UID:38629@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-basketball-vs-utah-state/38629/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DESCRIPTION:Relative Theatrics Presents: Feast\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents%3a-feast/38648/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-27-094903_A0F83071-9990-9F6F-BF5338E44E2A9F1A_a0f9b11d-b2bc-9372-65945b1339d2ccd8.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -162,15 +144,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Retro Rock
 UID:37968@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/37968/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260207
-DESCRIPTION:Forward! To the Moon\nMore info: https://www.visitlaramie.org/event/forward!-to-the-moon/36956/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_9B656FA7-906F-86D1-4807E29C31BDC662_9b7bd5fb-b2c3-ea90-7566181ae6603606.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Forward! To the Moon
-UID:36956@visitlaramie.org
-URL:https://www.visitlaramie.org/event/forward!-to-the-moon/36956/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260208
@@ -254,15 +227,6 @@ UID:38669@visitlaramie.org
 URL:https://www.visitlaramie.org/event/home-brewers-festival/38669/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260207
-DESCRIPTION:From Earth to the Universe\nMore info: https://www.visitlaramie.org/event/from-earth-to-the-universe/36486/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events4_52A9EC0F-5056-A36F-23DAF3426C33CB64_52aa50f8-5056-a36f-23b34753acb8578a.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:From Earth to the Universe
-UID:36486@visitlaramie.org
-URL:https://www.visitlaramie.org/event/from-earth-to-the-universe/36486/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
 DESCRIPTION:Somatic & Breathwork Workshop\nMore info: https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-111255_815A093A-FC7B-F61D-A48EB3A5F60E6022_816bd862-d947-9782-951e92ff7fe9309a.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.312877;-105.595095
@@ -317,15 +281,6 @@ UID:31070@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-beatles/31070/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260207
-DESCRIPTION:Cowboy Saloon Presents: Ryan Charles aka Jiggy Buckaroo with guest Jaden Schumacher - February 7th\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-ryan-charles-aka-jiggy-buckaroo-with-guest-jaden-schumacher-february-7th/38623/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_0975A3A8-0175-4584-88F460BB72172FB0_664b208c-1d1a-4e9b-9e79df4cb2075e49.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: Ryan Charles aka Jiggy Buckaroo with guest Jaden Schumacher - February 7th
-UID:38623@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-ryan-charles-aka-jiggy-buckaroo-with-guest-jaden-schumacher-february-7th/38623/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260220
 DESCRIPTION:Laradise Music Showcase: Bob LeFevre & The Already Gone / Pushroot\nMore info: https://www.visitlaramie.org/event/laradise-music-showcase%3a-bob-lefevre-%26-the-already-gone-pushroot/38584/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LeFevrePushroot_C650052A-DA76-C5AE-B8B3A6E2869F2165_c65732c2-f690-ff4d-4f7cd7062089e163.jpg\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -333,15 +288,6 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Laradise Music Showcase: Bob LeFevre & The Already Gone / Pushroot
 UID:38584@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laradise-music-showcase%3a-bob-lefevre-%26-the-already-gone-pushroot/38584/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260207
-DESCRIPTION:Puzzle Palooza 2026\nMore info: https://www.visitlaramie.org/event/puzzle-palooza-2026/38642/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/PuzzleCover_100DD93B-BC05-812C-D6A4D0E83B379078_103373f9-eac0-c1af-344e244b5770411d.png\nCategories: Family Fun
-GEO:41.326525;-105.592575
-LOCATION:Eppson Center of Laramie
-SUMMARY:Puzzle Palooza 2026
-UID:38642@visitlaramie.org
-URL:https://www.visitlaramie.org/event/puzzle-palooza-2026/38642/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260220
@@ -603,15 +549,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260110
-DESCRIPTION:Snowflake Colorwork Sweater Class\nMore info: https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-142109_30554D2B-D89A-40E4-A88751FB0099BD69_306e0665-eae0-061c-ddcf241751758608.png\nCategories: Community\, Education\, Craft Classes & Workshops
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Snowflake Colorwork Sweater Class
-UID:38533@visitlaramie.org
-URL:https://www.visitlaramie.org/event/snowflake-colorwork-sweater-class/38533/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260222
