@@ -38,15 +38,6 @@ UID:38561@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-carson-jeffrey/38561/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260210
-DESCRIPTION:Wyoming Skies: Herschel Objects\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-herschel-objects/38612/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-105325_0453B2C2-9BDC-D9D4-5C85CDE6173FFA6D_045919ca-e7f1-a61a-6e0570a24a5c4482.png\nCategories: Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies: Herschel Objects
-UID:38612@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies%3a-herschel-objects/38612/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260214
 DESCRIPTION:Cowgirl Basketball vs. Boise State\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-boise-state/38631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
 GEO:41.313459;-105.561558
@@ -128,6 +119,15 @@ UID:38674@visitlaramie.org
 URL:https://www.visitlaramie.org/event/valentines-day-dinner-%26-live-music/38674/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Old Corral Steakhouse Valentine's Dinner\nMore info: https://www.visitlaramie.org/event/old-corral-steakhouse-valentines-dinner/38693/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-10-093908_D4DC0EEC-D34C-D7E6-E6FF5FFE7C3DF324_d5005d85-0a78-bffc-80138789c57a3135.png\nCategories: Community
+GEO:41.296701;-106.140180
+LOCATION:Old Corral Steakhouse
+SUMMARY:Old Corral Steakhouse Valentine's Dinner
+UID:38693@visitlaramie.org
+URL:https://www.visitlaramie.org/event/old-corral-steakhouse-valentines-dinner/38693/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
 DESCRIPTION:UW Cowboy W's Basketball vs. Grand Canyon University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events5_D79E1239-5056-A36F-2378598A883507C9_d7e2c9cc-5056-a36f-23586dc850bbdd92.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.313325;-105.569388
@@ -180,6 +180,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: Kenny Feidler Live &#8211\; March 7th (Wyoming Day)
 UID:38619@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-kenny-feidler-live-%26%238211%3b-march-7th-(wyoming-day)/38619/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Radical Love Pop-Up Bookshop\nMore info: https://www.visitlaramie.org/event/radical-love-pop-up-bookshop/38690/\nVenue: Sunshine Coffee\nVenue Info: https://www.visitlaramie.org/listing/sunshine-coffee/1711/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/signal-2026-02-09-13-13-59-758_B371BF4F-FEFB-D210-6F5E065BC866882F_b37a7326-d576-1712-a85e1fe243be6fb0.png\nCategories: Community\, Education\, Family Fun\, Social Events
+GEO:41.309002;-105.587950
+LOCATION:Sunshine Coffee
+SUMMARY:Radical Love Pop-Up Bookshop
+UID:38690@visitlaramie.org
+URL:https://www.visitlaramie.org/event/radical-love-pop-up-bookshop/38690/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260214
@@ -405,6 +414,15 @@ LOCATION:The Collective
 SUMMARY:Belly Dance: Level 1 Facilitated by Aylin Carey
 UID:38341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Valentine's Dinner @ WyColo Lodge\nMore info: https://www.visitlaramie.org/event/valentines-dinner-%40-wycolo-lodge/38692/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-10-093839_D4831145-C43C-C201-6EE1CA6D8DC7325D_d4cd670a-001a-95d8-7bd350dc0d6a33cb.png\nCategories: Community
+GEO:41.010542;-106.170367
+LOCATION:WyColo Lodge
+SUMMARY:Valentine's Dinner @ WyColo Lodge
+UID:38692@visitlaramie.org
+URL:https://www.visitlaramie.org/event/valentines-dinner-%40-wycolo-lodge/38692/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
@@ -686,6 +704,15 @@ UID:38646@visitlaramie.org
 URL:https://www.visitlaramie.org/event/rhythmic-flow-%40-seek-yoga-studio/38646/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Valentine's Date Night @ Wood's Landing\nMore info: https://www.visitlaramie.org/event/valentines-date-night-%40-woods-landing/38691/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-10-125615_DB240898-DD48-B473-E28A84DE2D7B4C90_db26861b-f44b-c120-1007fe66563428ee.png\nCategories: Community
+GEO:41.110415;-106.012702
+LOCATION:Wood's Landing Resort
+SUMMARY:Valentine's Date Night @ Wood's Landing
+UID:38691@visitlaramie.org
+URL:https://www.visitlaramie.org/event/valentines-date-night-%40-woods-landing/38691/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 DESCRIPTION:Explorers Night - A Woman's Perspective In The Alps\nMore info: https://www.visitlaramie.org/event/explorers-night-a-womans-perspective-in-the-alps/38665/\nVenue: Laramie's Basecamp\nVenue Info: https://www.visitlaramie.org/listing/laramies-basecamp/384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/EXPLORERS-NIGHT_PAIGE-PARISH-6-1-_449CFF82-A823-3569-F4BBAA7247819E8A_44aa2a90-a19b-6431-3bcb2d096e1a6e52.png\nCategories: Outdoor Recreation
 GEO:41.311263;-105.595108
@@ -720,6 +747,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Indie Rock
 UID:36482@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-indie-rock/36482/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Backcountry Film Festival\nMore info: https://www.visitlaramie.org/event/backcountry-film-festival/38689/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Laramie-Poster-Updated_AFDD3334-EB2A-1C94-C36E4CD9D01BCD4F_afe9eaf7-bf80-aba2-e1f311b433440ac2.png\nCategories: Annual Events & Festivals
+GEO:41.309522;-105.587753
+LOCATION:Gryphon Theatre
+SUMMARY:Backcountry Film Festival
+UID:38689@visitlaramie.org
+URL:https://www.visitlaramie.org/event/backcountry-film-festival/38689/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260223
