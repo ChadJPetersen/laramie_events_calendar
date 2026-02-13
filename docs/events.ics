@@ -237,6 +237,15 @@ URL:https://www.visitlaramie.org/event/valentines-day-dinner-%26-beer-pairing/38
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
+DESCRIPTION:Friends of the Albany County Public Library Spring Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-spring-book-sale/38695/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Spring-2026-book-sale-8.5-x-11_117B5506-9B8A-DE41-2E1812F18EFE16CA_117e4171-ecf0-1726-46d01bc97736869a.jpg\nCategories: Community
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Friends of the Albany County Public Library Spring Book Sale
+UID:38695@visitlaramie.org
+URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-spring-book-sale/38695/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
 DESCRIPTION:Home Brewer's Festival\nMore info: https://www.visitlaramie.org/event/home-brewers-festival/38669/\nVenue: Gym Event Spaces at Laramie Plains Civic Center\nVenue Info: https://www.visitlaramie.org/listing/gym-event-spaces-at-laramie-plains-civic-center/647/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-095653_D35B26FA-0C7C-2E9A-591733F5FF7A8379_d3756d61-0d10-f6d7-aba52307922de413.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
 LOCATION:Gym Event Spaces at Laramie Plains Civic Center
@@ -450,6 +459,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Thomas Moran Exhibition
 UID:38430@visitlaramie.org
 URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Laramie Audubon Kids & Families - Winter Stories\nMore info: https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-winter-stories/38697/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/DSC07429_3B84A889-B373-BEA7-7CE5DF18699CB9B6_3b8d298e-937c-6bcc-7c7e5b70fe96c783.jpg\nCategories: Outdoor Recreation\, Family Fun
+GEO:41.312203;-105.587931
+LOCATION:Trinity Lutheran Church
+SUMMARY:Laramie Audubon Kids & Families - Winter Stories
+UID:38697@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-winter-stories/38697/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260220
@@ -747,6 +765,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Indie Rock
 UID:36482@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-indie-rock/36482/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Railtown Supply & Retreat Spring Market\nMore info: https://www.visitlaramie.org/event/railtown-supply-%26-retreat-spring-market/38696/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IG_Post_1A5810BD-EEFF-DF98-99C839E43E9B5988_1a61d0d9-db4f-8ba6-06f2886762d9ff98.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.308932;-105.580965
+LOCATION:Railtown Supply & Retreat
+SUMMARY:Railtown Supply & Retreat Spring Market
+UID:38696@visitlaramie.org
+URL:https://www.visitlaramie.org/event/railtown-supply-%26-retreat-spring-market/38696/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
