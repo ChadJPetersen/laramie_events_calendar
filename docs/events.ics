@@ -137,6 +137,15 @@ UID:38568@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dawn-of-the-space-ag/38568/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Wyoming FBLA State Leadership Conference\nMore info: https://www.visitlaramie.org/event/wyoming-fbla-state-leadership-conference/38451/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-28-095458_B3439054-C7B1-6582-99A58405FB01ECF7_b37b9fd5-a0d9-09d7-369d8194104c15b9.png\nCategories: Education
+GEO:41.310305;-105.564114
+LOCATION:UW Conference Center/UW Student Union/UW College of Business
+SUMMARY:Wyoming FBLA State Leadership Conference
+UID:38451@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-fbla-state-leadership-conference/38451/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
 DESCRIPTION:Cowboy Saloon Presents: Carson Jeffrey\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-carson-jeffrey/38561/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-12_9B822BFB-7925-4CE4-83B839A7CEAE67DE_f0542669-46e2-4fc1-90e0ab0fc724503d.jpg\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -450,15 +459,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:One Sky - Planetarium Show
 UID:38574@visitlaramie.org
 URL:https://www.visitlaramie.org/event/one-sky-planetarium-show/38574/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260215
-DESCRIPTION:Cowboy Wrestling vs Univ of Oklahoma\nMore info: https://www.visitlaramie.org/event/cowboy-wrestling-vs-univ-of-oklahoma/38632/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-130126_08F8ADF3-0A67-0A54-E2E2E0BA761CB8BA_090dbe41-f33b-cb50-7318b6bda8fd74c9.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.312460;-105.570067
-LOCATION:University of Wyoming
-SUMMARY:Cowboy Wrestling vs Univ of Oklahoma
-UID:38632@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-wrestling-vs-univ-of-oklahoma/38632/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
