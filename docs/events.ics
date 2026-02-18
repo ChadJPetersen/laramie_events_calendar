@@ -155,15 +155,6 @@ UID:38561@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-carson-jeffrey/38561/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-DESCRIPTION:A Sometimes Paradise: Reflections on Life in a Wyoming Ranch Family\nMore info: https://www.visitlaramie.org/event/a-sometimes-paradise%3a-reflections-on-life-in-a-wyoming-ranch-family/38678/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-094254_0F511CFB-C21D-05A5-474B615B19BC8EA6_0f66ee2b-ae6e-4d71-cda0f41fa73d339c.png\nCategories: History\, Community\, Performing Arts & Culture
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:A Sometimes Paradise: Reflections on Life in a Wyoming Ranch Family
-UID:38678@visitlaramie.org
-URL:https://www.visitlaramie.org/event/a-sometimes-paradise%3a-reflections-on-life-in-a-wyoming-ranch-family/38678/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 DESCRIPTION:18+ College County Night\nMore info: https://www.visitlaramie.org/event/18%2b-college-county-night/38587/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_F5F8D51C-79B2-4543-8988DEE5E4863805_9f4bd647-7c90-41cf-a6ca1edfedb14bc9.jpg\nCategories: Community
 GEO:41.312707;-105.595125
@@ -371,15 +362,6 @@ UID:38667@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260217
-DESCRIPTION:UW Cowboy Basketball vs. Fresno State\nMore info: https://www.visitlaramie.org/event/uw-cowboy-basketball-vs-fresno-state/38634/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events4_D530CBA8-5056-A36F-236C9496675F6255_d5586988-5056-a36f-237df98a71907589.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.313325;-105.569388
-LOCATION:Arena-Auditorium
-SUMMARY:UW Cowboy Basketball vs. Fresno State
-UID:38634@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-basketball-vs-fresno-state/38634/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260306
 DESCRIPTION:Luau in Laradise\nMore info: https://www.visitlaramie.org/event/luau-in-laradise/38653/\nVenue: Laramie Community Recreation Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-community-recreation-center/66/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Luau-in-Laradise-Graphins-1-_3F9CB437-DE95-8AE9-B877BF62E6B41375_3fa35d25-b970-7384-b2670676572545e8.png\nCategories: Annual Events & Festivals\, Community
 GEO:41.304977;-105.548536
@@ -486,6 +468,15 @@ LOCATION:The Collective
 SUMMARY:Comedy That Cares- Cody Woods & Isaac Knoxx
 UID:38670@visitlaramie.org
 URL:https://www.visitlaramie.org/event/comedy-that-cares-cody-woods-%26-isaac-knoxx/38670/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:The 3rd Middle East Film Festival\nMore info: https://www.visitlaramie.org/event/the-3rd-middle-east-film-festival/38702/\nVenue: Studio City UW\nVenue Info: https://www.visitlaramie.org/listing/studio-city-uw/394/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/MEFF-POSTER-8.5-x-11-in---No-Movie-Titles.pdf_11D136DB-E6E4-587C-7E3E4C799254C9F6_11d7ed0f-f83f-b34f-b9d485b7c5b75134.jpg\nCategories: University of Wyoming
+GEO:41.309950;-105.560391
+LOCATION:Studio City UW
+SUMMARY:The 3rd Middle East Film Festival
+UID:38702@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-3rd-middle-east-film-festival/38702/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
