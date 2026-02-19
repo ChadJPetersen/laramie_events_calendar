@@ -173,15 +173,6 @@ UID:38619@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-kenny-feidler-live-%26%238211%3b-march-7th-(wyoming-day)/38619/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Thomas Moran Exhibition\nMore info: https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-112637_81898F53-0B54-5C26-EE7A0771476921E8_818a2d81-cca9-71da-54dad4635d53b8fb.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Thomas Moran Exhibition
-UID:38430@visitlaramie.org
-URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
 DESCRIPTION:Laramie Audubon Kids & Families - Winter Stories\nMore info: https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-winter-stories/38697/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/DSC07429_3B84A889-B373-BEA7-7CE5DF18699CB9B6_3b8d298e-937c-6bcc-7c7e5b70fe96c783.jpg\nCategories: Outdoor Recreation\, Family Fun
 GEO:41.312203;-105.587931
@@ -189,6 +180,15 @@ LOCATION:Trinity Lutheran Church
 SUMMARY:Laramie Audubon Kids & Families - Winter Stories
 UID:38697@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-winter-stories/38697/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251022
+DESCRIPTION:Thomas Moran Exhibition\nMore info: https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-112637_81898F53-0B54-5C26-EE7A0771476921E8_818a2d81-cca9-71da-54dad4635d53b8fb.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Thomas Moran Exhibition
+UID:38430@visitlaramie.org
+URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
@@ -389,15 +389,6 @@ UID:38679@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bob-lefevre-and-the-already-gone-laramie/38679/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260115
-DESCRIPTION:Boot Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_70AAE39C-4641-416E-B5AB1E8747F100BC_c1e14bdb-b5f1-4ddc-9b38fc57fde60d89.jpg\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Boot Night at The Cowboy Saloon
-UID:38588@visitlaramie.org
-URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
 DESCRIPTION:Poker Run 2026\nMore info: https://www.visitlaramie.org/event/poker-run-2026/38672/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-06-125023_0CF6F056-A999-B498-C86E69769B055EBD_0cf9b284-e0f3-0853-d5e060d74ae8aab1.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Sports\, Social Events
 GEO:41.298305;-106.141677
@@ -405,6 +396,15 @@ LOCATION:Medicine Bow National Forest
 SUMMARY:Poker Run 2026
 UID:38672@visitlaramie.org
 URL:https://www.visitlaramie.org/event/poker-run-2026/38672/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Boot Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_70AAE39C-4641-416E-B5AB1E8747F100BC_c1e14bdb-b5f1-4ddc-9b38fc57fde60d89.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Boot Night at The Cowboy Saloon
+UID:38588@visitlaramie.org
+URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
@@ -432,6 +432,15 @@ LOCATION:The Collective
 SUMMARY:Somatic & Breathwork Workshop
 UID:38438@visitlaramie.org
 URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Comedy That Cares - LIVE TAPING\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Comedy-That-Cares-Laramie-front-flyer-_400C48FB-98D5-0FBA-0AB3E307739CB3EB_403096e4-a3ad-31e0-92febf0737b7dff6.png\nCategories: Performing Arts & Culture
+GEO:41.149793;-104.818922
+LOCATION:The Collective
+SUMMARY:Comedy That Cares - LIVE TAPING
+UID:38698@visitlaramie.org
+URL:https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
