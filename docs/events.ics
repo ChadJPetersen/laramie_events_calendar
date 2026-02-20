@@ -65,13 +65,13 @@ UID:38589@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-latin-night/38589/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095605_7E4E3F38-C748-8987-454AD7F3904038A5_7e62af7f-e765-3e11-cb7adb7c08abd00c.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Where the Heck is Yucca Fountain?
-UID:38432@visitlaramie.org
-URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Cowboy Saloon Presents: Keenan Trevon &#8211\; Hug Me Flowers Tour 2026\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-keenan-trevon-%26%238211%3b-hug-me-flowers-tour-2026/38705/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-1_30C1CE9B-4877-42B6-B24FDF6C0FFDF95F_22628f1e-d49c-481e-98b5850c78673c0d.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Keenan Trevon &#8211\; Hug Me Flowers Tour 2026
+UID:38705@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-keenan-trevon-%26%238211%3b-hug-me-flowers-tour-2026/38705/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
@@ -81,6 +81,15 @@ LOCATION:The Collective
 SUMMARY:Belly Dance: Level 1 Facilitated by Aylin Carey
 UID:38341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095605_7E4E3F38-C748-8987-454AD7F3904038A5_7e62af7f-e765-3e11-cb7adb7c08abd00c.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Where the Heck is Yucca Fountain?
+UID:38432@visitlaramie.org
+URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
@@ -171,6 +180,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: Kenny Feidler Live &#8211\; March 7th (Wyoming Day)
 UID:38619@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-kenny-feidler-live-%26%238211%3b-march-7th-(wyoming-day)/38619/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Laramie Audubon Presentation: Pacific Marten in National Forests of Wyoming\nMore info: https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-pacific-marten-in-national-forests-of-wyoming/38703/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Pacific-Marten_4B68360A-A9D2-D6A0-C55CF6ED5288C55E_4b805862-c412-46c5-4c4e30d95feca9eb.jpg\nCategories: Education
+GEO:41.312203;-105.587931
+LOCATION:Trinity Lutheran Church
+SUMMARY:Laramie Audubon Presentation: Pacific Marten in National Forests of Wyoming
+UID:38703@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-pacific-marten-in-national-forests-of-wyoming/38703/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
@@ -353,6 +371,15 @@ UID:38550@visitlaramie.org
 URL:https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry/38550/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Cowboy Saloon Science on Tap &#8211\; Yellowstone Supervolcano & Geology Surprises\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-science-on-tap-%26%238211%3b-yellowstone-supervolcano-%26-geology-surprises/38706/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_641AA2F6-D0E1-446B-8D2058B5DAC92246_c24a042f-a6a0-4343-be1902c4a94d329a.jpg\nCategories: Education
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Science on Tap &#8211\; Yellowstone Supervolcano & Geology Surprises
+UID:38706@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-science-on-tap-%26%238211%3b-yellowstone-supervolcano-%26-geology-surprises/38706/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
 DESCRIPTION:UW Cowboy W's Basketball vs. Grand Canyon University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events5_D79E1239-5056-A36F-2378598A883507C9_d7e2c9cc-5056-a36f-23586dc850bbdd92.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.313325;-105.569388
@@ -378,6 +405,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Wyoming Skies : Annular Eclipse Revisited
 UID:38620@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies-%3a-annular-eclipse-revisited/38620/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:4-H Carnival\nMore info: https://www.visitlaramie.org/event/4-h-carnival/38711/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/4-H-Carnival-Invite-2026-2-_7E702C53-FB28-87DD-40F41BE96D7FE120_7e714dcc-0690-6d24-668c93c16d776a00.jpg\nCategories: Community\, Family Fun
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:4-H Carnival
+UID:38711@visitlaramie.org
+URL:https://www.visitlaramie.org/event/4-h-carnival/38711/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260220
@@ -513,6 +549,15 @@ LOCATION:Arena-Auditorium
 SUMMARY:UW Cowboy Basketball vs. Air Force
 UID:38637@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-basketball-vs-air-force/38637/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:College Country Nights 18+\nMore info: https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_8C61CE8F-83FF-42AD-A7468485E3507B0D_8c024931-326c-40e1-adff0e7798d2ca3e.jpg\nCategories: Community\, University of Wyoming
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:College Country Nights 18+
+UID:38364@visitlaramie.org
+URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
