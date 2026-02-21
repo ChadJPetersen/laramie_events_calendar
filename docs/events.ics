@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Laradise Music Showcase: Bob LeFevre & The Already Gone / Pushroot\nMore info: https://www.visitlaramie.org/event/laradise-music-showcase%3a-bob-lefevre-%26-the-already-gone-pushroot/38584/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LeFevrePushroot_C650052A-DA76-C5AE-B8B3A6E2869F2165_c65732c2-f690-ff4d-4f7cd7062089e163.jpg\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Laradise Music Showcase: Bob LeFevre & The Already Gone / Pushroot
-UID:38584@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laradise-music-showcase%3a-bob-lefevre-%26-the-already-gone-pushroot/38584/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:"Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/38616/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-113539_05D3E07F-9CA5-7B42-6C63D7EAC566C35C_05d5fe62-d137-fb8b-6dab7a3c2b1f41dd.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Metal
-UID:38616@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/38616/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
 DESCRIPTION:Cowgirl Basketball vs. Colorado State\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-colorado-state/38635/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
 GEO:41.313459;-105.561558
@@ -27,15 +9,6 @@ LOCATION:UW Arena Auditorium
 SUMMARY:Cowgirl Basketball vs. Colorado State
 UID:38635@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-basketball-vs-colorado-state/38635/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-DESCRIPTION:Lift Every Voice and Sing:  Celebrating the Music of Black Composers\nMore info: https://www.visitlaramie.org/event/lift-every-voice-and-sing%3a-celebrating-the-music-of-black-composers/38609/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/KUSaa9Tx_ED21E5BD-B2DF-CDB6-279F265923618920_ed26aa52-e00f-8933-c45236c1cde625ba.jpg\nCategories: Concerts & Live Music
-GEO:41.312183;-105.592984
-LOCATION:St. Matthew's Cathedral
-SUMMARY:Lift Every Voice and Sing:  Celebrating the Music of Black Composers
-UID:38609@visitlaramie.org
-URL:https://www.visitlaramie.org/event/lift-every-voice-and-sing%3a-celebrating-the-music-of-black-composers/38609/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
@@ -236,6 +209,15 @@ UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Department of Music Presents: Beth Vanderborgh and Brooks Hafey\nMore info: https://www.visitlaramie.org/event/department-of-music-presents%3a-beth-vanderborgh-and-brooks-hafey/38715/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-20-123059_DD549E38-B79F-5221-3D5AF4516F5B3AD4_dd618099-a071-db45-439fe08cbe58fd76.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.311910;-105.581193
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:Department of Music Presents: Beth Vanderborgh and Brooks Hafey
+UID:38715@visitlaramie.org
+URL:https://www.visitlaramie.org/event/department-of-music-presents%3a-beth-vanderborgh-and-brooks-hafey/38715/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
 DESCRIPTION:Phryne  - Laramie\nMore info: https://www.visitlaramie.org/event/phryne-laramie/38683/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Phryne_63459F01-B6A0-19CD-E9954A56775F7DAB_634aba23-95b7-9e20-6b0038417e17d834.jpg\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -299,13 +281,13 @@ UID:38603@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-emerald-society-gin-house/38603/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Laradise Music Showcase  - Laramie\nMore info: https://www.visitlaramie.org/event/laradise-music-showcase-laramie/38681/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Laradise-Music-Showcase_632252BE-05C5-716A-9F6B214DAAC0CF47_6325eb36-f133-6f5b-b0e81707e3a68f7c.jpg\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Laradise Music Showcase  - Laramie
-UID:38681@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laradise-music-showcase-laramie/38681/
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Public Enemies\, Private Friends Film Screening\nMore info: https://www.visitlaramie.org/event/public-enemies-private-friends-film-screening/38597/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Public-Enemies-Private-Friends_393A134C-B9F5-DFC1-739CEE530090DC7E_395a2aee-9cae-328b-f2a9992375255766.jpg\nCategories: Community\, University of Wyoming
+GEO:41.313163;-105.581309
+LOCATION:University of Wyoming Education Auditorium
+SUMMARY:Public Enemies\, Private Friends Film Screening
+UID:38597@visitlaramie.org
+URL:https://www.visitlaramie.org/event/public-enemies-private-friends-film-screening/38597/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
@@ -324,15 +306,6 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Backcountry Film Festival
 UID:38655@visitlaramie.org
 URL:https://www.visitlaramie.org/event/backcountry-film-festival/38655/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Public Enemies\, Private Friends Film Screening\nMore info: https://www.visitlaramie.org/event/public-enemies-private-friends-film-screening/38597/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Public-Enemies-Private-Friends_393A134C-B9F5-DFC1-739CEE530090DC7E_395a2aee-9cae-328b-f2a9992375255766.jpg\nCategories: Community\, University of Wyoming
-GEO:41.313163;-105.581309
-LOCATION:University of Wyoming Education Auditorium
-SUMMARY:Public Enemies\, Private Friends Film Screening
-UID:38597@visitlaramie.org
-URL:https://www.visitlaramie.org/event/public-enemies-private-friends-film-screening/38597/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
@@ -360,24 +333,6 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Laradise Music Showcase: Fresh Fruit! / Phryne
 UID:38583@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laradise-music-showcase%3a-fresh-fruit!-phryne/38583/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:An Evening with Renee Elise Goldsberry\nMore info: https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry/38550/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-22-114617_C9CDD62A-D70D-CEE7-00A04E87960A51CB_c9cfa130-a2f2-e020-8495240eb5e091ba.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.311910;-105.581193
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:An Evening with Renee Elise Goldsberry
-UID:38550@visitlaramie.org
-URL:https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry/38550/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Cowboy Saloon Science on Tap &#8211\; Yellowstone Supervolcano & Geology Surprises\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-science-on-tap-%26%238211%3b-yellowstone-supervolcano-%26-geology-surprises/38706/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_641AA2F6-D0E1-446B-8D2058B5DAC92246_c24a042f-a6a0-4343-be1902c4a94d329a.jpg\nCategories: Education
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Science on Tap &#8211\; Yellowstone Supervolcano & Geology Surprises
-UID:38706@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-science-on-tap-%26%238211%3b-yellowstone-supervolcano-%26-geology-surprises/38706/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
@@ -416,13 +371,13 @@ UID:38711@visitlaramie.org
 URL:https://www.visitlaramie.org/event/4-h-carnival/38711/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Bob LeFevre and The Already Gone  - Laramie\nMore info: https://www.visitlaramie.org/event/bob-lefevre-and-the-already-gone-laramie/38679/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Bob-LeFevre-and-The-Already-Gone_62FEF341-F191-8016-753FD466F7589BC1_6303549e-c025-3672-05fa3926f5c69aea.jpg\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Bob LeFevre and The Already Gone  - Laramie
-UID:38679@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bob-lefevre-and-the-already-gone-laramie/38679/
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Boot Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_70AAE39C-4641-416E-B5AB1E8747F100BC_c1e14bdb-b5f1-4ddc-9b38fc57fde60d89.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Boot Night at The Cowboy Saloon
+UID:38588@visitlaramie.org
+URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
@@ -434,13 +389,13 @@ UID:38672@visitlaramie.org
 URL:https://www.visitlaramie.org/event/poker-run-2026/38672/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260115
-DESCRIPTION:Boot Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_70AAE39C-4641-416E-B5AB1E8747F100BC_c1e14bdb-b5f1-4ddc-9b38fc57fde60d89.jpg\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Boot Night at The Cowboy Saloon
-UID:38588@visitlaramie.org
-URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Rhythmic Flow @ Seek Yoga Studio\nMore info: https://www.visitlaramie.org/event/rhythmic-flow-%40-seek-yoga-studio/38646/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-23-112108_38D97C0C-02E8-1D38-5F30D80CBD2A465A_38ea9827-a6c5-cbe3-27cd3c1929cd4774.png\nCategories: Craft Classes & Workshops
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Rhythmic Flow @ Seek Yoga Studio
+UID:38646@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rhythmic-flow-%40-seek-yoga-studio/38646/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
@@ -450,15 +405,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Retro Rock
 UID:37968@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/37968/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:Rhythmic Flow @ Seek Yoga Studio\nMore info: https://www.visitlaramie.org/event/rhythmic-flow-%40-seek-yoga-studio/38646/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-23-112108_38D97C0C-02E8-1D38-5F30D80CBD2A465A_38ea9827-a6c5-cbe3-27cd3c1929cd4774.png\nCategories: Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Rhythmic Flow @ Seek Yoga Studio
-UID:38646@visitlaramie.org
-URL:https://www.visitlaramie.org/event/rhythmic-flow-%40-seek-yoga-studio/38646/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
@@ -495,15 +441,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: Ten Clips
 UID:38658@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-ten-clips/38658/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:Dust\, Light\, Dust\nMore info: https://www.visitlaramie.org/event/dust-light-dust/31520/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_52553838-5056-A36F-23C6499478467BBE_525612c1-5056-a36f-2377f9613324f5e7.png\nCategories: University of Wyoming\, Education\, Family Fun\, Social Events
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Dust\, Light\, Dust
-UID:31520@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dust-light-dust/31520/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260221
@@ -585,5 +522,14 @@ LOCATION:Buckhorn Bar & Parlor
 SUMMARY:Friday at the Buck Presents: Gardj's Birthday Show
 UID:37711@visitlaramie.org
 URL:https://www.visitlaramie.org/event/friday-at-the-buck-presents%3a-gardjs-birthday-show/37711/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Department of Music Presents: Jazz Festival Concert ft. Michael Dease\nMore info: https://www.visitlaramie.org/event/department-of-music-presents%3a-jazz-festival-concert-ft-michael-dease/38714/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-20-123128_DD3C7547-0B73-C54D-22E788D285DBD14B_dd4781e6-0ae3-3821-7dbef35c4260f943.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.312616;-105.570928
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:Department of Music Presents: Jazz Festival Concert ft. Michael Dease
+UID:38714@visitlaramie.org
+URL:https://www.visitlaramie.org/event/department-of-music-presents%3a-jazz-festival-concert-ft-michael-dease/38714/
 END:VEVENT
 END:VCALENDAR
