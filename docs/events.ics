@@ -191,15 +191,6 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260222
-DESCRIPTION:Lift Every Voice and Sing:  Celebrating the Music of Black Composers\nMore info: https://www.visitlaramie.org/event/lift-every-voice-and-sing%3a-celebrating-the-music-of-black-composers/38610/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/KUSaa9Tx_EDE347D5-C972-8715-84F626FE765225F8_ede659e8-feec-341a-16feaabc40f9a09d.jpg\nCategories: Concerts & Live Music
-GEO:41.312183;-105.592984
-LOCATION:St. Matthew's Cathedral
-SUMMARY:Lift Every Voice and Sing:  Celebrating the Music of Black Composers
-UID:38610@visitlaramie.org
-URL:https://www.visitlaramie.org/event/lift-every-voice-and-sing%3a-celebrating-the-music-of-black-composers/38610/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
 DESCRIPTION:Friends of the Albany County Public Library Spring Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-spring-book-sale/38695/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Spring-2026-book-sale-8.5-x-11_117B5506-9B8A-DE41-2E1812F18EFE16CA_117e4171-ecf0-1726-46d01bc97736869a.jpg\nCategories: Community
 GEO:41.310342;-105.587834
