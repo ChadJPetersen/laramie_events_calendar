@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:Adult Crafternoon: Tiny Art Exhibit\nMore info: https://www.visitlaramie.org/event/adult-crafternoon%3a-tiny-art-exhibit/38726/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-120146_AA499F0D-9973-8E2E-D82473AEC063A433_aa50914d-b61e-977b-cd18247f36a4038c.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Adult Crafternoon: Tiny Art Exhibit
+UID:38726@visitlaramie.org
+URL:https://www.visitlaramie.org/event/adult-crafternoon%3a-tiny-art-exhibit/38726/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 DESCRIPTION:Coffee & Canvas @ the Vee Bar\nMore info: https://www.visitlaramie.org/event/coffee-%26-canvas-%40-the-vee-bar/38687/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/02.11.26-Coffee-Canvas-Event_A85AB294-B3B4-0789-A35CD395CDDF107D_a882fd01-a24c-cb72-f2b2de7f249e7f00.png\nCategories: Community\, Performing Arts & Culture\, Craft Classes & Workshops
 GEO:41.295961;-106.012811
@@ -27,6 +36,15 @@ LOCATION:Albany County Public Library
 SUMMARY:Friends of the Albany County Public Library Spring Book Sale Preview
 UID:38719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-spring-book-sale-preview/38719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Cowboy Saloon Present: Nathan Dean & The Damn Band Live - March 27th\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-present%3a-nathan-dean-%26-the-damn-band-live-march-27th/38621/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-4_26B2811F-30EC-4D7E-BD4486261E5FB709_39bb4f25-c81e-4313-9e96e93f3ba4e134.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Present: Nathan Dean & The Damn Band Live - March 27th
+UID:38621@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-present%3a-nathan-dean-%26-the-damn-band-live-march-27th/38621/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260122
@@ -90,6 +108,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Extreme Explorers
 UID:36952@visitlaramie.org
 URL:https://www.visitlaramie.org/event/extreme-explorers/36952/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Wyoming Public Media Speaker Series - Cattle Ranching on the Pine Ridge Indian Reservation\, 1868-1920 By Dr. Jeffrey Means\, UW History Department Chair\nMore info: https://www.visitlaramie.org/event/wyoming-public-media-speaker-series-cattle-ranching-on-the-pine-ridge-indian-reservation-1868-1920-by-dr-jeffrey-means-uw-history-department-chair/38724/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Wyoing-250---March-Event-002-_A316FC66-EEEE-7A27-A297C0E68BAC86C7_a31d0344-bfeb-d0d1-fd8f688dcd5744ce.jpg\nCategories: Community
+GEO:41.312149;-105.589043
+LOCATION:Alice Hardie Stevens Center at the Ivinson Mansion
+SUMMARY:Wyoming Public Media Speaker Series - Cattle Ranching on the Pine Ridge Indian Reservation\, 1868-1920 By Dr. Jeffrey Means\, UW History Department Chair
+UID:38724@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-public-media-speaker-series-cattle-ranching-on-the-pine-ridge-indian-reservation-1868-1920-by-dr-jeffrey-means-uw-history-department-chair/38724/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260318
@@ -164,6 +191,15 @@ UID:38430@visitlaramie.org
 URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38729/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-19-095826_AB28F427-E2D3-D8FB-C78E580998E50316_ac7f8b53-ee9a-3d52-77490c4f9422a523.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Where the Heck is Yucca Fountain?
+UID:38729@visitlaramie.org
+URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38729/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
 DESCRIPTION:Line Dance Shuffle Specialty Class\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38592/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-130045_37D907E7-0C84-62D0-C4C2D1D9F959129C_37d9cd2b-9933-d8b1-1e8782c397e08b2b.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
 GEO:41.304734;-105.549039
@@ -180,15 +216,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Patrick Kikut Exhibit
 UID:38657@visitlaramie.org
 URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260127
-DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Andy Warhol: 15 Prints
-UID:38650@visitlaramie.org
-URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
@@ -209,6 +236,24 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Andy Warhol: 15 Prints
+UID:38650@visitlaramie.org
+URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:3rd Annual Battle of the Bands\nMore info: https://www.visitlaramie.org/event/3rd-annual-battle-of-the-bands/38701/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/image000001-1-_07E10B86-DC15-1DC1-7D642BEF62403E75_07ee5915-b887-03e1-4c25848894f0d3a2.png\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:3rd Annual Battle of the Bands
+UID:38701@visitlaramie.org
+URL:https://www.visitlaramie.org/event/3rd-annual-battle-of-the-bands/38701/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
 DESCRIPTION:Friends of the Albany County Public Library Spring Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-spring-book-sale/38695/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-120841_7732EBDF-AEF6-DBE5-20FEE9A24EB45717_773332d8-ab4a-342c-7b9bfd7408d6bf78.png\nCategories: Community
 GEO:41.310342;-105.587834
@@ -225,15 +270,6 @@ LOCATION:Gym Event Spaces at Laramie Plains Civic Center
 SUMMARY:Home Brewer's Festival
 UID:38669@visitlaramie.org
 URL:https://www.visitlaramie.org/event/home-brewers-festival/38669/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:UW Cowboy Basketball vs. Boise State\nMore info: https://www.visitlaramie.org/event/uw-cowboy-basketball-vs-boise-state/38636/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events4_D530CBA8-5056-A36F-236C9496675F6255_d5586988-5056-a36f-237df98a71907589.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.313325;-105.569388
-LOCATION:Arena-Auditorium
-SUMMARY:UW Cowboy Basketball vs. Boise State
-UID:38636@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-basketball-vs-boise-state/38636/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
@@ -254,15 +290,6 @@ UID:38597@visitlaramie.org
 URL:https://www.visitlaramie.org/event/public-enemies-private-friends-film-screening/38597/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260113
-DESCRIPTION:Bond's Trivia & Tacos Tuesdays\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-124616_3777E407-90DA-7991-E6BF0FD77B3A4180_377bbbf4-fac6-2373-5775b9dbbc83b354.png\nCategories: Community\, Social Events
-GEO:41.309652;-105.594751
-LOCATION:Bond's Brewing Company
-SUMMARY:Bond's Trivia & Tacos Tuesdays
-UID:38590@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DESCRIPTION:Backcountry Film Festival\nMore info: https://www.visitlaramie.org/event/backcountry-film-festival/38655/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Laramie-Poster-Updated_6B3E9D13-EB71-EB7A-8B87C7ACC1B327B9_6b44c20c-0356-1485-8fd1fa048314a7af.png\nCategories: Annual Events & Festivals
 GEO:41.309522;-105.587753
@@ -270,6 +297,15 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Backcountry Film Festival
 UID:38655@visitlaramie.org
 URL:https://www.visitlaramie.org/event/backcountry-film-festival/38655/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Bond's Trivia & Tacos Tuesdays\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-124616_3777E407-90DA-7991-E6BF0FD77B3A4180_377bbbf4-fac6-2373-5775b9dbbc83b354.png\nCategories: Community\, Social Events
+GEO:41.309652;-105.594751
+LOCATION:Bond's Brewing Company
+SUMMARY:Bond's Trivia & Tacos Tuesdays
+UID:38590@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260324
@@ -299,6 +335,15 @@ UID:38583@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laradise-music-showcase%3a-fresh-fruit!-phryne/38583/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Spring Sip + Shop\nMore info: https://www.visitlaramie.org/event/spring-sip-%2b-shop/38732/\nVenue: The Bent & Rusty\nVenue Info: https://www.visitlaramie.org/listing/the-bent-%26-rusty/192/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-132836_AD5AD430-F030-6197-D7CFE3933BB537C3_ad751623-bc6f-205a-f261d787cb1e1399.png\nCategories: Annual Events & Festivals
+GEO:41.310690;-105.595344
+LOCATION:The Bent & Rusty
+SUMMARY:Spring Sip + Shop
+UID:38732@visitlaramie.org
+URL:https://www.visitlaramie.org/event/spring-sip-%2b-shop/38732/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
 DESCRIPTION:UW Cowboy W's Basketball vs. Grand Canyon University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events5_D79E1239-5056-A36F-2378598A883507C9_d7e2c9cc-5056-a36f-23586dc850bbdd92.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.313325;-105.569388
@@ -306,6 +351,15 @@ LOCATION:Arena-Auditorium
 SUMMARY:UW Cowboy W's Basketball vs. Grand Canyon University
 UID:38667@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:2026 Rentchler Lecture: Art & Advertisin in Buffalo Bill's Wild West Show\nMore info: https://www.visitlaramie.org/event/2026-rentchler-lecture%3a-art-%26-advertisin-in-buffalo-bills-wild-west-show/38725/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-114500_A9C03DB2-F2EE-0254-11EF92752E52EFE2_a9c0b7e6-abd5-1799-a93a5c39e24b0dda.png\nCategories: History\, University of Wyoming
+GEO:41.314165;-105.568122
+LOCATION:American Heritage Center
+SUMMARY:2026 Rentchler Lecture: Art & Advertisin in Buffalo Bill's Wild West Show
+UID:38725@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2026-rentchler-lecture%3a-art-%26-advertisin-in-buffalo-bills-wild-west-show/38725/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260306
@@ -323,15 +377,6 @@ GEO:41.312220;-105.595626
 SUMMARY:Open Mic Poetry
 UID:38718@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-mic-poetry/38718/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:Wyoming Skies : Annular Eclipse Revisited\nMore info: https://www.visitlaramie.org/event/wyoming-skies-%3a-annular-eclipse-revisited/38620/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_A14C8405-5056-A36F-2398052104D490A8_a1598b0e-5056-a36f-230d1384b67a284f.png\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.313709;-105.590644
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies : Annular Eclipse Revisited
-UID:38620@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies-%3a-annular-eclipse-revisited/38620/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
@@ -368,6 +413,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Retro Rock
 UID:37968@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/37968/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38730/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-19-095826_AB28F427-E2D3-D8FB-C78E580998E50316_ac7f8b53-ee9a-3d52-77490c4f9422a523.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Where the Heck is Yucca Fountain?
+UID:38730@visitlaramie.org
+URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38730/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
@@ -458,6 +512,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:College Country Nights 18+
 UID:38364@visitlaramie.org
 URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38728/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-19-095826_AB28F427-E2D3-D8FB-C78E580998E50316_ac7f8b53-ee9a-3d52-77490c4f9422a523.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Where the Heck is Yucca Fountain?
+UID:38728@visitlaramie.org
+URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38728/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260228
