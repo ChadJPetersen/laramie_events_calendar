@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Begin to Knit 103: Learn to Knit Socks on DPNs\, March & April 2026\nMore info: https://www.visitlaramie.org/event/begin-to-knit-103%3a-learn-to-knit-socks-on-dpns-march-%26-april-2026/38733/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-134057_ADD89B46-A6F7-C8A2-3A28DE73FF31320D_ade8d703-bcbe-926e-beffd02ef75eab55.png\nCategories: Craft Classes & Workshops
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Begin to Knit 103: Learn to Knit Socks on DPNs\, March & April 2026
+UID:38733@visitlaramie.org
+URL:https://www.visitlaramie.org/event/begin-to-knit-103%3a-learn-to-knit-socks-on-dpns-march-%26-april-2026/38733/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260308
 DESCRIPTION:Adult Crafternoon: Tiny Art Exhibit\nMore info: https://www.visitlaramie.org/event/adult-crafternoon%3a-tiny-art-exhibit/38726/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-120146_AA499F0D-9973-8E2E-D82473AEC063A433_aa50914d-b61e-977b-cd18247f36a4038c.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.310342;-105.587834
@@ -92,13 +101,13 @@ UID:38666@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-ms-basketball-vs-univ-of-nevada/38666/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-DESCRIPTION:Sound + Silence: A Restorative Yoga & Sound Bath Experience\nMore info: https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-29-130558_A8B32BFD-E2BF-D468-BB71F122DEB5A8F6_a8c93c5b-9e49-33c5-df1bf3e459115d73.png\nCategories: Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Sound + Silence: A Restorative Yoga & Sound Bath Experience
-UID:38542@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sound-%2b-silence%3a-a-restorative-yoga-%26-sound-bath-experience/38542/
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Wyoming Public Media Speaker Series - Cattle Ranching on the Pine Ridge Indian Reservation\, 1868-1920 By Dr. Jeffrey Means\, UW History Department Chair\nMore info: https://www.visitlaramie.org/event/wyoming-public-media-speaker-series-cattle-ranching-on-the-pine-ridge-indian-reservation-1868-1920-by-dr-jeffrey-means-uw-history-department-chair/38724/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Wyoing-250---March-Event-002-_A316FC66-EEEE-7A27-A297C0E68BAC86C7_a31d0344-bfeb-d0d1-fd8f688dcd5744ce.jpg\nCategories: Community
+GEO:41.312149;-105.589043
+LOCATION:Alice Hardie Stevens Center at the Ivinson Mansion
+SUMMARY:Wyoming Public Media Speaker Series - Cattle Ranching on the Pine Ridge Indian Reservation\, 1868-1920 By Dr. Jeffrey Means\, UW History Department Chair
+UID:38724@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-public-media-speaker-series-cattle-ranching-on-the-pine-ridge-indian-reservation-1868-1920-by-dr-jeffrey-means-uw-history-department-chair/38724/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
@@ -108,15 +117,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Extreme Explorers
 UID:36952@visitlaramie.org
 URL:https://www.visitlaramie.org/event/extreme-explorers/36952/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Wyoming Public Media Speaker Series - Cattle Ranching on the Pine Ridge Indian Reservation\, 1868-1920 By Dr. Jeffrey Means\, UW History Department Chair\nMore info: https://www.visitlaramie.org/event/wyoming-public-media-speaker-series-cattle-ranching-on-the-pine-ridge-indian-reservation-1868-1920-by-dr-jeffrey-means-uw-history-department-chair/38724/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Wyoing-250---March-Event-002-_A316FC66-EEEE-7A27-A297C0E68BAC86C7_a31d0344-bfeb-d0d1-fd8f688dcd5744ce.jpg\nCategories: Community
-GEO:41.312149;-105.589043
-LOCATION:Alice Hardie Stevens Center at the Ivinson Mansion
-SUMMARY:Wyoming Public Media Speaker Series - Cattle Ranching on the Pine Ridge Indian Reservation\, 1868-1920 By Dr. Jeffrey Means\, UW History Department Chair
-UID:38724@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-public-media-speaker-series-cattle-ranching-on-the-pine-ridge-indian-reservation-1868-1920-by-dr-jeffrey-means-uw-history-department-chair/38724/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260318
@@ -171,24 +171,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: Kenny Feidler Live &#8211\; March 7th (Wyoming Day)
 UID:38619@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-kenny-feidler-live-%26%238211%3b-march-7th-(wyoming-day)/38619/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Laramie Audubon Presentation: Pacific Marten in National Forests of Wyoming\nMore info: https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-pacific-marten-in-national-forests-of-wyoming/38703/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Pacific-Marten_4B68360A-A9D2-D6A0-C55CF6ED5288C55E_4b805862-c412-46c5-4c4e30d95feca9eb.jpg\nCategories: Education
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church
-SUMMARY:Laramie Audubon Presentation: Pacific Marten in National Forests of Wyoming
-UID:38703@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-pacific-marten-in-national-forests-of-wyoming/38703/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251022
-DESCRIPTION:Thomas Moran Exhibition\nMore info: https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-112637_81898F53-0B54-5C26-EE7A0771476921E8_818a2d81-cca9-71da-54dad4635d53b8fb.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Thomas Moran Exhibition
-UID:38430@visitlaramie.org
-URL:https://www.visitlaramie.org/event/thomas-moran-exhibition/38430/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260306
@@ -353,15 +335,6 @@ UID:38667@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:2026 Rentchler Lecture: Art & Advertisin in Buffalo Bill's Wild West Show\nMore info: https://www.visitlaramie.org/event/2026-rentchler-lecture%3a-art-%26-advertisin-in-buffalo-bills-wild-west-show/38725/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-114500_A9C03DB2-F2EE-0254-11EF92752E52EFE2_a9c0b7e6-abd5-1799-a93a5c39e24b0dda.png\nCategories: History\, University of Wyoming
-GEO:41.314165;-105.568122
-LOCATION:American Heritage Center
-SUMMARY:2026 Rentchler Lecture: Art & Advertisin in Buffalo Bill's Wild West Show
-UID:38725@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2026-rentchler-lecture%3a-art-%26-advertisin-in-buffalo-bills-wild-west-show/38725/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260306
 DESCRIPTION:Luau in Laradise\nMore info: https://www.visitlaramie.org/event/luau-in-laradise/38653/\nVenue: Laramie Community Recreation Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-community-recreation-center/66/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Luau-in-Laradise-Graphins-1-_3F9CB437-DE95-8AE9-B877BF62E6B41375_3fa35d25-b970-7384-b2670676572545e8.png\nCategories: Annual Events & Festivals\, Community
 GEO:41.304977;-105.548536
@@ -369,14 +342,6 @@ LOCATION:Laramie Community Recreation Center
 SUMMARY:Luau in Laradise
 UID:38653@visitlaramie.org
 URL:https://www.visitlaramie.org/event/luau-in-laradise/38653/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:Open Mic Poetry\nMore info: https://www.visitlaramie.org/event/open-mic-poetry/38718/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-120428_76DC2742-D34F-BDA0-EBEDA6A488EE7C19_76ea64a1-c4f1-7ff9-c8179b4bd4c9ab6f.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.312220;-105.595626
-SUMMARY:Open Mic Poetry
-UID:38718@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-mic-poetry/38718/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
@@ -460,15 +425,6 @@ UID:38716@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-jackalope-jump-laramie/38716/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260228
-DESCRIPTION:Laramie Urban Sketchers First Sketch\nMore info: https://www.visitlaramie.org/event/laramie-urban-sketchers-first-sketch/38721/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-133318_7A1ACDC4-9432-43BB-3B835E972F29E34E_7a25a63a-ea37-c53f-223a2d4e862c77c4.png\nCategories: Community\, Performing Arts & Culture\, Social Events\, Craft Classes & Workshops
-GEO:41.312220;-105.595626
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Laramie Urban Sketchers First Sketch
-UID:38721@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-urban-sketchers-first-sketch/38721/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260302
 DESCRIPTION:The 3rd Middle East Film Festival\nMore info: https://www.visitlaramie.org/event/the-3rd-middle-east-film-festival/38702/\nVenue: Studio City UW\nVenue Info: https://www.visitlaramie.org/listing/studio-city-uw/394/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/MEFF-POSTER-8.5-x-11-in---No-Movie-Titles.pdf_11D136DB-E6E4-587C-7E3E4C799254C9F6_11d7ed0f-f83f-b34f-b9d485b7c5b75134.jpg\nCategories: University of Wyoming
 GEO:41.309950;-105.560391
@@ -485,6 +441,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Indie Rock
 UID:36482@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-indie-rock/36482/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:College Country Nights 18+\nMore info: https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_8C61CE8F-83FF-42AD-A7468485E3507B0D_8c024931-326c-40e1-adff0e7798d2ca3e.jpg\nCategories: Community\, University of Wyoming
+GEO:41.312609;-105.595118
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:College Country Nights 18+
+UID:38364@visitlaramie.org
+URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260313
@@ -505,13 +470,13 @@ UID:38637@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-basketball-vs-air-force/38637/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:College Country Nights 18+\nMore info: https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_8C61CE8F-83FF-42AD-A7468485E3507B0D_8c024931-326c-40e1-adff0e7798d2ca3e.jpg\nCategories: Community\, University of Wyoming
-GEO:41.312609;-105.595118
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:College Country Nights 18+
-UID:38364@visitlaramie.org
-URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
+DTSTART;VALUE=DATE:20260228
+DESCRIPTION:Laramie Urban Sketchers First Sketch\nMore info: https://www.visitlaramie.org/event/laramie-urban-sketchers-first-sketch/38721/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-133318_7A1ACDC4-9432-43BB-3B835E972F29E34E_7a25a63a-ea37-c53f-223a2d4e862c77c4.png\nCategories: Community\, Performing Arts & Culture\, Social Events\, Craft Classes & Workshops
+GEO:41.312220;-105.595626
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Laramie Urban Sketchers First Sketch
+UID:38721@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-urban-sketchers-first-sketch/38721/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
