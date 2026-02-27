@@ -74,15 +74,6 @@ UID:38705@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-keenan-trevon-%26%238211%3b-hug-me-flowers-tour-2026/38705/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-DESCRIPTION:Where the Heck is Yucca Fountain?\nMore info: https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-095605_7E4E3F38-C748-8987-454AD7F3904038A5_7e62af7f-e765-3e11-cb7adb7c08abd00c.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Where the Heck is Yucca Fountain?
-UID:38432@visitlaramie.org
-URL:https://www.visitlaramie.org/event/where-the-heck-is-yucca-fountain%3f/38432/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:Belly Dance: Level 1 Facilitated by Aylin Carey\nMore info: https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-115757_AD4DA6B8-027D-1E11-D0CD894C1ED53183_ad609a4d-c2a9-8774-ddb3b81b88f6df68.png\nCategories: Community\, Performing Arts & Culture\, Craft Classes & Workshops
 GEO:41.312877;-105.595095
@@ -407,6 +398,15 @@ UID:38698@visitlaramie.org
 URL:https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Teenage Bottlerocket  - Laramie\nMore info: https://www.visitlaramie.org/event/teenage-bottlerocket-laramie/38684/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Teenage-Bottlerocket_6367502B-923E-1FDA-FCE697D93831D037_636b6aff-fa15-d42a-b8c38a44e1e4a072.jpg\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Teenage Bottlerocket  - Laramie
+UID:38684@visitlaramie.org
+URL:https://www.visitlaramie.org/event/teenage-bottlerocket-laramie/38684/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260131
 DESCRIPTION:Andy Warhol: Ten Clips\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-ten-clips/38658/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-30-133425_A615E7E4-D717-E346-6DAAF023C05DAD12_a6173d90-cc5d-1da7-0e598ac088fbe26c.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -495,5 +495,14 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Laradise Music Showcase  - Laramie
 UID:38682@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laradise-music-showcase-laramie/38682/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Teenage Bottlerocket\nMore info: https://www.visitlaramie.org/event/teenage-bottlerocket/38656/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TBR4X5_6C6260C2-B248-99EA-5C0009BCA3BB4689_6c6d8722-c383-5b85-e30c39845ff5d4ab.jpg\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Teenage Bottlerocket
+UID:38656@visitlaramie.org
+URL:https://www.visitlaramie.org/event/teenage-bottlerocket/38656/
 END:VEVENT
 END:VCALENDAR
