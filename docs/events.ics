@@ -371,6 +371,15 @@ UID:38732@visitlaramie.org
 URL:https://www.visitlaramie.org/event/spring-sip-%2b-shop/38732/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Comedy That Cares - Featuring: Matt Bergman\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-featuring%3a-matt-bergman/38758/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-02-132918_E2593172-088C-781E-6930807A1E06E805_e25bf6cd-df81-3876-bfbf677e74db51b0.png\nCategories: Performing Arts & Culture
+GEO:41.149793;-104.818922
+LOCATION:The Collective
+SUMMARY:Comedy That Cares - Featuring: Matt Bergman
+UID:38758@visitlaramie.org
+URL:https://www.visitlaramie.org/event/comedy-that-cares-featuring%3a-matt-bergman/38758/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
 DESCRIPTION:UW Cowboy W's Basketball vs. Grand Canyon University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events5_D79E1239-5056-A36F-2378598A883507C9_d7e2c9cc-5056-a36f-23586dc850bbdd92.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.313325;-105.569388
@@ -450,15 +459,6 @@ LOCATION:The Collective
 SUMMARY:Somatic & Breathwork Workshop
 UID:38438@visitlaramie.org
 URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Comedy That Cares - LIVE TAPING\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Comedy-That-Cares-Laramie-front-flyer-_400C48FB-98D5-0FBA-0AB3E307739CB3EB_403096e4-a3ad-31e0-92febf0737b7dff6.png\nCategories: Performing Arts & Culture
-GEO:41.149793;-104.818922
-LOCATION:The Collective
-SUMMARY:Comedy That Cares - LIVE TAPING
-UID:38698@visitlaramie.org
-URL:https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
