@@ -11,6 +11,15 @@ UID:38733@visitlaramie.org
 URL:https://www.visitlaramie.org/event/begin-to-knit-103%3a-learn-to-knit-socks-on-dpns-march-%26-april-2026/38733/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DESCRIPTION:Laramie Urban Sketchers @ Bonds Brewing\nMore info: https://www.visitlaramie.org/event/laramie-urban-sketchers-%40-bonds-brewing/38759/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/287/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Laramie_E589C7FF-FA4F-E449-04B58AC8631F49A4_e5bdd237-dda0-3d55-1b1a73fd8abef632.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.309643;-105.594735
+LOCATION:Bond's Brewing Company
+SUMMARY:Laramie Urban Sketchers @ Bonds Brewing
+UID:38759@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-urban-sketchers-%40-bonds-brewing/38759/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260324
 DESCRIPTION:Wyoming Skies: Spring Equinox\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-spring-equinox/38752/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_477B2A68-C60A-27F4-5280C2C5D8800BC7_47ada1c8-acb3-a5e3-009d746907f81dc1.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -110,15 +119,6 @@ UID:38341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260303
-DESCRIPTION:UW Cowboy M's Basketball vs. Univ of Nevada\nMore info: https://www.visitlaramie.org/event/uw-cowboy-ms-basketball-vs-univ-of-nevada/38666/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events4_D530CBA8-5056-A36F-236C9496675F6255_d5586988-5056-a36f-237df98a71907589.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.313325;-105.569388
-LOCATION:Arena-Auditorium
-SUMMARY:UW Cowboy M's Basketball vs. Univ of Nevada
-UID:38666@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-ms-basketball-vs-univ-of-nevada/38666/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DESCRIPTION:Full-Dome Film: Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure/38750/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-135046_489BFFBB-FF3C-EBC3-5A562C3D7945D5B9_48a08e9e-0f03-6a6a-f313a4a107ce91e4.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -182,13 +182,13 @@ UID:38587@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Ivinson Auxiliary 75-Year Celebration\nMore info: https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Auxiliary-75-Year-Facebook-Cover-Photo_11F4A7A1-A069-3816-1B744645C4EC003F_11f7bb41-eef2-8f50-4f639d3ace247574.png\nCategories: History
-GEO:41.312268;-105.556237
-LOCATION:Ivinson Memorial Hospital West Atrium (Door#4)
-SUMMARY:Ivinson Auxiliary 75-Year Celebration
-UID:38736@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/
+DTSTART;VALUE=DATE:20260308
+DESCRIPTION:UW Dance Presents: Collective Motion\nMore info: https://www.visitlaramie.org/event/uw-dance-presents%3a-collective-motion/38762/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-102307_123297F1-E785-4E27-95A92A790ECFCE1F_12331d84-cad7-8b25-e2511ef019762ea4.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.314021;-105.584601
+LOCATION:Buchanan Center for the Performing Arts -Main Stage
+SUMMARY:UW Dance Presents: Collective Motion
+UID:38762@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-dance-presents%3a-collective-motion/38762/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
@@ -198,6 +198,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: Kenny Feidler Live &#8211\; March 7th (Wyoming Day)
 UID:38619@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-kenny-feidler-live-%26%238211%3b-march-7th-(wyoming-day)/38619/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Ivinson Auxiliary 75-Year Celebration\nMore info: https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Auxiliary-75-Year-Facebook-Cover-Photo_11F4A7A1-A069-3816-1B744645C4EC003F_11f7bb41-eef2-8f50-4f639d3ace247574.png\nCategories: History
+GEO:41.312268;-105.556237
+LOCATION:Ivinson Memorial Hospital West Atrium (Door#4)
+SUMMARY:Ivinson Auxiliary 75-Year Celebration
+UID:38736@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
@@ -281,6 +290,15 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:UW Symphony - Worlds of Imagination\, A SemiQuincentennial Concert\nMore info: https://www.visitlaramie.org/event/uw-symphony-worlds-of-imagination-a-semiquincentennial-concert/38760/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-095111_0E467D95-ABDB-DAFB-EEBDD8C4F7D586DA_0eabb60c-e967-7cc2-839aaf4a11c81cb7.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.314021;-105.584601
+LOCATION:Buchanan Center for the Performing Arts - Concert Hall
+SUMMARY:UW Symphony - Worlds of Imagination\, A SemiQuincentennial Concert
+UID:38760@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-symphony-worlds-of-imagination-a-semiquincentennial-concert/38760/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DESCRIPTION:3rd Annual Battle of the Bands\nMore info: https://www.visitlaramie.org/event/3rd-annual-battle-of-the-bands/38701/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/image000001-1-_07E10B86-DC15-1DC1-7D642BEF62403E75_07ee5915-b887-03e1-4c25848894f0d3a2.png\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -353,6 +371,15 @@ UID:38713@visitlaramie.org
 URL:https://www.visitlaramie.org/event/center-for-entrepreneurship-%26-innovation%3a-guest-speaker-series/38713/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Relative Theatric / Read. Rant. Relate  : Walden by Amy Berryman\nMore info: https://www.visitlaramie.org/event/relative-theatric-read-rant-relate-%3a-walden-by-amy-berryman/38765/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-112516_11CBC114-B827-8D73-611C2851EF393FD5_120d20ca-c1c2-9c4e-a5bc05ea3a235a02.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture
+GEO:41.314718;-105.569029
+LOCATION:UW Berry Biodiversity Center
+SUMMARY:Relative Theatric / Read. Rant. Relate  : Walden by Amy Berryman
+UID:38765@visitlaramie.org
+URL:https://www.visitlaramie.org/event/relative-theatric-read-rant-relate-%3a-walden-by-amy-berryman/38765/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
 DESCRIPTION:Liquid Sky: ABBA\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-abba/38739/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131526_4756BAE4-BA97-C60D-9557EC381DE5F0D4_47577259-fc92-96ad-b28fb2ba1ac0ef64.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -378,15 +405,6 @@ LOCATION:The Collective
 SUMMARY:Comedy That Cares - Featuring: Matt Bergman
 UID:38758@visitlaramie.org
 URL:https://www.visitlaramie.org/event/comedy-that-cares-featuring%3a-matt-bergman/38758/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260303
-DESCRIPTION:UW Cowboy W's Basketball vs. Grand Canyon University\nMore info: https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events5_D79E1239-5056-A36F-2378598A883507C9_d7e2c9cc-5056-a36f-23586dc850bbdd92.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.313325;-105.569388
-LOCATION:Arena-Auditorium
-SUMMARY:UW Cowboy W's Basketball vs. Grand Canyon University
-UID:38667@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-ws-basketball-vs-grand-canyon-university/38667/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
@@ -434,13 +452,13 @@ UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260307
-DESCRIPTION:Forward! To the Moon\nMore info: https://www.visitlaramie.org/event/forward!-to-the-moon/38737/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Forward! To the Moon
-UID:38737@visitlaramie.org
-URL:https://www.visitlaramie.org/event/forward!-to-the-moon/38737/
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Department of Music Presents: David Wong Trio\nMore info: https://www.visitlaramie.org/event/department-of-music-presents%3a-david-wong-trio/38763/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-102145_0F17EA01-0896-95D7-800D88944FFE5323_0f19302f-bee7-65d5-5ed7ef71ad95db3e.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.314021;-105.584601
+LOCATION:Buchanan Center for the Performing Arts - Recital Hall
+SUMMARY:Department of Music Presents: David Wong Trio
+UID:38763@visitlaramie.org
+URL:https://www.visitlaramie.org/event/department-of-music-presents%3a-david-wong-trio/38763/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260305
@@ -513,6 +531,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Meet The Planets
 UID:38749@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-meet-the-planets/38749/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:UW Dance Presents: Collective Motion\nMore info: https://www.visitlaramie.org/event/uw-dance-presents%3a-collective-motion/38761/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-102307_122D0AE2-C049-9704-DCEDFD4AF40C1412_122db485-fcee-a089-ae5f513580bf2e33.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.314021;-105.584601
+LOCATION:Buchanan Center for the Performing Arts -Main Stage
+SUMMARY:UW Dance Presents: Collective Motion
+UID:38761@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-dance-presents%3a-collective-motion/38761/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260302
