@@ -173,15 +173,6 @@ UID:38656@visitlaramie.org
 URL:https://www.visitlaramie.org/event/teenage-bottlerocket/38656/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260114
-DESCRIPTION:18+ College County Night\nMore info: https://www.visitlaramie.org/event/18%2b-college-county-night/38587/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_F5F8D51C-79B2-4543-8988DEE5E4863805_9f4bd647-7c90-41cf-a6ca1edfedb14bc9.jpg\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:18+ College County Night
-UID:38587@visitlaramie.org
-URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260308
 DESCRIPTION:UW Dance Presents: Collective Motion\nMore info: https://www.visitlaramie.org/event/uw-dance-presents%3a-collective-motion/38762/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-102307_123297F1-E785-4E27-95A92A790ECFCE1F_12331d84-cad7-8b25-e2511ef019762ea4.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
 GEO:41.314021;-105.584601
@@ -189,6 +180,15 @@ LOCATION:Buchanan Center for the Performing Arts -Main Stage
 SUMMARY:UW Dance Presents: Collective Motion
 UID:38762@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-dance-presents%3a-collective-motion/38762/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Ivinson Auxiliary 75-Year Celebration\nMore info: https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Auxiliary-75-Year-Facebook-Cover-Photo_11F4A7A1-A069-3816-1B744645C4EC003F_11f7bb41-eef2-8f50-4f639d3ace247574.png\nCategories: History
+GEO:41.312268;-105.556237
+LOCATION:Ivinson Memorial Hospital West Atrium (Door#4)
+SUMMARY:Ivinson Auxiliary 75-Year Celebration
+UID:38736@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260307
@@ -200,13 +200,22 @@ UID:38619@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-kenny-feidler-live-%26%238211%3b-march-7th-(wyoming-day)/38619/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Ivinson Auxiliary 75-Year Celebration\nMore info: https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Auxiliary-75-Year-Facebook-Cover-Photo_11F4A7A1-A069-3816-1B744645C4EC003F_11f7bb41-eef2-8f50-4f639d3ace247574.png\nCategories: History
-GEO:41.312268;-105.556237
-LOCATION:Ivinson Memorial Hospital West Atrium (Door#4)
-SUMMARY:Ivinson Auxiliary 75-Year Celebration
-UID:38736@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:18+ College County Night\nMore info: https://www.visitlaramie.org/event/18%2b-college-county-night/38587/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_F5F8D51C-79B2-4543-8988DEE5E4863805_9f4bd647-7c90-41cf-a6ca1edfedb14bc9.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:18+ College County Night
+UID:38587@visitlaramie.org
+URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Pickleball Tournament\nMore info: https://www.visitlaramie.org/event/pickleball-tournament/38671/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-095328_D4214A2D-BFCC-64E9-C29920FCA45C87BA_d4883e49-0fcb-2a81-5cb8d993ff84fbf3.png\nCategories: Community\, Sports
+GEO:41.315351;-105.559894
+LOCATION:University of Wyoming Indoor Tennis Complex
+SUMMARY:Pickleball Tournament
+UID:38671@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pickleball-tournament/38671/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
@@ -396,6 +405,15 @@ LOCATION:The Bent & Rusty
 SUMMARY:Spring Sip + Shop
 UID:38732@visitlaramie.org
 URL:https://www.visitlaramie.org/event/spring-sip-%2b-shop/38732/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:An Evening with Renee Elise Goldsberry (New Date)\nMore info: https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry-(new-date)/38550/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-22-114617_C9CDD62A-D70D-CEE7-00A04E87960A51CB_c9cfa130-a2f2-e020-8495240eb5e091ba.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.311910;-105.581193
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:An Evening with Renee Elise Goldsberry (New Date)
+UID:38550@visitlaramie.org
+URL:https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry-(new-date)/38550/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
