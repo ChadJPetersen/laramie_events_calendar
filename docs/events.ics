@@ -38,15 +38,6 @@ UID:38752@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies%3a-spring-equinox/38752/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:Adult Crafternoon: Tiny Art Exhibit\nMore info: https://www.visitlaramie.org/event/adult-crafternoon%3a-tiny-art-exhibit/38726/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-120146_AA499F0D-9973-8E2E-D82473AEC063A433_aa50914d-b61e-977b-cd18247f36a4038c.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Adult Crafternoon: Tiny Art Exhibit
-UID:38726@visitlaramie.org
-URL:https://www.visitlaramie.org/event/adult-crafternoon%3a-tiny-art-exhibit/38726/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
 DESCRIPTION:AHC Railroad Speaker Series: Binding the Nation\, Civil War Politics and the Promise of the Pacific RR\nMore info: https://www.visitlaramie.org/event/ahc-railroad-speaker-series%3a-binding-the-nation-civil-war-politics-and-the-promise-of-the-pacific-rr/38778/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-133231_7D03B8AA-0118-03B2-F0A7976E589A38F5_7d14bc38-dc39-e736-9973d5ae7b6bbd93.png\nCategories: History\, Community
 GEO:41.314165;-105.568122
@@ -173,13 +164,13 @@ UID:38656@visitlaramie.org
 URL:https://www.visitlaramie.org/event/teenage-bottlerocket/38656/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:UW Dance Presents: Collective Motion\nMore info: https://www.visitlaramie.org/event/uw-dance-presents%3a-collective-motion/38762/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-102307_123297F1-E785-4E27-95A92A790ECFCE1F_12331d84-cad7-8b25-e2511ef019762ea4.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.314021;-105.584601
-LOCATION:Buchanan Center for the Performing Arts -Main Stage
-SUMMARY:UW Dance Presents: Collective Motion
-UID:38762@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-dance-presents%3a-collective-motion/38762/
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:18+ College County Night\nMore info: https://www.visitlaramie.org/event/18%2b-college-county-night/38587/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_F5F8D51C-79B2-4543-8988DEE5E4863805_9f4bd647-7c90-41cf-a6ca1edfedb14bc9.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:18+ College County Night
+UID:38587@visitlaramie.org
+URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260311
@@ -189,15 +180,6 @@ LOCATION:Ivinson Memorial Hospital West Atrium (Door#4)
 SUMMARY:Ivinson Auxiliary 75-Year Celebration
 UID:38736@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260114
-DESCRIPTION:18+ College County Night\nMore info: https://www.visitlaramie.org/event/18%2b-college-county-night/38587/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_F5F8D51C-79B2-4543-8988DEE5E4863805_9f4bd647-7c90-41cf-a6ca1edfedb14bc9.jpg\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:18+ College County Night
-UID:38587@visitlaramie.org
-URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
@@ -288,15 +270,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260308
-DESCRIPTION:Jackalope Cult Cinema presents: Blazing Saddles\nMore info: https://www.visitlaramie.org/event/jackalope-cult-cinema-presents%3a-blazing-saddles/38767/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-112528_785C2737-E7F5-E0C1-E149FCDC02076846_785ca76f-cf1f-073a-96057e1605eb9c25.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Jackalope Cult Cinema presents: Blazing Saddles
-UID:38767@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jackalope-cult-cinema-presents%3a-blazing-saddles/38767/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
