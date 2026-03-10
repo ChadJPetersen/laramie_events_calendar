@@ -92,6 +92,15 @@ UID:38589@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-latin-night/38589/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:UW Symphony - Concertmaster Fund Recital\nMore info: https://www.visitlaramie.org/event/uw-symphony-concertmaster-fund-recital/38764/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-103001_0F6AAD38-FF52-EFE7-98CB0DB4E2AF78EF_0f758519-b238-3b13-fa0eedd3e44dfe4e.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
+GEO:41.314021;-105.584601
+LOCATION:Buchanan Center for the Performing Arts - Concert Hall
+SUMMARY:UW Symphony - Concertmaster Fund Recital
+UID:38764@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-symphony-concertmaster-fund-recital/38764/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260313
 DESCRIPTION:Cowboy Saloon Presents: Keenan Trevon &#8211\; Hug Me Flowers Tour 2026\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-keenan-trevon-%26%238211%3b-hug-me-flowers-tour-2026/38705/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-1_30C1CE9B-4877-42B6-B24FDF6C0FFDF95F_22628f1e-d49c-481e-98b5850c78673c0d.jpg\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -108,6 +117,15 @@ LOCATION:The Collective
 SUMMARY:Belly Dance: Level 1 Facilitated by Aylin Carey
 UID:38341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Field Herping 101\nMore info: https://www.visitlaramie.org/event/field-herping-101/38783/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FieldHerp101_A7E8A3CF-FE5F-7B35-B91812042E5895BB_a8321648-c2cd-d075-65d9bf2b51b6aa2a.png\nCategories: Outdoor Recreation\, Education
+GEO:41.308353;-105.596400
+LOCATION:Laramie Railroad Depot
+SUMMARY:Field Herping 101
+UID:38783@visitlaramie.org
+URL:https://www.visitlaramie.org/event/field-herping-101/38783/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
@@ -281,15 +299,6 @@ UID:38701@visitlaramie.org
 URL:https://www.visitlaramie.org/event/3rd-annual-battle-of-the-bands/38701/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260307
-DESCRIPTION:Friends of the Albany County Public Library Spring Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-spring-book-sale/38695/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-120841_7732EBDF-AEF6-DBE5-20FEE9A24EB45717_773332d8-ab4a-342c-7b9bfd7408d6bf78.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Friends of the Albany County Public Library Spring Book Sale
-UID:38695@visitlaramie.org
-URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-spring-book-sale/38695/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DESCRIPTION:Live Presentation: Search for Extra-Terrestial Life\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-search-for-extra-terrestial-life/38753/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140509_491AEBB7-9F69-1BD3-F1A59E0E9575FB36_491bb687-ed2e-937b-7eba169616232862.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -362,6 +371,15 @@ UID:38550@visitlaramie.org
 URL:https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry-(new-date)/38550/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Sip and Savor\nMore info: https://www.visitlaramie.org/event/sip-and-savor/38784/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WWHH-Event_4668D05D-08C9-DF6B-1BDBAA426905BEC6_466a8141-d0ef-6df8-532d9bba61c1ecbb.png\nCategories: History\, Community
+GEO:41.310393;-105.594817
+LOCATION:Wyoming Women's History House
+SUMMARY:Sip and Savor
+UID:38784@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sip-and-savor/38784/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DESCRIPTION:Comedy That Cares - Featuring: Matt Bergman\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-featuring%3a-matt-bergman/38758/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-02-132918_E2593172-088C-781E-6930807A1E06E805_e25bf6cd-df81-3876-bfbf677e74db51b0.png\nCategories: Performing Arts & Culture
 GEO:41.149793;-104.818922
@@ -404,15 +422,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Boot Night at The Cowboy Saloon
 UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251013
-DESCRIPTION:Somatic & Breathwork Workshop\nMore info: https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-111255_815A093A-FC7B-F61D-A48EB3A5F60E6022_816bd862-d947-9782-951e92ff7fe9309a.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.312877;-105.595095
-LOCATION:The Collective
-SUMMARY:Somatic & Breathwork Workshop
-UID:38438@visitlaramie.org
-URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
@@ -458,6 +467,15 @@ LOCATION:The Gryphon Theatre
 SUMMARY:No Man's Land Film Festival
 UID:38768@visitlaramie.org
 URL:https://www.visitlaramie.org/event/no-mans-land-film-festival/38768/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DESCRIPTION:Siberian Rendezvous Dogsled Race\nMore info: https://www.visitlaramie.org/event/siberian-rendezvous-dogsled-race/38787/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-09-133437_49372B2F-E38B-8C68-8F572FE2B6B53142_4964cc68-0932-24bd-d94deda95489e589.png\nCategories: Outdoor Recreation
+GEO:41.308958;-105.620160
+LOCATION:TICS Parking/Trailhead Medicine Bow-Routt National Forest
+SUMMARY:Siberian Rendezvous Dogsled Race
+UID:38787@visitlaramie.org
+URL:https://www.visitlaramie.org/event/siberian-rendezvous-dogsled-race/38787/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260313
