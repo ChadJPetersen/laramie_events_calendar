@@ -254,15 +254,6 @@ UID:38657@visitlaramie.org
 URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260127
-DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Andy Warhol: 15 Prints
-UID:38650@visitlaramie.org
-URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260313
 DESCRIPTION:Live Presentation: Size of the Universe\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-size-of-the-universe/38741/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-132847_47CDC517-DA34-0FB9-909F27A8CB5EE69E_47d4261d-9293-7186-ac77c385fdfec659.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -270,6 +261,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Size of the Universe
 UID:38741@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-size-of-the-universe/38741/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Andy Warhol: 15 Prints
+UID:38650@visitlaramie.org
+URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
@@ -433,6 +433,15 @@ UID:38782@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-wild-and-working-lands-film-festival/38782/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:BANFF Mountain Film Festival @ The Gryphon\nMore info: https://www.visitlaramie.org/event/banff-mountain-film-festival-%40-the-gryphon/38723/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-134621_7A89AFD3-DA13-D568-CA95CA02283E5397_7a9a6938-0bfa-979b-41ec46afb76c1a32.png\nCategories: Annual Events & Festivals\, Outdoor Recreation\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:BANFF Mountain Film Festival @ The Gryphon
+UID:38723@visitlaramie.org
+URL:https://www.visitlaramie.org/event/banff-mountain-film-festival-%40-the-gryphon/38723/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 DESCRIPTION:Teenage Bottlerocket  - Laramie\nMore info: https://www.visitlaramie.org/event/teenage-bottlerocket-laramie/38684/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Teenage-Bottlerocket_6367502B-923E-1FDA-FCE697D93831D037_636b6aff-fa15-d42a-b8c38a44e1e4a072.jpg\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -514,6 +523,15 @@ UID:38364@visitlaramie.org
 URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Join or Die Film Screening\nMore info: https://www.visitlaramie.org/event/join-or-die-film-screening/38598/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/JoinOrDie_39613C16-ED8C-49B8-D5CF8AEEA9A55415_397ddcae-bd8b-30c6-6bef7ee94b3c42b3.jpg\nCategories: Community\, University of Wyoming
+GEO:41.313163;-105.581309
+LOCATION:University of Wyoming Education Auditorium
+SUMMARY:Join or Die Film Screening
+UID:38598@visitlaramie.org
+URL:https://www.visitlaramie.org/event/join-or-die-film-screening/38598/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 DESCRIPTION:Ukrainian Pysanky Easter Eggs Class\nMore info: https://www.visitlaramie.org/event/ukrainian-pysanky-easter-eggs-class/38773/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-120200_79A9E5F1-AE62-7D50-321845A658BC90B0_79aa951e-ef96-ea7f-791f8d687a7946d1.png\nCategories: Community\, Performing Arts & Culture\, Craft Classes & Workshops
 GEO:41.312291;-105.595158
@@ -530,14 +548,5 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Synthwave
 UID:38747@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/38747/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260310
-DESCRIPTION:Wyoming Skies: Wyoming Skies Blood Moon Recap\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-wyoming-skies-blood-moon-recap/38740/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_477B2A68-C60A-27F4-5280C2C5D8800BC7_47ada1c8-acb3-a5e3-009d746907f81dc1.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies: Wyoming Skies Blood Moon Recap
-UID:38740@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies%3a-wyoming-skies-blood-moon-recap/38740/
 END:VEVENT
 END:VCALENDAR
