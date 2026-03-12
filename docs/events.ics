@@ -137,15 +137,6 @@ UID:38750@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure/38750/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Wyoming Public Media Speaker Series - Cattle Ranching on the Pine Ridge Indian Reservation\, 1868-1920 By Dr. Jeffrey Means\, UW History Department Chair\nMore info: https://www.visitlaramie.org/event/wyoming-public-media-speaker-series-cattle-ranching-on-the-pine-ridge-indian-reservation-1868-1920-by-dr-jeffrey-means-uw-history-department-chair/38724/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Wyoing-250---March-Event-002-_A316FC66-EEEE-7A27-A297C0E68BAC86C7_a31d0344-bfeb-d0d1-fd8f688dcd5744ce.jpg\nCategories: Community
-GEO:41.312149;-105.589043
-LOCATION:Alice Hardie Stevens Center at the Ivinson Mansion
-SUMMARY:Wyoming Public Media Speaker Series - Cattle Ranching on the Pine Ridge Indian Reservation\, 1868-1920 By Dr. Jeffrey Means\, UW History Department Chair
-UID:38724@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-public-media-speaker-series-cattle-ranching-on-the-pine-ridge-indian-reservation-1868-1920-by-dr-jeffrey-means-uw-history-department-chair/38724/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260318
 DESCRIPTION:Wyoming FBLA State Leadership Conference\nMore info: https://www.visitlaramie.org/event/wyoming-fbla-state-leadership-conference/38451/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-28-095458_B3439054-C7B1-6582-99A58405FB01ECF7_b37b9fd5-a0d9-09d7-369d8194104c15b9.png\nCategories: Education
 GEO:41.310305;-105.564114
@@ -191,15 +182,6 @@ UID:38587@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Ivinson Auxiliary 75-Year Celebration\nMore info: https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Auxiliary-75-Year-Facebook-Cover-Photo_11F4A7A1-A069-3816-1B744645C4EC003F_11f7bb41-eef2-8f50-4f639d3ace247574.png\nCategories: History
-GEO:41.312268;-105.556237
-LOCATION:Ivinson Memorial Hospital West Atrium (Door#4)
-SUMMARY:Ivinson Auxiliary 75-Year Celebration
-UID:38736@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ivinson-auxiliary-75-year-celebration/38736/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
 DESCRIPTION:Pickleball Tournament\nMore info: https://www.visitlaramie.org/event/pickleball-tournament/38671/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-095328_D4214A2D-BFCC-64E9-C29920FCA45C87BA_d4883e49-0fcb-2a81-5cb8d993ff84fbf3.png\nCategories: Community\, Sports
 GEO:41.315351;-105.559894
@@ -234,6 +216,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Women Who Rock
 UID:36333@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/36333/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Buffalo Bill's Revenge NRL Hunter Match presented by Maven Optics\nMore info: https://www.visitlaramie.org/event/buffalo-bills-revenge-nrl-hunter-match-presented-by-maven-optics/38514/\nVenue: Logan Ranch Campground\nVenue Info: https://www.visitlaramie.org/listing/logan-ranch-campground/490/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-12-04-095335_26B5D0CF-E0BA-3EE3-435A168996513084_26b94783-dddc-4662-777a2a9088750fc6.png\nCategories: Outdoor Recreation\, Sports
+GEO:41.080262;-105.507491
+LOCATION:Logan Ranch Campground
+SUMMARY:Buffalo Bill's Revenge NRL Hunter Match presented by Maven Optics
+UID:38514@visitlaramie.org
+URL:https://www.visitlaramie.org/event/buffalo-bills-revenge-nrl-hunter-match-presented-by-maven-optics/38514/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
@@ -371,15 +362,6 @@ UID:38550@visitlaramie.org
 URL:https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry-(new-date)/38550/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:Sip and Savor\nMore info: https://www.visitlaramie.org/event/sip-and-savor/38784/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WWHH-Event_4668D05D-08C9-DF6B-1BDBAA426905BEC6_466a8141-d0ef-6df8-532d9bba61c1ecbb.png\nCategories: History\, Community
-GEO:41.310393;-105.594817
-LOCATION:Wyoming Women's History House
-SUMMARY:Sip and Savor
-UID:38784@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sip-and-savor/38784/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DESCRIPTION:Comedy That Cares - Featuring: Matt Bergman\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-featuring%3a-matt-bergman/38758/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-02-132918_E2593172-088C-781E-6930807A1E06E805_e25bf6cd-df81-3876-bfbf677e74db51b0.png\nCategories: Performing Arts & Culture
 GEO:41.149793;-104.818922
@@ -396,6 +378,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: We Are Stars
 UID:38751@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars/38751/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Two FREE Meditation Classes in Laramie This Spring\nMore info: https://www.visitlaramie.org/event/two-free-meditation-classes-in-laramie-this-spring/38660/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Laramie_Meetup_D9B1FF53-0271-3223-495BC2A347894521_d9bf0532-9884-6fce-d931189c66757882.png\nCategories: Community
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Two FREE Meditation Classes in Laramie This Spring
+UID:38660@visitlaramie.org
+URL:https://www.visitlaramie.org/event/two-free-meditation-classes-in-laramie-this-spring/38660/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260314
@@ -476,6 +467,15 @@ LOCATION:The Gryphon Theatre
 SUMMARY:No Man's Land Film Festival
 UID:38768@visitlaramie.org
 URL:https://www.visitlaramie.org/event/no-mans-land-film-festival/38768/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Cowboy Saloon & Chancey Williams White Trash Bash!\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-%26-chancey-williams-white-trash-bash!/38644/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-11_A59352E8-4C86-4E73-B7326136B5E09BAB_08daff91-d3e3-4d9b-be2d1693b5dceb95.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon & Chancey Williams White Trash Bash!
+UID:38644@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-%26-chancey-williams-white-trash-bash!/38644/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
