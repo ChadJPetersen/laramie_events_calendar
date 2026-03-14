@@ -47,7 +47,7 @@ UID:38810@visitlaramie.org
 URL:https://www.visitlaramie.org/event/print-making-with-jim-jereb-a-creative-aging-exhibition/38810/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
+DTSTART;VALUE=DATE:20260324
 DESCRIPTION:AHC Railroad Speaker Series: Binding the Nation\, Civil War Politics and the Promise of the Pacific RR\nMore info: https://www.visitlaramie.org/event/ahc-railroad-speaker-series%3a-binding-the-nation-civil-war-politics-and-the-promise-of-the-pacific-rr/38778/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-133231_7D03B8AA-0118-03B2-F0A7976E589A38F5_7d14bc38-dc39-e736-9973d5ae7b6bbd93.png\nCategories: History\, Community
 GEO:41.314165;-105.568122
 LOCATION:American Heritage Center- Stockgrowers' Room
@@ -102,9 +102,9 @@ URL:https://www.visitlaramie.org/event/cowboy-saloon-present%3a-nathan-dean-%26-
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Big Boy No 4014 "Whistle Stop" Steam Engine Train\nMore info: https://www.visitlaramie.org/event/big-boy-no-4014-whistle-stop-steam-engine-train/38797/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nCategories: History\, Community\, Family Fun\, Wyoming 250
+DESCRIPTION:Big Boy No 4014 "Whistle Stop" Steam Engine Train\nMore info: https://www.visitlaramie.org/event/big-boy-no-4014-whistle-stop-steam-engine-train/38797/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-13-113449_129627CD-E245-CAD0-E22B5FC62104B6EC_1297045d-f918-aec2-d7647a64e29b1525.png\nCategories: History\, Community\, Family Fun\, Wyoming 250
 GEO:41.308353;-105.596400
-LOCATION:train depot
+LOCATION:Laramie Historic Train Depot
 SUMMARY:Big Boy No 4014 "Whistle Stop" Steam Engine Train
 UID:38797@visitlaramie.org
 URL:https://www.visitlaramie.org/event/big-boy-no-4014-whistle-stop-steam-engine-train/38797/
@@ -126,15 +126,6 @@ LOCATION:Buchanan Center for the Performing Arts - Concert Hall
 SUMMARY:UW Symphony - Concertmaster Fund Recital
 UID:38764@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-concertmaster-fund-recital/38764/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Cowboy Saloon Presents: Keenan Trevon &#8211\; Buy Me Flowers Tour 2026\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-keenan-trevon-%26%238211%3b-buy-me-flowers-tour-2026/38705/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-1_30C1CE9B-4877-42B6-B24FDF6C0FFDF95F_22628f1e-d49c-481e-98b5850c78673c0d.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: Keenan Trevon &#8211\; Buy Me Flowers Tour 2026
-UID:38705@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-keenan-trevon-%26%238211%3b-buy-me-flowers-tour-2026/38705/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
@@ -290,15 +281,6 @@ UID:38657@visitlaramie.org
 URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Live Presentation: Size of the Universe\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-size-of-the-universe/38741/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-132847_47CDC517-DA34-0FB9-909F27A8CB5EE69E_47d4261d-9293-7186-ac77c385fdfec659.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Size of the Universe
-UID:38741@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-size-of-the-universe/38741/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
 DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -398,22 +380,22 @@ UID:38713@visitlaramie.org
 URL:https://www.visitlaramie.org/event/center-for-entrepreneurship-%26-innovation%3a-guest-speaker-series/38713/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Fridays at the Buck: Live Music\nMore info: https://www.visitlaramie.org/event/fridays-at-the-buck%3a-live-music/38798/\nVenue: Buckhorn Bar & Parlor\nVenue Info: https://www.visitlaramie.org/listing/buckhorn-bar-%26-parlor/153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-105135_DD8F7341-FA64-CB13-544CC61473607564_dd97754f-db17-f484-56f2f49ea73b463d.png\nCategories: Concerts & Live Music
-GEO:41.311952;-105.595415
-LOCATION:Buckhorn Bar & Parlor
-SUMMARY:Fridays at the Buck: Live Music
-UID:38798@visitlaramie.org
-URL:https://www.visitlaramie.org/event/fridays-at-the-buck%3a-live-music/38798/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Big Boy 4014 Comes to Laramie - Coast-to-Coast Tour Stop\nMore info: https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38804/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-112728_DED1A212-A984-D047-A1B7692FC4CCFDC7_deebdaf6-c7ab-122a-20838888f19d2438.png\nCategories: Annual Events & Festivals\, History\, Education\, Family Fun
+DESCRIPTION:Big Boy 4014 Comes to Laramie - Coast-to-Coast Tour Stop\nMore info: https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38804/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-112728_DED1A212-A984-D047-A1B7692FC4CCFDC7_deebdaf6-c7ab-122a-20838888f19d2438.png\nCategories: History\, Family Fun\, Wyoming 250
 GEO:41.308353;-105.596400
 LOCATION:Depot Park Greenspace
 SUMMARY:Big Boy 4014 Comes to Laramie - Coast-to-Coast Tour Stop
 UID:38804@visitlaramie.org
 URL:https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38804/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260413
+DESCRIPTION:Cowboy Saloon Presents - Micro Wrestling\, Big Little Brawlers\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents-micro-wrestling-big-little-brawlers/38499/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/8x8-2025-Poster_LoRez_576929A2-D6D9-4484-B1E75EE615AB41F4_a4c4aa01-c4e3-4152-aeb41684ac9362ed.jpg\nCategories: Performing Arts & Culture
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents - Micro Wrestling\, Big Little Brawlers
+UID:38499@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents-micro-wrestling-big-little-brawlers/38499/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260320
@@ -450,6 +432,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: We Are Stars
 UID:38751@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars/38751/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:America's 250th Celebration Humanities Summit\nMore info: https://www.visitlaramie.org/event/americas-250th-celebration-humanities-summit/38816/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-13-100327_0F65DE9B-FE6F-85CB-BDBDFB72103B300F_0f72d982-e5d7-53b3-da5e540b9a50d0b2.png\nCategories: History\, University of Wyoming\, Education\, Wyoming 250
+GEO:41.311795;-105.581222
+LOCATION:Univ of Wyoming A & S Auditorium
+SUMMARY:America's 250th Celebration Humanities Summit
+UID:38816@visitlaramie.org
+URL:https://www.visitlaramie.org/event/americas-250th-celebration-humanities-summit/38816/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
@@ -505,6 +496,15 @@ UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Somatic & Breathwork Workshop\nMore info: https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-111255_815A093A-FC7B-F61D-A48EB3A5F60E6022_816bd862-d947-9782-951e92ff7fe9309a.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Somatic & Breathwork Workshop
+UID:38438@visitlaramie.org
+URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 DESCRIPTION:The Wild and Working Lands Film Festival\nMore info: https://www.visitlaramie.org/event/the-wild-and-working-lands-film-festival/38782/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-06-092759_A7BCF66A-9D06-30D4-A517BCAEE1C564D3_a7da955a-c087-e7c0-92da07fa51994195.png\nCategories: Community\, Outdoor Recreation\, University of Wyoming\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -539,15 +539,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Meet The Planets
 UID:38749@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-meet-the-planets/38749/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:"Liquid Sky: Indie Folk\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38742/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-05-02-135938_B9BC70FD-A566-7698-44817F4C054485BB_ba151bbb-ed1f-a89c-5215be9b47e23104.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:"Liquid Sky: Indie Folk
-UID:38742@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-indie-folk/38742/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260317
@@ -593,15 +584,6 @@ LOCATION:TICS Parking/Trailhead Medicine Bow-Routt National Forest
 SUMMARY:Siberian Rendezvous Dogsled Race
 UID:38787@visitlaramie.org
 URL:https://www.visitlaramie.org/event/siberian-rendezvous-dogsled-race/38787/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:Railtown Supply & Retreat Spring Market\nMore info: https://www.visitlaramie.org/event/railtown-supply-%26-retreat-spring-market/38696/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IG_Post_1A5810BD-EEFF-DF98-99C839E43E9B5988_1a61d0d9-db4f-8ba6-06f2886762d9ff98.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.308932;-105.580965
-LOCATION:Railtown Supply & Retreat
-SUMMARY:Railtown Supply & Retreat Spring Market
-UID:38696@visitlaramie.org
-URL:https://www.visitlaramie.org/event/railtown-supply-%26-retreat-spring-market/38696/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260317
