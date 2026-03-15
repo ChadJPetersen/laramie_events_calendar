@@ -20,15 +20,6 @@ UID:38733@visitlaramie.org
 URL:https://www.visitlaramie.org/event/begin-to-knit-103%3a-learn-to-knit-socks-on-dpns-march-%26-april-2026/38733/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Laramie Urban Sketchers @ Bonds Brewing\nMore info: https://www.visitlaramie.org/event/laramie-urban-sketchers-%40-bonds-brewing/38759/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/287/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Laramie_E589C7FF-FA4F-E449-04B58AC8631F49A4_e5bdd237-dda0-3d55-1b1a73fd8abef632.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.309643;-105.594735
-LOCATION:Bond's Brewing Company
-SUMMARY:Laramie Urban Sketchers @ Bonds Brewing
-UID:38759@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-urban-sketchers-%40-bonds-brewing/38759/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260324
 DESCRIPTION:Wyoming Skies: Spring Equinox\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-spring-equinox/38752/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_477B2A68-C60A-27F4-5280C2C5D8800BC7_47ada1c8-acb3-a5e3-009d746907f81dc1.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -164,15 +155,6 @@ UID:38776@visitlaramie.org
 URL:https://www.visitlaramie.org/event/what-fundraiser%3a-house-of-cards/38776/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Full-Dome Film: One Sky\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38743/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-133547_480DFFD7-D64B-889E-5EBE5BAE035225D9_481633d6-0a24-8782-c80f39e0632fc6ba.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: One Sky
-UID:38743@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38743/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DESCRIPTION:Crawfish Boil @ Bons's Brewing Company\nMore info: https://www.visitlaramie.org/event/crawfish-boil-%40-bonss-brewing-company/38808/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-120802_E0310818-D0BE-ABA2-2A46511693FCF3CA_e051cda6-a181-9ee9-4343c65a0358c2f4.png\nCategories: Community\, Social Events
 GEO:41.309652;-105.594751
@@ -227,15 +209,6 @@ UID:38671@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pickleball-tournament/38671/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:AstroCartography Assessments with Melissa\nMore info: https://www.visitlaramie.org/event/astrocartography-assessments-with-melissa/38781/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-06-095103_A87FE2B9-93AF-1D09-8F2C69A4C3FBDDC8_a8817fbd-eaf9-25b8-27b1cc9f146292c3.png\nCategories: Performing Arts & Culture
-GEO:41.310975;-105.595248
-LOCATION:118 E Grand Ave\, Suite 210\, Laramie WY 82070
-SUMMARY:AstroCartography Assessments with Melissa
-UID:38781@visitlaramie.org
-URL:https://www.visitlaramie.org/event/astrocartography-assessments-with-melissa/38781/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
 DESCRIPTION:Full-Dome Film: Dark Biosphere\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38755/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_494E4173-97FA-FFDF-EBFFE0FCB5BB05C6_4951d25e-ca20-e7e1-93bb990bba1ae3d5.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -243,15 +216,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Dark Biosphere
 UID:38755@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38755/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Liquid Sky: Women Who Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/36333/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131526_484A9532-CB85-3E44-32D982F082FCBA7D_484ae991-f4bf-648c-5d83b2e355f7c60a.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Women Who Rock
-UID:36333@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-women-who-rock/36333/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
@@ -315,6 +279,15 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+DESCRIPTION:Cowboy Saloon Presents: Micro Wrestling - Big Little Brawlers\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-micro-wrestling-big-little-brawlers/38500/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/8x8-2025-Poster_LoRez_954B5F53-3749-42D3-A6F608AF5816C0AD_6e6dbf20-deba-49e5-abdbf4a3ca5a4d22.jpg\nCategories: Performing Arts & Culture
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Micro Wrestling - Big Little Brawlers
+UID:38500@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-micro-wrestling-big-little-brawlers/38500/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
@@ -450,23 +423,6 @@ LOCATION:Albany County Public Library
 SUMMARY:Two FREE Meditation Classes in Laramie This Spring
 UID:38660@visitlaramie.org
 URL:https://www.visitlaramie.org/event/two-free-meditation-classes-in-laramie-this-spring/38660/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:FOE 3492 Annual St Paddy's Party\nMore info: https://www.visitlaramie.org/event/foe-3492-annual-st-paddys-party/38777/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-132729_7CBC3CDA-B9AD-18DD-F745A63D56F68905_7cde19e5-d51d-6833-01c97a27df6254c6.png\nCategories: Community
-GEO:41.325456;-105.596768
-SUMMARY:FOE 3492 Annual St Paddy's Party
-UID:38777@visitlaramie.org
-URL:https://www.visitlaramie.org/event/foe-3492-annual-st-paddys-party/38777/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:Full-Dome Film: Always Above + Dawn of the Space Age\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-always-above-%2b-dawn-of-the-space-age/38744/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-133850_482A6E61-0369-27C0-036C27402036D1B4_482d454c-eb3e-eac0-1641e5eef2512681.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Always Above + Dawn of the Space Age
-UID:38744@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-always-above-%2b-dawn-of-the-space-age/38744/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260320
@@ -638,14 +594,5 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Synthwave
 UID:38747@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/38747/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DESCRIPTION:The Cavalryman Steakhouse presents: The Emerald Table\nMore info: https://www.visitlaramie.org/event/the-cavalryman-steakhouse-presents%3a-the-emerald-table/38799/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-110046_DDF3A7C9-9A4A-E563-1D9C9DA89E1E41D9_ddf95ee1-b17a-6f81-790a78917a3f1989.png\nCategories: Community
-GEO:41.269715;-105.593100
-LOCATION:The Cavalryman Steakhouse
-SUMMARY:The Cavalryman Steakhouse presents: The Emerald Table
-UID:38799@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-cavalryman-steakhouse-presents%3a-the-emerald-table/38799/
 END:VEVENT
 END:VCALENDAR
