@@ -11,6 +11,15 @@ UID:38766@visitlaramie.org
 URL:https://www.visitlaramie.org/event/colonel-john-w-donnellans-early-days-in-laramie/38766/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Community Easter Egg Hunt\nMore info: https://www.visitlaramie.org/event/community-easter-egg-hunt/38824/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-135046_B1DE01F2-005F-F67D-DCAA59C77F72C151_b1f225e8-f881-0308-32f74358ba330ab4.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.321124;-105.568324
+LOCATION:Edgewood Spring Winds
+SUMMARY:Community Easter Egg Hunt
+UID:38824@visitlaramie.org
+URL:https://www.visitlaramie.org/event/community-easter-egg-hunt/38824/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
 DESCRIPTION:Begin to Knit 103: Learn to Knit Socks on DPNs\, March & April 2026\nMore info: https://www.visitlaramie.org/event/begin-to-knit-103%3a-learn-to-knit-socks-on-dpns-march-%26-april-2026/38733/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-134057_ADD89B46-A6F7-C8A2-3A28DE73FF31320D_ade8d703-bcbe-926e-beffd02ef75eab55.png\nCategories: Craft Classes & Workshops
 GEO:41.312291;-105.595158
@@ -30,12 +39,12 @@ URL:https://www.visitlaramie.org/event/wyoming-skies%3a-spring-equinox/38752/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Print Making with Jim Jereb\, a creative aging exhibition\nMore info: https://www.visitlaramie.org/event/print-making-with-jim-jereb-a-creative-aging-exhibition/38810/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-123842_E159E357-9501-AE3D-D19079F0D4EF6062_e2136afe-aee9-7850-710a4aaab722891d.png\nCategories: Performing Arts & Culture
+DESCRIPTION:Print Making with Jim Jereb\, Opening Reception\nMore info: https://www.visitlaramie.org/event/print-making-with-jim-jereb-opening-reception/38810/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-123842_E159E357-9501-AE3D-D19079F0D4EF6062_e2136afe-aee9-7850-710a4aaab722891d.png\nCategories: Performing Arts & Culture
 GEO:41.309522;-105.587753
 LOCATION:Laramie Plains Civic Center - Gorgon Gallery RM 332
-SUMMARY:Print Making with Jim Jereb\, a creative aging exhibition
+SUMMARY:Print Making with Jim Jereb\, Opening Reception
 UID:38810@visitlaramie.org
-URL:https://www.visitlaramie.org/event/print-making-with-jim-jereb-a-creative-aging-exhibition/38810/
+URL:https://www.visitlaramie.org/event/print-making-with-jim-jereb-opening-reception/38810/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260324
@@ -117,6 +126,15 @@ LOCATION:Buchanan Center for the Performing Arts - Concert Hall
 SUMMARY:UW Symphony - Concertmaster Fund Recital
 UID:38764@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-concertmaster-fund-recital/38764/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Laramie Young Professionals: Coffee & Connections\nMore info: https://www.visitlaramie.org/event/laramie-young-professionals%3a-coffee-%26-connections/38822/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-134135_B18F853C-A709-BF74-ABB45C345133B6E2_b19dd46d-9665-c3e8-dab028a427d9cf48.png\nCategories: Community
+GEO:41.312220;-105.595626
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Laramie Young Professionals: Coffee & Connections
+UID:38822@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-young-professionals%3a-coffee-%26-connections/38822/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
@@ -207,6 +225,15 @@ LOCATION:University of Wyoming Indoor Tennis Complex
 SUMMARY:Pickleball Tournament
 UID:38671@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pickleball-tournament/38671/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Dig Deep at the Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/dig-deep-at-the-ruffed-up-duck/38820/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-133316_B144D644-F6DB-F18E-6DEE6BD2E5459C18_b149ac34-96ab-a9e5-d9b481faf5b0b73a.png\nCategories: Concerts & Live Music
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:Dig Deep at the Ruffed Up Duck
+UID:38820@visitlaramie.org
+URL:https://www.visitlaramie.org/event/dig-deep-at-the-ruffed-up-duck/38820/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
@@ -371,6 +398,15 @@ UID:38499@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents-micro-wrestling-big-little-brawlers/38499/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Shamrock Skate\nMore info: https://www.visitlaramie.org/event/shamrock-skate/38823/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-134523_B1AEAD2F-EA05-49C8-05F223478007399A_b1cdf466-acd4-d9c3-7ccfcaa2d4fee082.png\nCategories: Community\, Sports
+GEO:41.305775;-105.551024
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Shamrock Skate
+UID:38823@visitlaramie.org
+URL:https://www.visitlaramie.org/event/shamrock-skate/38823/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260320
 DESCRIPTION:Spring Sip + Shop\nMore info: https://www.visitlaramie.org/event/spring-sip-%2b-shop/38732/\nVenue: The Bent & Rusty\nVenue Info: https://www.visitlaramie.org/listing/the-bent-%26-rusty/192/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-132836_AD5AD430-F030-6197-D7CFE3933BB537C3_ad751623-bc6f-205a-f261d787cb1e1399.png\nCategories: Annual Events & Festivals
 GEO:41.310690;-105.595344
@@ -450,6 +486,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Boot Night at The Cowboy Saloon
 UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Spring Awakening @ Seek Yoga Studio\nMore info: https://www.visitlaramie.org/event/spring-awakening-%40-seek-yoga-studio/38821/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-133730_B1679D00-BD1A-096B-DD927D0B8A1835A3_b178eaf5-0bf8-ca46-2101caffdbb45538.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.313179;-105.595024
+LOCATION:Seek Yoga Studio
+SUMMARY:Spring Awakening @ Seek Yoga Studio
+UID:38821@visitlaramie.org
+URL:https://www.visitlaramie.org/event/spring-awakening-%40-seek-yoga-studio/38821/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
