@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Colonel John W. Donnellan's Early Days in Laramie\nMore info: https://www.visitlaramie.org/event/colonel-john-w-donnellans-early-days-in-laramie/38766/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-111047_77E2FC9B-CFD3-9822-024C266188006377_77fe8102-db83-75ca-bfd9da9cdb405eac.png\nCategories: History\, Community\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Colonel John W. Donnellan's Early Days in Laramie
-UID:38766@visitlaramie.org
-URL:https://www.visitlaramie.org/event/colonel-john-w-donnellans-early-days-in-laramie/38766/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DESCRIPTION:Community Easter Egg Hunt\nMore info: https://www.visitlaramie.org/event/community-easter-egg-hunt/38824/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-135046_B1DE01F2-005F-F67D-DCAA59C77F72C151_b1f225e8-f881-0308-32f74358ba330ab4.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.321124;-105.568324
@@ -218,13 +209,13 @@ UID:38587@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Pickleball Tournament\nMore info: https://www.visitlaramie.org/event/pickleball-tournament/38671/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-095328_D4214A2D-BFCC-64E9-C29920FCA45C87BA_d4883e49-0fcb-2a81-5cb8d993ff84fbf3.png\nCategories: Community\, Sports
-GEO:41.315351;-105.559894
-LOCATION:University of Wyoming Indoor Tennis Complex
-SUMMARY:Pickleball Tournament
-UID:38671@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pickleball-tournament/38671/
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:UW Music Presents: Michael Shults\, Saxophone\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-michael-shults-saxophone/38827/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-17-101540_DDC3A01C-97AB-DB8D-818163CCDABA0A33_ddc75e74-fdb7-ccef-71e2caa1f17e1cc4.png\nCategories: Concerts & Live Music\, University of Wyoming
+GEO:41.311991;-105.572082
+LOCATION:Univ. of Wyoming
+SUMMARY:UW Music Presents: Michael Shults\, Saxophone
+UID:38827@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-music-presents%3a-michael-shults-saxophone/38827/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260323
@@ -234,6 +225,15 @@ LOCATION:Ruffed Up Duck Saloon
 SUMMARY:Dig Deep at the Ruffed Up Duck
 UID:38820@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dig-deep-at-the-ruffed-up-duck/38820/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Pickleball Tournament\nMore info: https://www.visitlaramie.org/event/pickleball-tournament/38671/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-095328_D4214A2D-BFCC-64E9-C29920FCA45C87BA_d4883e49-0fcb-2a81-5cb8d993ff84fbf3.png\nCategories: Community\, Sports
+GEO:41.315351;-105.559894
+LOCATION:University of Wyoming Indoor Tennis Complex
+SUMMARY:Pickleball Tournament
+UID:38671@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pickleball-tournament/38671/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
@@ -272,15 +272,6 @@ UID:38657@visitlaramie.org
 URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260127
-DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Andy Warhol: 15 Prints
-UID:38650@visitlaramie.org
-URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DESCRIPTION:Liquid Sky: Pink Floyd Dark Side of the Moon\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pink-floyd-dark-side-of-the-moon/38748/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131526_484A9532-CB85-3E44-32D982F082FCBA7D_484ae991-f4bf-648c-5d83b2e355f7c60a.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -299,6 +290,15 @@ UID:38806@visitlaramie.org
 URL:https://www.visitlaramie.org/event/acpl-garden-series/38806/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Andy Warhol: 15 Prints
+UID:38650@visitlaramie.org
+URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -315,6 +315,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: Micro Wrestling - Big Little Brawlers
 UID:38500@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-micro-wrestling-big-little-brawlers/38500/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:Urban Sketchers: Drawing Downtown\nMore info: https://www.visitlaramie.org/event/urban-sketchers%3a-drawing-downtown/38825/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-wy-1-_B2905955-9A11-1C72-809EA5128C0DFFE9_b2af2abd-0888-0665-6e38e0c1bc45c01d.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Train Depot Park
+SUMMARY:Urban Sketchers: Drawing Downtown
+UID:38825@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketchers%3a-drawing-downtown/38825/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
@@ -342,15 +351,6 @@ LOCATION:Laramie Plains Civic Center - Gorgon Gallery RM 332
 SUMMARY:Print Making with Jim Jereb\, a creative aging exhibition
 UID:38811@visitlaramie.org
 URL:https://www.visitlaramie.org/event/print-making-with-jim-jereb-a-creative-aging-exhibition/38811/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Railyard Presents: March Murder Mystery\nMore info: https://www.visitlaramie.org/event/railyard-presents%3a-march-murder-mystery/38779/\nVenue: The Railyard\nVenue Info: https://www.visitlaramie.org/listing/the-railyard/1857/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-134259_7D474D54-A2B4-EA57-58F5F9035B3AC264_7d5cb81d-e921-eb22-1a743f028f8de3c8.png\nCategories: Performing Arts & Culture
-GEO:41.311165;-105.593401
-LOCATION:The Railyard
-SUMMARY:Railyard Presents: March Murder Mystery
-UID:38779@visitlaramie.org
-URL:https://www.visitlaramie.org/event/railyard-presents%3a-march-murder-mystery/38779/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
@@ -396,15 +396,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents - Micro Wrestling\, Big Little Brawlers
 UID:38499@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents-micro-wrestling-big-little-brawlers/38499/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Shamrock Skate\nMore info: https://www.visitlaramie.org/event/shamrock-skate/38823/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-134523_B1AEAD2F-EA05-49C8-05F223478007399A_b1cdf466-acd4-d9c3-7ccfcaa2d4fee082.png\nCategories: Community\, Sports
-GEO:41.305775;-105.551024
-LOCATION:Laramie Ice & Event Center
-SUMMARY:Shamrock Skate
-UID:38823@visitlaramie.org
-URL:https://www.visitlaramie.org/event/shamrock-skate/38823/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260320
@@ -488,6 +479,15 @@ UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:UW Music Presents: Nicole Chamberlain Recital\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-nicole-chamberlain-recital/38828/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-17-102151_E3F0CD63-98DF-87F7-52954D796275EB5A_e3f17a3b-fed4-1033-9bba029ca19aaa20.png\nCategories: Concerts & Live Music\, University of Wyoming
+GEO:41.311991;-105.572082
+LOCATION:Univ. of Wyoming
+SUMMARY:UW Music Presents: Nicole Chamberlain Recital
+UID:38828@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-music-presents%3a-nicole-chamberlain-recital/38828/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
 DESCRIPTION:Spring Awakening @ Seek Yoga Studio\nMore info: https://www.visitlaramie.org/event/spring-awakening-%40-seek-yoga-studio/38821/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-133730_B1679D00-BD1A-096B-DD927D0B8A1835A3_b178eaf5-0bf8-ca46-2101caffdbb45538.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.313179;-105.595024
@@ -542,13 +542,13 @@ UID:38749@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-meet-the-planets/38749/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Family Friendly St. Patricks Day ALL DAY\nMore info: https://www.visitlaramie.org/event/family-friendly-st-patricks-day-all-day/38807/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-120249_E0154B56-954A-5C52-EAEE313FE767F164_e023c58d-9165-ff36-c75f261fee642887.png\nCategories: Community\, Social Events
-GEO:41.309652;-105.594751
-LOCATION:Bond's Brewing Company
-SUMMARY:Family Friendly St. Patricks Day ALL DAY
-UID:38807@visitlaramie.org
-URL:https://www.visitlaramie.org/event/family-friendly-st-patricks-day-all-day/38807/
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Songwriter Sessions: Songs in the Round\nMore info: https://www.visitlaramie.org/event/songwriter-sessions%3a-songs-in-the-round/38775/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-131638_7C7C0108-F9E5-4E59-E0431EF9E951CCDF_7c8756e4-0a8b-4b68-c5d9b2873bd022f5.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Songwriter Sessions: Songs in the Round
+UID:38775@visitlaramie.org
+URL:https://www.visitlaramie.org/event/songwriter-sessions%3a-songs-in-the-round/38775/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -569,6 +569,15 @@ UID:38768@visitlaramie.org
 URL:https://www.visitlaramie.org/event/no-mans-land-film-festival/38768/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Laramie Audubon Presentation: Wildlife Photography Travels and Techniques\nMore info: https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-wildlife-photography-travels-and-techniques/38826/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Pumas-photo-for-LAS_D87B47B7-BBCE-6588-BF3E424B7846C889_d88b42b3-f73b-71ea-a703d519a8aa2511.jpg\nCategories: Community\, Education
+GEO:41.312203;-105.587931
+LOCATION:Trinity Lutheran Church
+SUMMARY:Laramie Audubon Presentation: Wildlife Photography Travels and Techniques
+UID:38826@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-wildlife-photography-travels-and-techniques/38826/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
 DESCRIPTION:Cowboy Saloon & Chancey Williams White Trash Bash!\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-%26-chancey-williams-white-trash-bash!/38644/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-11_A59352E8-4C86-4E73-B7326136B5E09BAB_08daff91-d3e3-4d9b-be2d1693b5dceb95.jpg\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -585,15 +594,6 @@ LOCATION:TICS Parking/Trailhead Medicine Bow-Routt National Forest
 SUMMARY:Siberian Rendezvous Dogsled Race
 UID:38787@visitlaramie.org
 URL:https://www.visitlaramie.org/event/siberian-rendezvous-dogsled-race/38787/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:Silent Book Club\nMore info: https://www.visitlaramie.org/event/silent-book-club/38780/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-08-27-131655_41F28C15-E174-51B2-8EC694AB83212183_41f302be-d0e8-4fe7-dad2f7290e16d24f.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Silent Book Club
-UID:38780@visitlaramie.org
-URL:https://www.visitlaramie.org/event/silent-book-club/38780/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
