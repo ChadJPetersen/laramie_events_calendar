@@ -119,15 +119,6 @@ UID:38764@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-concertmaster-fund-recital/38764/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260318
-DESCRIPTION:Laramie Young Professionals: Coffee & Connections\nMore info: https://www.visitlaramie.org/event/laramie-young-professionals%3a-coffee-%26-connections/38822/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-134135_B18F853C-A709-BF74-ABB45C345133B6E2_b19dd46d-9665-c3e8-dab028a427d9cf48.png\nCategories: Community
-GEO:41.312220;-105.595626
-LOCATION:Night Heron Books & Coffeehouse
-SUMMARY:Laramie Young Professionals: Coffee & Connections
-UID:38822@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-young-professionals%3a-coffee-%26-connections/38822/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:Belly Dance: Level 1 Facilitated by Aylin Carey\nMore info: https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-23-115757_AD4DA6B8-027D-1E11-D0CD894C1ED53183_ad609a4d-c2a9-8774-ddb3b81b88f6df68.png\nCategories: Community\, Performing Arts & Culture\, Craft Classes & Workshops
 GEO:41.312877;-105.595095
@@ -342,6 +333,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Search for Extra-Terrestial Life
 UID:38753@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-search-for-extra-terrestial-life/38753/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Ark's 13th Annual Casino Night Fundraiser\nMore info: https://www.visitlaramie.org/event/arks-13th-annual-casino-night-fundraiser/38727/\nVenue: Hilton Garden Inn\nVenue Info: https://www.visitlaramie.org/listing/hilton-garden-inn/49/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-120927_AAA3CA56-A7D7-08AF-83561587FDF6119C_aab3fe49-f839-7e59-779dff9cbf9c8583.png\nCategories: Annual Events & Festivals
+GEO:41.310158;-105.563834
+LOCATION:Hilton Garden Inn
+SUMMARY:Ark's 13th Annual Casino Night Fundraiser
+UID:38727@visitlaramie.org
+URL:https://www.visitlaramie.org/event/arks-13th-annual-casino-night-fundraiser/38727/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260323
@@ -603,6 +603,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: From Earth to the Universe
 UID:38754@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe/38754/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:UWYO Cello Festival with Zlatomir Fung\nMore info: https://www.visitlaramie.org/event/uwyo-cello-festival-with-zlatomir-fung/38812/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-134351_E3AABA45-CCE6-F7F5-063A492EFF568392_e406853c-b811-ef98-8b90b0f690e0c029.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture\, Craft Classes & Workshops
+GEO:41.312616;-105.570928
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:UWYO Cello Festival with Zlatomir Fung
+UID:38812@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uwyo-cello-festival-with-zlatomir-fung/38812/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
