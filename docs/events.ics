@@ -245,6 +245,15 @@ UID:38514@visitlaramie.org
 URL:https://www.visitlaramie.org/event/buffalo-bills-revenge-nrl-hunter-match-presented-by-maven-optics/38514/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:Bridgerton Tea Party\nMore info: https://www.visitlaramie.org/event/bridgerton-tea-party/38774/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-120532_79CA8E69-9F9F-D83A-86AAC79BD6D81F4A_79ddff61-99fa-5ddc-543b97380249389f.png\nCategories: Community
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Bridgerton Tea Party
+UID:38774@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bridgerton-tea-party/38774/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
 DESCRIPTION:Line Dance Shuffle Specialty Class\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38592/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-130045_37D907E7-0C84-62D0-C4C2D1D9F959129C_37d9cd2b-9933-d8b1-1e8782c397e08b2b.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
 GEO:41.304734;-105.549039
