@@ -29,15 +29,6 @@ UID:38752@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-skies%3a-spring-equinox/38752/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Print Making with Jim Jereb\, Opening Reception\nMore info: https://www.visitlaramie.org/event/print-making-with-jim-jereb-opening-reception/38810/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-123842_E159E357-9501-AE3D-D19079F0D4EF6062_e2136afe-aee9-7850-710a4aaab722891d.png\nCategories: Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center - Gorgon Gallery RM 332
-SUMMARY:Print Making with Jim Jereb\, Opening Reception
-UID:38810@visitlaramie.org
-URL:https://www.visitlaramie.org/event/print-making-with-jim-jereb-opening-reception/38810/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260324
 DESCRIPTION:AHC Railroad Speaker Series: Binding the Nation\, Civil War Politics and the Promise of the Pacific RR\nMore info: https://www.visitlaramie.org/event/ahc-railroad-speaker-series%3a-binding-the-nation-civil-war-politics-and-the-promise-of-the-pacific-rr/38778/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-133231_7D03B8AA-0118-03B2-F0A7976E589A38F5_7d14bc38-dc39-e736-9973d5ae7b6bbd93.png\nCategories: History\, Community
 GEO:41.314165;-105.568122
@@ -137,15 +128,6 @@ UID:38750@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure/38750/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260318
-DESCRIPTION:Wyoming FBLA State Leadership Conference\nMore info: https://www.visitlaramie.org/event/wyoming-fbla-state-leadership-conference/38451/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-28-095458_B3439054-C7B1-6582-99A58405FB01ECF7_b37b9fd5-a0d9-09d7-369d8194104c15b9.png\nCategories: Education
-GEO:41.310305;-105.564114
-LOCATION:UW Conference Center/UW Student Union/UW College of Business
-SUMMARY:Wyoming FBLA State Leadership Conference
-UID:38451@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-fbla-state-leadership-conference/38451/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
 DESCRIPTION:What Fundraiser: House of Cards\nMore info: https://www.visitlaramie.org/event/what-fundraiser%3a-house-of-cards/38776/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-132304_7C97BAA5-D413-F6AA-48C1D731C0EB6647_7cb290d8-aba7-cf16-9d4c024f9bd7f464.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -180,15 +162,6 @@ LOCATION:Pokes Pub
 SUMMARY:Beer Education Night
 UID:38795@visitlaramie.org
 URL:https://www.visitlaramie.org/event/beer-education-night/38795/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Teenage Bottlerocket\nMore info: https://www.visitlaramie.org/event/teenage-bottlerocket/38656/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TBR4X5_6C6260C2-B248-99EA-5C0009BCA3BB4689_6c6d8722-c383-5b85-e30c39845ff5d4ab.jpg\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Teenage Bottlerocket
-UID:38656@visitlaramie.org
-URL:https://www.visitlaramie.org/event/teenage-bottlerocket/38656/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
@@ -254,24 +227,6 @@ UID:38774@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bridgerton-tea-party/38774/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260109
-DESCRIPTION:Line Dance Shuffle Specialty Class\nMore info: https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38592/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-130045_37D907E7-0C84-62D0-C4C2D1D9F959129C_37d9cd2b-9933-d8b1-1e8782c397e08b2b.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.304734;-105.549039
-LOCATION:Laramie Rec Center
-SUMMARY:Line Dance Shuffle Specialty Class
-UID:38592@visitlaramie.org
-URL:https://www.visitlaramie.org/event/line-dance-shuffle-specialty-class/38592/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260131
-DESCRIPTION:Patrick Kikut Exhibit\nMore info: https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-125343_712CE6BE-B0EE-9262-527DA15C39363978_720426be-04ff-9e88-8d65986d09c3ef1e.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Patrick Kikut Exhibit
-UID:38657@visitlaramie.org
-URL:https://www.visitlaramie.org/event/patrick-kikut-exhibit/38657/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260321
 DESCRIPTION:Liquid Sky: Pink Floyd Dark Side of the Moon\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pink-floyd-dark-side-of-the-moon/38748/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131526_484A9532-CB85-3E44-32D982F082FCBA7D_484ae991-f4bf-648c-5d83b2e355f7c60a.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -279,6 +234,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Pink Floyd Dark Side of the Moon
 UID:38748@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-pink-floyd-dark-side-of-the-moon/38748/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
@@ -297,15 +261,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: 15 Prints
 UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
@@ -405,15 +360,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents - Micro Wrestling\, Big Little Brawlers
 UID:38499@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents-micro-wrestling-big-little-brawlers/38499/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Spring Sip + Shop\nMore info: https://www.visitlaramie.org/event/spring-sip-%2b-shop/38732/\nVenue: The Bent & Rusty\nVenue Info: https://www.visitlaramie.org/listing/the-bent-%26-rusty/192/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-24-132836_AD5AD430-F030-6197-D7CFE3933BB537C3_ad751623-bc6f-205a-f261d787cb1e1399.png\nCategories: Annual Events & Festivals
-GEO:41.310690;-105.595344
-LOCATION:The Bent & Rusty
-SUMMARY:Spring Sip + Shop
-UID:38732@visitlaramie.org
-URL:https://www.visitlaramie.org/event/spring-sip-%2b-shop/38732/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
@@ -542,15 +488,6 @@ UID:38684@visitlaramie.org
 URL:https://www.visitlaramie.org/event/teenage-bottlerocket-laramie/38684/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Live Presentation: Meet The Planets\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-meet-the-planets/38749/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-134838_488655B0-B783-443F-35158DC13A21866C_488a058c-e9a1-68ae-8bcdc2214c05fff9.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Meet The Planets
-UID:38749@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-meet-the-planets/38749/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260417
 DESCRIPTION:Songwriter Sessions: Songs in the Round\nMore info: https://www.visitlaramie.org/event/songwriter-sessions%3a-songs-in-the-round/38775/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-131638_7C7C0108-F9E5-4E59-E0431EF9E951CCDF_7c8756e4-0a8b-4b68-c5d9b2873bd022f5.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -650,12 +587,12 @@ UID:38773@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ukrainian-pysanky-easter-eggs-class/38773/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:Liquid Sky: Synthwave\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/38747/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131526_484A9532-CB85-3E44-32D982F082FCBA7D_484ae991-f4bf-648c-5d83b2e355f7c60a.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Synthwave
-UID:38747@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-synthwave/38747/
+DTSTART;VALUE=DATE:20260329
+DESCRIPTION:Teenage Bottlerocket\nMore info: https://www.visitlaramie.org/event/teenage-bottlerocket/38656/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TBR4X5_6C6260C2-B248-99EA-5C0009BCA3BB4689_6c6d8722-c383-5b85-e30c39845ff5d4ab.jpg\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Teenage Bottlerocket
+UID:38656@visitlaramie.org
+URL:https://www.visitlaramie.org/event/teenage-bottlerocket/38656/
 END:VEVENT
 END:VCALENDAR
