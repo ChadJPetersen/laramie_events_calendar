@@ -119,13 +119,13 @@ UID:38341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Full-Dome Film: Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure/38750/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-135046_489BFFBB-FF3C-EBC3-5A562C3D7945D5B9_48a08e9e-0f03-6a6a-f313a4a107ce91e4.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Great Solar System Adventure
-UID:38750@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure/38750/
+DTSTART;VALUE=DATE:20260421
+DESCRIPTION:Presentation: 100th Anniversary of the Beacon on top of Pilot Hill outside Laramie\nMore info: https://www.visitlaramie.org/event/presentation%3a-100th-anniversary-of-the-beacon-on-top-of-pilot-hill-outside-laramie/38815/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-15-100745_0ED9103F-AB93-EE3B-B9EB78AC3B7B002D_0eeb45ff-a263-be9c-d972f56757752066.png\nCategories: History\, Community\, Wyoming 250
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:Presentation: 100th Anniversary of the Beacon on top of Pilot Hill outside Laramie
+UID:38815@visitlaramie.org
+URL:https://www.visitlaramie.org/event/presentation%3a-100th-anniversary-of-the-beacon-on-top-of-pilot-hill-outside-laramie/38815/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
@@ -135,15 +135,6 @@ LOCATION:The Gryphon Theatre
 SUMMARY:What Fundraiser: House of Cards
 UID:38776@visitlaramie.org
 URL:https://www.visitlaramie.org/event/what-fundraiser%3a-house-of-cards/38776/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Crawfish Boil @ Bons's Brewing Company\nMore info: https://www.visitlaramie.org/event/crawfish-boil-%40-bonss-brewing-company/38808/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-120802_E0310818-D0BE-ABA2-2A46511693FCF3CA_e051cda6-a181-9ee9-4343c65a0358c2f4.png\nCategories: Community\, Social Events
-GEO:41.309652;-105.594751
-LOCATION:Bond's Brewing Company
-SUMMARY:Crawfish Boil @ Bons's Brewing Company
-UID:38808@visitlaramie.org
-URL:https://www.visitlaramie.org/event/crawfish-boil-%40-bonss-brewing-company/38808/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
@@ -225,15 +216,6 @@ LOCATION:Albany County Public Library
 SUMMARY:Bridgerton Tea Party
 UID:38774@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bridgerton-tea-party/38774/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Liquid Sky: Pink Floyd Dark Side of the Moon\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pink-floyd-dark-side-of-the-moon/38748/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131526_484A9532-CB85-3E44-32D982F082FCBA7D_484ae991-f4bf-648c-5d83b2e355f7c60a.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Pink Floyd Dark Side of the Moon
-UID:38748@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-pink-floyd-dark-side-of-the-moon/38748/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -369,24 +351,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:An Evening with Renee Elise Goldsberry (New Date)
 UID:38550@visitlaramie.org
 URL:https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry-(new-date)/38550/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Comedy That Cares - Featuring: Matt Bergman\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-featuring%3a-matt-bergman/38758/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-02-132918_E2593172-088C-781E-6930807A1E06E805_e25bf6cd-df81-3876-bfbf677e74db51b0.png\nCategories: Performing Arts & Culture
-GEO:41.149793;-104.818922
-LOCATION:The Collective
-SUMMARY:Comedy That Cares - Featuring: Matt Bergman
-UID:38758@visitlaramie.org
-URL:https://www.visitlaramie.org/event/comedy-that-cares-featuring%3a-matt-bergman/38758/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Full-Dome Film: We Are Stars\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars/38751/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-135341_48D91D03-EE62-6383-CC83C6383B697A5D_48dad2b4-9453-c8bb-53677f4035fe6cea.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: We Are Stars
-UID:38751@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars/38751/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
