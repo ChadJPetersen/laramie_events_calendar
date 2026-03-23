@@ -20,6 +20,15 @@ UID:38733@visitlaramie.org
 URL:https://www.visitlaramie.org/event/begin-to-knit-103%3a-learn-to-knit-socks-on-dpns-march-%26-april-2026/38733/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260422
+DESCRIPTION:Sip and Savor: The Great Depression in Albany County\nMore info: https://www.visitlaramie.org/event/sip-and-savor%3a-the-great-depression-in-albany-county/38785/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WWHH-Event_4668D05D-08C9-DF6B-1BDBAA426905BEC6_466a8141-d0ef-6df8-532d9bba61c1ecbb.png\nCategories: History\, Community\, Wyoming 250
+GEO:41.310393;-105.594817
+LOCATION:Wyoming Women's History House
+SUMMARY:Sip and Savor: The Great Depression in Albany County
+UID:38785@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sip-and-savor%3a-the-great-depression-in-albany-county/38785/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260324
 DESCRIPTION:Wyoming Skies: Spring Equinox\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-spring-equinox/38752/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_477B2A68-C60A-27F4-5280C2C5D8800BC7_47ada1c8-acb3-a5e3-009d746907f81dc1.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -227,15 +236,6 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:ACPL Garden Series\nMore info: https://www.visitlaramie.org/event/acpl-garden-series/38806/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-114516_DF81519D-F54D-99FF-095BE6C152EFE27C_df8f6b24-993a-4122-4b4dcfc6647bc7d6.png\nCategories: Family Fun\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:ACPL Garden Series
-UID:38806@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acpl-garden-series/38806/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
 DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -245,6 +245,15 @@ UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:ACPL Garden Series\nMore info: https://www.visitlaramie.org/event/acpl-garden-series/38806/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-114516_DF81519D-F54D-99FF-095BE6C152EFE27C_df8f6b24-993a-4122-4b4dcfc6647bc7d6.png\nCategories: Family Fun\, Craft Classes & Workshops
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:ACPL Garden Series
+UID:38806@visitlaramie.org
+URL:https://www.visitlaramie.org/event/acpl-garden-series/38806/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
 DESCRIPTION:Cowboy Saloon Presents: Micro Wrestling - Big Little Brawlers\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-micro-wrestling-big-little-brawlers/38500/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/8x8-2025-Poster_LoRez_954B5F53-3749-42D3-A6F608AF5816C0AD_6e6dbf20-deba-49e5-abdbf4a3ca5a4d22.jpg\nCategories: Performing Arts & Culture
 GEO:41.312707;-105.595125
@@ -252,15 +261,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: Micro Wrestling - Big Little Brawlers
 UID:38500@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-micro-wrestling-big-little-brawlers/38500/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:Urban Sketchers: Drawing Downtown\nMore info: https://www.visitlaramie.org/event/urban-sketchers%3a-drawing-downtown/38825/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-wy-1-_B2905955-9A11-1C72-809EA5128C0DFFE9_b2af2abd-0888-0665-6e38e0c1bc45c01d.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Train Depot Park
-SUMMARY:Urban Sketchers: Drawing Downtown
-UID:38825@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketchers%3a-drawing-downtown/38825/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
@@ -495,15 +495,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon & Chancey Williams White Trash Bash!
 UID:38644@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-%26-chancey-williams-white-trash-bash!/38644/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DESCRIPTION:Siberian Rendezvous Dogsled Race\nMore info: https://www.visitlaramie.org/event/siberian-rendezvous-dogsled-race/38787/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-09-133437_49372B2F-E38B-8C68-8F572FE2B6B53142_4964cc68-0932-24bd-d94deda95489e589.png\nCategories: Outdoor Recreation
-GEO:41.308958;-105.620160
-LOCATION:TICS Parking/Trailhead Medicine Bow-Routt National Forest
-SUMMARY:Siberian Rendezvous Dogsled Race
-UID:38787@visitlaramie.org
-URL:https://www.visitlaramie.org/event/siberian-rendezvous-dogsled-race/38787/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
