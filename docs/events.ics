@@ -65,13 +65,13 @@ UID:38745@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/38745/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-DESCRIPTION:Open Jam Night at the Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Open-Jams-Poster-OFF-CAMPUS-NO-QR_6ADB1FA1-F2DF-AC3F-37D8170BA0BFFE9A_6aec4520-d398-8ef9-48eb157459b0f6a4.png\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Open Jam Night at the Gryphon Theatre
-UID:38654@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Urban Sketchers at Chalk & Cheese\nMore info: https://www.visitlaramie.org/event/urban-sketchers-at-chalk-%26-cheese/38836/\nVenue: Chalk n' Cheese\nVenue Info: https://www.visitlaramie.org/listing/chalk-n-cheese/212/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-wy-2-_EEC7C9FD-B3FA-CA04-80EFBC104A5441FD_eecccc44-ebc7-0ce4-3273b0bd80c84115.png\nCategories: Social Events\, Craft Classes & Workshops
+GEO:41.311591;-105.594568
+LOCATION:Chalk n' Cheese
+SUMMARY:Urban Sketchers at Chalk & Cheese
+UID:38836@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketchers-at-chalk-%26-cheese/38836/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260402
@@ -110,6 +110,15 @@ UID:38589@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-latin-night/38589/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Open Jam Night at the Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Open-Jams-Poster-OFF-CAMPUS-NO-QR_6ADB1FA1-F2DF-AC3F-37D8170BA0BFFE9A_6aec4520-d398-8ef9-48eb157459b0f6a4.png\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Open Jam Night at the Gryphon Theatre
+UID:38654@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260409
 DESCRIPTION:UW Symphony - Concertmaster Fund Recital\nMore info: https://www.visitlaramie.org/event/uw-symphony-concertmaster-fund-recital/38764/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-103001_0F6AAD38-FF52-EFE7-98CB0DB4E2AF78EF_0f758519-b238-3b13-fa0eedd3e44dfe4e.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
 GEO:41.314021;-105.584601
@@ -117,6 +126,15 @@ LOCATION:Buchanan Center for the Performing Arts - Concert Hall
 SUMMARY:UW Symphony - Concertmaster Fund Recital
 UID:38764@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-symphony-concertmaster-fund-recital/38764/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Stand-Up Paddleboard Clinic\nMore info: https://www.visitlaramie.org/event/stand-up-paddleboard-clinic/38829/\nVenue: Laramie Community Recreation Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-community-recreation-center/66/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Title-3-_E514BE76-F031-722C-C2936BFB8E642D9F_e53af73b-bbd4-359d-f602f20e2f4e4cb8.png\nCategories: Sports
+GEO:41.304977;-105.548536
+LOCATION:Laramie Community Recreation Center
+SUMMARY:Stand-Up Paddleboard Clinic
+UID:38829@visitlaramie.org
+URL:https://www.visitlaramie.org/event/stand-up-paddleboard-clinic/38829/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
@@ -144,6 +162,15 @@ LOCATION:The Gryphon Theatre
 SUMMARY:What Fundraiser: House of Cards
 UID:38776@visitlaramie.org
 URL:https://www.visitlaramie.org/event/what-fundraiser%3a-house-of-cards/38776/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Herping Wyoming 101\nMore info: https://www.visitlaramie.org/event/herping-wyoming-101/38834/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Copy-of-Curious-about-what-field-herping-is-and-how-where-to-do-it-in-Wyoming-Come-find-out-1-_7926FF11-EAD7-3DD5-DE0EDF61C8F3A6E1_796852f3-a4d9-31bc-8e4fe9dcdad33b08.png\nCategories: Education
+GEO:41.308353;-105.596400
+LOCATION:Laramie Railroad Depot
+SUMMARY:Herping Wyoming 101
+UID:38834@visitlaramie.org
+URL:https://www.visitlaramie.org/event/herping-wyoming-101/38834/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
@@ -182,15 +209,6 @@ UID:38827@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-michael-shults-saxophone/38827/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260323
-DESCRIPTION:Dig Deep at the Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/dig-deep-at-the-ruffed-up-duck/38820/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-133316_B144D644-F6DB-F18E-6DEE6BD2E5459C18_b149ac34-96ab-a9e5-d9b481faf5b0b73a.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:Dig Deep at the Ruffed Up Duck
-UID:38820@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dig-deep-at-the-ruffed-up-duck/38820/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
 DESCRIPTION:Pickleball Tournament\nMore info: https://www.visitlaramie.org/event/pickleball-tournament/38671/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-095328_D4214A2D-BFCC-64E9-C29920FCA45C87BA_d4883e49-0fcb-2a81-5cb8d993ff84fbf3.png\nCategories: Community\, Sports
 GEO:41.315351;-105.559894
@@ -227,13 +245,22 @@ UID:38774@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bridgerton-tea-party/38774/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Albany Co. Central Volunteer Fire Dept. Open House\nMore info: https://www.visitlaramie.org/event/albany-co-central-volunteer-fire-dept-open-house/38839/\nVenue: De Gringos y Gremmies\nVenue Info: https://www.visitlaramie.org/listing/de-gringos-y-gremmies/538/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-23-130145_18D37AE7-0509-3CE5-01C5B6CE9F7044A8_18e03358-b24d-2e97-6392a072b7f5004b.png\nCategories: Community\, Sports\, Family Fun
+GEO:41.263589;-105.600138
+LOCATION:Albany Co Central Fire Dept. HQ
+SUMMARY:Albany Co. Central Volunteer Fire Dept. Open House
+UID:38839@visitlaramie.org
+URL:https://www.visitlaramie.org/event/albany-co-central-volunteer-fire-dept-open-house/38839/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Wyoming's History Through Listeners' Eyes Photo Exhibit\nMore info: https://www.visitlaramie.org/event/wyomings-history-through-listeners-eyes-photo-exhibit/38832/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Wyoming-250-Tour_13361C86-CA3A-6DFC-6108A3D18B33751F_1399decc-918d-e087-90b5f1f163948e17.jpg\nCategories: History\, Wyoming 250
+GEO:41.312068;-105.589055
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Wyoming's History Through Listeners' Eyes Photo Exhibit
+UID:38832@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyomings-history-through-listeners-eyes-photo-exhibit/38832/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
@@ -243,6 +270,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: 15 Prints
 UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260322
@@ -335,6 +371,24 @@ UID:38804@visitlaramie.org
 URL:https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38804/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Nin McConigley: How to Commit a Postcolonial Murder Author Talk\nMore info: https://www.visitlaramie.org/event/nin-mcconigley%3a-how-to-commit-a-postcolonial-murder-author-talk/38838/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Calendar-listing_15FF55E0-E4DD-58F4-385A7D3267637CDE_16033db6-a3d0-493e-b164b83069aab445.jpg\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+GEO:41.312616;-105.570928
+LOCATION:Coe Library\, Room 506
+SUMMARY:Nin McConigley: How to Commit a Postcolonial Murder Author Talk
+UID:38838@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nin-mcconigley%3a-how-to-commit-a-postcolonial-murder-author-talk/38838/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DESCRIPTION:Week of the Young Child Fair\nMore info: https://www.visitlaramie.org/event/week-of-the-young-child-fair/38830/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Week-of-Young-Child-2025---Poster_EC5D2D9E-CA07-F227-00AC9A2686E70453_ec77432c-c8dc-a327-4efb52f77460b3ae.png\nCategories: Annual Events & Festivals\, Family Fun
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Week of the Young Child Fair
+UID:38830@visitlaramie.org
+URL:https://www.visitlaramie.org/event/week-of-the-young-child-fair/38830/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260413
 DESCRIPTION:Cowboy Saloon Presents - Micro Wrestling\, Big Little Brawlers\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents-micro-wrestling-big-little-brawlers/38499/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/8x8-2025-Poster_LoRez_576929A2-D6D9-4484-B1E75EE615AB41F4_a4c4aa01-c4e3-4152-aeb41684ac9362ed.jpg\nCategories: Performing Arts & Culture
 GEO:41.312707;-105.595125
@@ -342,6 +396,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents - Micro Wrestling\, Big Little Brawlers
 UID:38499@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents-micro-wrestling-big-little-brawlers/38499/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+DESCRIPTION:Clearing the Channel with Meghan Lucas (in-person or virtual)\nMore info: https://www.visitlaramie.org/event/clearing-the-channel-with-meghan-lucas-(in-person-or-virtual)/38440/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-23-141236_BB199936-BAEF-5526-FE84D4800FBD4DD1_bb2d88bc-ce53-ac46-c33b628896472f00.png\nCategories: Community\, Virtual\, Performing Arts & Culture
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Clearing the Channel with Meghan Lucas (in-person or virtual)
+UID:38440@visitlaramie.org
+URL:https://www.visitlaramie.org/event/clearing-the-channel-with-meghan-lucas-(in-person-or-virtual)/38440/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
@@ -461,6 +524,15 @@ UID:38775@visitlaramie.org
 URL:https://www.visitlaramie.org/event/songwriter-sessions%3a-songs-in-the-round/38775/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Trevor Wallace: Live at UW!\nMore info: https://www.visitlaramie.org/event/trevor-wallace%3a-live-at-uw!/38833/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TrevorWallaceUW_SocialMediaImg_757AFC39-A05B-8CCD-9300EF7C6A4A59B4_7594cdd4-0a0f-50ea-fd0cb3da46365d44.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.312616;-105.570928
+LOCATION:University of Wyoming Arts & Sciences Auditorium
+SUMMARY:Trevor Wallace: Live at UW!
+UID:38833@visitlaramie.org
+URL:https://www.visitlaramie.org/event/trevor-wallace%3a-live-at-uw!/38833/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Make-A-Wish Wyoming Night @ Altitude Chophouse & Brewery\nMore info: https://www.visitlaramie.org/event/make-a-wish-wyoming-night-%40-altitude-chophouse-%26-brewery/38800/\nVenue: Altitude Chophouse & Brewery\nVenue Info: https://www.visitlaramie.org/listing/altitude-chophouse-%26-brewery/140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-110700_DE1D5CD7-0101-60C7-2C0C3A9EABB7FBA6_de38c235-0bed-214d-9dd0743cb3cb7475.png\nCategories: Community
 GEO:41.310353;-105.595370
@@ -549,5 +621,14 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Teenage Bottlerocket
 UID:38656@visitlaramie.org
 URL:https://www.visitlaramie.org/event/teenage-bottlerocket/38656/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Urban Sketchers @ the Chalk and Cheese\nMore info: https://www.visitlaramie.org/event/urban-sketchers-%40-the-chalk-and-cheese/38831/\nVenue: Chalk n' Cheese\nVenue Info: https://www.visitlaramie.org/listing/chalk-n-cheese/212/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-wy-1-_109FB6C6-EB40-0EB9-47F147451A6BCCA3_10ad3844-c3e2-ca26-65dd99a1e701d4cf.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311591;-105.594568
+LOCATION:Chalk n' Cheese
+SUMMARY:Urban Sketchers @ the Chalk and Cheese
+UID:38831@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketchers-%40-the-chalk-and-cheese/38831/
 END:VEVENT
 END:VCALENDAR
