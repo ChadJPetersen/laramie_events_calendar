@@ -29,22 +29,13 @@ UID:38785@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sip-and-savor%3a-the-great-depression-in-albany-county/38785/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260324
-DESCRIPTION:Wyoming Skies: Spring Equinox\nMore info: https://www.visitlaramie.org/event/wyoming-skies%3a-spring-equinox/38752/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_477B2A68-C60A-27F4-5280C2C5D8800BC7_47ada1c8-acb3-a5e3-009d746907f81dc1.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Wyoming Skies: Spring Equinox
-UID:38752@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-skies%3a-spring-equinox/38752/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260324
-DESCRIPTION:AHC Railroad Speaker Series: Binding the Nation\, Civil War Politics and the Promise of the Pacific RR\nMore info: https://www.visitlaramie.org/event/ahc-railroad-speaker-series%3a-binding-the-nation-civil-war-politics-and-the-promise-of-the-pacific-rr/38778/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-133231_7D03B8AA-0118-03B2-F0A7976E589A38F5_7d14bc38-dc39-e736-9973d5ae7b6bbd93.png\nCategories: History\, Community
-GEO:41.314165;-105.568122
-LOCATION:American Heritage Center- Stockgrowers' Room
-SUMMARY:AHC Railroad Speaker Series: Binding the Nation\, Civil War Politics and the Promise of the Pacific RR
-UID:38778@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ahc-railroad-speaker-series%3a-binding-the-nation-civil-war-politics-and-the-promise-of-the-pacific-rr/38778/
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:Much Ado About Nothing\nMore info: https://www.visitlaramie.org/event/much-ado-about-nothing/38843/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-110651_4819D292-CC35-DEF5-43F6853C80EFD27F_4875559a-ac0c-8280-4de95aa05e83e51f.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.312616;-105.570928
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:Much Ado About Nothing
+UID:38843@visitlaramie.org
+URL:https://www.visitlaramie.org/event/much-ado-about-nothing/38843/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
@@ -155,6 +146,15 @@ UID:38815@visitlaramie.org
 URL:https://www.visitlaramie.org/event/presentation%3a-100th-anniversary-of-the-beacon-on-top-of-pilot-hill-outside-laramie/38815/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Big Boy 4014 Comes to Laramie - Coast-to-Coast Tour Stop\nMore info: https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38805/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-13-115530_141A8DB1-C346-90C4-F56D9289336ACE00_141ad9e1-09f1-f2ae-e6bda041c7352d77.png\nCategories: History\, Education\, Family Fun\, Wyoming 250
+GEO:41.308353;-105.596400
+LOCATION:Depot Park Greenspace
+SUMMARY:Big Boy 4014 Comes to Laramie - Coast-to-Coast Tour Stop
+UID:38805@visitlaramie.org
+URL:https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38805/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
 DESCRIPTION:What Fundraiser: House of Cards\nMore info: https://www.visitlaramie.org/event/what-fundraiser%3a-house-of-cards/38776/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-132304_7C97BAA5-D413-F6AA-48C1D731C0EB6647_7cb290d8-aba7-cf16-9d4c024f9bd7f464.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -225,6 +225,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Dark Biosphere
 UID:38755@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38755/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Cowboy Saloon Presents : Martin & Kelly Live &#8211\; April 24th\, 2026 with Special Guest Thane Zickefoose\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents-%3a-martin-%26-kelly-live-%26%238211%3b-april-24th-2026-with-special-guest-thane-zickefoose/38638/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-6_DBDF9A08-4057-4806-AA1C3017ED25B2DB_2bd6784f-f233-47aa-b25a8eb8076bee00.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents : Martin & Kelly Live &#8211\; April 24th\, 2026 with Special Guest Thane Zickefoose
+UID:38638@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents-%3a-martin-%26-kelly-live-%26%238211%3b-april-24th-2026-with-special-guest-thane-zickefoose/38638/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
@@ -308,6 +317,15 @@ UID:38701@visitlaramie.org
 URL:https://www.visitlaramie.org/event/3rd-annual-battle-of-the-bands/38701/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Much Ado About Nothing\nMore info: https://www.visitlaramie.org/event/much-ado-about-nothing/38844/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-110651_4819D292-CC35-DEF5-43F6853C80EFD27F_4875559a-ac0c-8280-4de95aa05e83e51f.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.312616;-105.570928
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:Much Ado About Nothing
+UID:38844@visitlaramie.org
+URL:https://www.visitlaramie.org/event/much-ado-about-nothing/38844/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DESCRIPTION:Live Presentation: Search for Extra-Terrestial Life\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-search-for-extra-terrestial-life/38753/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140509_491AEBB7-9F69-1BD3-F1A59E0E9575FB36_491bb687-ed2e-937b-7eba169616232862.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -335,15 +353,6 @@ UID:38811@visitlaramie.org
 URL:https://www.visitlaramie.org/event/print-making-with-jim-jereb-a-creative-aging-exhibition/38811/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260113
-DESCRIPTION:Bond's Trivia & Tacos Tuesdays\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-124616_3777E407-90DA-7991-E6BF0FD77B3A4180_377bbbf4-fac6-2373-5775b9dbbc83b354.png\nCategories: Community\, Social Events
-GEO:41.309652;-105.594751
-LOCATION:Bond's Brewing Company
-SUMMARY:Bond's Trivia & Tacos Tuesdays
-UID:38590@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DESCRIPTION:Liquid Sky: Tranquility/Relaxation\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-tranquility-relaxation/38746/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131526_484A9532-CB85-3E44-32D982F082FCBA7D_484ae991-f4bf-648c-5d83b2e355f7c60a.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -353,13 +362,13 @@ UID:38746@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-tranquility-relaxation/38746/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260324
-DESCRIPTION:Center for Entrepreneurship & Innovation: Guest Speaker Series\nMore info: https://www.visitlaramie.org/event/center-for-entrepreneurship-%26-innovation%3a-guest-speaker-series/38713/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/CEI-Teenage-Bottle-Rocket--Promotional-Graphic_ACA31774-DDBA-468F-C51114EE716EAC1B_acc061d9-a381-437c-cbe81f04dee4d9b8.png\nCategories: University of Wyoming
-GEO:41.311429;-105.577757
-LOCATION:College of Business Room: BU 127
-SUMMARY:Center for Entrepreneurship & Innovation: Guest Speaker Series
-UID:38713@visitlaramie.org
-URL:https://www.visitlaramie.org/event/center-for-entrepreneurship-%26-innovation%3a-guest-speaker-series/38713/
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Bond's Trivia & Tacos Tuesdays\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-124616_3777E407-90DA-7991-E6BF0FD77B3A4180_377bbbf4-fac6-2373-5775b9dbbc83b354.png\nCategories: Community\, Social Events
+GEO:41.309652;-105.594751
+LOCATION:Bond's Brewing Company
+SUMMARY:Bond's Trivia & Tacos Tuesdays
+UID:38590@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260329
@@ -414,6 +423,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:An Evening with Renee Elise Goldsberry (New Date)
 UID:38550@visitlaramie.org
 URL:https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry-(new-date)/38550/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Cooper Center Presents: Once Upon a Dream\nMore info: https://www.visitlaramie.org/event/cooper-center-presents%3a-once-upon-a-dream/38842/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-102541_46A036D6-D6C0-F4CF-6664EF5E5A8F16A5_48073151-cd37-36c2-90c3d87a18b6ebc0.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.322811;-105.591448
+LOCATION:Cooper Center for Creative Arts
+SUMMARY:Cooper Center Presents: Once Upon a Dream
+UID:38842@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cooper-center-presents%3a-once-upon-a-dream/38842/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
@@ -495,6 +513,15 @@ LOCATION:The Gryphon Theatre
 SUMMARY:The Wild and Working Lands Film Festival
 UID:38782@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-wild-and-working-lands-film-festival/38782/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Carne Asada @ The Cowboy Saloon & Dance Hall\nMore info: https://www.visitlaramie.org/event/carne-asada-%40-the-cowboy-saloon-%26-dance-hall/38840/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-101239_462E4858-0726-2A45-619CA6BB6D580DEA_46423dbc-a997-b5e5-d933ab114dfe3edb.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Carne Asada @ The Cowboy Saloon & Dance Hall
+UID:38840@visitlaramie.org
+URL:https://www.visitlaramie.org/event/carne-asada-%40-the-cowboy-saloon-%26-dance-hall/38840/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
