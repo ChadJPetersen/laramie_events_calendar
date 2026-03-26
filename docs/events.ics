@@ -182,15 +182,6 @@ UID:38801@visitlaramie.org
 URL:https://www.visitlaramie.org/event/easter-egg-hunt!-%40-leap/38801/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260325
-DESCRIPTION:Beer Education Night\nMore info: https://www.visitlaramie.org/event/beer-education-night/38795/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WindRiverBeer_B295931B-B908-7D37-4942D9D743866BC3_b29dd8d0-0159-6900-5e13e9e15568d7d8.png\nCategories: Social Events
-GEO:41.312616;-105.570928
-LOCATION:Pokes Pub
-SUMMARY:Beer Education Night
-UID:38795@visitlaramie.org
-URL:https://www.visitlaramie.org/event/beer-education-night/38795/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
 DESCRIPTION:18+ College County Night\nMore info: https://www.visitlaramie.org/event/18%2b-college-county-night/38587/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_F5F8D51C-79B2-4543-8988DEE5E4863805_9f4bd647-7c90-41cf-a6ca1edfedb14bc9.jpg\nCategories: Community
 GEO:41.312707;-105.595125
@@ -306,6 +297,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: Micro Wrestling - Big Little Brawlers
 UID:38500@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-micro-wrestling-big-little-brawlers/38500/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Cowboy Saloon Presents: Jarrod Morris Rocks the Rendezvous\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-jarrod-morris-rocks-the-rendezvous/38539/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-12-8-25-at-5.02-PM_37617483-0613-4F4B-876D24A964586A4E_abbf472a-2dbb-469f-89db0e25b70fc9a9.png\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Jarrod Morris Rocks the Rendezvous
+UID:38539@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-jarrod-morris-rocks-the-rendezvous/38539/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
@@ -506,6 +506,15 @@ UID:38438@visitlaramie.org
 URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Comedy That Cares - LIVE TAPING\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Comedy-That-Cares-Laramie-front-flyer-_400C48FB-98D5-0FBA-0AB3E307739CB3EB_403096e4-a3ad-31e0-92febf0737b7dff6.png\nCategories: Performing Arts & Culture
+GEO:41.149793;-104.818922
+LOCATION:The Collective
+SUMMARY:Comedy That Cares - LIVE TAPING
+UID:38698@visitlaramie.org
+URL:https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 DESCRIPTION:The Wild and Working Lands Film Festival\nMore info: https://www.visitlaramie.org/event/the-wild-and-working-lands-film-festival/38782/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-06-092759_A7BCF66A-9D06-30D4-A517BCAEE1C564D3_a7da955a-c087-e7c0-92da07fa51994195.png\nCategories: Community\, Outdoor Recreation\, University of Wyoming\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -560,6 +569,15 @@ UID:38833@visitlaramie.org
 URL:https://www.visitlaramie.org/event/trevor-wallace%3a-live-at-uw!/38833/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Disciple in Laramie\, WY\nMore info: https://www.visitlaramie.org/event/disciple-in-laramie-wy/38593/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-09-102250_65C4FD68-CF57-F528-3994C144A35609F9_660bdf1a-ed88-9dc2-1a3f302cb482e442.png\nCategories: Concerts & Live Music\, Community
+GEO:41.392609;-105.594274
+LOCATION:For the Good of Laramie
+SUMMARY:Disciple in Laramie\, WY
+UID:38593@visitlaramie.org
+URL:https://www.visitlaramie.org/event/disciple-in-laramie-wy/38593/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Make-A-Wish Wyoming Night @ Altitude Chophouse & Brewery\nMore info: https://www.visitlaramie.org/event/make-a-wish-wyoming-night-%40-altitude-chophouse-%26-brewery/38800/\nVenue: Altitude Chophouse & Brewery\nVenue Info: https://www.visitlaramie.org/listing/altitude-chophouse-%26-brewery/140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-110700_DE1D5CD7-0101-60C7-2C0C3A9EABB7FBA6_de38c235-0bed-214d-9dd0743cb3cb7475.png\nCategories: Community
 GEO:41.310353;-105.595370
@@ -569,6 +587,15 @@ UID:38800@visitlaramie.org
 URL:https://www.visitlaramie.org/event/make-a-wish-wyoming-night-%40-altitude-chophouse-%26-brewery/38800/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Laramie Home and Garden Show\nMore info: https://www.visitlaramie.org/event/laramie-home-and-garden-show/38443/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-27-115444_840B0E23-C971-C11A-A030FB686F3348F1_84121fd3-c23b-2779-5651524c4c53bab3.png\nCategories: Community
+GEO:41.305784;-105.551009
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Laramie Home and Garden Show
+UID:38443@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-home-and-garden-show/38443/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
 DESCRIPTION:No Man's Land Film Festival\nMore info: https://www.visitlaramie.org/event/no-mans-land-film-festival/38768/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-112619_786C4D86-C970-C2E9-2FFA945B636662AA_78aee14d-d85c-dece-83ee97da23be80f7.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -576,15 +603,6 @@ LOCATION:The Gryphon Theatre
 SUMMARY:No Man's Land Film Festival
 UID:38768@visitlaramie.org
 URL:https://www.visitlaramie.org/event/no-mans-land-film-festival/38768/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260325
-DESCRIPTION:Laramie Audubon Presentation: Wildlife Photography Travels and Techniques\nMore info: https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-wildlife-photography-travels-and-techniques/38826/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Pumas-photo-for-LAS_D87B47B7-BBCE-6588-BF3E424B7846C889_d88b42b3-f73b-71ea-a703d519a8aa2511.jpg\nCategories: Community\, Education
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church
-SUMMARY:Laramie Audubon Presentation: Wildlife Photography Travels and Techniques
-UID:38826@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-wildlife-photography-travels-and-techniques/38826/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
