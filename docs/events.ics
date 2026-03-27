@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Cry It Out by Molly Smith Metzler\nMore info: https://www.visitlaramie.org/event/cry-it-out-by-molly-smith-metzler/38850/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-26-125251_B2F10B04-F04A-D651-AB3AEDFF216D200A_b30d07d7-9857-7477-ca7c4e79867aa837.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.322811;-105.591448
+LOCATION:Cooper Center for Creative Arts
+SUMMARY:Cry It Out by Molly Smith Metzler
+UID:38850@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cry-it-out-by-molly-smith-metzler/38850/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260327
 DESCRIPTION:Community Easter Egg Hunt\nMore info: https://www.visitlaramie.org/event/community-easter-egg-hunt/38824/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-135046_B1DE01F2-005F-F67D-DCAA59C77F72C151_b1f225e8-f881-0308-32f74358ba330ab4.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.321124;-105.568324
@@ -92,15 +101,6 @@ UID:38797@visitlaramie.org
 URL:https://www.visitlaramie.org/event/big-boy-no-4014-whistle-stop-steam-engine-train/38797/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260122
-DESCRIPTION:18+ Latin Night\nMore info: https://www.visitlaramie.org/event/18%2b-latin-night/38589/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-10_16B57FA5-F0B1-4997-87EEE5EE5B4CB4BC_2cc6d41b-11b1-4436-bded262959e8dc7e.jpg\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:18+ Latin Night
-UID:38589@visitlaramie.org
-URL:https://www.visitlaramie.org/event/18%2b-latin-night/38589/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 DESCRIPTION:Open Jam Night at the Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Open-Jams-Poster-OFF-CAMPUS-NO-QR_6ADB1FA1-F2DF-AC3F-37D8170BA0BFFE9A_6aec4520-d398-8ef9-48eb157459b0f6a4.png\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -137,6 +137,23 @@ UID:38341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Urban Sketching on the Green Belt\nMore info: https://www.visitlaramie.org/event/urban-sketching-on-the-green-belt/38848/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_AC72F57A-0BF5-E797-C23D5AB5749007C8_ac75a735-9589-99cc-3dd2de0f47e760c6.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Optimist Park
+SUMMARY:Urban Sketching on the Green Belt
+UID:38848@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-on-the-green-belt/38848/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:Laramie Interfaith Sue Wedel Memorial Walk\, Run\, Wheel 5K\nMore info: https://www.visitlaramie.org/event/laramie-interfaith-sue-wedel-memorial-walk-run-wheel-5k/38841/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-101713_465B02EA-EC64-E951-420DA6D66BB4C70F_4684704f-b0bb-8942-25a0af64c9a80161.png\nCategories: Community
+GEO:41.319785;-105.586847
+SUMMARY:Laramie Interfaith Sue Wedel Memorial Walk\, Run\, Wheel 5K
+UID:38841@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-interfaith-sue-wedel-memorial-walk-run-wheel-5k/38841/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260421
 DESCRIPTION:Presentation: 100th Anniversary of the Beacon on top of Pilot Hill outside Laramie\nMore info: https://www.visitlaramie.org/event/presentation%3a-100th-anniversary-of-the-beacon-on-top-of-pilot-hill-outside-laramie/38815/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-15-100745_0ED9103F-AB93-EE3B-B9EB78AC3B7B002D_0eeb45ff-a263-be9c-d972f56757752066.png\nCategories: History\, Community\, Wyoming 250
 GEO:41.312068;-105.589055
@@ -144,15 +161,6 @@ LOCATION:Alice Hardie Stevens Center
 SUMMARY:Presentation: 100th Anniversary of the Beacon on top of Pilot Hill outside Laramie
 UID:38815@visitlaramie.org
 URL:https://www.visitlaramie.org/event/presentation%3a-100th-anniversary-of-the-beacon-on-top-of-pilot-hill-outside-laramie/38815/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Big Boy 4014 Comes to Laramie - Coast-to-Coast Tour Stop\nMore info: https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38805/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-13-115530_141A8DB1-C346-90C4-F56D9289336ACE00_141ad9e1-09f1-f2ae-e6bda041c7352d77.png\nCategories: History\, Education\, Family Fun\, Wyoming 250
-GEO:41.308353;-105.596400
-LOCATION:Depot Park Greenspace
-SUMMARY:Big Boy 4014 Comes to Laramie - Coast-to-Coast Tour Stop
-UID:38805@visitlaramie.org
-URL:https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38805/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
@@ -189,15 +197,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:18+ College County Night
 UID:38587@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260326
-DESCRIPTION:UW Music Presents: Michael Shults\, Saxophone\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-michael-shults-saxophone/38827/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-17-101540_DDC3A01C-97AB-DB8D-818163CCDABA0A33_ddc75e74-fdb7-ccef-71e2caa1f17e1cc4.png\nCategories: Concerts & Live Music\, University of Wyoming
-GEO:41.311991;-105.572082
-LOCATION:Univ. of Wyoming
-SUMMARY:UW Music Presents: Michael Shults\, Saxophone
-UID:38827@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-michael-shults-saxophone/38827/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
@@ -515,13 +514,13 @@ UID:38698@visitlaramie.org
 URL:https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260326
-DESCRIPTION:The Wild and Working Lands Film Festival\nMore info: https://www.visitlaramie.org/event/the-wild-and-working-lands-film-festival/38782/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-06-092759_A7BCF66A-9D06-30D4-A517BCAEE1C564D3_a7da955a-c087-e7c0-92da07fa51994195.png\nCategories: Community\, Outdoor Recreation\, University of Wyoming\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:The Wild and Working Lands Film Festival
-UID:38782@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-wild-and-working-lands-film-festival/38782/
+DTSTART;VALUE=DATE:20260412
+DESCRIPTION:Downtown Urban Sketching\nMore info: https://www.visitlaramie.org/event/downtown-urban-sketching/38847/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_AC53B596-C820-4C4E-C0E7E4352027E51F_ac5de2dc-9de2-cacb-09767de09916cbc2.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Train Depot Park
+SUMMARY:Downtown Urban Sketching
+UID:38847@visitlaramie.org
+URL:https://www.visitlaramie.org/event/downtown-urban-sketching/38847/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260403
@@ -612,6 +611,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon & Chancey Williams White Trash Bash!
 UID:38644@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-%26-chancey-williams-white-trash-bash!/38644/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DESCRIPTION:Rock Relief\nMore info: https://www.visitlaramie.org/event/rock-relief/38845/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Rock-Relief_7EC95B99-B659-A848-1CD37AA20C097E10_7ecea1bf-d38b-66b3-22d05c6fe2d20317.jpg\nCategories: Concerts & Live Music
+GEO:41.312875;-105.595100
+LOCATION:The Collective
+SUMMARY:Rock Relief
+UID:38845@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rock-relief/38845/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
