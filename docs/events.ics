@@ -38,15 +38,6 @@ UID:38862@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-ibex-search-for-the-edge-of-the-solar-system/38862/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Big Boy No 4014 "Whistle Stop" Steam Engine Train\nMore info: https://www.visitlaramie.org/event/big-boy-no-4014-whistle-stop-steam-engine-train/38797/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-13-113449_129627CD-E245-CAD0-E22B5FC62104B6EC_1297045d-f918-aec2-d7647a64e29b1525.png\nCategories: History\, Community\, Family Fun\, Wyoming 250
-GEO:41.308353;-105.596400
-LOCATION:Laramie Historic Train Depot
-SUMMARY:Big Boy No 4014 "Whistle Stop" Steam Engine Train
-UID:38797@visitlaramie.org
-URL:https://www.visitlaramie.org/event/big-boy-no-4014-whistle-stop-steam-engine-train/38797/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
 DESCRIPTION:Liquid Sky: Country\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-country/38855/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E616B7C7-0EDF-7DCB-6E29FFCC937DBFFC_e61d8fe0-d5db-5d98-1c3a84d71ba02477.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -117,15 +108,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:The Women Next Door\, With a Touch of Burlesque
 UID:38770@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-women-next-door-with-a-touch-of-burlesque/38770/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Spring Awakening @ Seek Yoga Studio\nMore info: https://www.visitlaramie.org/event/spring-awakening-%40-seek-yoga-studio/38821/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-133730_B1679D00-BD1A-096B-DD927D0B8A1835A3_b178eaf5-0bf8-ca46-2101caffdbb45538.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Spring Awakening @ Seek Yoga Studio
-UID:38821@visitlaramie.org
-URL:https://www.visitlaramie.org/event/spring-awakening-%40-seek-yoga-studio/38821/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
@@ -263,15 +245,6 @@ UID:38830@visitlaramie.org
 URL:https://www.visitlaramie.org/event/week-of-the-young-child-fair/38830/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Big Boy 4014 Comes to Laramie - Coast-to-Coast Tour Stop\nMore info: https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38804/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-112728_DED1A212-A984-D047-A1B7692FC4CCFDC7_deebdaf6-c7ab-122a-20838888f19d2438.png\nCategories: History\, Family Fun\, Wyoming 250
-GEO:41.308353;-105.596400
-LOCATION:Depot Park Greenspace
-SUMMARY:Big Boy 4014 Comes to Laramie - Coast-to-Coast Tour Stop
-UID:38804@visitlaramie.org
-URL:https://www.visitlaramie.org/event/big-boy-4014-comes-to-laramie-coast-to-coast-tour-stop/38804/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
 DESCRIPTION:Clearing the Channel with Meghan Lucas (in-person or virtual)\nMore info: https://www.visitlaramie.org/event/clearing-the-channel-with-meghan-lucas-(in-person-or-virtual)/38440/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-23-141236_BB199936-BAEF-5526-FE84D4800FBD4DD1_bb2d88bc-ce53-ac46-c33b628896472f00.png\nCategories: Community\, Virtual\, Performing Arts & Culture
 GEO:41.312877;-105.595095
@@ -406,15 +379,6 @@ UID:38750@visitlaramie.org
 URL:https://www.visitlaramie.org/event/fulldome-film%3a-distant-worlds%3a-alien-life%3f/38750/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Easter Egg Hunt! @ LEAP\nMore info: https://www.visitlaramie.org/event/easter-egg-hunt!-%40-leap/38801/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-111500_DE4ECBC3-A74A-658F-6FCFEEEE78C67E51_de6893ae-0545-9401-17b8d376efec135f.png\nCategories: Community\, Family Fun
-GEO:41.307087;-105.544293
-LOCATION:Leap Ninja Warrior Gym
-SUMMARY:Easter Egg Hunt! @ LEAP
-UID:38801@visitlaramie.org
-URL:https://www.visitlaramie.org/event/easter-egg-hunt!-%40-leap/38801/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 DESCRIPTION:Full-Dome Film: Dark Biosphere\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38755/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_E77917A4-CB39-B17B-16C9D3AA217478DF_e779b311-e819-ee05-746aa775addbd94a.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -521,15 +485,6 @@ LOCATION:University of Wyoming Education Auditorium
 SUMMARY:Join or Die Film Screening
 UID:38598@visitlaramie.org
 URL:https://www.visitlaramie.org/event/join-or-die-film-screening/38598/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Teenage Bottlerocket\nMore info: https://www.visitlaramie.org/event/teenage-bottlerocket/38656/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TBR4X5_6C6260C2-B248-99EA-5C0009BCA3BB4689_6c6d8722-c383-5b85-e30c39845ff5d4ab.jpg\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Teenage Bottlerocket
-UID:38656@visitlaramie.org
-URL:https://www.visitlaramie.org/event/teenage-bottlerocket/38656/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260328
@@ -711,15 +666,6 @@ UID:38723@visitlaramie.org
 URL:https://www.visitlaramie.org/event/banff-mountain-film-festival-%40-the-gryphon/38723/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Teenage Bottlerocket  - Laramie\nMore info: https://www.visitlaramie.org/event/teenage-bottlerocket-laramie/38684/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Teenage-Bottlerocket_6367502B-923E-1FDA-FCE697D93831D037_636b6aff-fa15-d42a-b8c38a44e1e4a072.jpg\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Teenage Bottlerocket  - Laramie
-UID:38684@visitlaramie.org
-URL:https://www.visitlaramie.org/event/teenage-bottlerocket-laramie/38684/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Make-A-Wish Wyoming Night @ Altitude Chophouse & Brewery\nMore info: https://www.visitlaramie.org/event/make-a-wish-wyoming-night-%40-altitude-chophouse-%26-brewery/38800/\nVenue: Altitude Chophouse & Brewery\nVenue Info: https://www.visitlaramie.org/listing/altitude-chophouse-%26-brewery/140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-110700_DE1D5CD7-0101-60C7-2C0C3A9EABB7FBA6_de38c235-0bed-214d-9dd0743cb3cb7475.png\nCategories: Community
 GEO:41.310353;-105.595370
@@ -745,14 +691,5 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:College Country Nights 18+
 UID:38364@visitlaramie.org
 URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260329
-DESCRIPTION:Ukrainian Pysanky Easter Eggs Class\nMore info: https://www.visitlaramie.org/event/ukrainian-pysanky-easter-eggs-class/38773/\nVenue: Cowgirl Yarn\nVenue Info: https://www.visitlaramie.org/listing/cowgirl-yarn/159/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-120200_79A9E5F1-AE62-7D50-321845A658BC90B0_79aa951e-ef96-ea7f-791f8d687a7946d1.png\nCategories: Community\, Performing Arts & Culture\, Craft Classes & Workshops
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Ukrainian Pysanky Easter Eggs Class
-UID:38773@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ukrainian-pysanky-easter-eggs-class/38773/
 END:VEVENT
 END:VCALENDAR
