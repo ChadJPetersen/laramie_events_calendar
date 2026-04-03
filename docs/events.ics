@@ -308,15 +308,6 @@ UID:38440@visitlaramie.org
 URL:https://www.visitlaramie.org/event/clearing-the-channel-with-meghan-lucas-(in-person-or-virtual)/38440/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260402
-DESCRIPTION:Cooper Center Presents: Once Upon a Dream\nMore info: https://www.visitlaramie.org/event/cooper-center-presents%3a-once-upon-a-dream/38842/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-102541_46A036D6-D6C0-F4CF-6664EF5E5A8F16A5_48073151-cd37-36c2-90c3d87a18b6ebc0.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.322811;-105.591448
-LOCATION:Cooper Center for Creative Arts
-SUMMARY:Cooper Center Presents: Once Upon a Dream
-UID:38842@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cooper-center-presents%3a-once-upon-a-dream/38842/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
 DESCRIPTION:Live Presentation: Black Holes\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-black-holes/38861/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121157_E6D36A47-CE61-14B3-45BCC447F3DDA234_e6d61826-03d2-6c47-52123d3179d6d6f1.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -413,15 +404,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: Jarrod Morris Rocks the Rendezvous
 UID:38539@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-jarrod-morris-rocks-the-rendezvous/38539/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-DESCRIPTION:Open Jam Night at the Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Open-Jams-Poster-OFF-CAMPUS-NO-QR_6ADB1FA1-F2DF-AC3F-37D8170BA0BFFE9A_6aec4520-d398-8ef9-48eb157459b0f6a4.png\nCategories: Concerts & Live Music
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Open Jam Night at the Gryphon Theatre
-UID:38654@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260122
@@ -602,15 +584,6 @@ LOCATION:Vee Bar Guest Ranch Lodge
 SUMMARY:Coffee & Canvas @ the Vee Bar
 UID:38687@visitlaramie.org
 URL:https://www.visitlaramie.org/event/coffee-%26-canvas-%40-the-vee-bar/38687/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260402
-DESCRIPTION:Laramie Young Professionals Voluteer Fair\nMore info: https://www.visitlaramie.org/event/laramie-young-professionals-voluteer-fair/38803/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-112118_DEB2D14D-0D44-DBDE-1937769819F0FDD5_deb481f1-b228-9742-c73d4dd09b5b3688.png\nCategories: Community
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center - South Gym
-SUMMARY:Laramie Young Professionals Voluteer Fair
-UID:38803@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-young-professionals-voluteer-fair/38803/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260409
