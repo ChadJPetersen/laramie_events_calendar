@@ -146,15 +146,6 @@ UID:38698@visitlaramie.org
 URL:https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Carne Asada @ The Cowboy Saloon & Dance Hall\nMore info: https://www.visitlaramie.org/event/carne-asada-%40-the-cowboy-saloon-%26-dance-hall/38840/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-101239_462E4858-0726-2A45-619CA6BB6D580DEA_46423dbc-a997-b5e5-d933ab114dfe3edb.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Carne Asada @ The Cowboy Saloon & Dance Hall
-UID:38840@visitlaramie.org
-URL:https://www.visitlaramie.org/event/carne-asada-%40-the-cowboy-saloon-%26-dance-hall/38840/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260417
 DESCRIPTION:Songwriter Sessions: Songs in the Round\nMore info: https://www.visitlaramie.org/event/songwriter-sessions%3a-songs-in-the-round/38775/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-131638_7C7C0108-F9E5-4E59-E0431EF9E951CCDF_7c8756e4-0a8b-4b68-c5d9b2873bd022f5.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -164,15 +155,6 @@ UID:38775@visitlaramie.org
 URL:https://www.visitlaramie.org/event/songwriter-sessions%3a-songs-in-the-round/38775/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Trevor Wallace: Live at UW!\nMore info: https://www.visitlaramie.org/event/trevor-wallace%3a-live-at-uw!/38833/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TrevorWallaceUW_SocialMediaImg_757AFC39-A05B-8CCD-9300EF7C6A4A59B4_7594cdd4-0a0f-50ea-fd0cb3da46365d44.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.312616;-105.570928
-LOCATION:University of Wyoming Arts & Sciences Auditorium
-SUMMARY:Trevor Wallace: Live at UW!
-UID:38833@visitlaramie.org
-URL:https://www.visitlaramie.org/event/trevor-wallace%3a-live-at-uw!/38833/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 DESCRIPTION:Laramie Home and Garden Show\nMore info: https://www.visitlaramie.org/event/laramie-home-and-garden-show/38443/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-27-115444_840B0E23-C971-C11A-A030FB686F3348F1_84121fd3-c23b-2779-5651524c4c53bab3.png\nCategories: Community
 GEO:41.305784;-105.551009
@@ -180,15 +162,6 @@ LOCATION:Laramie Ice & Event Center
 SUMMARY:Laramie Home and Garden Show
 UID:38443@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-home-and-garden-show/38443/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Live Presentation: James Webb Space Telescope\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-james-webb-space-telescope/38852/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121114_E5B36688-E10B-4C50-12D6A3C2C10522CD_e5b74d84-96e0-e526-93ee834b6d1ba4ff.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: James Webb Space Telescope
-UID:38852@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-james-webb-space-telescope/38852/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
@@ -207,15 +180,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Cosmology
 UID:38864@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-cosmology/38864/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Nin McConigley: How to Commit a Postcolonial Murder Author Talk\nMore info: https://www.visitlaramie.org/event/nin-mcconigley%3a-how-to-commit-a-postcolonial-murder-author-talk/38838/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Calendar-listing_15FF55E0-E4DD-58F4-385A7D3267637CDE_16033db6-a3d0-493e-b164b83069aab445.jpg\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.312616;-105.570928
-LOCATION:Coe Library\, Room 506
-SUMMARY:Nin McConigley: How to Commit a Postcolonial Murder Author Talk
-UID:38838@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nin-mcconigley%3a-how-to-commit-a-postcolonial-murder-author-talk/38838/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
@@ -612,15 +576,6 @@ UID:38815@visitlaramie.org
 URL:https://www.visitlaramie.org/event/presentation%3a-100th-anniversary-of-the-beacon-on-top-of-pilot-hill-outside-laramie/38815/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:What Fundraiser: House of Cards\nMore info: https://www.visitlaramie.org/event/what-fundraiser%3a-house-of-cards/38776/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-132304_7C97BAA5-D413-F6AA-48C1D731C0EB6647_7cb290d8-aba7-cf16-9d4c024f9bd7f464.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:What Fundraiser: House of Cards
-UID:38776@visitlaramie.org
-URL:https://www.visitlaramie.org/event/what-fundraiser%3a-house-of-cards/38776/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260404
 DESCRIPTION:Full-Dome Film: The Sun: Our Living Star\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star/38860/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121138_E6B2C811-F02D-8A5E-5150B1863C1116D6_e6b32435-ef7b-4d60-75767512fb049fc7.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -628,15 +583,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: The Sun: Our Living Star
 UID:38860@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star/38860/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:Liquid Sky: Psychedelic Indie Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-psychedelic-indie-rock/38853/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E5DEA869-06A1-CE06-B1162C6D431C9C79_e5e35246-ebab-215f-7568aedcb64a627f.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Psychedelic Indie Rock
-UID:38853@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-psychedelic-indie-rock/38853/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260409
