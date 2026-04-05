@@ -119,15 +119,6 @@ UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Full-Dome Film: We Are Stars\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars/38751/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-135341_48D91D03-EE62-6383-CC83C6383B697A5D_48dad2b4-9453-c8bb-53677f4035fe6cea.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: We Are Stars
-UID:38751@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars/38751/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
 DESCRIPTION:The Women Next Door\, With a Touch of Burlesque\nMore info: https://www.visitlaramie.org/event/the-women-next-door-with-a-touch-of-burlesque/38770/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-114158_78FF2E13-932A-8BD8-74CEB26DE60082DF_7921ee19-cf67-89d7-21b4438b1e95c6b6.png\nCategories: Performing Arts & Culture
 GEO:41.312707;-105.595125
@@ -209,13 +200,13 @@ UID:38869@visitlaramie.org
 URL:https://www.visitlaramie.org/event/quantum-leap-business-and-career-acceleration-sessions/38869/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Pickleball Tournament\nMore info: https://www.visitlaramie.org/event/pickleball-tournament/38671/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-05-095328_D4214A2D-BFCC-64E9-C29920FCA45C87BA_d4883e49-0fcb-2a81-5cb8d993ff84fbf3.png\nCategories: Community\, Sports
-GEO:41.315351;-105.559894
-LOCATION:University of Wyoming Indoor Tennis Complex
-SUMMARY:Pickleball Tournament
-UID:38671@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pickleball-tournament/38671/
+DTSTART;VALUE=DATE:20260505
+DESCRIPTION:National Bike Month!\nMore info: https://www.visitlaramie.org/event/national-bike-month!/38710/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-18-111120_736E7066-9272-B8C5-BD93EB72F297F08E_7370e5ab-b675-7535-297bb5bab767730d.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun\, Social Events
+GEO:41.310977;-105.595828
+LOCATION:Multiple Locations -- See Description
+SUMMARY:National Bike Month!
+UID:38710@visitlaramie.org
+URL:https://www.visitlaramie.org/event/national-bike-month!/38710/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260114
@@ -297,15 +288,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:Department of Music:UW Wind Symphony and Bel Canto Chorus ft. Tim McAllisterpring
 UID:38880@visitlaramie.org
 URL:https://www.visitlaramie.org/event/department-of-music%3auw-wind-symphony-and-bel-canto-chorus-ft-tim-mcallisterpring/38880/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Liquid Sky: Traquility/Relaxation\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-traquility-relaxation/38854/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E5DEA869-06A1-CE06-B1162C6D431C9C79_e5e35246-ebab-215f-7568aedcb64a627f.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Traquility/Relaxation
-UID:38854@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-traquility-relaxation/38854/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
@@ -469,15 +451,6 @@ UID:38856@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/38856/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:An Evening with Renee Elise Goldsberry (New Date)\nMore info: https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry-(new-date)/38550/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/04.04.26-Concert_E371B83A-A002-9CDE-2610183BDD28A4C1_e3724b04-f4c7-a32f-9c09454501868ce5.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.311910;-105.581193
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:An Evening with Renee Elise Goldsberry (New Date)
-UID:38550@visitlaramie.org
-URL:https://www.visitlaramie.org/event/an-evening-with-renee-elise-goldsberry-(new-date)/38550/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Tristan Duke & Polar Photography from the Collection\nMore info: https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-132926_8239836F-F287-D0FA-C292489236A0048E_82d5882f-c6aa-2cf6-e350d2a91d5b5653.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
 GEO:41.314165;-105.568122
@@ -574,15 +547,6 @@ LOCATION:Alice Hardie Stevens Center
 SUMMARY:Presentation: 100th Anniversary of the Beacon on top of Pilot Hill outside Laramie
 UID:38815@visitlaramie.org
 URL:https://www.visitlaramie.org/event/presentation%3a-100th-anniversary-of-the-beacon-on-top-of-pilot-hill-outside-laramie/38815/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DESCRIPTION:Full-Dome Film: The Sun: Our Living Star\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star/38860/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121138_E6B2C811-F02D-8A5E-5150B1863C1116D6_e6b32435-ef7b-4d60-75767512fb049fc7.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: The Sun: Our Living Star
-UID:38860@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star/38860/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260409
