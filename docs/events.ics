@@ -29,6 +29,15 @@ UID:38843@visitlaramie.org
 URL:https://www.visitlaramie.org/event/much-ado-about-nothing/38843/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:The Patti Fiasco 10 Cent Stranger\nMore info: https://www.visitlaramie.org/event/the-patti-fiasco-10-cent-stranger/38817/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-120237_AE0877A3-C7E2-7AB6-171CC5DCAB7734B2_ae1a54a8-982c-83f7-416616d0d8c912c7.png\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:The Patti Fiasco 10 Cent Stranger
+UID:38817@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-patti-fiasco-10-cent-stranger/38817/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
 DESCRIPTION:Full-Dome Film: IBEX Search for the Edge of the Solar System\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-ibex-search-for-the-edge-of-the-solar-system/38862/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121236_E700F1B6-959B-DA4A-77E608CC1F4692A2_e701783d-97bf-c075-44ba8308b4bf3690.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -162,6 +171,15 @@ LOCATION:Historic Laramie Union Pacific Train Depot
 SUMMARY:Big Boy's Coast to Coast Tour-Western Leg/Eastbound
 UID:38871@visitlaramie.org
 URL:https://www.visitlaramie.org/event/big-boys-coast-to-coast-tour-western-leg-eastbound/38871/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Murder at The Derby\nMore info: https://www.visitlaramie.org/event/murder-at-the-derby/38819/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-132933_B12CF645-BB00-0186-1C0A827DF3846FC9_b12ea37f-eb05-5289-9ee631327742eba8.png\nCategories: Community
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:Murder at The Derby
+UID:38819@visitlaramie.org
+URL:https://www.visitlaramie.org/event/murder-at-the-derby/38819/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260417
@@ -323,6 +341,14 @@ GEO:41.312330;-105.593102
 SUMMARY:Bryan Bielanski Live @ Laramie Soup Kitchen
 UID:37727@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bryan-bielanski-live-%40-laramie-soup-kitchen/37727/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+DESCRIPTION:Laramie International Flavor Festival\nMore info: https://www.visitlaramie.org/event/laramie-international-flavor-festival/38892/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_0687_1E557BBA-F946-825A-E1CFB08EAEFF5675_1e5d2d29-0386-fdc1-c370c5fb60cebb13.jpg\nCategories: Annual Events & Festivals
+LOCATION:Downtown Laramie
+SUMMARY:Laramie International Flavor Festival
+UID:38892@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-international-flavor-festival/38892/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
@@ -592,6 +618,15 @@ LOCATION:Albany Co Central Fire Dept. HQ
 SUMMARY:Albany Co. Central Volunteer Fire Dept. Open House
 UID:38839@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-co-central-volunteer-fire-dept-open-house/38839/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Laramie International Flavor Festival - Global Adventure\nMore info: https://www.visitlaramie.org/event/laramie-international-flavor-festival-global-adventure/38891/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_0687_1E46C327-E6CB-01CE-9B7A501B2C498F0D_1e4770ab-04bb-411e-013f98a32e9e3160.jpg\nCategories: Annual Events & Festivals
+GEO:41.312875;-105.595100
+LOCATION:The Collective
+SUMMARY:Laramie International Flavor Festival - Global Adventure
+UID:38891@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-international-flavor-festival-global-adventure/38891/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
