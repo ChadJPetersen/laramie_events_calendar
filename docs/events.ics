@@ -75,12 +75,12 @@ URL:https://www.visitlaramie.org/event/stand-up-paddleboard-clinic/38829/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Glacial Optics: Gaze of the Glacier\nMore info: https://www.visitlaramie.org/event/glacial-optics%3a-gaze-of-the-glacier/38874/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-125126_80C72390-E192-5E75-345A43693D39EDA0_81e5ce05-aec8-f2ad-6b309710765845b3.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+DESCRIPTION:UWAM Presents: Visiting Artist Tristan Duke &#8211\; Photogram Workshop\nMore info: https://www.visitlaramie.org/event/uwam-presents%3a-visiting-artist-tristan-duke-%26%238211%3b-photogram-workshop/38874/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
 GEO:41.314165;-105.568122
 LOCATION:University of Wyoming Art Museum
-SUMMARY:Glacial Optics: Gaze of the Glacier
+SUMMARY:UWAM Presents: Visiting Artist Tristan Duke &#8211\; Photogram Workshop
 UID:38874@visitlaramie.org
-URL:https://www.visitlaramie.org/event/glacial-optics%3a-gaze-of-the-glacier/38874/
+URL:https://www.visitlaramie.org/event/uwam-presents%3a-visiting-artist-tristan-duke-%26%238211%3b-photogram-workshop/38874/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
@@ -126,6 +126,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: 15 Prints
 UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Blue Marmot Open Studio Event\nMore info: https://www.visitlaramie.org/event/blue-marmot-open-studio-event/38720/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-121657_77722DE5-0591-080D-0D72359F7877492B_7775bbc3-c867-ec5c-1dcd184fd61c59bf.png\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center Conference Room
+SUMMARY:Blue Marmot Open Studio Event
+UID:38720@visitlaramie.org
+URL:https://www.visitlaramie.org/event/blue-marmot-open-studio-event/38720/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
@@ -360,6 +369,15 @@ UID:38866@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-5000-eyes%3a-mapping-the-universe-with-desi/38866/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Discover Laramie\nMore info: https://www.visitlaramie.org/event/discover-laramie/38885/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/discover-laramie_C6760725-A564-7F46-3AC9AAFF6A2958E2_c6890644-f8a7-c3f8-84cf84735a59f21e.png\nCategories: Community
+GEO:41.303505;-105.620984
+LOCATION:WyoTech
+SUMMARY:Discover Laramie
+UID:38885@visitlaramie.org
+URL:https://www.visitlaramie.org/event/discover-laramie/38885/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260425
 DESCRIPTION:Liquid Sky: ABBA\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-abba/38859/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E616B7C7-0EDF-7DCB-6E29FFCC937DBFFC_e61d8fe0-d5db-5d98-1c3a84d71ba02477.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -394,6 +412,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:18+ Latin Night
 UID:38589@visitlaramie.org
 URL:https://www.visitlaramie.org/event/18%2b-latin-night/38589/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Kolby Cooper @ The cowboy Saloon & Dance Hall\nMore info: https://www.visitlaramie.org/event/kolby-cooper-%40-the-cowboy-saloon-%26-dance-hall/38731/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-131313_ACC02784-A9FB-0E03-2D87A766C5221893_acdba8ed-0b0a-ea67-55f779b1c3c3c4bc.png\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Kolby Cooper @ The cowboy Saloon & Dance Hall
+UID:38731@visitlaramie.org
+URL:https://www.visitlaramie.org/event/kolby-cooper-%40-the-cowboy-saloon-%26-dance-hall/38731/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
