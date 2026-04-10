@@ -218,6 +218,14 @@ UID:38857@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-funk/38857/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:Laramie River Rendevous\nMore info: https://www.visitlaramie.org/event/laramie-river-rendevous/38895/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/651832047_122158408214635827_7751769819424710462_n_7D713CC2-E59D-6582-72531D4661896425_7d71c930-9506-5259-5d078268eb6d1619.jpg\nCategories: Annual Events & Festivals
+LOCATION:Hansen Arena
+SUMMARY:Laramie River Rendevous
+UID:38895@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-river-rendevous/38895/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
 DESCRIPTION:Quantum Leap Business and Career Acceleration Sessions\nMore info: https://www.visitlaramie.org/event/quantum-leap-business-and-career-acceleration-sessions/38869/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/careerandbiz_24971EAA-0DF0-CD03-48B41D50A4B0953D_249f8658-a85c-8b7c-7eb51cf2e2576a49.png\nCategories: Social Events\, Craft Classes & Workshops
 GEO:41.310975;-105.595248
@@ -234,15 +242,6 @@ LOCATION:Multiple Locations -- See Description
 SUMMARY:National Bike Month!
 UID:38710@visitlaramie.org
 URL:https://www.visitlaramie.org/event/national-bike-month!/38710/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260114
-DESCRIPTION:18+ College County Night\nMore info: https://www.visitlaramie.org/event/18%2b-college-county-night/38587/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_F5F8D51C-79B2-4543-8988DEE5E4863805_9f4bd647-7c90-41cf-a6ca1edfedb14bc9.jpg\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:18+ College County Night
-UID:38587@visitlaramie.org
-URL:https://www.visitlaramie.org/event/18%2b-college-county-night/38587/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
@@ -585,15 +584,6 @@ UID:38687@visitlaramie.org
 URL:https://www.visitlaramie.org/event/coffee-%26-canvas-%40-the-vee-bar/38687/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260409
-DESCRIPTION:UW Symphony - Concertmaster Fund Recital\nMore info: https://www.visitlaramie.org/event/uw-symphony-concertmaster-fund-recital/38764/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-03-103001_0F6AAD38-FF52-EFE7-98CB0DB4E2AF78EF_0f758519-b238-3b13-fa0eedd3e44dfe4e.png\nCategories: Concerts & Live Music\, University of Wyoming\, Performing Arts & Culture
-GEO:41.314021;-105.584601
-LOCATION:Buchanan Center for the Performing Arts - Concert Hall
-SUMMARY:UW Symphony - Concertmaster Fund Recital
-UID:38764@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-symphony-concertmaster-fund-recital/38764/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
 DESCRIPTION:Laramie Interfaith Sue Wedel Memorial Walk\, Run\, Wheel 5K\nMore info: https://www.visitlaramie.org/event/laramie-interfaith-sue-wedel-memorial-walk-run-wheel-5k/38841/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-101713_465B02EA-EC64-E951-420DA6D66BB4C70F_4684704f-b0bb-8942-25a0af64c9a80161.png\nCategories: Community
 GEO:41.319785;-105.586847
@@ -609,15 +599,6 @@ LOCATION:Alice Hardie Stevens Center
 SUMMARY:Presentation: 100th Anniversary of the Beacon on top of Pilot Hill outside Laramie
 UID:38815@visitlaramie.org
 URL:https://www.visitlaramie.org/event/presentation%3a-100th-anniversary-of-the-beacon-on-top-of-pilot-hill-outside-laramie/38815/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260409
-DESCRIPTION:Glacial Optics: Gaze of the Glacier\nMore info: https://www.visitlaramie.org/event/glacial-optics%3a-gaze-of-the-glacier/38872/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-125126_80C72390-E192-5E75-345A43693D39EDA0_81e5ce05-aec8-f2ad-6b309710765845b3.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Glacial Optics: Gaze of the Glacier
-UID:38872@visitlaramie.org
-URL:https://www.visitlaramie.org/event/glacial-optics%3a-gaze-of-the-glacier/38872/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260411
