@@ -234,15 +234,6 @@ UID:38605@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bryan-bielanski-live-%40-the-great-untamed/38605/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:ACPL Garden Series\nMore info: https://www.visitlaramie.org/event/acpl-garden-series/38806/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-114516_DF81519D-F54D-99FF-095BE6C152EFE27C_df8f6b24-993a-4122-4b4dcfc6647bc7d6.png\nCategories: Family Fun\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:ACPL Garden Series
-UID:38806@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acpl-garden-series/38806/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
 DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -259,6 +250,15 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:ACPL Garden Series\nMore info: https://www.visitlaramie.org/event/acpl-garden-series/38806/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-114516_DF81519D-F54D-99FF-095BE6C152EFE27C_df8f6b24-993a-4122-4b4dcfc6647bc7d6.png\nCategories: Family Fun\, Craft Classes & Workshops
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:ACPL Garden Series
+UID:38806@visitlaramie.org
+URL:https://www.visitlaramie.org/event/acpl-garden-series/38806/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260414
@@ -279,6 +279,15 @@ UID:38858@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-space-rock/38858/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+DESCRIPTION:Sip and Savor: Presentation: There’s Even More to Know about Laramie’s Brothels & Madams\nMore info: https://www.visitlaramie.org/event/sip-and-savor%3a-presentation%3a-there%e2%80%99s-even-more-to-know-about-laramie%e2%80%99s-brothels-%26-madams/38786/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WWHH-Event_4668D05D-08C9-DF6B-1BDBAA426905BEC6_466a8141-d0ef-6df8-532d9bba61c1ecbb.png\nCategories: History\, Community\, Wyoming 250
+GEO:41.310393;-105.594817
+LOCATION:Wyoming Women's History House
+SUMMARY:Sip and Savor: Presentation: There’s Even More to Know about Laramie’s Brothels & Madams
+UID:38786@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sip-and-savor%3a-presentation%3a-there%e2%80%99s-even-more-to-know-about-laramie%e2%80%99s-brothels-%26-madams/38786/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
@@ -286,15 +295,6 @@ LOCATION:102 S. 2nd St
 SUMMARY:Bingo
 UID:38870@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo/38870/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Much Ado About Nothing\nMore info: https://www.visitlaramie.org/event/much-ado-about-nothing/38844/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-110651_4819D292-CC35-DEF5-43F6853C80EFD27F_4875559a-ac0c-8280-4de95aa05e83e51f.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.312616;-105.570928
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:Much Ado About Nothing
-UID:38844@visitlaramie.org
-URL:https://www.visitlaramie.org/event/much-ado-about-nothing/38844/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
@@ -448,15 +448,6 @@ LOCATION:The Collective
 SUMMARY:Comedy That Cares - LIVE TAPING
 UID:38698@visitlaramie.org
 URL:https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DESCRIPTION:Downtown Urban Sketching\nMore info: https://www.visitlaramie.org/event/downtown-urban-sketching/38847/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_AC53B596-C820-4C4E-C0E7E4352027E51F_ac5de2dc-9de2-cacb-09767de09916cbc2.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Train Depot Park
-SUMMARY:Downtown Urban Sketching
-UID:38847@visitlaramie.org
-URL:https://www.visitlaramie.org/event/downtown-urban-sketching/38847/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260427
