@@ -153,15 +153,6 @@ UID:38867@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-science-of-sci-fi/38867/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DESCRIPTION:Community Clean-Up Day\nMore info: https://www.visitlaramie.org/event/community-clean-up-day/38883/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-31-134829_B656DFED-BC4F-D824-D6BC956E43613C50_b6883f33-f246-1512-85618a4230d2a825.png\nCategories: Community
-GEO:41.300408;-105.549268
-LOCATION:Laramie Recreation Center
-SUMMARY:Community Clean-Up Day
-UID:38883@visitlaramie.org
-URL:https://www.visitlaramie.org/event/community-clean-up-day/38883/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
 DESCRIPTION:National Bike Month!\nMore info: https://www.visitlaramie.org/event/national-bike-month!/38710/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-18-111120_736E7066-9272-B8C5-BD93EB72F297F08E_7370e5ab-b675-7535-297bb5bab767730d.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun\, Social Events
 GEO:41.310977;-105.595828
@@ -252,15 +243,6 @@ UID:38806@visitlaramie.org
 URL:https://www.visitlaramie.org/event/acpl-garden-series/38806/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260414
-DESCRIPTION:Cowboy Saloon Presents: Micro Wrestling - Big Little Brawlers\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-micro-wrestling-big-little-brawlers/38500/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/8x8-2025-Poster_LoRez_954B5F53-3749-42D3-A6F608AF5816C0AD_6e6dbf20-deba-49e5-abdbf4a3ca5a4d22.jpg\nCategories: Performing Arts & Culture
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: Micro Wrestling - Big Little Brawlers
-UID:38500@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-micro-wrestling-big-little-brawlers/38500/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
 DESCRIPTION:Liquid Sky: Space Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-space-rock/38858/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E616B7C7-0EDF-7DCB-6E29FFCC937DBFFC_e61d8fe0-d5db-5d98-1c3a84d71ba02477.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -306,6 +288,15 @@ UID:38811@visitlaramie.org
 URL:https://www.visitlaramie.org/event/print-making-with-jim-jereb-a-creative-aging-exhibition/38811/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:Liquid Sky: Funk\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-funk/38857/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E616B7C7-0EDF-7DCB-6E29FFCC937DBFFC_e61d8fe0-d5db-5d98-1c3a84d71ba02477.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: Funk
+UID:38857@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-funk/38857/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
 DESCRIPTION:Blue Marmot Open Studio Event\nMore info: https://www.visitlaramie.org/event/blue-marmot-open-studio-event/38720/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-121657_77722DE5-0591-080D-0D72359F7877492B_7775bbc3-c867-ec5c-1dcd184fd61c59bf.png\nCategories: Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -313,15 +304,6 @@ LOCATION:Laramie Plains Civic Center Conference Room
 SUMMARY:Blue Marmot Open Studio Event
 UID:38720@visitlaramie.org
 URL:https://www.visitlaramie.org/event/blue-marmot-open-studio-event/38720/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260414
-DESCRIPTION:Live Presentation: Wyoming Skys: Lyrid Meteor Show Prep\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skys%3a-lyrid-meteor-show-prep/38863/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_E71361F0-EE18-86D3-EF944D750B8B3B99_e7140742-054d-e9a6-73612bcac2216edf.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Wyoming Skys: Lyrid Meteor Show Prep
-UID:38863@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skys%3a-lyrid-meteor-show-prep/38863/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
@@ -387,6 +369,15 @@ UID:38868@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38868/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Bottomland Live at The Cowboy Saloon &#8211\; Graduation Weekend Kickoff\nMore info: https://www.visitlaramie.org/event/bottomland-live-at-the-cowboy-saloon-%26%238211%3b-graduation-weekend-kickoff/38601/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_A45E2AD1-566A-4F60-B112CEF8275AC827_48a43038-7656-49fa-b9da817274c245bd.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Bottomland Live at The Cowboy Saloon &#8211\; Graduation Weekend Kickoff
+UID:38601@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bottomland-live-at-the-cowboy-saloon-%26%238211%3b-graduation-weekend-kickoff/38601/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
 DESCRIPTION:The Women Next Door\, With a Touch of Burlesque\nMore info: https://www.visitlaramie.org/event/the-women-next-door-with-a-touch-of-burlesque/38770/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-05-114158_78FF2E13-932A-8BD8-74CEB26DE60082DF_7921ee19-cf67-89d7-21b4438b1e95c6b6.png\nCategories: Performing Arts & Culture
 GEO:41.312707;-105.595125
@@ -439,6 +430,15 @@ LOCATION:The Collective
 SUMMARY:Comedy That Cares - LIVE TAPING
 UID:38698@visitlaramie.org
 URL:https://www.visitlaramie.org/event/comedy-that-cares-live-taping/38698/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:National Bike to Work Day\nMore info: https://www.visitlaramie.org/event/national-bike-to-work-day/38704/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-17-164935_4BE9C544-C486-F903-236340E3F9574EEA_4c3a9e11-c6c0-dad1-4469728894ad07db.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun\, Social Events
+GEO:41.310977;-105.595828
+LOCATION:1st Street Plaza
+SUMMARY:National Bike to Work Day
+UID:38704@visitlaramie.org
+URL:https://www.visitlaramie.org/event/national-bike-to-work-day/38704/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260427
@@ -592,12 +592,12 @@ UID:38539@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-jarrod-morris-rocks-the-rendezvous/38539/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:Liquid Sky: Funk\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-funk/38857/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E616B7C7-0EDF-7DCB-6E29FFCC937DBFFC_e61d8fe0-d5db-5d98-1c3a84d71ba02477.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Funk
-UID:38857@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-funk/38857/
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:Community Clean-Up Day\nMore info: https://www.visitlaramie.org/event/community-clean-up-day/38883/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-31-134829_B656DFED-BC4F-D824-D6BC956E43613C50_b6883f33-f246-1512-85618a4230d2a825.png\nCategories: Community
+GEO:41.300408;-105.549268
+LOCATION:Laramie Recreation Center
+SUMMARY:Community Clean-Up Day
+UID:38883@visitlaramie.org
+URL:https://www.visitlaramie.org/event/community-clean-up-day/38883/
 END:VEVENT
 END:VCALENDAR
