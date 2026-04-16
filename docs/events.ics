@@ -20,6 +20,15 @@ UID:38733@visitlaramie.org
 URL:https://www.visitlaramie.org/event/begin-to-knit-103%3a-learn-to-knit-socks-on-dpns-march-%26-april-2026/38733/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Afternoon Tea & Tatanka @ Rebel Ranch\nMore info: https://www.visitlaramie.org/event/afternoon-tea-%26-tatanka-%40-rebel-ranch/38649/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-27-113029_07446310-DA48-3997-61A02BD112B6701E_08c914f9-fa87-9c88-62707cfdd0d7cf9e.png\nCategories: Concerts & Live Music\, History\, Outdoor Recreation
+GEO:41.188541;-106.085557
+LOCATION:Rebel Ranch
+SUMMARY:Afternoon Tea & Tatanka @ Rebel Ranch
+UID:38649@visitlaramie.org
+URL:https://www.visitlaramie.org/event/afternoon-tea-%26-tatanka-%40-rebel-ranch/38649/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260422
 DESCRIPTION:Sip and Savor: The Great Depression in Albany County\nMore info: https://www.visitlaramie.org/event/sip-and-savor%3a-the-great-depression-in-albany-county/38785/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WWHH-Event_4668D05D-08C9-DF6B-1BDBAA426905BEC6_466a8141-d0ef-6df8-532d9bba61c1ecbb.png\nCategories: History\, Community\, Wyoming 250
 GEO:41.310393;-105.594817
@@ -107,6 +116,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Kolby Cooper @ The cowboy Saloon & Dance Hall
 UID:38731@visitlaramie.org
 URL:https://www.visitlaramie.org/event/kolby-cooper-%40-the-cowboy-saloon-%26-dance-hall/38731/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Cowboy Saloon Presents: Tris Munsick & The Innocents May 16th 2026\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-tris-munsick-%26-the-innocents-may-16th-2026/38640/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-8_C18392E2-5C7A-4DC2-A02BF7C5A2ACC36D_7dd9f83e-3810-44fb-be0742e2281aff72.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: Tris Munsick & The Innocents May 16th 2026
+UID:38640@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-tris-munsick-%26-the-innocents-may-16th-2026/38640/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260203
