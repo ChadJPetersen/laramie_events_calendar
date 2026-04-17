@@ -162,6 +162,15 @@ UID:38815@visitlaramie.org
 URL:https://www.visitlaramie.org/event/presentation%3a-100th-anniversary-of-the-beacon-on-top-of-pilot-hill-outside-laramie/38815/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/38893/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/april_2A8BE408-0414-8E5D-98ACB322F35F35BA_2a8cc211-f800-a84d-c7ad3e8a35c8e946.png\nCategories: Community\, Social Events
+GEO:41.311928;-105.600431
+LOCATION:Lincoln Community Center
+SUMMARY:Ecstatic Dance
+UID:38893@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ecstatic-dance/38893/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
 DESCRIPTION:Live Presentation: Science of Sci-Fi\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-science-of-sci-fi/38867/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121345_E763C027-B7FE-484F-F2A64A8F94C14F27_e76427ec-e14f-c811-1146d21cfec69523.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -196,6 +205,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents : Martin & Kelly Live &#8211\; April 24th\, 2026 with Special Guest Thane Zickefoose
 UID:38638@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents-%3a-martin-%26-kelly-live-%26%238211%3b-april-24th-2026-with-special-guest-thane-zickefoose/38638/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:The Patti Fiasco with 10 Cent Stranger\nMore info: https://www.visitlaramie.org/event/the-patti-fiasco-with-10-cent-stranger/38898/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Patti_492C42A8-F201-70E3-2D28544421630BD0_49303009-fa91-b6f0-ce816323135942e5.jpg\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:The Patti Fiasco with 10 Cent Stranger
+UID:38898@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-patti-fiasco-with-10-cent-stranger/38898/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
@@ -315,6 +333,15 @@ UID:38857@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-funk/38857/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Fossil Fish Festival\nMore info: https://www.visitlaramie.org/event/fossil-fish-festival/38896/\nVenue: University of Wyoming Geological Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-geological-museum/125/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Fossil-Fish-Festival-Instagram-Post-45-_BEBCFC86-A8EA-E2EE-46C073F48767EF52_bec89744-a453-c854-bde0fab7ad019a66.png\nCategories: University of Wyoming\, Education\, Family Fun
+GEO:41.315103;-105.582646
+LOCATION:University of Wyoming Geological Museum
+SUMMARY:Fossil Fish Festival
+UID:38896@visitlaramie.org
+URL:https://www.visitlaramie.org/event/fossil-fish-festival/38896/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
 DESCRIPTION:Blue Marmot Open Studio Event\nMore info: https://www.visitlaramie.org/event/blue-marmot-open-studio-event/38720/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-121657_77722DE5-0591-080D-0D72359F7877492B_7775bbc3-c867-ec5c-1dcd184fd61c59bf.png\nCategories: Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -340,6 +367,15 @@ LOCATION:The Collective
 SUMMARY:Clearing the Channel with Meghan Lucas (in-person or virtual)
 UID:38440@visitlaramie.org
 URL:https://www.visitlaramie.org/event/clearing-the-channel-with-meghan-lucas-(in-person-or-virtual)/38440/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DESCRIPTION:WRITING ON THE STORY OF PEACE\nMore info: https://www.visitlaramie.org/event/writing-on-the-story-of-peace/38897/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_CB15F9A2-E6E3-4428-E31157ABCC978254_cb1d206b-b338-3dd3-9e53d64a6d75d5d4.png\nCategories: University of Wyoming
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:WRITING ON THE STORY OF PEACE
+UID:38897@visitlaramie.org
+URL:https://www.visitlaramie.org/event/writing-on-the-story-of-peace/38897/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
