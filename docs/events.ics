@@ -11,15 +11,6 @@ UID:38850@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cry-it-out-by-molly-smith-metzler/38850/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260422
-DESCRIPTION:Sip and Savor: The Great Depression in Albany County\nMore info: https://www.visitlaramie.org/event/sip-and-savor%3a-the-great-depression-in-albany-county/38785/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WWHH-Event_4668D05D-08C9-DF6B-1BDBAA426905BEC6_466a8141-d0ef-6df8-532d9bba61c1ecbb.png\nCategories: History\, Community\, Wyoming 250
-GEO:41.310393;-105.594817
-LOCATION:Wyoming Women's History House
-SUMMARY:Sip and Savor: The Great Depression in Albany County
-UID:38785@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sip-and-savor%3a-the-great-depression-in-albany-county/38785/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
 DESCRIPTION:The Patti Fiasco 10 Cent Stranger\nMore info: https://www.visitlaramie.org/event/the-patti-fiasco-10-cent-stranger/38817/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-120237_AE0877A3-C7E2-7AB6-171CC5DCAB7734B2_ae1a54a8-982c-83f7-416616d0d8c912c7.png\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -252,6 +243,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Wyoming Skies: Aurora: Dancing Lights
 UID:38941@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-aurora%3a-dancing-lights/38941/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Comedy That Cares Climb Wyoming Mom's Unhinged\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-climb-wyoming-moms-unhinged/38908/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Comedy-That-Cares-Laramie-front-flyer-_400C48FB-98D5-0FBA-0AB3E307739CB3EB_403096e4-a3ad-31e0-92febf0737b7dff6.png\nCategories: Performing Arts & Culture
+GEO:41.312875;-105.595100
+LOCATION:The Collective
+SUMMARY:Comedy That Cares Climb Wyoming Mom's Unhinged
+UID:38908@visitlaramie.org
+URL:https://www.visitlaramie.org/event/comedy-that-cares-climb-wyoming-moms-unhinged/38908/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260424
@@ -521,15 +521,6 @@ UID:38940@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-astronomical-women/38940/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260422
-DESCRIPTION:Denim Day\nMore info: https://www.visitlaramie.org/event/denim-day/38914/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-115944_EBE956C5-9165-9693-FB3A84231EFB13CE_ebea20f9-e1a9-0bad-290d562ed76e291a.png\nCategories: Community\, University of Wyoming\, Volunteering
-GEO:41.311367;-105.591101
-LOCATION:City Wide
-SUMMARY:Denim Day
-UID:38914@visitlaramie.org
-URL:https://www.visitlaramie.org/event/denim-day/38914/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Tristan Duke & Polar Photography from the Collection\nMore info: https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-132926_8239836F-F287-D0FA-C292489236A0048E_82d5882f-c6aa-2cf6-e350d2a91d5b5653.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
 GEO:41.314165;-105.568122
@@ -653,15 +644,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Space Rock
 UID:38930@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-space-rock/38930/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260422
-DESCRIPTION:Laramie Audubon Presentation: The Mysterious and Vital World of Microfungi\nMore info: https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-the-mysterious-and-vital-world-of-microfungi/38904/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_1ADFE56A-E2B8-6648-52AE5787493C59B3_1af1f115-b751-7db9-ab3e745b54496eb0.jpg\nCategories: Education
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church
-SUMMARY:Laramie Audubon Presentation: The Mysterious and Vital World of Microfungi
-UID:38904@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-the-mysterious-and-vital-world-of-microfungi/38904/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
