@@ -38,14 +38,6 @@ UID:38817@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-patti-fiasco-10-cent-stranger/38817/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DESCRIPTION:Laramie River Rendevous\nMore info: https://www.visitlaramie.org/event/laramie-river-rendevous/38895/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/651832047_122158408214635827_7751769819424710462_n_7D713CC2-E59D-6582-72531D4661896425_7d71c930-9506-5259-5d078268eb6d1619.jpg\nCategories: Annual Events & Festivals
-LOCATION:Hansen Arena
-SUMMARY:Laramie River Rendevous
-UID:38895@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-river-rendevous/38895/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 DESCRIPTION:Coffee & Canvas @ the Vee Bar\nMore info: https://www.visitlaramie.org/event/coffee-%26-canvas-%40-the-vee-bar/38687/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/02.11.26-Coffee-Canvas-Event_A85AB294-B3B4-0789-A35CD395CDDF107D_a882fd01-a24c-cb72-f2b2de7f249e7f00.png\nCategories: Community\, Performing Arts & Culture\, Craft Classes & Workshops
 GEO:41.295961;-106.012811
@@ -151,14 +143,6 @@ LOCATION:The Collective
 SUMMARY:Belly Dance: Level 1 Facilitated by Aylin Carey
 UID:38341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Laramie Interfaith Sue Wedel Memorial Walk\, Run\, Wheel 5K\nMore info: https://www.visitlaramie.org/event/laramie-interfaith-sue-wedel-memorial-walk-run-wheel-5k/38841/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-24-101713_465B02EA-EC64-E951-420DA6D66BB4C70F_4684704f-b0bb-8942-25a0af64c9a80161.png\nCategories: Community
-GEO:41.319785;-105.586847
-SUMMARY:Laramie Interfaith Sue Wedel Memorial Walk\, Run\, Wheel 5K
-UID:38841@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-interfaith-sue-wedel-memorial-walk-run-wheel-5k/38841/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
@@ -538,13 +522,13 @@ UID:38885@visitlaramie.org
 URL:https://www.visitlaramie.org/event/discover-laramie/38885/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Adult Crafternoon:DYI Book Totes\nMore info: https://www.visitlaramie.org/event/adult-crafternoon%3adyi-book-totes/38917/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-122141_ECB7F29E-E11D-4DCC-87CD47385986A6A6_ecbf4cbb-94ca-0668-0e0384069e765daa.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Adult Crafternoon:DYI Book Totes
-UID:38917@visitlaramie.org
-URL:https://www.visitlaramie.org/event/adult-crafternoon%3adyi-book-totes/38917/
+DTSTART;VALUE=DATE:20260525
+DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-26-120006_1159C72E-D02A-B43A-A39595EA0C7EF8E0_115d3ff4-f395-6393-5c359061c420e51a.png\nCategories: Annual Events & Festivals
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Cowboy Yarn Crawl
+UID:38735@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260525
@@ -554,15 +538,6 @@ LOCATION:Fast Haus Ski & Bike
 SUMMARY:Free Bike Shuttles to Pilot Hill Summit!
 UID:38709@visitlaramie.org
 URL:https://www.visitlaramie.org/event/free-bike-shuttles-to-pilot-hill-summit!/38709/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-26-120006_1159C72E-D02A-B43A-A39595EA0C7EF8E0_115d3ff4-f395-6393-5c359061c420e51a.png\nCategories: Annual Events & Festivals
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Cowboy Yarn Crawl
-UID:38735@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
