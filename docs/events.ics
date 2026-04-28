@@ -226,6 +226,15 @@ UID:38605@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bryan-bielanski-live-%40-the-great-untamed/38605/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:Book Signing for Pam Galbreath\nMore info: https://www.visitlaramie.org/event/book-signing-for-pam-galbreath/38956/\nVenue: 2nd Story Books\nVenue Info: https://www.visitlaramie.org/listing/2nd-story-books/410/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8684_BB3FF3C0-BF3C-8E19-A7CAECB669E70A6E_bb4f68c1-bacf-b27f-8ad240066218ef77.jpg\nCategories: History\, Community
+GEO:41.312280;-105.595636
+LOCATION:2nd Story Books
+SUMMARY:Book Signing for Pam Galbreath
+UID:38956@visitlaramie.org
+URL:https://www.visitlaramie.org/event/book-signing-for-pam-galbreath/38956/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -287,15 +296,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes
 UID:38935@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-cosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes/38935/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260323
-DESCRIPTION:Print Making with Jim Jereb\, a creative aging exhibition\nMore info: https://www.visitlaramie.org/event/print-making-with-jim-jereb-a-creative-aging-exhibition/38811/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-123842_E159E357-9501-AE3D-D19079F0D4EF6062_e2136afe-aee9-7850-710a4aaab722891d.png\nCategories: Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center - Gorgon Gallery RM 332
-SUMMARY:Print Making with Jim Jereb\, a creative aging exhibition
-UID:38811@visitlaramie.org
-URL:https://www.visitlaramie.org/event/print-making-with-jim-jereb-a-creative-aging-exhibition/38811/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
@@ -370,13 +370,12 @@ UID:38900@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nightmare-architecture/38900/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DESCRIPTION:Bottomland Live at The Cowboy Saloon &#8211\; Graduation Weekend Kickoff\nMore info: https://www.visitlaramie.org/event/bottomland-live-at-the-cowboy-saloon-%26%238211%3b-graduation-weekend-kickoff/38601/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_A45E2AD1-566A-4F60-B112CEF8275AC827_48a43038-7656-49fa-b9da817274c245bd.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Bottomland Live at The Cowboy Saloon &#8211\; Graduation Weekend Kickoff
-UID:38601@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bottomland-live-at-the-cowboy-saloon-%26%238211%3b-graduation-weekend-kickoff/38601/
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:2026 Laramie Skate Fest\nMore info: https://www.visitlaramie.org/event/2026-laramie-skate-fest/38959/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/skate_286E4040-E639-5C67-BFD5CF054ED2A0D0_28703d4f-e74b-e0ea-6d0bcccc957a28ba.jpg\nCategories: Social Events
+LOCATION:LaBonte Skatepark
+SUMMARY:2026 Laramie Skate Fest
+UID:38959@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2026-laramie-skate-fest/38959/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260502
@@ -404,6 +403,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Astrobiology
 UID:38926@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-astrobiology/38926/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:Bottomland Live at The Cowboy Saloon &#8211\; Graduation Weekend Kickoff\nMore info: https://www.visitlaramie.org/event/bottomland-live-at-the-cowboy-saloon-%26%238211%3b-graduation-weekend-kickoff/38601/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image_A45E2AD1-566A-4F60-B112CEF8275AC827_48a43038-7656-49fa-b9da817274c245bd.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Bottomland Live at The Cowboy Saloon &#8211\; Graduation Weekend Kickoff
+UID:38601@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bottomland-live-at-the-cowboy-saloon-%26%238211%3b-graduation-weekend-kickoff/38601/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
@@ -460,12 +468,13 @@ UID:38704@visitlaramie.org
 URL:https://www.visitlaramie.org/event/national-bike-to-work-day/38704/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260427
-DESCRIPTION:Bryan Bielanski Live @ Laramie Soup Kitchen\nMore info: https://www.visitlaramie.org/event/bryan-bielanski-live-%40-laramie-soup-kitchen/37727/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-112537_2E7DADE6-096E-1A30-144529BE93BD602C_2ebbf139-e9a8-dac5-01f7079954d577c2.png\nCategories: Concerts & Live Music
-GEO:41.312330;-105.593102
-SUMMARY:Bryan Bielanski Live @ Laramie Soup Kitchen
-UID:37727@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bryan-bielanski-live-%40-laramie-soup-kitchen/37727/
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/38931/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_F1A05544-A2FD-40E5-6E8B5F49432DD50B_f1a80b8a-9089-26ab-247c521dae8667c2.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: Metal
+UID:38931@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/38931/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260502
@@ -486,15 +495,6 @@ UID:38639@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-blue-collar-ball-may-2nd-2026/38639/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DESCRIPTION:Liquid Sky: Metal\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-metal/38931/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_F1A05544-A2FD-40E5-6E8B5F49432DD50B_f1a80b8a-9089-26ab-247c521dae8667c2.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Metal
-UID:38931@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/38931/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
 DESCRIPTION:Presentation: Laramie’s Edward and Jane Ivinson’s Family\nMore info: https://www.visitlaramie.org/event/presentation%3a-laramie%e2%80%99s-edward-and-jane-ivinson%e2%80%99s-family/38814/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-15-100745_0ED9103F-AB93-EE3B-B9EB78AC3B7B002D_0eeb45ff-a263-be9c-d972f56757752066.png\nCategories: History\, Community\, Wyoming 250
 GEO:41.312068;-105.589055
@@ -502,6 +502,15 @@ LOCATION:Alice Hardie Stevens Center
 SUMMARY:Presentation: Laramie’s Edward and Jane Ivinson’s Family
 UID:38814@visitlaramie.org
 URL:https://www.visitlaramie.org/event/presentation%3a-laramie%e2%80%99s-edward-and-jane-ivinson%e2%80%99s-family/38814/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Art Shed Reopening\nMore info: https://www.visitlaramie.org/event/art-shed-reopening/38957/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Art-Shed-Opening-Full-Size_C448B386-AA7E-5B28-C5777CFB74F045A8_c44cccd2-ca1c-64fe-5002ddb7b0f83b9f.png\nCategories: Community
+GEO:41.311367;-105.591101
+LOCATION:Optimist Park
+SUMMARY:Art Shed Reopening
+UID:38957@visitlaramie.org
+URL:https://www.visitlaramie.org/event/art-shed-reopening/38957/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260525
