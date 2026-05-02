@@ -65,13 +65,13 @@ UID:38687@visitlaramie.org
 URL:https://www.visitlaramie.org/event/coffee-%26-canvas-%40-the-vee-bar/38687/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Liquid Sky: Pop\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-pop/38927/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_F1A05544-A2FD-40E5-6E8B5F49432DD50B_f1a80b8a-9089-26ab-247c521dae8667c2.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Pop
-UID:38927@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-pop/38927/
+DTSTART;VALUE=DATE:20260507
+DESCRIPTION:Wyoming Public Media's Laramie Black Tooth Pint Night\nMore info: https://www.visitlaramie.org/event/wyoming-public-medias-laramie-black-tooth-pint-night/38953/\nVenue: Black Tooth Brewing Company - Laramie\nVenue Info: https://www.visitlaramie.org/listing/black-tooth-brewing-company-laramie/1865/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Pint-Night-BTB-1-_557AECA6-E634-A6D2-2CD38489FFDF9AFC_558aa34f-0d48-43b7-a60d6b0ae3a6a2cc.png\nCategories: Social Events
+GEO:41.310983;-105.595782
+LOCATION:Black Tooth Brewing Company - Laramie
+SUMMARY:Wyoming Public Media's Laramie Black Tooth Pint Night
+UID:38953@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-public-medias-laramie-black-tooth-pint-night/38953/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
@@ -90,15 +90,6 @@ LOCATION:Black Tooth Brewing Company - Laramie
 SUMMARY:WPM Pint Night @ The Black Tooth Brewing Co.
 UID:38920@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wpm-pint-night-%40-the-black-tooth-brewing-co/38920/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-DESCRIPTION:Wyoming Public Media's Laramie Black Tooth Pint Night\nMore info: https://www.visitlaramie.org/event/wyoming-public-medias-laramie-black-tooth-pint-night/38953/\nVenue: Black Tooth Brewing Company - Laramie\nVenue Info: https://www.visitlaramie.org/listing/black-tooth-brewing-company-laramie/1865/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Pint-Night-BTB-1-_557AECA6-E634-A6D2-2CD38489FFDF9AFC_558aa34f-0d48-43b7-a60d6b0ae3a6a2cc.png\nCategories: Social Events
-GEO:41.310983;-105.595782
-LOCATION:Black Tooth Brewing Company - Laramie
-SUMMARY:Wyoming Public Media's Laramie Black Tooth Pint Night
-UID:38953@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-public-medias-laramie-black-tooth-pint-night/38953/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260122
@@ -403,15 +394,6 @@ LOCATION:Lincoln Community Center
 SUMMARY:Cinco de Mayo Celebration and Parade
 UID:38952@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cinco-de-mayo-celebration-and-parade/38952/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:Live Presentation: Astrobiology\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-astrobiology/38926/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-143643_F18A0BB8-AC61-506D-6D3F5E4A21058785_f1945a87-d247-eb65-066e623b020e78dc.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Astrobiology
-UID:38926@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-astrobiology/38926/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
