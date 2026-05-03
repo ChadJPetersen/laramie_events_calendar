@@ -181,15 +181,6 @@ UID:38944@visitlaramie.org
 URL:https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/38944/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Laramie Zine Fest 2026 & Art Market\nMore info: https://www.visitlaramie.org/event/laramie-zine-fest-2026-%26-art-market/38911/\nVenue: Gym Event Spaces at Laramie Plains Civic Center\nVenue Info: https://www.visitlaramie.org/listing/gym-event-spaces-at-laramie-plains-civic-center/647/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-113348_EB03F20E-C0C7-B5D3-4E4039554FFB4780_eb1df498-a6ea-ac35-f2fe37e8d83515d5.png\nCategories: Community\, University of Wyoming\, Education
-GEO:41.309522;-105.587753
-LOCATION:Gym Event Spaces at Laramie Plains Civic Center
-SUMMARY:Laramie Zine Fest 2026 & Art Market
-UID:38911@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-zine-fest-2026-%26-art-market/38911/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
 DESCRIPTION:Full-Dome Film: Dark Matter Mystery\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-matter-mystery/38937/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -244,15 +235,6 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:ACPL Garden Series\nMore info: https://www.visitlaramie.org/event/acpl-garden-series/38806/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-114516_DF81519D-F54D-99FF-095BE6C152EFE27C_df8f6b24-993a-4122-4b4dcfc6647bc7d6.png\nCategories: Family Fun\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:ACPL Garden Series
-UID:38806@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acpl-garden-series/38806/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
 DESCRIPTION:Andy Warhol: 15 Prints\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-29-123207_73195483-C4C3-A2C5-C50EDBCD248217CA_731a2616-945a-43d2-36e5c300603c4a67.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -260,6 +242,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: 15 Prints
 UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:ACPL Garden Series\nMore info: https://www.visitlaramie.org/event/acpl-garden-series/38806/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-114516_DF81519D-F54D-99FF-095BE6C152EFE27C_df8f6b24-993a-4122-4b4dcfc6647bc7d6.png\nCategories: Family Fun\, Craft Classes & Workshops
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:ACPL Garden Series
+UID:38806@visitlaramie.org
+URL:https://www.visitlaramie.org/event/acpl-garden-series/38806/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260526
@@ -280,15 +271,6 @@ UID:38786@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sip-and-savor%3a-presentation%3a-there%e2%80%99s-even-more-to-know-about-laramie%e2%80%99s-brothels-%26-madams/38786/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Full-Dome Film: Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-cosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes/38935/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-145218_F21F02FA-0A97-53A0-889E01340B625B3F_f2203fc7-a05a-837c-289d54008c7e68e3.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes
-UID:38935@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-cosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes/38935/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
@@ -305,15 +287,6 @@ LOCATION:Laramie Plains Civic Center Conference Room
 SUMMARY:Blue Marmot Open Studio Event
 UID:38720@visitlaramie.org
 URL:https://www.visitlaramie.org/event/blue-marmot-open-studio-event/38720/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Full-Dome Film: Back to the Moon for Good\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-back-to-the-moon-for-good/38928/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-144239_F1C4A893-9E60-7BCE-AC0861181FBDEEA5_f1c6a871-db04-6fcd-08b99c508076c5e3.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Back to the Moon for Good
-UID:38928@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-back-to-the-moon-for-good/38928/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
@@ -343,15 +316,6 @@ UID:38875@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Urban Sketching on Campus\nMore info: https://www.visitlaramie.org/event/urban-sketching-on-campus/38849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_AC89D0C1-EA79-042F-A1E2B56B35F07DF4_ac94b193-fdcc-33f6-c4bb0379f562acaa.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:UW Campus
-SUMMARY:Urban Sketching on Campus
-UID:38849@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-on-campus/38849/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 DESCRIPTION:Liquid Sky: Retro Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/38933/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_F1A05544-A2FD-40E5-6E8B5F49432DD50B_f1a80b8a-9089-26ab-247c521dae8667c2.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -359,15 +323,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Retro Rock
 UID:38933@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/38933/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DESCRIPTION:Two FREE Meditation Classes in Laramie This Spring\nMore info: https://www.visitlaramie.org/event/two-free-meditation-classes-in-laramie-this-spring/38660/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Laramie_Meetup_D9B1FF53-0271-3223-495BC2A347894521_d9bf0532-9884-6fce-d931189c66757882.png\nCategories: Community
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Two FREE Meditation Classes in Laramie This Spring
-UID:38660@visitlaramie.org
-URL:https://www.visitlaramie.org/event/two-free-meditation-classes-in-laramie-this-spring/38660/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260519
@@ -385,15 +340,6 @@ LOCATION:LaBonte Skatepark
 SUMMARY:2026 Laramie Skate Fest
 UID:38959@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-laramie-skate-fest/38959/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Cinco de Mayo Celebration and Parade\nMore info: https://www.visitlaramie.org/event/cinco-de-mayo-celebration-and-parade/38952/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-23-122804_54710808-C209-B166-87F382B0D0F8386F_54ac76be-0882-4b42-c88403393f51aeb4.png\nCategories: Community\, University of Wyoming\, Family Fun\, Craft Classes & Workshops\, Wyoming 250
-GEO:41.311928;-105.600431
-LOCATION:Lincoln Community Center
-SUMMARY:Cinco de Mayo Celebration and Parade
-UID:38952@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cinco-de-mayo-celebration-and-parade/38952/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
@@ -475,24 +421,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Metal
 UID:38931@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/38931/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Celebrate Children's Day Japan\nMore info: https://www.visitlaramie.org/event/celebrate-childrens-day-japan/38905/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-74-_BEAFB4AD-C1C2-EF59-F74A9362CD40FFF9_beb02e86-bdeb-8d6e-e2edde77eeb195d4.png\nCategories: Family Fun
-GEO:41.308353;-105.596400
-LOCATION:Historic Laramie Union Pacific Train Depot
-SUMMARY:Celebrate Children's Day Japan
-UID:38905@visitlaramie.org
-URL:https://www.visitlaramie.org/event/celebrate-childrens-day-japan/38905/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Cowboy Saloon Presents: Blue Collar Ball May 2nd 2026\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-blue-collar-ball-may-2nd-2026/38639/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-7_8F7FEB5F-A256-4A08-95C6C7DD5FD76230_4491f612-0a0d-492d-99e6e5b0b089d4fb.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: Blue Collar Ball May 2nd 2026
-UID:38639@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-blue-collar-ball-may-2nd-2026/38639/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
@@ -592,14 +520,5 @@ LOCATION:Alice Hardie Stevens Center
 SUMMARY:Tales From Wyoming
 UID:38955@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tales-from-wyoming/38955/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DESCRIPTION:Liquid Sky: Beatles\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-beatles/38929/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_F1A05544-A2FD-40E5-6E8B5F49432DD50B_f1a80b8a-9089-26ab-247c521dae8667c2.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Beatles
-UID:38929@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-beatles/38929/
 END:VEVENT
 END:VCALENDAR
