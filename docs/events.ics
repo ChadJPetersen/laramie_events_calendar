@@ -244,15 +244,6 @@ UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260322
-DESCRIPTION:ACPL Garden Series\nMore info: https://www.visitlaramie.org/event/acpl-garden-series/38806/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-12-114516_DF81519D-F54D-99FF-095BE6C152EFE27C_df8f6b24-993a-4122-4b4dcfc6647bc7d6.png\nCategories: Family Fun\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:ACPL Garden Series
-UID:38806@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acpl-garden-series/38806/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260526
 DESCRIPTION:Live Presentation: Wyoming Skies: Blue Micromoon\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-blue-micromoon/38942/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_F2DFECB6-B7FE-EAF8-EE2CF79A14B6CB7E_f2e586b9-9433-7a64-f0c4637ecc53f048.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -367,15 +358,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Boot Night at The Cowboy Saloon
 UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DESCRIPTION:ACPL Garden Series\nMore info: https://www.visitlaramie.org/event/acpl-garden-series/38919/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-123044_ED070EC5-0853-9FA6-1C1EB380AAB04038_ed08ae88-0f54-e799-f8ac312c66ff6b15.png\nCategories: Family Fun\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:ACPL Garden Series
-UID:38919@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acpl-garden-series/38919/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
