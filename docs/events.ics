@@ -29,6 +29,15 @@ UID:38707@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ritual-mountain-bike-film-tour/38707/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Albany County Conservation Expo\nMore info: https://www.visitlaramie.org/event/albany-county-conservation-expo/38960/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Square-Ad-2026_3DABCA5D-D361-E374-2F34EF26F47D8CF1_3dcd2f8e-e5d3-e257-64ce494ee1d0559c.jpg\nCategories: Community\, Education\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.305775;-105.551024
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Albany County Conservation Expo
+UID:38960@visitlaramie.org
+URL:https://www.visitlaramie.org/event/albany-county-conservation-expo/38960/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Liquid Sky:Synthwave\nMore info: https://www.visitlaramie.org/event/liquid-sky%3asynthwave/38934/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_F1A05544-A2FD-40E5-6E8B5F49432DD50B_f1a80b8a-9089-26ab-247c521dae8667c2.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -136,13 +145,13 @@ UID:38341@visitlaramie.org
 URL:https://www.visitlaramie.org/event/belly-dance%3a-level-1-facilitated-by-aylin-carey/38341/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DESCRIPTION:Full-Dome Film: Dark Biosphere\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38939/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_E77917A4-CB39-B17B-16C9D3AA217478DF_e779b311-e819-ee05-746aa775addbd94a.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Dark Biosphere
-UID:38939@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38939/
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Urban Sketching @ Labonte Park 11AM-1PM\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-labonte-park-11am-1pm/38965/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_B949BDB5-F047-2B67-3D6E802414F8411D_b94f8a60-a2f6-9671-10cff6129f02c60d.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Labonte Park
+SUMMARY:Urban Sketching @ Labonte Park 11AM-1PM
+UID:38965@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-%40-labonte-park-11am-1pm/38965/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
@@ -152,6 +161,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky:Dark Side of the Moon/Pink Floyd
 UID:38932@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3adark-side-of-the-moon-pink-floyd/38932/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:Full-Dome Film: Dark Biosphere\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38939/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_E77917A4-CB39-B17B-16C9D3AA217478DF_e779b311-e819-ee05-746aa775addbd94a.png\nCategories: Community\, University of Wyoming
+GEO:41.323653;-105.583039
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Dark Biosphere
+UID:38939@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38939/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
@@ -188,6 +206,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Dark Matter Mystery
 UID:38937@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-matter-mystery/38937/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DESCRIPTION:Tunes for Dinosaurs\nMore info: https://www.visitlaramie.org/event/tunes-for-dinosaurs/38963/\nVenue: University of Wyoming Geological Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-geological-museum/125/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Tiny-Museum-Series-presents_B7B50C94-AC9E-F0B3-E59F64761DD9CD81_b7be2313-c7e9-f487-628602b37b116711.png\nCategories: Concerts & Live Music\, University of Wyoming\, Social Events
+GEO:41.315103;-105.582646
+LOCATION:University of Wyoming Geological Museum
+SUMMARY:Tunes for Dinosaurs
+UID:38963@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tunes-for-dinosaurs/38963/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260508
@@ -307,6 +334,15 @@ UID:38875@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:Urban Sketching Downtown 11AM-1PM\nMore info: https://www.visitlaramie.org/event/urban-sketching-downtown-11am-1pm/38966/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_B9668BE5-91FE-5D23-6592771A42D519F1_b96d3417-a932-cee4-32ef1d0866ba279d.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Train Depot Park
+SUMMARY:Urban Sketching Downtown 11AM-1PM
+UID:38966@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-downtown-11am-1pm/38966/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 DESCRIPTION:Liquid Sky: Retro Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/38933/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_F1A05544-A2FD-40E5-6E8B5F49432DD50B_f1a80b8a-9089-26ab-247c521dae8667c2.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -387,13 +423,13 @@ UID:38704@visitlaramie.org
 URL:https://www.visitlaramie.org/event/national-bike-to-work-day/38704/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DESCRIPTION:Full-Dome Film: One Sky\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38938/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121401_7C61E50A-BAEE-4990-449B78D8D40E768E_7c645528-f35b-52c8-903d0064a179f5b1.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: One Sky
-UID:38938@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38938/
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Downtown Urban Sketching 11AM-1PM\nMore info: https://www.visitlaramie.org/event/downtown-urban-sketching-11am-1pm/38964/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_B93262D5-E245-DBF3-7F301520ADE0F599_b939339f-c642-17d7-3b930f2f7b6e3a58.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:UW Campus Classroom Building
+SUMMARY:Downtown Urban Sketching 11AM-1PM
+UID:38964@visitlaramie.org
+URL:https://www.visitlaramie.org/event/downtown-urban-sketching-11am-1pm/38964/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
@@ -403,6 +439,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Metal
 UID:38931@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/38931/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:Full-Dome Film: One Sky\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38938/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121401_7C61E50A-BAEE-4990-449B78D8D40E768E_7c645528-f35b-52c8-903d0064a179f5b1.png\nCategories: Community\, University of Wyoming
+GEO:41.323653;-105.583039
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: One Sky
+UID:38938@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38938/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
@@ -466,6 +511,15 @@ LOCATION:Fast Haus Ski & Bike
 SUMMARY:Free Bike Shuttles to Pilot Hill Summit!
 UID:38709@visitlaramie.org
 URL:https://www.visitlaramie.org/event/free-bike-shuttles-to-pilot-hill-summit!/38709/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:Guided Historic Tour of Laramie's Masonic Lodge\nMore info: https://www.visitlaramie.org/event/guided-historic-tour-of-laramies-masonic-lodge/38962/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Masonic-Temple-Tour-_4EEF7505-9B06-CB49-FCB0D879244BD6A0_4f0a23d9-098f-6c28-ac826c00850cdfaf.png\nCategories: History
+GEO:41.312201;-105.591819
+LOCATION:Laramie's Masonic Lodge
+SUMMARY:Guided Historic Tour of Laramie's Masonic Lodge
+UID:38962@visitlaramie.org
+URL:https://www.visitlaramie.org/event/guided-historic-tour-of-laramies-masonic-lodge/38962/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260509
