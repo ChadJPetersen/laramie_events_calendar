@@ -65,15 +65,6 @@ UID:38817@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-patti-fiasco-10-cent-stranger/38817/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-DESCRIPTION:Wyoming Public Media's Laramie Black Tooth Pint Night\nMore info: https://www.visitlaramie.org/event/wyoming-public-medias-laramie-black-tooth-pint-night/38953/\nVenue: Black Tooth Brewing Company - Laramie\nVenue Info: https://www.visitlaramie.org/listing/black-tooth-brewing-company-laramie/1865/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Pint-Night-BTB-1-_557AECA6-E634-A6D2-2CD38489FFDF9AFC_558aa34f-0d48-43b7-a60d6b0ae3a6a2cc.png\nCategories: Social Events
-GEO:41.310983;-105.595782
-LOCATION:Black Tooth Brewing Company - Laramie
-SUMMARY:Wyoming Public Media's Laramie Black Tooth Pint Night
-UID:38953@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-public-medias-laramie-black-tooth-pint-night/38953/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
 DESCRIPTION:Open Jam Night at the Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Open-Jams-Poster-OFF-CAMPUS-NO-QR_6ADB1FA1-F2DF-AC3F-37D8170BA0BFFE9A_6aec4520-d398-8ef9-48eb157459b0f6a4.png\nCategories: Concerts & Live Music
 GEO:41.309522;-105.587753
@@ -81,15 +72,6 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Open Jam Night at the Gryphon Theatre
 UID:38654@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-DESCRIPTION:WPM Pint Night @ The Black Tooth Brewing Co.\nMore info: https://www.visitlaramie.org/event/wpm-pint-night-%40-the-black-tooth-brewing-co/38920/\nVenue: Black Tooth Brewing Company - Laramie\nVenue Info: https://www.visitlaramie.org/listing/black-tooth-brewing-company-laramie/1865/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-123207_ED204087-A0F1-5CD6-11BA8A080306CEE6_ed3b28b6-918f-e2f4-f404d4c27b1dadb6.png\nCategories: Community\, Social Events
-GEO:41.310983;-105.595782
-LOCATION:Black Tooth Brewing Company - Laramie
-SUMMARY:WPM Pint Night @ The Black Tooth Brewing Co.
-UID:38920@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wpm-pint-night-%40-the-black-tooth-brewing-co/38920/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260122
@@ -369,15 +351,6 @@ UID:38686@visitlaramie.org
 URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260115
-DESCRIPTION:Boot Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_70AAE39C-4641-416E-B5AB1E8747F100BC_c1e14bdb-b5f1-4ddc-9b38fc57fde60d89.jpg\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Boot Night at The Cowboy Saloon
-UID:38588@visitlaramie.org
-URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
 DESCRIPTION:Live Presentation: Wyoming Skies: Earthshine in the Crescent Moon\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-earthshine-in-the-crescent-moon/38945/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_F333C60B-CE58-19C0-A56356591F008BDA_f335a302-b641-d9a7-7cc2d7b32e46b2d1.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -385,6 +358,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Wyoming Skies: Earthshine in the Crescent Moon
 UID:38945@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-earthshine-in-the-crescent-moon/38945/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Boot Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_70AAE39C-4641-416E-B5AB1E8747F100BC_c1e14bdb-b5f1-4ddc-9b38fc57fde60d89.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Boot Night at The Cowboy Saloon
+UID:38588@visitlaramie.org
+URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
