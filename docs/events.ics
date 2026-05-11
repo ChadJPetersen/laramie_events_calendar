@@ -145,15 +145,6 @@ UID:38710@visitlaramie.org
 URL:https://www.visitlaramie.org/event/national-bike-month!/38710/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:TALES FROM WYOMING\nMore info: https://www.visitlaramie.org/event/tales-from-wyoming/38970/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Tales-from-Wyoming-Poster---png_CD8923DC-E5F3-DD5E-8002FE49E764C66D_cd95de4a-d1ff-e635-bda4ecc4cea078a1.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Social Events
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:TALES FROM WYOMING
-UID:38970@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tales-from-wyoming/38970/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260516
 DESCRIPTION:Observing Night at Sinks Canyon State Park Lander\, WY\nMore info: https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/38944/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-151843_F3055552-0E77-DF5A-0961F8D6E96B7572_f3204951-c28c-b894-c0bceac8427323b6.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:42.844276;-108.724198
@@ -170,15 +161,6 @@ LOCATION:Laramie\, WY
 SUMMARY:Dominick Antonelli at The Great Untamed
 UID:38547@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dominick-antonelli-at-the-great-untamed/38547/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DESCRIPTION:Book Signing for Pam Galbreath\nMore info: https://www.visitlaramie.org/event/book-signing-for-pam-galbreath/38956/\nVenue: 2nd Story Books\nVenue Info: https://www.visitlaramie.org/listing/2nd-story-books/410/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8684_BB3FF3C0-BF3C-8E19-A7CAECB669E70A6E_bb4f68c1-bacf-b27f-8ad240066218ef77.jpg\nCategories: History\, Community
-GEO:41.312280;-105.595636
-LOCATION:2nd Story Books
-SUMMARY:Book Signing for Pam Galbreath
-UID:38956@visitlaramie.org
-URL:https://www.visitlaramie.org/event/book-signing-for-pam-galbreath/38956/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -316,15 +298,6 @@ UID:38945@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-earthshine-in-the-crescent-moon/38945/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251013
-DESCRIPTION:Somatic & Breathwork Workshop\nMore info: https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-111255_815A093A-FC7B-F61D-A48EB3A5F60E6022_816bd862-d947-9782-951e92ff7fe9309a.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.312877;-105.595095
-LOCATION:The Collective
-SUMMARY:Somatic & Breathwork Workshop
-UID:38438@visitlaramie.org
-URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
 DESCRIPTION:National Bike to Work Day\nMore info: https://www.visitlaramie.org/event/national-bike-to-work-day/38704/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-17-164935_4BE9C544-C486-F903-236340E3F9574EEA_4c3a9e11-c6c0-dad1-4469728894ad07db.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun\, Social Events
 GEO:41.310977;-105.595828
@@ -332,6 +305,15 @@ LOCATION:1st Street Plaza
 SUMMARY:National Bike to Work Day
 UID:38704@visitlaramie.org
 URL:https://www.visitlaramie.org/event/national-bike-to-work-day/38704/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Somatic & Breathwork Workshop\nMore info: https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-22-111255_815A093A-FC7B-F61D-A48EB3A5F60E6022_816bd862-d947-9782-951e92ff7fe9309a.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.312877;-105.595095
+LOCATION:The Collective
+SUMMARY:Somatic & Breathwork Workshop
+UID:38438@visitlaramie.org
+URL:https://www.visitlaramie.org/event/somatic-%26-breathwork-workshop/38438/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260516
@@ -415,15 +397,6 @@ UID:38709@visitlaramie.org
 URL:https://www.visitlaramie.org/event/free-bike-shuttles-to-pilot-hill-summit!/38709/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Mother's Day at Altitude Chophouse\nMore info: https://www.visitlaramie.org/event/mothers-day-at-altitude-chophouse/38969/\nVenue: Altitude Chophouse & Brewery\nVenue Info: https://www.visitlaramie.org/listing/altitude-chophouse-%26-brewery/140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Mother-s-Day-Poster-3_BA2E0A3A-B97E-AF91-6E9B3A5ADA083E17_ba38ac00-f8fc-ad16-170c416667a4ee9a.png\nCategories: Concerts & Live Music
-GEO:41.310353;-105.595370
-LOCATION:Altitude Chophouse & Brewery
-SUMMARY:Mother's Day at Altitude Chophouse
-UID:38969@visitlaramie.org
-URL:https://www.visitlaramie.org/event/mothers-day-at-altitude-chophouse/38969/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
 DESCRIPTION:College Country Nights 18+\nMore info: https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_8C61CE8F-83FF-42AD-A7468485E3507B0D_8c024931-326c-40e1-adff0e7798d2ca3e.jpg\nCategories: Community\, University of Wyoming
 GEO:41.312609;-105.595118
@@ -431,15 +404,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:College Country Nights 18+
 UID:38364@visitlaramie.org
 URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DESCRIPTION:Tales From Wyoming\nMore info: https://www.visitlaramie.org/event/tales-from-wyoming/38955/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/tales-from-wyoming-png_5A6A628F-CC6C-943F-FADDD233DBE7E86B_5ac5ce37-0ac2-c5b1-45ea02120e745f34.png\nCategories: Concerts & Live Music
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Tales From Wyoming
-UID:38955@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tales-from-wyoming/38955/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260528
