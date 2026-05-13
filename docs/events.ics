@@ -199,6 +199,15 @@ UID:38942@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-blue-micromoon/38942/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Second Annual Healing Summit / Healing Through Connection\nMore info: https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-131407_AE3BE1CD-FCEC-6DAB-E467F5533C23723E_ae5e1436-edc4-cd92-8365da6aead0068a.png\nCategories: Craft Classes & Workshops
+GEO:41.312875;-105.595100
+LOCATION:The Collective
+SUMMARY:Second Annual Healing Summit / Healing Through Connection
+UID:38734@visitlaramie.org
+URL:https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260513
 DESCRIPTION:Sip and Savor: Presentation: There’s Even More to Know about Laramie’s Brothels & Madams\nMore info: https://www.visitlaramie.org/event/sip-and-savor%3a-presentation%3a-there%e2%80%99s-even-more-to-know-about-laramie%e2%80%99s-brothels-%26-madams/38786/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WWHH-Event_4668D05D-08C9-DF6B-1BDBAA426905BEC6_466a8141-d0ef-6df8-532d9bba61c1ecbb.png\nCategories: History\, Community\, Wyoming 250
 GEO:41.310393;-105.594817
@@ -298,15 +307,6 @@ UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260512
-DESCRIPTION:Live Presentation: Wyoming Skies: Earthshine in the Crescent Moon\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-earthshine-in-the-crescent-moon/38945/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_F333C60B-CE58-19C0-A56356591F008BDA_f335a302-b641-d9a7-7cc2d7b32e46b2d1.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Wyoming Skies: Earthshine in the Crescent Moon
-UID:38945@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-earthshine-in-the-crescent-moon/38945/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260515
 DESCRIPTION:National Bike to Work Day\nMore info: https://www.visitlaramie.org/event/national-bike-to-work-day/38704/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-17-164935_4BE9C544-C486-F903-236340E3F9574EEA_4c3a9e11-c6c0-dad1-4469728894ad07db.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun\, Social Events
 GEO:41.310977;-105.595828
@@ -332,15 +332,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: One Sky
 UID:38938@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38938/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260512
-DESCRIPTION:Presentation: Laramie’s Edward and Jane Ivinson’s Family\nMore info: https://www.visitlaramie.org/event/presentation%3a-laramie%e2%80%99s-edward-and-jane-ivinson%e2%80%99s-family/38814/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-15-100745_0ED9103F-AB93-EE3B-B9EB78AC3B7B002D_0eeb45ff-a263-be9c-d972f56757752066.png\nCategories: History\, Community\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Presentation: Laramie’s Edward and Jane Ivinson’s Family
-UID:38814@visitlaramie.org
-URL:https://www.visitlaramie.org/event/presentation%3a-laramie%e2%80%99s-edward-and-jane-ivinson%e2%80%99s-family/38814/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
