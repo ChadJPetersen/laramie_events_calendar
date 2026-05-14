@@ -20,6 +20,15 @@ UID:38649@visitlaramie.org
 URL:https://www.visitlaramie.org/event/afternoon-tea-%26-tatanka-%40-rebel-ranch/38649/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Taste of Laradise\nMore info: https://www.visitlaramie.org/event/taste-of-laradise/38675/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TasteOfLaradiseLogo_0A9B3F05-EE7E-08CB-CB05C100D4BD6A47_0abc0e07-a237-ba73-d084338659226a68.png\nCategories: Concerts & Live Music\, Community
+GEO:38.794595;-106.534838
+LOCATION:2nd Street between Garfield & Custer\, throughout Downtown
+SUMMARY:Taste of Laradise
+UID:38675@visitlaramie.org
+URL:https://www.visitlaramie.org/event/taste-of-laradise/38675/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Ritual Mountain Bike Film Tour\nMore info: https://www.visitlaramie.org/event/ritual-mountain-bike-film-tour/38707/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-18-104835_727F6EFC-9B10-011D-4E51EAD7048D08FE_729c00f8-a5c7-bc87-26886dc871c73948.png\nCategories: Community\, Outdoor Recreation\, Sports\, Social Events
 GEO:41.309522;-105.587753
@@ -63,6 +72,14 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Open Jam Night at the Gryphon Theatre
 UID:38654@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Railtown Supply & Retreat Pop Up Sale + Backyard Party\nMore info: https://www.visitlaramie.org/event/railtown-supply-%26-retreat-pop-up-sale-%2b-backyard-party/38979/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/railtownsupplyretreatjune12_F2A4DABA-CB3B-8804-16E32D7AD2AE3E67_f2b1a0e4-e520-018a-0f1cc531e911d9e1.png\nCategories: Community\, Social Events
+GEO:41.310883;-105.599874
+SUMMARY:Railtown Supply & Retreat Pop Up Sale + Backyard Party
+UID:38979@visitlaramie.org
+URL:https://www.visitlaramie.org/event/railtown-supply-%26-retreat-pop-up-sale-%2b-backyard-party/38979/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
@@ -208,15 +225,6 @@ UID:38734@visitlaramie.org
 URL:https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260513
-DESCRIPTION:Sip and Savor: Presentation: There’s Even More to Know about Laramie’s Brothels & Madams\nMore info: https://www.visitlaramie.org/event/sip-and-savor%3a-presentation%3a-there%e2%80%99s-even-more-to-know-about-laramie%e2%80%99s-brothels-%26-madams/38786/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WWHH-Event_4668D05D-08C9-DF6B-1BDBAA426905BEC6_466a8141-d0ef-6df8-532d9bba61c1ecbb.png\nCategories: History\, Community\, Wyoming 250
-GEO:41.310393;-105.594817
-LOCATION:Wyoming Women's History House
-SUMMARY:Sip and Savor: Presentation: There’s Even More to Know about Laramie’s Brothels & Madams
-UID:38786@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sip-and-savor%3a-presentation%3a-there%e2%80%99s-even-more-to-know-about-laramie%e2%80%99s-brothels-%26-madams/38786/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
@@ -226,6 +234,15 @@ UID:38870@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo/38870/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:La Grande Fleur 2026: A Starry Night Ball\nMore info: https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-120912_AE4707D3-FB35-A74A-7B8F1277A80E9DD4_ae51fa47-ba28-6a6a-9aa9c10c96fec5b0.png\nCategories: Community\, Social Events
+GEO:41.310063;-105.565482
+LOCATION:Marian H. Rochelle Gateway Center
+SUMMARY:La Grande Fleur 2026: A Starry Night Ball
+UID:38818@visitlaramie.org
+URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260113
 DESCRIPTION:Bond's Trivia & Tacos Tuesdays\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-124616_3777E407-90DA-7991-E6BF0FD77B3A4180_377bbbf4-fac6-2373-5775b9dbbc83b354.png\nCategories: Community\, Social Events
 GEO:41.309652;-105.594751
@@ -233,6 +250,15 @@ LOCATION:Bond's Brewing Company
 SUMMARY:Bond's Trivia & Tacos Tuesdays
 UID:38590@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - Friday\, June 13th\, 2026\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-friday-june-13th-2026/38641/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_8088B668-4E64-4470-ABA7362C5216363F_92ca9468-6110-41d8-9efdce4102deb230.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - Friday\, June 13th\, 2026
+UID:38641@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-friday-june-13th-2026/38641/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
