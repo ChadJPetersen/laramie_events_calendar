@@ -98,15 +98,6 @@ UID:38946@visitlaramie.org
 URL:https://www.visitlaramie.org/event/janes-book-club%3a-devil-in-the-white-city/38946/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Cowboy Saloon Presents: Tris Munsick & The Innocents May 16th 2026\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-tris-munsick-%26-the-innocents-may-16th-2026/38640/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-8_C18392E2-5C7A-4DC2-A02BF7C5A2ACC36D_7dd9f83e-3810-44fb-be0742e2281aff72.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: Tris Munsick & The Innocents May 16th 2026
-UID:38640@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-tris-munsick-%26-the-innocents-may-16th-2026/38640/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
 DESCRIPTION:Urban Sketching @ Labonte Park 11AM-1PM\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-labonte-park-11am-1pm/38965/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_B949BDB5-F047-2B67-3D6E802414F8411D_b94f8a60-a2f6-9671-10cff6129f02c60d.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -150,15 +141,6 @@ LOCATION:Curt Gowdy State Park
 SUMMARY:Little House on the Park Opening Celebration
 UID:38977@visitlaramie.org
 URL:https://www.visitlaramie.org/event/little-house-on-the-park-opening-celebration/38977/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Observing Night at Sinks Canyon State Park Lander\, WY\nMore info: https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/38944/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-151843_F3055552-0E77-DF5A-0961F8D6E96B7572_f3204951-c28c-b894-c0bceac8427323b6.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:42.844276;-108.724198
-LOCATION:Off Campus-Sinks Canyon State Park
-SUMMARY:Observing Night at Sinks Canyon State Park Lander\, WY
-UID:38944@visitlaramie.org
-URL:https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/38944/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
@@ -303,15 +285,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Boot Night at The Cowboy Saloon
 UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Downtown Urban Sketching 11AM-1PM\nMore info: https://www.visitlaramie.org/event/downtown-urban-sketching-11am-1pm/38964/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_B93262D5-E245-DBF3-7F301520ADE0F599_b939339f-c642-17d7-3b930f2f7b6e3a58.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:UW Campus Classroom Building
-SUMMARY:Downtown Urban Sketching 11AM-1PM
-UID:38964@visitlaramie.org
-URL:https://www.visitlaramie.org/event/downtown-urban-sketching-11am-1pm/38964/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
