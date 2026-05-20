@@ -89,6 +89,15 @@ UID:38946@visitlaramie.org
 URL:https://www.visitlaramie.org/event/janes-book-club%3a-devil-in-the-white-city/38946/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260527
+DESCRIPTION:Laramie Audubon Presentation: Celebrating Nature Through Birds\nMore info: https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-celebrating-nature-through-birds/38991/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/May-27_Rufous-Hummingbird_6280D24D-FCE4-FC5E-15EE61616FE7E88D_62944761-d3a1-99b0-5c0f8b1b27b3b1b3.jpg\nCategories: Community
+GEO:41.312203;-105.587931
+LOCATION:Trinity Lutheran Church
+SUMMARY:Laramie Audubon Presentation: Celebrating Nature Through Birds
+UID:38991@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-celebrating-nature-through-birds/38991/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
 DESCRIPTION:Urban Sketching @ Labonte Park 11AM-1PM\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-labonte-park-11am-1pm/38965/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_B949BDB5-F047-2B67-3D6E802414F8411D_b94f8a60-a2f6-9671-10cff6129f02c60d.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -249,15 +258,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Retro Rock
 UID:38933@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/38933/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260519
-DESCRIPTION:Nightmare Architecture\nMore info: https://www.visitlaramie.org/event/nightmare-architecture/38900/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-17-105114_1B5F0D2D-F1D7-2B9B-622ED02B03B7FDD3_1b5fa5ed-f719-c946-8b55d28c8f217c89.png\nCategories: History\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Nightmare Architecture
-UID:38900@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nightmare-architecture/38900/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
