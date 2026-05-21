@@ -72,21 +72,22 @@ UID:38979@visitlaramie.org
 URL:https://www.visitlaramie.org/event/railtown-supply-%26-retreat-pop-up-sale-%2b-backyard-party/38979/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:Centennial Speaker Series: Looking Locally\, Speaking Globally\nMore info: https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/38972/\nVenue: Centennial Library\nVenue Info: https://www.visitlaramie.org/listing/centennial-library/1797/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/css-may-2026-8.5x11_F947B6B2-947C-BE45-E462F2692DD21A91_f9531244-d4ca-5c38-38a9f4c4ebe6fddd.png\nCategories: Community\, University of Wyoming\, Education
-GEO:41.298808;-106.141485
-LOCATION:Centennial Library
-SUMMARY:Centennial Speaker Series: Looking Locally\, Speaking Globally
-UID:38972@visitlaramie.org
-URL:https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/38972/
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Laramie PrideFest Annual Summer Drag Show: The Internet Made Me Gay\nMore info: https://www.visitlaramie.org/event/laramie-pridefest-annual-summer-drag-show%3a-the-internet-made-me-gay/39000/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_Drag-1-_C1B4DA66-D250-F153-3AAF0ACFF911A207_c1ff362c-e026-8427-402eb0ace53648d1.jpg\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Social Events
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Laramie PrideFest Annual Summer Drag Show: The Internet Made Me Gay
+UID:39000@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-pridefest-annual-summer-drag-show%3a-the-internet-made-me-gay/39000/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:Jane's Book Club: "Devil in the White City"\nMore info: https://www.visitlaramie.org/event/janes-book-club%3a-devil-in-the-white-city/38946/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-23-111902_51736405-0237-D602-485D63D88138FC5E_517e9eab-eeb8-168a-2321f43d3bebc847.png\nCategories: History\, Wyoming 250
-GEO:41.312068;-105.589055
-SUMMARY:Jane's Book Club: "Devil in the White City"
-UID:38946@visitlaramie.org
-URL:https://www.visitlaramie.org/event/janes-book-club%3a-devil-in-the-white-city/38946/
+DTSTART;VALUE=DATE:20260602
+DESCRIPTION:City Council Pride Proclamation\nMore info: https://www.visitlaramie.org/event/city-council-pride-proclamation/38998/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_City-Council_C15F79C6-FBF0-CAC4-1433EBD161DCFE93_c16a4227-ccb7-8e7e-74fdb464b3eb0eb4.jpg\nCategories: Annual Events & Festivals\, Community
+GEO:41.311656;-105.591924
+LOCATION:Laramie City Hall
+SUMMARY:City Council Pride Proclamation
+UID:38998@visitlaramie.org
+URL:https://www.visitlaramie.org/event/city-council-pride-proclamation/38998/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260527
@@ -143,6 +144,15 @@ UID:38977@visitlaramie.org
 URL:https://www.visitlaramie.org/event/little-house-on-the-park-opening-celebration/38977/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Family Field Day\nMore info: https://www.visitlaramie.org/event/family-field-day/38996/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FamilyFieldDaywoSponsors_BDC13E98-9045-70E4-70EE91700E95CD43_bdd266ad-feab-a52a-c5171ee140a9e731.png\nCategories: Annual Events & Festivals
+GEO:41.287514;-105.587074
+LOCATION:804 Dally Ridge Road
+SUMMARY:Family Field Day
+UID:38996@visitlaramie.org
+URL:https://www.visitlaramie.org/event/family-field-day/38996/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Dominick Antonelli at The Great Untamed\nMore info: https://www.visitlaramie.org/event/dominick-antonelli-at-the-great-untamed/38547/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Gig-photo_F31F2D52-0925-5C3C-FFC3C0F59CE20404_f334a1b1-bf02-531c-62a3840af5fe8e41.png\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -150,6 +160,15 @@ LOCATION:Laramie\, WY
 SUMMARY:Dominick Antonelli at The Great Untamed
 UID:38547@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dominick-antonelli-at-the-great-untamed/38547/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+DESCRIPTION:Cinderella: A Classical Ballet\nMore info: https://www.visitlaramie.org/event/cinderella%3a-a-classical-ballet/38974/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cinderella-Postcard-3-_9C781C18-6CB0-4BB7-BE0C8601E3BE45E7_1d3e4d73-6d49-495f-870f1a57dae97da0.png\nCategories: Performing Arts & Culture
+GEO:41.322811;-105.591448
+LOCATION:Cooper Center for Creative Arts
+SUMMARY:Cinderella: A Classical Ballet
+UID:38974@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cinderella%3a-a-classical-ballet/38974/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -188,6 +207,14 @@ UID:38734@visitlaramie.org
 URL:https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:Dominick Antonelli W/ Deacon Brown @ TGU\nMore info: https://www.visitlaramie.org/event/dominick-antonelli-w-deacon-brown-%40-tgu/38994/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/may-30-dominick-antonelli_C1168C7F-FDDA-49A7-AFB0C45A5E2E02ED_4568793a-8fca-4759-90f42607465915bc.png\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+SUMMARY:Dominick Antonelli W/ Deacon Brown @ TGU
+UID:38994@visitlaramie.org
+URL:https://www.visitlaramie.org/event/dominick-antonelli-w-deacon-brown-%40-tgu/38994/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
@@ -204,6 +231,15 @@ LOCATION:Marian H. Rochelle Gateway Center
 SUMMARY:La Grande Fleur 2026: A Starry Night Ball
 UID:38818@visitlaramie.org
 URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Touch A Truck\nMore info: https://www.visitlaramie.org/event/touch-a-truck/38909/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TOUCH-A-TRUCK-VL_BBC8EEA9-A841-6975-947BE419C0147000_bbcb52a4-ffd5-5edc-387ca04fd61ae0fb.png\nCategories: Family Fun
+GEO:41.305775;-105.551024
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Touch A Truck
+UID:38909@visitlaramie.org
+URL:https://www.visitlaramie.org/event/touch-a-truck/38909/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
@@ -224,6 +260,24 @@ UID:38590@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Pride Proclamation & Visibility March\nMore info: https://www.visitlaramie.org/event/pride-proclamation-%26-visibility-march/39001/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_March_C2138D2A-D3FD-B15F-A3F665503FEACCCA_c21af0a2-073e-026a-044bcc587ccbb5ce.jpg\nCategories: Annual Events & Festivals\, Community\, Social Events
+GEO:41.310977;-105.595828
+LOCATION:First Street Plaza
+SUMMARY:Pride Proclamation & Visibility March
+UID:39001@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pride-proclamation-%26-visibility-march/39001/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DESCRIPTION:Pride Month Book Club\nMore info: https://www.visitlaramie.org/event/pride-month-book-club/38999/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_LGBT-June4_C1838E03-C5A1-511A-397CEA16151FB2E0_c18efc86-a2b0-4b57-74b8b2c1e9f7414a.jpg\nCategories: Annual Events & Festivals\, Community\, Social Events
+GEO:41.312220;-105.595626
+LOCATION:Night Heron Books & Coffeehouse
+SUMMARY:Pride Month Book Club
+UID:38999@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pride-month-book-club/38999/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260613
 DESCRIPTION:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - Friday\, June 13th\, 2026\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-friday-june-13th-2026/38641/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_8088B668-4E64-4470-ABA7362C5216363F_92ca9468-6110-41d8-9efdce4102deb230.jpg\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -231,6 +285,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - Friday\, June 13th\, 2026
 UID:38641@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-friday-june-13th-2026/38641/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DESCRIPTION:Japanese Sake Tasting with Traditional Live Music\nMore info: https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Sake-tasting-6-10-26_8A5A4D45-E2F3-54AE-900A77281C895E3C_8acde279-91c7-074a-9c892115b44395bf.jpg\nCategories: Performing Arts & Culture
+GEO:41.308353;-105.596400
+LOCATION:Laramie Railroad Depot
+SUMMARY:Japanese Sake Tasting with Traditional Live Music
+UID:38992@visitlaramie.org
+URL:https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -276,6 +339,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Boot Night at The Cowboy Saloon
 UID:38588@visitlaramie.org
 URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DESCRIPTION:Pride Month Downtown Sign Lighting\nMore info: https://www.visitlaramie.org/event/pride-month-downtown-sign-lighting/38997/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_Sign-Lighting_C128FC0E-EAAF-37D0-0D5A01A5D2F35A91_c13f8c25-c497-df88-2ff659911593ed88.jpg\nCategories: Annual Events & Festivals\, History\, Community\, Performing Arts & Culture\, Family Fun
+GEO:41.310322;-105.595913
+LOCATION:First Street Footbridge
+SUMMARY:Pride Month Downtown Sign Lighting
+UID:38997@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pride-month-downtown-sign-lighting/38997/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
@@ -350,6 +422,15 @@ UID:38709@visitlaramie.org
 URL:https://www.visitlaramie.org/event/free-bike-shuttles-to-pilot-hill-summit!/38709/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260520
+DESCRIPTION:Global Collection : Masks of the World\nMore info: https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-101318_BD8D4C9E-BA8C-F3B0-E5DE078649781A01_bd937282-ae8d-0a89-7128ba09c4f30a48.png\nCategories: History\, University of Wyoming\, Performing Arts & Culture
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Global Collection : Masks of the World
+UID:38995@visitlaramie.org
+URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260225
 DESCRIPTION:College Country Nights 18+\nMore info: https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_8C61CE8F-83FF-42AD-A7468485E3507B0D_8c024931-326c-40e1-adff0e7798d2ca3e.jpg\nCategories: Community\, University of Wyoming
 GEO:41.312609;-105.595118
@@ -359,12 +440,12 @@ UID:38364@visitlaramie.org
 URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-DESCRIPTION:Cinderella: A Classical Ballet\nMore info: https://www.visitlaramie.org/event/cinderella%3a-a-classical-ballet/38974/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cinderella-Postcard-3-_9C781C18-6CB0-4BB7-BE0C8601E3BE45E7_1d3e4d73-6d49-495f-870f1a57dae97da0.png\nCategories: Performing Arts & Culture
-GEO:41.322811;-105.591448
-LOCATION:Cooper Center for Creative Arts
-SUMMARY:Cinderella: A Classical Ballet
-UID:38974@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cinderella%3a-a-classical-ballet/38974/
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Artist & Museum: Hung Liu\nMore info: https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-125533_C35E75D6-AAA7-21CA-88EE350CA355A8A0_c35eef76-a969-9341-bd4f3c9b6ff6b57a.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Artist & Museum: Hung Liu
+UID:39002@visitlaramie.org
+URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
 END:VEVENT
 END:VCALENDAR
