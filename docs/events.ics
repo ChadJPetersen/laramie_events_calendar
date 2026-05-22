@@ -332,15 +332,6 @@ UID:38686@visitlaramie.org
 URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260115
-DESCRIPTION:Boot Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_70AAE39C-4641-416E-B5AB1E8747F100BC_c1e14bdb-b5f1-4ddc-9b38fc57fde60d89.jpg\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Boot Night at The Cowboy Saloon
-UID:38588@visitlaramie.org
-URL:https://www.visitlaramie.org/event/boot-night-at-the-cowboy-saloon/38588/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
 DESCRIPTION:Pride Month Downtown Sign Lighting\nMore info: https://www.visitlaramie.org/event/pride-month-downtown-sign-lighting/38997/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_Sign-Lighting_C128FC0E-EAAF-37D0-0D5A01A5D2F35A91_c13f8c25-c497-df88-2ff659911593ed88.jpg\nCategories: Annual Events & Festivals\, History\, Community\, Performing Arts & Culture\, Family Fun
 GEO:41.310322;-105.595913
@@ -384,15 +375,6 @@ LOCATION:Harmony Gardens
 SUMMARY:Memorial Day Commemoration
 UID:38950@visitlaramie.org
 URL:https://www.visitlaramie.org/event/memorial-day-commemoration/38950/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260521
-DESCRIPTION:Relative Theatrics presents the 4th Annual PLAY/WRITE Showcase\nMore info: https://www.visitlaramie.org/event/relative-theatrics-presents-the-4th-annual-play-write-showcase/38976/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-08-122433_584540F6-0FBF-02D0-A82716ABC2F14866_5878c8bd-ef21-d8e0-f38ff79cec310b4f.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun\, Craft Classes & Workshops
-GEO:41.312616;-105.570928
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:Relative Theatrics presents the 4th Annual PLAY/WRITE Showcase
-UID:38976@visitlaramie.org
-URL:https://www.visitlaramie.org/event/relative-theatrics-presents-the-4th-annual-play-write-showcase/38976/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
