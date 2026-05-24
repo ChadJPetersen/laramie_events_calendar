@@ -38,21 +38,21 @@ UID:38934@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3asynthwave/38934/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Comedy That Cares Climb Wyoming Mom's Unhinged\nMore info: https://www.visitlaramie.org/event/comedy-that-cares-climb-wyoming-moms-unhinged/38908/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Comedy-That-Cares-Laramie-front-flyer-_400C48FB-98D5-0FBA-0AB3E307739CB3EB_403096e4-a3ad-31e0-92febf0737b7dff6.png\nCategories: Performing Arts & Culture
-GEO:41.312875;-105.595100
-LOCATION:The Collective
-SUMMARY:Comedy That Cares Climb Wyoming Mom's Unhinged
-UID:38908@visitlaramie.org
-URL:https://www.visitlaramie.org/event/comedy-that-cares-climb-wyoming-moms-unhinged/38908/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260505
 DESCRIPTION:National Bike Month\nMore info: https://www.visitlaramie.org/event/national-bike-month/38986/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-15-100421_BBAE0069-BF79-1FA1-D9BD0FE38AAB89A7_bbc4c0a7-0235-996f-3532d70215bfb633.png\nCategories: Outdoor Recreation
 GEO:41.311367;-105.591101
 SUMMARY:National Bike Month
 UID:38986@visitlaramie.org
 URL:https://www.visitlaramie.org/event/national-bike-month/38986/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Locks of Love: Victorian Hairwork and Memory\nMore info: https://www.visitlaramie.org/event/locks-of-love%3a-victorian-hairwork-and-memory/38901/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-15-100911_EA3C8661-0FD4-E477-60C341EBE9E7C9C1_ea41bda8-d2ab-1bc3-874db7d6bd7559fa.png\nCategories: History\, Wyoming 250
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:Locks of Love: Victorian Hairwork and Memory
+UID:38901@visitlaramie.org
+URL:https://www.visitlaramie.org/event/locks-of-love%3a-victorian-hairwork-and-memory/38901/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
@@ -99,15 +99,6 @@ UID:38991@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-celebrating-nature-through-birds/38991/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Urban Sketching @ Labonte Park 11AM-1PM\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-labonte-park-11am-1pm/38965/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_B949BDB5-F047-2B67-3D6E802414F8411D_b94f8a60-a2f6-9671-10cff6129f02c60d.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Labonte Park
-SUMMARY:Urban Sketching @ Labonte Park 11AM-1PM
-UID:38965@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-labonte-park-11am-1pm/38965/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Full-Dome Film: Dark Biosphere\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38939/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_E77917A4-CB39-B17B-16C9D3AA217478DF_e779b311-e819-ee05-746aa775addbd94a.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -142,6 +133,14 @@ LOCATION:Curt Gowdy State Park
 SUMMARY:Little House on the Park Opening Celebration
 UID:38977@visitlaramie.org
 URL:https://www.visitlaramie.org/event/little-house-on-the-park-opening-celebration/38977/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Tuesday Local Market in Undine Park\nMore info: https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-134208_C51E4676-EAFB-6EBA-DE5F73784F6DA357_c51ed91c-ddc6-4557-4c09e4d1b695da6d.png\nCategories: Community\, Social Events
+GEO:41.305330;-105.590308
+SUMMARY:Tuesday Local Market in Undine Park
+UID:39005@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
@@ -357,15 +356,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: One Sky
 UID:38938@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38938/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Art Shed Reopening\nMore info: https://www.visitlaramie.org/event/art-shed-reopening/38957/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Art-Shed-Opening-Full-Size_C448B386-AA7E-5B28-C5777CFB74F045A8_c44cccd2-ca1c-64fe-5002ddb7b0f83b9f.png\nCategories: Community
-GEO:41.311367;-105.591101
-LOCATION:Optimist Park
-SUMMARY:Art Shed Reopening
-UID:38957@visitlaramie.org
-URL:https://www.visitlaramie.org/event/art-shed-reopening/38957/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260525
