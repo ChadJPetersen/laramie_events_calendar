@@ -11,15 +11,6 @@ UID:38675@visitlaramie.org
 URL:https://www.visitlaramie.org/event/taste-of-laradise/38675/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260121
-DESCRIPTION:Afternoon Tea & Tatanka @ Rebel Ranch\nMore info: https://www.visitlaramie.org/event/afternoon-tea-%26-tatanka-%40-rebel-ranch/38649/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-27-113029_07446310-DA48-3997-61A02BD112B6701E_08c914f9-fa87-9c88-62707cfdd0d7cf9e.png\nCategories: Concerts & Live Music\, History\, Outdoor Recreation
-GEO:41.188541;-106.085557
-LOCATION:Rebel Ranch
-SUMMARY:Afternoon Tea & Tatanka @ Rebel Ranch
-UID:38649@visitlaramie.org
-URL:https://www.visitlaramie.org/event/afternoon-tea-%26-tatanka-%40-rebel-ranch/38649/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Ritual Mountain Bike Film Tour\nMore info: https://www.visitlaramie.org/event/ritual-mountain-bike-film-tour/38707/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-18-104835_727F6EFC-9B10-011D-4E51EAD7048D08FE_729c00f8-a5c7-bc87-26886dc871c73948.png\nCategories: Community\, Outdoor Recreation\, Sports\, Social Events
 GEO:41.309522;-105.587753
@@ -268,6 +259,15 @@ UID:39001@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-proclamation-%26-visibility-march/39001/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+DESCRIPTION:Intoduction to Table Braiding with Hair\nMore info: https://www.visitlaramie.org/event/intoduction-to-table-braiding-with-hair/38947/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-23-112745_51C0AC8F-9758-93C9-61E34327F9525428_51cf2e7a-a35f-d99b-6f1e6221715a4f1e.png\nCategories: History\, Wyoming 250
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:Intoduction to Table Braiding with Hair
+UID:38947@visitlaramie.org
+URL:https://www.visitlaramie.org/event/intoduction-to-table-braiding-with-hair/38947/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260604
 DESCRIPTION:Pride Month Book Club\nMore info: https://www.visitlaramie.org/event/pride-month-book-club/38999/\nVenue: Night Heron Books & Coffeehouse\nVenue Info: https://www.visitlaramie.org/listing/night-heron-books-%26-coffeehouse/214/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_LGBT-June4_C1838E03-C5A1-511A-397CEA16151FB2E0_c18efc86-a2b0-4b57-74b8b2c1e9f7414a.jpg\nCategories: Annual Events & Festivals\, Community\, Social Events
 GEO:41.312220;-105.595626
@@ -419,5 +419,14 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Artist & Museum: Hung Liu
 UID:39002@visitlaramie.org
 URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+DESCRIPTION:Special Presentation with Zen Hansen\nMore info: https://www.visitlaramie.org/event/special-presentation-with-zen-hansen/38948/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-23-140429_575C3CEA-EFEF-0154-62FCB3D999CC7381_575cccd3-049e-afa6-b02b1c382e364394.png\nCategories: History\, Wyoming 250
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:Special Presentation with Zen Hansen
+UID:38948@visitlaramie.org
+URL:https://www.visitlaramie.org/event/special-presentation-with-zen-hansen/38948/
 END:VEVENT
 END:VCALENDAR
