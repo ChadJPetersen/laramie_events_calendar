@@ -55,6 +55,14 @@ UID:38654@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-jam-night-at-the-gryphon-theatre/38654/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:Quinlan Valdez + Mars Birch @ TGU\nMore info: https://www.visitlaramie.org/event/quinlan-valdez-%2b-mars-birch-%40-tgu/39007/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/quinlan-june-17_98EC5DDE-D54B-42DE-A3C695ACA2ADE520_75ba9784-d559-4779-b4d51f556cd0908b.jpg\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+SUMMARY:Quinlan Valdez + Mars Birch @ TGU
+UID:39007@visitlaramie.org
+URL:https://www.visitlaramie.org/event/quinlan-valdez-%2b-mars-birch-%40-tgu/39007/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
 DESCRIPTION:Railtown Supply & Retreat Pop Up Sale + Backyard Party\nMore info: https://www.visitlaramie.org/event/railtown-supply-%26-retreat-pop-up-sale-%2b-backyard-party/38979/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/railtownsupplyretreatjune12_F2A4DABA-CB3B-8804-16E32D7AD2AE3E67_f2b1a0e4-e520-018a-0f1cc531e911d9e1.png\nCategories: Community\, Social Events
 GEO:41.310883;-105.599874
@@ -108,15 +116,6 @@ UID:38757@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pilot-hill-25k-and-10k-classic/38757/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-DESCRIPTION:National Bike Month!\nMore info: https://www.visitlaramie.org/event/national-bike-month!/38710/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-18-111120_736E7066-9272-B8C5-BD93EB72F297F08E_7370e5ab-b675-7535-297bb5bab767730d.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun\, Social Events
-GEO:41.310977;-105.595828
-LOCATION:Multiple Locations -- See Description
-SUMMARY:National Bike Month!
-UID:38710@visitlaramie.org
-URL:https://www.visitlaramie.org/event/national-bike-month!/38710/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Little House on the Park Opening Celebration\nMore info: https://www.visitlaramie.org/event/little-house-on-the-park-opening-celebration/38977/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Little-House-Template_62BD3332-0B82-53C3-8F8E731690062B7C_62d7a4a6-a8c7-eaea-0e25add8f858f0f8.png\nCategories: Family Fun
 GEO:41.310551;-105.610098
@@ -124,6 +123,15 @@ LOCATION:Curt Gowdy State Park
 SUMMARY:Little House on the Park Opening Celebration
 UID:38977@visitlaramie.org
 URL:https://www.visitlaramie.org/event/little-house-on-the-park-opening-celebration/38977/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+DESCRIPTION:National Bike Month!\nMore info: https://www.visitlaramie.org/event/national-bike-month!/38710/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-18-111120_736E7066-9272-B8C5-BD93EB72F297F08E_7370e5ab-b675-7535-297bb5bab767730d.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun\, Social Events
+GEO:41.310977;-105.595828
+LOCATION:Multiple Locations -- See Description
+SUMMARY:National Bike Month!
+UID:38710@visitlaramie.org
+URL:https://www.visitlaramie.org/event/national-bike-month!/38710/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -161,6 +169,15 @@ UID:38974@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cinderella%3a-a-classical-ballet/38974/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Laramie Audubon Kids & Families Program\nMore info: https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-program/39010/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/YellowWarbler_F10DCE4E-AB5C-2F6E-1A3FA5AB668DE04C_f1138db2-af42-8f5c-c2020e42336fbfa6.jpg\nCategories: Family Fun
+GEO:41.321748;-105.609735
+LOCATION:LaBonte Park Picnic Shelter
+SUMMARY:Laramie Audubon Kids & Families Program
+UID:39010@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-program/39010/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -179,13 +196,13 @@ UID:38650@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-15-prints/38650/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260526
-DESCRIPTION:Live Presentation: Wyoming Skies: Blue Micromoon\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-blue-micromoon/38942/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-131943_F2DFECB6-B7FE-EAF8-EE2CF79A14B6CB7E_f2e586b9-9433-7a64-f0c4637ecc53f048.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Wyoming Skies: Blue Micromoon
-UID:38942@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-blue-micromoon/38942/
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Introduction to Table Braiding with Hair\nMore info: https://www.visitlaramie.org/event/introduction-to-table-braiding-with-hair/38949/\nVenue: University Store\nVenue Info: https://www.visitlaramie.org/listing/university-store/167/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-23-114206_5244AC5A-C54D-F56E-FF2AC488E4C7A635_52549212-d2c3-43e7-3e978bbae0bb4709.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.325026;-105.578149
+LOCATION:University of Wyoming Student Union
+SUMMARY:Introduction to Table Braiding with Hair
+UID:38949@visitlaramie.org
+URL:https://www.visitlaramie.org/event/introduction-to-table-braiding-with-hair/38949/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
@@ -241,13 +258,13 @@ UID:38987@visitlaramie.org
 URL:https://www.visitlaramie.org/event/comedy-that-cares-presents%3a-tim-meadows/38987/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260113
-DESCRIPTION:Bond's Trivia & Tacos Tuesdays\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-08-124616_3777E407-90DA-7991-E6BF0FD77B3A4180_377bbbf4-fac6-2373-5775b9dbbc83b354.png\nCategories: Community\, Social Events
-GEO:41.309652;-105.594751
-LOCATION:Bond's Brewing Company
-SUMMARY:Bond's Trivia & Tacos Tuesdays
-UID:38590@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-tuesdays/38590/
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:National Trails Day\nMore info: https://www.visitlaramie.org/event/national-trails-day/39008/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-14-at-1.19.58-PM_30123738-A0EC-BBEB-5A902A4DEE488192_3016944b-01dd-d7fa-4141ddb2073fac65.png\nCategories: Annual Events & Festivals\, Outdoor Recreation\, Volunteering
+GEO:41.311367;-105.591101
+LOCATION:Happy Jack Recreation Area
+SUMMARY:National Trails Day
+UID:39008@visitlaramie.org
+URL:https://www.visitlaramie.org/event/national-trails-day/39008/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
@@ -287,7 +304,7 @@ URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260610
-DESCRIPTION:Japanese Sake Tasting with Traditional Live Music\nMore info: https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Sake-tasting-6-10-26_8A5A4D45-E2F3-54AE-900A77281C895E3C_8acde279-91c7-074a-9c892115b44395bf.jpg\nCategories: Performing Arts & Culture
+DESCRIPTION:Japanese Sake Tasting with Traditional Live Music\nMore info: https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-26-112807_F53F1985-E1A2-A790-317E610D292AF82D_f540db1e-fa5f-db5d-e68441c1d258ee2e.png\nCategories: Performing Arts & Culture
 GEO:41.308353;-105.596400
 LOCATION:Laramie Railroad Depot
 SUMMARY:Japanese Sake Tasting with Traditional Live Music
@@ -331,6 +348,14 @@ UID:38686@visitlaramie.org
 URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Covenhoven @ TGU\nMore info: https://www.visitlaramie.org/event/covenhoven-%40-tgu/39006/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Covenhoven_Laramie_June-6_3433ADAB-9FFB-4405-B371AB904A4B10F3_11452867-cb16-4097-990cf818fe581e89.jpg\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+SUMMARY:Covenhoven @ TGU
+UID:39006@visitlaramie.org
+URL:https://www.visitlaramie.org/event/covenhoven-%40-tgu/39006/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
 DESCRIPTION:Pride Month Downtown Sign Lighting\nMore info: https://www.visitlaramie.org/event/pride-month-downtown-sign-lighting/38997/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_Sign-Lighting_C128FC0E-EAAF-37D0-0D5A01A5D2F35A91_c13f8c25-c497-df88-2ff659911593ed88.jpg\nCategories: Annual Events & Festivals\, History\, Community\, Performing Arts & Culture\, Family Fun
 GEO:41.310322;-105.595913
@@ -358,15 +383,6 @@ UID:38938@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38938/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-DESCRIPTION:Memorial Day Commemoration\nMore info: https://www.visitlaramie.org/event/memorial-day-commemoration/38950/\nVenue: University Store\nVenue Info: https://www.visitlaramie.org/listing/university-store/167/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-23-115119_52991F32-A5A9-24C5-CC98516D33861D72_52ea0cbf-cf67-4895-8025851599e50501.png\nCategories: History\, Wyoming 250
-GEO:41.308958;-105.620160
-LOCATION:Harmony Gardens
-SUMMARY:Memorial Day Commemoration
-UID:38950@visitlaramie.org
-URL:https://www.visitlaramie.org/event/memorial-day-commemoration/38950/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
 DESCRIPTION:Live Presentation: Hotter Than the Sun: The Atomic Age\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-hotter-than-the-sun%3a-the-atomic-age/38943/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-151706_F2F75752-91EB-4F7F-E9CB7A9D1F110946_f2f804be-fe89-b07b-2a7ccea9dc38446e.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -385,15 +401,6 @@ UID:38735@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-DESCRIPTION:Free Bike Shuttles to Pilot Hill Summit!\nMore info: https://www.visitlaramie.org/event/free-bike-shuttles-to-pilot-hill-summit!/38709/\nVenue: Fast Haus Ski & Bike\nVenue Info: https://www.visitlaramie.org/listing/fast-haus-ski-%26-bike/506/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-18-110708_73291F62-B714-A90C-67C001BFD8818E0B_732e6f17-b0be-16d7-204afda8f3a72674.png\nCategories: Outdoor Recreation\, Sports\, Family Fun
-GEO:41.291582;-105.582261
-LOCATION:Fast Haus Ski & Bike
-SUMMARY:Free Bike Shuttles to Pilot Hill Summit!
-UID:38709@visitlaramie.org
-URL:https://www.visitlaramie.org/event/free-bike-shuttles-to-pilot-hill-summit!/38709/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:Global Collection : Masks of the World\nMore info: https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-101318_BD8D4C9E-BA8C-F3B0-E5DE078649781A01_bd937282-ae8d-0a89-7128ba09c4f30a48.png\nCategories: History\, University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -410,6 +417,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:College Country Nights 18+
 UID:38364@visitlaramie.org
 URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DESCRIPTION:Civic Center Courtyard Spring Cleaning\nMore info: https://www.visitlaramie.org/event/civic-center-courtyard-spring-cleaning/39009/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/DSCF1567_3177C2CF-F710-9D86-E49BAB437C441998_317ce11e-a609-2cd2-3f1cc9e2ef6cfbee.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Volunteering
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center
+SUMMARY:Civic Center Courtyard Spring Cleaning
+UID:39009@visitlaramie.org
+URL:https://www.visitlaramie.org/event/civic-center-courtyard-spring-cleaning/39009/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
