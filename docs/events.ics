@@ -89,15 +89,6 @@ UID:38998@visitlaramie.org
 URL:https://www.visitlaramie.org/event/city-council-pride-proclamation/38998/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260527
-DESCRIPTION:Laramie Audubon Presentation: Celebrating Nature Through Birds\nMore info: https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-celebrating-nature-through-birds/38991/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/May-27_Rufous-Hummingbird_6280D24D-FCE4-FC5E-15EE61616FE7E88D_62944761-d3a1-99b0-5c0f8b1b27b3b1b3.jpg\nCategories: Community
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church
-SUMMARY:Laramie Audubon Presentation: Celebrating Nature Through Birds
-UID:38991@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-audubon-presentation%3a-celebrating-nature-through-birds/38991/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Full-Dome Film: Dark Biosphere\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38939/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_E77917A4-CB39-B17B-16C9D3AA217478DF_e779b311-e819-ee05-746aa775addbd94a.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -312,15 +303,6 @@ UID:38992@visitlaramie.org
 URL:https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260401
-DESCRIPTION:Tristan Duke & Polar Photography from the Collection\nMore info: https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-132926_8239836F-F287-D0FA-C292489236A0048E_82d5882f-c6aa-2cf6-e350d2a91d5b5653.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Tristan Duke & Polar Photography from the Collection
-UID:38875@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Urban Sketching Downtown 11AM-1PM\nMore info: https://www.visitlaramie.org/event/urban-sketching-downtown-11am-1pm/38966/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_B9668BE5-91FE-5D23-6592771A42D519F1_b96d3417-a932-cee4-32ef1d0866ba279d.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -328,6 +310,15 @@ LOCATION:Train Depot Park
 SUMMARY:Urban Sketching Downtown 11AM-1PM
 UID:38966@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-downtown-11am-1pm/38966/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Tristan Duke & Polar Photography from the Collection\nMore info: https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-132926_8239836F-F287-D0FA-C292489236A0048E_82d5882f-c6aa-2cf6-e350d2a91d5b5653.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Tristan Duke & Polar Photography from the Collection
+UID:38875@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
@@ -408,15 +399,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:College Country Nights 18+\nMore info: https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_8C61CE8F-83FF-42AD-A7468485E3507B0D_8c024931-326c-40e1-adff0e7798d2ca3e.jpg\nCategories: Community\, University of Wyoming
-GEO:41.312609;-105.595118
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:College Country Nights 18+
-UID:38364@visitlaramie.org
-URL:https://www.visitlaramie.org/event/college-country-nights-18%2b/38364/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
