@@ -20,6 +20,15 @@ UID:38707@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ritual-mountain-bike-film-tour/38707/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DESCRIPTION:Observing Night at Sinks Canyon State Park Lander\, WY\nMore info: https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/39021/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-151843_F3055552-0E77-DF5A-0961F8D6E96B7572_f3204951-c28c-b894-c0bceac8427323b6.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:42.844276;-108.724198
+LOCATION:Off Campus-Sinks Canyon State Park
+SUMMARY:Observing Night at Sinks Canyon State Park Lander\, WY
+UID:39021@visitlaramie.org
+URL:https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/39021/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Liquid Sky:Synthwave\nMore info: https://www.visitlaramie.org/event/liquid-sky%3asynthwave/38934/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_F1A05544-A2FD-40E5-6E8B5F49432DD50B_f1a80b8a-9089-26ab-247c521dae8667c2.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -35,6 +44,15 @@ GEO:41.311367;-105.591101
 SUMMARY:National Bike Month
 UID:38986@visitlaramie.org
 URL:https://www.visitlaramie.org/event/national-bike-month/38986/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260611
+DESCRIPTION:Y2Gay: Queer Generations\, Digital Worlds\, and the Stories We Found Online - Laramie PrideFest Queer Storytelling\nMore info: https://www.visitlaramie.org/event/y2gay%3a-queer-generations-digital-worlds-and-the-stories-we-found-online-laramie-pridefest-queer-storytelling/39014/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/53/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26-FB-Event-Cover_364CE999-0A6D-F038-440FF15DDE5F2CF0_3657bbf3-cdcf-765d-fceb057c8ecee10b.jpg\nCategories: Annual Events & Festivals\, Community\, Social Events
+GEO:41.308353;-105.596400
+LOCATION:Historic Laramie Union Pacific Train Depot
+SUMMARY:Y2Gay: Queer Generations\, Digital Worlds\, and the Stories We Found Online - Laramie PrideFest Queer Storytelling
+UID:39014@visitlaramie.org
+URL:https://www.visitlaramie.org/event/y2gay%3a-queer-generations-digital-worlds-and-the-stories-we-found-online-laramie-pridefest-queer-storytelling/39014/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -89,6 +107,15 @@ UID:38998@visitlaramie.org
 URL:https://www.visitlaramie.org/event/city-council-pride-proclamation/38998/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+DESCRIPTION:Full-Dome Film: Europe to the Stars\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-europe-to-the-stars/39026/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-102039_59CB33BA-06B7-2698-471D9248277D8E0A_59cbe6f5-b1cc-e9fe-ba1dbfdd70e25a13.png\nCategories: Community\, University of Wyoming
+GEO:41.323653;-105.583039
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Europe to the Stars
+UID:39026@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-europe-to-the-stars/39026/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Full-Dome Film: Dark Biosphere\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere/38939/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_E77917A4-CB39-B17B-16C9D3AA217478DF_e779b311-e819-ee05-746aa775addbd94a.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -105,6 +132,24 @@ LOCATION:Pilot Hill Recreation Area (3765-3799 E Willett Dr\, Laramie\, WY 82070
 SUMMARY:Pilot Hill 25k and 10k Classic
 UID:38757@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pilot-hill-25k-and-10k-classic/38757/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260602
+DESCRIPTION:Full-Dome Film: Hot and Energetic Universe\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39019/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-095859_58FB32C9-9212-9972-7A41AC265F344D63_58ff8451-da98-b4c5-221c5c49602bfab0.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Hot and Energetic Universe
+UID:39019@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39019/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Rainbow Road Bar Crawl: What's Wrong with my Algorithm\nMore info: https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39012/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26-FB-Event-Cover_35DFAEA1-B9E8-273A-C2FE0C914A88C55F_3601eb48-923b-66d8-6bbd8b41e52aca1f.jpg\nCategories: Annual Events & Festivals\, Community\, Social Events
+GEO:41.311367;-105.591101
+LOCATION:Downtown Laramie (See Map for Details)
+SUMMARY:Rainbow Road Bar Crawl: What's Wrong with my Algorithm
+UID:39012@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39012/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
@@ -142,6 +187,15 @@ UID:38996@visitlaramie.org
 URL:https://www.visitlaramie.org/event/family-field-day/38996/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260616
+DESCRIPTION:Full-Dome Film: Dark Biosphere + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39024/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_E77917A4-CB39-B17B-16C9D3AA217478DF_e779b311-e819-ee05-746aa775addbd94a.png\nCategories: Community\, University of Wyoming
+GEO:41.323653;-105.583039
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Dark Biosphere + Star Talk
+UID:39024@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39024/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Dominick Antonelli at The Great Untamed\nMore info: https://www.visitlaramie.org/event/dominick-antonelli-at-the-great-untamed/38547/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Gig-photo_F31F2D52-0925-5C3C-FFC3C0F59CE20404_f334a1b1-bf02-531c-62a3840af5fe8e41.png\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -167,6 +221,15 @@ LOCATION:LaBonte Park Picnic Shelter
 SUMMARY:Laramie Audubon Kids & Families Program
 UID:39010@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-program/39010/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Pride in the Park\nMore info: https://www.visitlaramie.org/event/pride-in-the-park/39017/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_PITP-1-_36D4B458-9371-D5C3-DB7CCE82E571B259_36e1c18f-9d43-2135-1919d2737e564677.jpg\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Performing Arts & Culture\, Family Fun\, Social Events
+GEO:41.306133;-105.576724
+LOCATION:Washington park
+SUMMARY:Pride in the Park
+UID:39017@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pride-in-the-park/39017/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -196,13 +259,13 @@ UID:38949@visitlaramie.org
 URL:https://www.visitlaramie.org/event/introduction-to-table-braiding-with-hair/38949/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-DESCRIPTION:Second Annual Healing Summit / Healing Through Connection\nMore info: https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-131407_AE3BE1CD-FCEC-6DAB-E467F5533C23723E_ae5e1436-edc4-cd92-8365da6aead0068a.png\nCategories: Craft Classes & Workshops
-GEO:41.312875;-105.595100
-LOCATION:The Collective
-SUMMARY:Second Annual Healing Summit / Healing Through Connection
-UID:38734@visitlaramie.org
-URL:https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:WyoTech Annual Car Show\nMore info: https://www.visitlaramie.org/event/wyotech-annual-car-show/39029/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-103244_5A43A8A5-E047-4076-461C717948BD723A_5a4912dc-f6dc-a823-c1e5d2d23fa49b72.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.303694;-105.620910
+LOCATION:WyoTech
+SUMMARY:WyoTech Annual Car Show
+UID:39029@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyotech-annual-car-show/39029/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
@@ -211,6 +274,24 @@ GEO:41.311479;-105.593276
 SUMMARY:Dominick Antonelli W/ Deacon Brown @ TGU
 UID:38994@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dominick-antonelli-w-deacon-brown-%40-tgu/38994/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Observing Night at North Crow Reservoir\nMore info: https://www.visitlaramie.org/event/observing-night-at-north-crow-reservoir/39022/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-151843_F3055552-0E77-DF5A-0961F8D6E96B7572_f3204951-c28c-b894-c0bceac8427323b6.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:42.844276;-108.724198
+LOCATION:Off Campus-Sinks Canyon State Park
+SUMMARY:Observing Night at North Crow Reservoir
+UID:39022@visitlaramie.org
+URL:https://www.visitlaramie.org/event/observing-night-at-north-crow-reservoir/39022/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Second Annual Healing Summit / Healing Through Connection\nMore info: https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-131407_AE3BE1CD-FCEC-6DAB-E467F5533C23723E_ae5e1436-edc4-cd92-8365da6aead0068a.png\nCategories: Craft Classes & Workshops
+GEO:41.312875;-105.595100
+LOCATION:The Collective
+SUMMARY:Second Annual Healing Summit / Healing Through Connection
+UID:38734@visitlaramie.org
+URL:https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -249,6 +330,15 @@ UID:38987@visitlaramie.org
 URL:https://www.visitlaramie.org/event/comedy-that-cares-presents%3a-tim-meadows/38987/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Laramie PrideFest's Queer Gear and Clothing Swap\nMore info: https://www.visitlaramie.org/event/laramie-pridefests-queer-gear-and-clothing-swap/39015/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_Clothing-Swap-1-_36760E81-DAA5-1B17-F44C551A23C07491_36a3dcde-e548-97f5-20ca45c1fbb5cd7d.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.312078;-105.585940
+LOCATION:Canterbury House
+SUMMARY:Laramie PrideFest's Queer Gear and Clothing Swap
+UID:39015@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-pridefests-queer-gear-and-clothing-swap/39015/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
 DESCRIPTION:National Trails Day\nMore info: https://www.visitlaramie.org/event/national-trails-day/39008/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-14-at-1.19.58-PM_30123738-A0EC-BBEB-5A902A4DEE488192_3016944b-01dd-d7fa-4141ddb2073fac65.png\nCategories: Annual Events & Festivals\, Outdoor Recreation\, Volunteering
 GEO:41.311367;-105.591101
@@ -265,6 +355,15 @@ LOCATION:First Street Plaza
 SUMMARY:Pride Proclamation & Visibility March
 UID:39001@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-proclamation-%26-visibility-march/39001/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260611
+DESCRIPTION:Full-Dome Film: We Are Stars\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars/38622/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-101237_597BA1C4-F277-B70C-14B97C41C0418A0F_5980237a-0f2a-2210-78b1593afbf966e6.png\nCategories: Community\, University of Wyoming
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: We Are Stars
+UID:38622@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars/38622/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260624
@@ -294,13 +393,13 @@ UID:38641@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-friday-june-13th-2026/38641/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DESCRIPTION:Japanese Sake Tasting with Traditional Live Music\nMore info: https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-26-112807_F53F1985-E1A2-A790-317E610D292AF82D_f540db1e-fa5f-db5d-e68441c1d258ee2e.png\nCategories: Performing Arts & Culture
-GEO:41.308353;-105.596400
-LOCATION:Laramie Railroad Depot
-SUMMARY:Japanese Sake Tasting with Traditional Live Music
-UID:38992@visitlaramie.org
-URL:https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/
+DTSTART;VALUE=DATE:20260604
+DESCRIPTION:Full-Dome Film: The Sun: Our Living Star\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star/39020/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-100008_591BB97F-0CE2-E1BE-E6893D366ACC99CC_591f21b5-ba68-a2c0-22b24a0e03060a8c.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: The Sun: Our Living Star
+UID:39020@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star/39020/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
@@ -312,13 +411,13 @@ UID:38966@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-downtown-11am-1pm/38966/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260401
-DESCRIPTION:Tristan Duke & Polar Photography from the Collection\nMore info: https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-132926_8239836F-F287-D0FA-C292489236A0048E_82d5882f-c6aa-2cf6-e350d2a91d5b5653.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Tristan Duke & Polar Photography from the Collection
-UID:38875@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/
+DTSTART;VALUE=DATE:20260610
+DESCRIPTION:Japanese Sake Tasting with Traditional Live Music\nMore info: https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-26-112807_F53F1985-E1A2-A790-317E610D292AF82D_f540db1e-fa5f-db5d-e68441c1d258ee2e.png\nCategories: Performing Arts & Culture
+GEO:41.308353;-105.596400
+LOCATION:Laramie Railroad Depot
+SUMMARY:Japanese Sake Tasting with Traditional Live Music
+UID:38992@visitlaramie.org
+URL:https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
@@ -328,6 +427,33 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Retro Rock
 UID:38933@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/38933/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Tristan Duke & Polar Photography from the Collection\nMore info: https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-132926_8239836F-F287-D0FA-C292489236A0048E_82d5882f-c6aa-2cf6-e350d2a91d5b5653.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Tristan Duke & Polar Photography from the Collection
+UID:38875@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Full-Dome Film: Forward! To the Moon + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2b-star-talk/39027/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-141635_4982960B-BA2D-394A-1B6FD32F9201C414_4987f380-e0a2-c5ec-28220e265da27a69.png\nCategories: Community\, University of Wyoming
+GEO:41.323653;-105.583039
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Forward! To the Moon + Star Talk
+UID:39027@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2b-star-talk/39027/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Laramie PrideFest Trivia and Game Night!\nMore info: https://www.visitlaramie.org/event/laramie-pridefest-trivia-and-game-night!/39013/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_Trivia_3617CC24-DEB3-CDFC-2D953329F22B75E9_36269229-f011-d3d2-1ac693899a3c18c3.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.312875;-105.595100
+LOCATION:The Collective
+SUMMARY:Laramie PrideFest Trivia and Game Night!
+UID:39013@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-pridefest-trivia-and-game-night!/39013/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
@@ -365,6 +491,15 @@ UID:38990@visitlaramie.org
 URL:https://www.visitlaramie.org/event/invasive-weed-id-and-control-day-at-curt-gowdy-state-park/38990/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+DESCRIPTION:Full-Dome Film: From Earth to the Universe + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-star-talk/39025/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-101910_59B9300F-B6F6-542C-3E0384EB132C1F5A_59bbe7e4-d96a-4eca-2ced33da2bc39a72.png\nCategories: Community\, University of Wyoming
+GEO:41.323653;-105.583039
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: From Earth to the Universe + Star Talk
+UID:39025@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-star-talk/39025/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DESCRIPTION:Full-Dome Film: One Sky\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38938/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121401_7C61E50A-BAEE-4990-449B78D8D40E768E_7c645528-f35b-52c8-903d0064a179f5b1.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -372,6 +507,24 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: One Sky
 UID:38938@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky/38938/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260602
+DESCRIPTION:Full-Dome Film: Dawn of the Space Age + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%2b-star-talk/39018/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-095103_58B66E2C-E8AA-BD3F-8443C288D5D50AB1_58cc536f-9a0a-a3ec-7c9b5bb3326fa746.png\nCategories: Community\, University of Wyoming
+GEO:41.323653;-105.583039
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Dawn of the Space Age + Star Talk
+UID:39018@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%2b-star-talk/39018/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:Rainbow Road Bar Crawl: What's Wrong with My Algorithm\nMore info: https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39011/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_BarCrawl.JPG_25234690-C7DB-80C3-BDFDEA6ECD8F43A7_25321e74-011b-505d-9f39763f5dc52bad.jpg\nCategories: Annual Events & Festivals
+GEO:41.311367;-105.591101
+LOCATION:Various Locations across Town
+SUMMARY:Rainbow Road Bar Crawl: What's Wrong with My Algorithm
+UID:39011@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39011/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260529
@@ -399,6 +552,24 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Full-Dome Film:The Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/full-dome-film%3athe-great-solar-system-adventure/39023/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-101002_5969BA9D-0E95-B580-C1BE86C27806AC54_596a25be-b701-15e1-92d5491fffb8f2b7.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film:The Great Solar System Adventure
+UID:39023@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3athe-great-solar-system-adventure/39023/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Laramie PrideFest All-Ages Art Night\nMore info: https://www.visitlaramie.org/event/laramie-pridefest-all-ages-art-night/39016/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_Art-Night_36B5247F-EA05-02CF-49D3AFBFD7BD915C_36bf3e40-02f4-62b0-3f23b7d024e73a54.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.312078;-105.585940
+LOCATION:Canterbury House
+SUMMARY:Laramie PrideFest All-Ages Art Night
+UID:39016@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-pridefest-all-ages-art-night/39016/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
