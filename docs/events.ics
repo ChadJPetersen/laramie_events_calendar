@@ -98,6 +98,15 @@ UID:39000@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-pridefest-annual-summer-drag-show%3a-the-internet-made-me-gay/39000/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Summer Solstice Celebration!\nMore info: https://www.visitlaramie.org/event/summer-solstice-celebration!/39033/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-110126_8EBD2727-0B98-74AA-9367AFACA12A3773_8f67fe24-feb1-9578-c9e2f5302ae4ec28.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun
+GEO:41.314165;-105.568122
+LOCATION:UW Berry Center & University of Wyoming Art Museum
+SUMMARY:Summer Solstice Celebration!
+UID:39033@visitlaramie.org
+URL:https://www.visitlaramie.org/event/summer-solstice-celebration!/39033/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260602
 DESCRIPTION:City Council Pride Proclamation\nMore info: https://www.visitlaramie.org/event/city-council-pride-proclamation/38998/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_City-Council_C15F79C6-FBF0-CAC4-1433EBD161DCFE93_c16a4227-ccb7-8e7e-74fdb464b3eb0eb4.jpg\nCategories: Annual Events & Festivals\, Community
 GEO:41.311656;-105.591924
@@ -205,13 +214,13 @@ UID:38547@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dominick-antonelli-at-the-great-untamed/38547/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-DESCRIPTION:Cinderella: A Classical Ballet\nMore info: https://www.visitlaramie.org/event/cinderella%3a-a-classical-ballet/38974/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cinderella-Postcard-3-_9C781C18-6CB0-4BB7-BE0C8601E3BE45E7_1d3e4d73-6d49-495f-870f1a57dae97da0.png\nCategories: Performing Arts & Culture
-GEO:41.322811;-105.591448
-LOCATION:Cooper Center for Creative Arts
-SUMMARY:Cinderella: A Classical Ballet
-UID:38974@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cinderella%3a-a-classical-ballet/38974/
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Artist & Museum: Hung Liu\nMore info: https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-125533_C35E75D6-AAA7-21CA-88EE350CA355A8A0_c35eef76-a969-9341-bd4f3c9b6ff6b57a.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Artist & Museum: Hung Liu
+UID:39002@visitlaramie.org
+URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
@@ -420,15 +429,6 @@ UID:38992@visitlaramie.org
 URL:https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Liquid Sky: Retro Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/38933/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_F1A05544-A2FD-40E5-6E8B5F49432DD50B_f1a80b8a-9089-26ab-247c521dae8667c2.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Retro Rock
-UID:38933@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-retro-rock/38933/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Tristan Duke & Polar Photography from the Collection\nMore info: https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-132926_8239836F-F287-D0FA-C292489236A0048E_82d5882f-c6aa-2cf6-e350d2a91d5b5653.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
 GEO:41.314165;-105.568122
@@ -527,13 +527,13 @@ UID:39011@visitlaramie.org
 URL:https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39011/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Live Presentation: Hotter Than the Sun: The Atomic Age\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-hotter-than-the-sun%3a-the-atomic-age/38943/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-151706_F2F75752-91EB-4F7F-E9CB7A9D1F110946_f2f804be-fe89-b07b-2a7ccea9dc38446e.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Hotter Than the Sun: The Atomic Age
-UID:38943@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-hotter-than-the-sun%3a-the-atomic-age/38943/
+DTSTART;VALUE=DATE:20260618
+DESCRIPTION:UWAM Presents - Third Thursday:Instant Icons\nMore info: https://www.visitlaramie.org/event/uwam-presents-third-thursday%3ainstant-icons/39030/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-112632_8FA737CD-A892-5564-198070828A772103_8fa7cf4b-b365-2746-9626040169facfcd.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:UWAM Presents - Third Thursday:Instant Icons
+UID:39030@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uwam-presents-third-thursday%3ainstant-icons/39030/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260525
@@ -581,13 +581,13 @@ UID:39009@visitlaramie.org
 URL:https://www.visitlaramie.org/event/civic-center-courtyard-spring-cleaning/39009/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Artist & Museum: Hung Liu\nMore info: https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-125533_C35E75D6-AAA7-21CA-88EE350CA355A8A0_c35eef76-a969-9341-bd4f3c9b6ff6b57a.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Artist & Museum: Hung Liu
-UID:39002@visitlaramie.org
-URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
+DTSTART;VALUE=DATE:20260528
+DESCRIPTION:Cinderella: A Classical Ballet\nMore info: https://www.visitlaramie.org/event/cinderella%3a-a-classical-ballet/38974/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cinderella-Postcard-3-_9C781C18-6CB0-4BB7-BE0C8601E3BE45E7_1d3e4d73-6d49-495f-870f1a57dae97da0.png\nCategories: Performing Arts & Culture
+GEO:41.322811;-105.591448
+LOCATION:Cooper Center for Creative Arts
+SUMMARY:Cinderella: A Classical Ballet
+UID:38974@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cinderella%3a-a-classical-ballet/38974/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260624
