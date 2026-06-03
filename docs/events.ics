@@ -90,15 +90,6 @@ UID:39033@visitlaramie.org
 URL:https://www.visitlaramie.org/event/summer-solstice-celebration!/39033/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260602
-DESCRIPTION:City Council Pride Proclamation\nMore info: https://www.visitlaramie.org/event/city-council-pride-proclamation/38998/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_City-Council_C15F79C6-FBF0-CAC4-1433EBD161DCFE93_c16a4227-ccb7-8e7e-74fdb464b3eb0eb4.jpg\nCategories: Annual Events & Festivals\, Community
-GEO:41.311656;-105.591924
-LOCATION:Laramie City Hall
-SUMMARY:City Council Pride Proclamation
-UID:38998@visitlaramie.org
-URL:https://www.visitlaramie.org/event/city-council-pride-proclamation/38998/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260625
 DESCRIPTION:Full-Dome Film: Europe to the Stars\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-europe-to-the-stars/39026/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-102039_59CB33BA-06B7-2698-471D9248277D8E0A_59cbe6f5-b1cc-e9fe-ba1dbfdd70e25a13.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -106,15 +97,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Europe to the Stars
 UID:39026@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-europe-to-the-stars/39026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260602
-DESCRIPTION:Full-Dome Film: Hot and Energetic Universe\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39019/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-095859_58FB32C9-9212-9972-7A41AC265F344D63_58ff8451-da98-b4c5-221c5c49602bfab0.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Hot and Energetic Universe
-UID:39019@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39019/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
@@ -177,6 +159,15 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Urban Sketching @ the Train Tracks\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-the-train-tracks/39036/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_2BAB8091-CBE9-9CF2-2A7CE4A7BC8299E9_2bb9def9-bbcb-9546-fd137a7ae53edacc.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Train Tracks Downtown Bridge
+SUMMARY:Urban Sketching @ the Train Tracks
+UID:39036@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-%40-the-train-tracks/39036/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
@@ -258,6 +249,15 @@ LOCATION:Canterbury House
 SUMMARY:Laramie PrideFest's Queer Gear and Clothing Swap
 UID:39015@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-pridefests-queer-gear-and-clothing-swap/39015/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Urban Sketching @ UW Campus\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-uw-campus/39034/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_2B4C88E2-975E-C360-3FEC4BB8F14C9B69_2b7416eb-fffc-e0a7-8359a1a7c40b62c8.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.328947;-105.583933
+LOCATION:UW Campus
+SUMMARY:Urban Sketching @ UW Campus
+UID:39034@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-%40-uw-campus/39034/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
@@ -385,15 +385,6 @@ UID:39025@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-star-talk/39025/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260602
-DESCRIPTION:Full-Dome Film: Dawn of the Space Age + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%2b-star-talk/39018/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-095103_58B66E2C-E8AA-BD3F-8443C288D5D50AB1_58cc536f-9a0a-a3ec-7c9b5bb3326fa746.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Dawn of the Space Age + Star Talk
-UID:39018@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%2b-star-talk/39018/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
 DESCRIPTION:Rainbow Road Bar Crawl: What's Wrong with My Algorithm\nMore info: https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39011/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_BarCrawl.JPG_25234690-C7DB-80C3-BDFDEA6ECD8F43A7_25321e74-011b-505d-9f39763f5dc52bad.jpg\nCategories: Annual Events & Festivals
 GEO:41.311367;-105.591101
@@ -446,6 +437,15 @@ LOCATION:Canterbury House
 SUMMARY:Laramie PrideFest All-Ages Art Night
 UID:39016@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-pridefest-all-ages-art-night/39016/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Urban Sketching @ LaPrele Park\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-laprele-park/39035/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_2B8A5A0A-AA64-A8AE-51210AAB903BC3DC_2b9021ad-edf6-e0bc-56baeda8bc1d04b0.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:LaPrele Park
+SUMMARY:Urban Sketching @ LaPrele Park
+UID:39035@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-%40-laprele-park/39035/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
