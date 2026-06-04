@@ -11,6 +11,15 @@ UID:38675@visitlaramie.org
 URL:https://www.visitlaramie.org/event/taste-of-laradise/38675/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DESCRIPTION:Laramie Jubilee Days 2026\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-2026/38915/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-120122_EC0EC58E-DD3C-32D1-15BF4A90269347C3_ec2c181c-bb3a-f774-5e3018ea4dc8f9d8.png\nCategories: History\, Community\, Performing Arts & Culture\, Family Fun\, Social Events\, Wyoming 250
+GEO:43.075968;-107.290284
+LOCATION:Albany County
+SUMMARY:Laramie Jubilee Days 2026
+UID:38915@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-jubilee-days-2026/38915/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 DESCRIPTION:Full-Dome Film: One Sky + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-one-sky-%2b-star-talk/39028/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121401_5A20AA23-E380-7F07-32A9EC7A876AA023_5a249fb6-04fe-3058-c0aa37690b58cd3b.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -27,6 +36,15 @@ LOCATION:Off Campus-Sinks Canyon State Park
 SUMMARY:Observing Night at Sinks Canyon State Park Lander\, WY
 UID:39021@visitlaramie.org
 URL:https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/39021/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:National Cancer Survivor Day\nMore info: https://www.visitlaramie.org/event/national-cancer-survivor-day/39040/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cancer-Survivir-day-Cover-Photo-A_90A466B8-FC6E-5A07-A63E95E2782BFACB_90c07bc0-0f2b-75a0-333d63b8dbaaa534.png\nCategories: Community
+GEO:41.311367;-105.591101
+LOCATION:Washington Park Shelter #1
+SUMMARY:National Cancer Survivor Day
+UID:39040@visitlaramie.org
+URL:https://www.visitlaramie.org/event/national-cancer-survivor-day/39040/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
@@ -134,6 +152,14 @@ UID:39024@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39024/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Nature Journaling with Jennie Lawrence\nMore info: https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
+GEO:41.341222;-106.183517
+SUMMARY:Nature Journaling with Jennie Lawrence
+UID:39043@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260613
 DESCRIPTION:Pride in the Park\nMore info: https://www.visitlaramie.org/event/pride-in-the-park/39017/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_PITP-1-_36D4B458-9371-D5C3-DB7CCE82E571B259_36e1c18f-9d43-2135-1919d2737e564677.jpg\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Performing Arts & Culture\, Family Fun\, Social Events
 GEO:41.306133;-105.576724
@@ -168,6 +194,15 @@ LOCATION:Train Tracks Downtown Bridge
 SUMMARY:Urban Sketching @ the Train Tracks
 UID:39036@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-%40-the-train-tracks/39036/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DESCRIPTION:Shirley Lilley Memorial Kids Horse Show\nMore info: https://www.visitlaramie.org/event/shirley-lilley-memorial-kids-horse-show/39003/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_E5A8A37C-D10A-FFBF-2DE807C09B932AFC_e5ae9eef-9f6c-35ce-66882e2da02cb13a.png\nCategories: Annual Events & Festivals\, Outdoor Recreation\, Sports\, Performing Arts & Culture\, Family Fun
+GEO:41.286512;-105.592547
+LOCATION:Albany County Fairgrounds
+SUMMARY:Shirley Lilley Memorial Kids Horse Show
+UID:39003@visitlaramie.org
+URL:https://www.visitlaramie.org/event/shirley-lilley-memorial-kids-horse-show/39003/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
@@ -224,13 +259,12 @@ UID:38818@visitlaramie.org
 URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Touch A Truck\nMore info: https://www.visitlaramie.org/event/touch-a-truck/38909/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TOUCH-A-TRUCK-VL_BBC8EEA9-A841-6975-947BE419C0147000_bbcb52a4-ffd5-5edc-387ca04fd61ae0fb.png\nCategories: Family Fun
-GEO:41.305775;-105.551024
-LOCATION:Laramie Ice & Event Center
-SUMMARY:Touch A Truck
-UID:38909@visitlaramie.org
-URL:https://www.visitlaramie.org/event/touch-a-truck/38909/
+DTSTART;VALUE=DATE:20260604
+DESCRIPTION:National Forest Foundation Days\nMore info: https://www.visitlaramie.org/event/national-forest-foundation-days/39041/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
+GEO:41.341222;-106.183517
+SUMMARY:National Forest Foundation Days
+UID:39041@visitlaramie.org
+URL:https://www.visitlaramie.org/event/national-forest-foundation-days/39041/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
@@ -249,6 +283,15 @@ LOCATION:Canterbury House
 SUMMARY:Laramie PrideFest's Queer Gear and Clothing Swap
 UID:39015@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-pridefests-queer-gear-and-clothing-swap/39015/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Touch A Truck\nMore info: https://www.visitlaramie.org/event/touch-a-truck/38909/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TOUCH-A-TRUCK-VL_BBC8EEA9-A841-6975-947BE419C0147000_bbcb52a4-ffd5-5edc-387ca04fd61ae0fb.png\nCategories: Family Fun
+GEO:41.305775;-105.551024
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Touch A Truck
+UID:38909@visitlaramie.org
+URL:https://www.visitlaramie.org/event/touch-a-truck/38909/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
@@ -324,7 +367,7 @@ URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-s
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260610
-DESCRIPTION:Japanese Sake Tasting with Traditional Live Music\nMore info: https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-26-112807_F53F1985-E1A2-A790-317E610D292AF82D_f540db1e-fa5f-db5d-e68441c1d258ee2e.png\nCategories: Performing Arts & Culture
+DESCRIPTION:Japanese Sake Tasting with Traditional Live Music\nMore info: https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/unnamed_9A12D3F4-9645-383B-2A3F67FD506E7C5C_9a136ada-a74a-c8fe-c97a71f86602e40c.jpg\nCategories: Performing Arts & Culture
 GEO:41.308353;-105.596400
 LOCATION:Laramie Railroad Depot
 SUMMARY:Japanese Sake Tasting with Traditional Live Music
@@ -412,6 +455,15 @@ UID:38735@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Full-Dome Film:The Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/full-dome-film%3athe-great-solar-system-adventure/39023/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-101002_5969BA9D-0E95-B580-C1BE86C27806AC54_596a25be-b701-15e1-92d5491fffb8f2b7.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film:The Great Solar System Adventure
+UID:39023@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3athe-great-solar-system-adventure/39023/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:Global Collection : Masks of the World\nMore info: https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-101318_BD8D4C9E-BA8C-F3B0-E5DE078649781A01_bd937282-ae8d-0a89-7128ba09c4f30a48.png\nCategories: History\, University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -421,13 +473,12 @@ UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260609
-DESCRIPTION:Full-Dome Film:The Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/full-dome-film%3athe-great-solar-system-adventure/39023/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-101002_5969BA9D-0E95-B580-C1BE86C27806AC54_596a25be-b701-15e1-92d5491fffb8f2b7.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film:The Great Solar System Adventure
-UID:39023@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3athe-great-solar-system-adventure/39023/
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:Rocky Mountain High Five\nMore info: https://www.visitlaramie.org/event/rocky-mountain-high-five/39042/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
+GEO:41.341222;-106.183517
+SUMMARY:Rocky Mountain High Five
+UID:39042@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rocky-mountain-high-five/39042/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260612
