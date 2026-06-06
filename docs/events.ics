@@ -38,6 +38,15 @@ UID:39021@visitlaramie.org
 URL:https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/39021/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Turkey Vulture Talk and Watch\nMore info: https://www.visitlaramie.org/event/turkey-vulture-talk-and-watch/39047/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Standard-Template-3-_9B284550-996E-4E4A-E5327206C3F58250_9b427299-fab1-216c-dc80b1fab6f2702d.png\nCategories: Education
+GEO:41.169150;-105.222448
+LOCATION:Curt Gowdy State Park
+SUMMARY:Turkey Vulture Talk and Watch
+UID:39047@visitlaramie.org
+URL:https://www.visitlaramie.org/event/turkey-vulture-talk-and-watch/39047/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
 DESCRIPTION:National Cancer Survivor Day\nMore info: https://www.visitlaramie.org/event/national-cancer-survivor-day/39040/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cancer-Survivir-day-Cover-Photo-A_90A466B8-FC6E-5A07-A63E95E2782BFACB_90c07bc0-0f2b-75a0-333d63b8dbaaa534.png\nCategories: Community
 GEO:41.311367;-105.591101
@@ -108,13 +117,13 @@ UID:39026@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-europe-to-the-stars/39026/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Rainbow Road Bar Crawl: What's Wrong with my Algorithm\nMore info: https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39012/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26-FB-Event-Cover_35DFAEA1-B9E8-273A-C2FE0C914A88C55F_3601eb48-923b-66d8-6bbd8b41e52aca1f.jpg\nCategories: Annual Events & Festivals\, Community\, Social Events
-GEO:41.311367;-105.591101
-LOCATION:Downtown Laramie (See Map for Details)
-SUMMARY:Rainbow Road Bar Crawl: What's Wrong with my Algorithm
-UID:39012@visitlaramie.org
-URL:https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39012/
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Volunteer Weed Pull\nMore info: https://www.visitlaramie.org/event/volunteer-weed-pull/39045/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Weed-Pull-Day-1_9AAE2BAC-DF56-9DBF-432EC5F7A0277AFF_9abcbded-a61e-5cf4-ee294a5656bc749c.png\nCategories: Volunteering
+GEO:41.169150;-105.222448
+LOCATION:Curt Gowdy State Park
+SUMMARY:Volunteer Weed Pull
+UID:39045@visitlaramie.org
+URL:https://www.visitlaramie.org/event/volunteer-weed-pull/39045/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -123,6 +132,15 @@ GEO:41.305330;-105.590308
 SUMMARY:Tuesday Local Market in Undine Park
 UID:39005@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Vedauwoo Volunteer Fire Department Pancake Breakfast\nMore info: https://www.visitlaramie.org/event/vedauwoo-volunteer-fire-department-pancake-breakfast/39050/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/facebook-pancake-breakfast_D66664BF-E620-EFD4-2710651A701F44EB_d67e09b3-bf93-ed2f-ff7141a2ba6a2f2b.png\nCategories: Community
+GEO:41.160237;-105.408040
+LOCATION:Vedauwoo Volunteer Fire Department
+SUMMARY:Vedauwoo Volunteer Fire Department Pancake Breakfast
+UID:39050@visitlaramie.org
+URL:https://www.visitlaramie.org/event/vedauwoo-volunteer-fire-department-pancake-breakfast/39050/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
@@ -158,6 +176,15 @@ LOCATION:Washington park
 SUMMARY:Pride in the Park
 UID:39017@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pride-in-the-park/39017/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DESCRIPTION:Freedom Has A Birthday\nMore info: https://www.visitlaramie.org/event/freedom-has-a-birthday/38989/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FREEDOM-HAS-A-BIRTHDAY-3-_C5A09D89-0AC2-DD7D-8C77391BA4CF90FC_c5a58580-b3cc-4c81-22065eb1ef9a10ed.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Wyoming 250
+GEO:41.311367;-105.591101
+LOCATION:Washington Park
+SUMMARY:Freedom Has A Birthday
+UID:38989@visitlaramie.org
+URL:https://www.visitlaramie.org/event/freedom-has-a-birthday/38989/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260606
@@ -241,13 +268,13 @@ UID:38870@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo/38870/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:La Grande Fleur 2026: A Starry Night Ball\nMore info: https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-120912_AE4707D3-FB35-A74A-7B8F1277A80E9DD4_ae51fa47-ba28-6a6a-9aa9c10c96fec5b0.png\nCategories: Community\, Social Events
-GEO:41.310063;-105.565482
-LOCATION:Marian H. Rochelle Gateway Center
-SUMMARY:La Grande Fleur 2026: A Starry Night Ball
-UID:38818@visitlaramie.org
-URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
+DTSTART;VALUE=DATE:20260610
+DESCRIPTION:Peaceful Forest Taiko Performance\nMore info: https://www.visitlaramie.org/event/peaceful-forest-taiko-performance/39048/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Peaceful-Forest-flyer-2026_9DFD294A-C5B7-A125-1015409BF1C5FB7A_9e099eda-c038-949b-c52b274ca8906d75.png\nCategories: Concerts & Live Music\, Performing Arts & Culture\, Family Fun
+GEO:41.312616;-105.570928
+LOCATION:University of Wyoming\, Union Skylight Lounge
+SUMMARY:Peaceful Forest Taiko Performance
+UID:39048@visitlaramie.org
+URL:https://www.visitlaramie.org/event/peaceful-forest-taiko-performance/39048/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260604
@@ -274,6 +301,15 @@ LOCATION:Canterbury House
 SUMMARY:Laramie PrideFest's Queer Gear and Clothing Swap
 UID:39015@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-pridefests-queer-gear-and-clothing-swap/39015/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:La Grande Fleur 2026: A Starry Night Ball\nMore info: https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-120912_AE4707D3-FB35-A74A-7B8F1277A80E9DD4_ae51fa47-ba28-6a6a-9aa9c10c96fec5b0.png\nCategories: Community\, Social Events
+GEO:41.310063;-105.565482
+LOCATION:Marian H. Rochelle Gateway Center
+SUMMARY:La Grande Fleur 2026: A Starry Night Ball
+UID:38818@visitlaramie.org
+URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
@@ -340,12 +376,12 @@ URL:https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - Friday\, June 13th\, 2026\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-friday-june-13th-2026/38641/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-9_8088B668-4E64-4470-ABA7362C5216363F_92ca9468-6110-41d8-9efdce4102deb230.jpg\nCategories: Concerts & Live Music
+DESCRIPTION:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - 18+\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-18%2b/38641/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_6495_8304EA3B-5239-4FC8-BDAD78BBB579B05A_f222d784-1a17-48ad-8d80a480d03559f5.jpg\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
 LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - Friday\, June 13th\, 2026
+SUMMARY:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - 18+
 UID:38641@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-friday-june-13th-2026/38641/
+URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-18%2b/38641/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260610
@@ -364,6 +400,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Tristan Duke & Polar Photography from the Collection
 UID:38875@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Volunteer Weed Pull\nMore info: https://www.visitlaramie.org/event/volunteer-weed-pull/39046/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Weed-Pull-day-2_9AE38000-0977-3E0D-852BE7AFC406D02A_9aebe5f8-b9ac-4f71-6a2a1e4f61a9c01f.png\nCategories: Volunteering
+GEO:41.169150;-105.222448
+LOCATION:Curt Gowdy State Park
+SUMMARY:Volunteer Weed Pull
+UID:39046@visitlaramie.org
+URL:https://www.visitlaramie.org/event/volunteer-weed-pull/39046/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260609
@@ -399,15 +444,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: From Earth to the Universe + Star Talk
 UID:39025@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-star-talk/39025/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:Rainbow Road Bar Crawl: What's Wrong with My Algorithm\nMore info: https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39011/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_BarCrawl.JPG_25234690-C7DB-80C3-BDFDEA6ECD8F43A7_25321e74-011b-505d-9f39763f5dc52bad.jpg\nCategories: Annual Events & Festivals
-GEO:41.311367;-105.591101
-LOCATION:Various Locations across Town
-SUMMARY:Rainbow Road Bar Crawl: What's Wrong with My Algorithm
-UID:39011@visitlaramie.org
-URL:https://www.visitlaramie.org/event/rainbow-road-bar-crawl%3a-whats-wrong-with-my-algorithm/39011/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260618
