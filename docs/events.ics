@@ -38,15 +38,6 @@ UID:39021@visitlaramie.org
 URL:https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/39021/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Turkey Vulture Talk and Watch\nMore info: https://www.visitlaramie.org/event/turkey-vulture-talk-and-watch/39047/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Standard-Template-3-_9B284550-996E-4E4A-E5327206C3F58250_9b427299-fab1-216c-dc80b1fab6f2702d.png\nCategories: Education
-GEO:41.169150;-105.222448
-LOCATION:Curt Gowdy State Park
-SUMMARY:Turkey Vulture Talk and Watch
-UID:39047@visitlaramie.org
-URL:https://www.visitlaramie.org/event/turkey-vulture-talk-and-watch/39047/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
 DESCRIPTION:National Cancer Survivor Day\nMore info: https://www.visitlaramie.org/event/national-cancer-survivor-day/39040/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cancer-Survivir-day-Cover-Photo-A_90A466B8-FC6E-5A07-A63E95E2782BFACB_90c07bc0-0f2b-75a0-333d63b8dbaaa534.png\nCategories: Community
 GEO:41.311367;-105.591101
@@ -88,15 +79,6 @@ GEO:41.310883;-105.599874
 SUMMARY:Railtown Supply & Retreat Pop Up Sale + Backyard Party
 UID:38979@visitlaramie.org
 URL:https://www.visitlaramie.org/event/railtown-supply-%26-retreat-pop-up-sale-%2b-backyard-party/38979/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Laramie PrideFest Annual Summer Drag Show: The Internet Made Me Gay\nMore info: https://www.visitlaramie.org/event/laramie-pridefest-annual-summer-drag-show%3a-the-internet-made-me-gay/39000/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_Drag-1-_C1B4DA66-D250-F153-3AAF0ACFF911A207_c1ff362c-e026-8427-402eb0ace53648d1.jpg\nCategories: Annual Events & Festivals\, Performing Arts & Culture\, Social Events
-GEO:41.309522;-105.587753
-LOCATION:The Gryphon Theatre
-SUMMARY:Laramie PrideFest Annual Summer Drag Show: The Internet Made Me Gay
-UID:39000@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-pridefest-annual-summer-drag-show%3a-the-internet-made-me-gay/39000/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
@@ -143,15 +125,6 @@ UID:39050@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vedauwoo-volunteer-fire-department-pancake-breakfast/39050/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Family Field Day\nMore info: https://www.visitlaramie.org/event/family-field-day/38996/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FamilyFieldDaywoSponsors_BDC13E98-9045-70E4-70EE91700E95CD43_bdd266ad-feab-a52a-c5171ee140a9e731.png\nCategories: Annual Events & Festivals
-GEO:41.287514;-105.587074
-LOCATION:804 Dally Ridge Road
-SUMMARY:Family Field Day
-UID:38996@visitlaramie.org
-URL:https://www.visitlaramie.org/event/family-field-day/38996/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260616
 DESCRIPTION:Full-Dome Film: Dark Biosphere + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39024/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_E77917A4-CB39-B17B-16C9D3AA217478DF_e779b311-e819-ee05-746aa775addbd94a.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -185,15 +158,6 @@ LOCATION:Washington Park
 SUMMARY:Freedom Has A Birthday
 UID:38989@visitlaramie.org
 URL:https://www.visitlaramie.org/event/freedom-has-a-birthday/38989/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Laramie Audubon Kids & Families Program\nMore info: https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-program/39010/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/YellowWarbler_F10DCE4E-AB5C-2F6E-1A3FA5AB668DE04C_f1138db2-af42-8f5c-c2020e42336fbfa6.jpg\nCategories: Family Fun
-GEO:41.321748;-105.609735
-LOCATION:LaBonte Park Picnic Shelter
-SUMMARY:Laramie Audubon Kids & Families Program
-UID:39010@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-program/39010/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -232,13 +196,13 @@ UID:38949@visitlaramie.org
 URL:https://www.visitlaramie.org/event/introduction-to-table-braiding-with-hair/38949/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:WyoTech Annual Car Show\nMore info: https://www.visitlaramie.org/event/wyotech-annual-car-show/39029/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-103244_5A43A8A5-E047-4076-461C717948BD723A_5a4912dc-f6dc-a823-c1e5d2d23fa49b72.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.303694;-105.620910
-LOCATION:WyoTech
-SUMMARY:WyoTech Annual Car Show
-UID:39029@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyotech-annual-car-show/39029/
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:Second Annual Healing Summit / Healing Through Connection\nMore info: https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-131407_AE3BE1CD-FCEC-6DAB-E467F5533C23723E_ae5e1436-edc4-cd92-8365da6aead0068a.png\nCategories: Craft Classes & Workshops
+GEO:41.312875;-105.595100
+LOCATION:The Collective
+SUMMARY:Second Annual Healing Summit / Healing Through Connection
+UID:38734@visitlaramie.org
+URL:https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
@@ -248,15 +212,6 @@ LOCATION:Off Campus-Sinks Canyon State Park
 SUMMARY:Observing Night at North Crow Reservoir
 UID:39022@visitlaramie.org
 URL:https://www.visitlaramie.org/event/observing-night-at-north-crow-reservoir/39022/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-DESCRIPTION:Second Annual Healing Summit / Healing Through Connection\nMore info: https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-131407_AE3BE1CD-FCEC-6DAB-E467F5533C23723E_ae5e1436-edc4-cd92-8365da6aead0068a.png\nCategories: Craft Classes & Workshops
-GEO:41.312875;-105.595100
-LOCATION:The Collective
-SUMMARY:Second Annual Healing Summit / Healing Through Connection
-UID:38734@visitlaramie.org
-URL:https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -277,12 +232,13 @@ UID:39048@visitlaramie.org
 URL:https://www.visitlaramie.org/event/peaceful-forest-taiko-performance/39048/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260604
-DESCRIPTION:National Forest Foundation Days\nMore info: https://www.visitlaramie.org/event/national-forest-foundation-days/39041/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
-GEO:41.341222;-106.183517
-SUMMARY:National Forest Foundation Days
-UID:39041@visitlaramie.org
-URL:https://www.visitlaramie.org/event/national-forest-foundation-days/39041/
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:La Grande Fleur 2026: A Starry Night Ball\nMore info: https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-120912_AE4707D3-FB35-A74A-7B8F1277A80E9DD4_ae51fa47-ba28-6a6a-9aa9c10c96fec5b0.png\nCategories: Community\, Social Events
+GEO:41.310063;-105.565482
+LOCATION:Marian H. Rochelle Gateway Center
+SUMMARY:La Grande Fleur 2026: A Starry Night Ball
+UID:38818@visitlaramie.org
+URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
@@ -303,15 +259,6 @@ UID:39015@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-pridefests-queer-gear-and-clothing-swap/39015/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:La Grande Fleur 2026: A Starry Night Ball\nMore info: https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-120912_AE4707D3-FB35-A74A-7B8F1277A80E9DD4_ae51fa47-ba28-6a6a-9aa9c10c96fec5b0.png\nCategories: Community\, Social Events
-GEO:41.310063;-105.565482
-LOCATION:Marian H. Rochelle Gateway Center
-SUMMARY:La Grande Fleur 2026: A Starry Night Ball
-UID:38818@visitlaramie.org
-URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DESCRIPTION:Touch A Truck\nMore info: https://www.visitlaramie.org/event/touch-a-truck/38909/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TOUCH-A-TRUCK-VL_BBC8EEA9-A841-6975-947BE419C0147000_bbcb52a4-ffd5-5edc-387ca04fd61ae0fb.png\nCategories: Family Fun
 GEO:41.305775;-105.551024
@@ -319,24 +266,6 @@ LOCATION:Laramie Ice & Event Center
 SUMMARY:Touch A Truck
 UID:38909@visitlaramie.org
 URL:https://www.visitlaramie.org/event/touch-a-truck/38909/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Urban Sketching @ UW Campus\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-uw-campus/39034/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_2B4C88E2-975E-C360-3FEC4BB8F14C9B69_2b7416eb-fffc-e0a7-8359a1a7c40b62c8.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.328947;-105.583933
-LOCATION:UW Campus
-SUMMARY:Urban Sketching @ UW Campus
-UID:39034@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-uw-campus/39034/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:National Trails Day\nMore info: https://www.visitlaramie.org/event/national-trails-day/39008/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-14-at-1.19.58-PM_30123738-A0EC-BBEB-5A902A4DEE488192_3016944b-01dd-d7fa-4141ddb2073fac65.png\nCategories: Annual Events & Festivals\, Outdoor Recreation\, Volunteering
-GEO:41.311367;-105.591101
-LOCATION:Happy Jack Recreation Area
-SUMMARY:National Trails Day
-UID:39008@visitlaramie.org
-URL:https://www.visitlaramie.org/event/national-trails-day/39008/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260607
@@ -427,14 +356,6 @@ LOCATION:Rebel Ranch
 SUMMARY:Afternoon Tea and Tatanka
 UID:38686@visitlaramie.org
 URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DESCRIPTION:Covenhoven @ TGU\nMore info: https://www.visitlaramie.org/event/covenhoven-%40-tgu/39006/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Covenhoven_Laramie_June-6_3433ADAB-9FFB-4405-B371AB904A4B10F3_11452867-cb16-4097-990cf818fe581e89.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Covenhoven @ TGU
-UID:39006@visitlaramie.org
-URL:https://www.visitlaramie.org/event/covenhoven-%40-tgu/39006/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260618
