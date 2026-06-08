@@ -38,15 +38,6 @@ UID:39021@visitlaramie.org
 URL:https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/39021/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:National Cancer Survivor Day\nMore info: https://www.visitlaramie.org/event/national-cancer-survivor-day/39040/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cancer-Survivir-day-Cover-Photo-A_90A466B8-FC6E-5A07-A63E95E2782BFACB_90c07bc0-0f2b-75a0-333d63b8dbaaa534.png\nCategories: Community
-GEO:41.311367;-105.591101
-LOCATION:Washington Park Shelter #1
-SUMMARY:National Cancer Survivor Day
-UID:39040@visitlaramie.org
-URL:https://www.visitlaramie.org/event/national-cancer-survivor-day/39040/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
 DESCRIPTION:Y2Gay: Queer Generations\, Digital Worlds\, and the Stories We Found Online - Laramie PrideFest Queer Storytelling\nMore info: https://www.visitlaramie.org/event/y2gay%3a-queer-generations-digital-worlds-and-the-stories-we-found-online-laramie-pridefest-queer-storytelling/39014/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/53/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26-FB-Event-Cover_364CE999-0A6D-F038-440FF15DDE5F2CF0_3657bbf3-cdcf-765d-fceb057c8ecee10b.jpg\nCategories: Annual Events & Festivals\, Community\, Social Events
 GEO:41.308353;-105.596400
@@ -205,15 +196,6 @@ UID:38734@visitlaramie.org
 URL:https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:Observing Night at North Crow Reservoir\nMore info: https://www.visitlaramie.org/event/observing-night-at-north-crow-reservoir/39022/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-151843_F3055552-0E77-DF5A-0961F8D6E96B7572_f3204951-c28c-b894-c0bceac8427323b6.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:42.844276;-108.724198
-LOCATION:Off Campus-Sinks Canyon State Park
-SUMMARY:Observing Night at North Crow Reservoir
-UID:39022@visitlaramie.org
-URL:https://www.visitlaramie.org/event/observing-night-at-north-crow-reservoir/39022/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
@@ -266,15 +248,6 @@ LOCATION:Laramie Ice & Event Center
 SUMMARY:Touch A Truck
 UID:38909@visitlaramie.org
 URL:https://www.visitlaramie.org/event/touch-a-truck/38909/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DESCRIPTION:Pride Proclamation & Visibility March\nMore info: https://www.visitlaramie.org/event/pride-proclamation-%26-visibility-march/39001/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_March_C2138D2A-D3FD-B15F-A3F665503FEACCCA_c21af0a2-073e-026a-044bcc587ccbb5ce.jpg\nCategories: Annual Events & Festivals\, Community\, Social Events
-GEO:41.310977;-105.595828
-LOCATION:First Street Plaza
-SUMMARY:Pride Proclamation & Visibility March
-UID:39001@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pride-proclamation-%26-visibility-march/39001/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
