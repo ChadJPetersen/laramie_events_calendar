@@ -250,6 +250,15 @@ UID:38909@visitlaramie.org
 URL:https://www.visitlaramie.org/event/touch-a-truck/38909/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Tuesday Local Market\nMore info: https://www.visitlaramie.org/event/tuesday-local-market/39060/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TLM_65321B46-F975-66AE-4B7F93FAB64FA696_65692306-eba3-5d36-af75d8144a8a1829.jpg\nCategories: Concerts & Live Music\, Community\, Family Fun
+GEO:41.317073;-105.590587
+LOCATION:Undine Park
+SUMMARY:Tuesday Local Market
+UID:39060@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tuesday-local-market/39060/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
 DESCRIPTION:Full-Dome Film: We Are Stars\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars/38622/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-101237_597BA1C4-F277-B70C-14B97C41C0418A0F_5980237a-0f2a-2210-78b1593afbf966e6.png\nCategories: Community\, University of Wyoming
 GEO:41.323643;-105.583027
@@ -338,6 +347,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: From Earth to the Universe + Star Talk
 UID:39025@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-star-talk/39025/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Nature Journaling with Jennie Lawrence\nMore info: https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39044/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
+GEO:41.341222;-106.183517
+SUMMARY:Nature Journaling with Jennie Lawrence
+UID:39044@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39044/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260618
