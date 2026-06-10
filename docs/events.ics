@@ -38,6 +38,15 @@ UID:39021@visitlaramie.org
 URL:https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/39021/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Wyoming Statehood Day Celebration2026\nMore info: https://www.visitlaramie.org/event/wyoming-statehood-day-celebration2026/39054/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-08-133612_33464282-D42D-C8FD-94AC970E53733F6A_334761b0-a49a-26d5-7d508d85ca4a2174.png\nCategories: History\, Community\, Wyoming 250
+GEO:41.311613;-105.610512
+LOCATION:Wyoming Territorial Prison State Historic Site
+SUMMARY:Wyoming Statehood Day Celebration2026
+UID:39054@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-statehood-day-celebration2026/39054/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
 DESCRIPTION:Y2Gay: Queer Generations\, Digital Worlds\, and the Stories We Found Online - Laramie PrideFest Queer Storytelling\nMore info: https://www.visitlaramie.org/event/y2gay%3a-queer-generations-digital-worlds-and-the-stories-we-found-online-laramie-pridefest-queer-storytelling/39014/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/53/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26-FB-Event-Cover_364CE999-0A6D-F038-440FF15DDE5F2CF0_3657bbf3-cdcf-765d-fceb057c8ecee10b.jpg\nCategories: Annual Events & Festivals\, Community\, Social Events
 GEO:41.308353;-105.596400
@@ -205,15 +214,6 @@ UID:38870@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo/38870/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DESCRIPTION:Peaceful Forest Taiko Performance\nMore info: https://www.visitlaramie.org/event/peaceful-forest-taiko-performance/39048/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Peaceful-Forest-flyer-2026_9DFD294A-C5B7-A125-1015409BF1C5FB7A_9e099eda-c038-949b-c52b274ca8906d75.png\nCategories: Concerts & Live Music\, Performing Arts & Culture\, Family Fun
-GEO:41.312616;-105.570928
-LOCATION:University of Wyoming\, Union Skylight Lounge
-SUMMARY:Peaceful Forest Taiko Performance
-UID:39048@visitlaramie.org
-URL:https://www.visitlaramie.org/event/peaceful-forest-taiko-performance/39048/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260613
 DESCRIPTION:La Grande Fleur 2026: A Starry Night Ball\nMore info: https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-120912_AE4707D3-FB35-A74A-7B8F1277A80E9DD4_ae51fa47-ba28-6a6a-9aa9c10c96fec5b0.png\nCategories: Community\, Social Events
 GEO:41.310063;-105.565482
@@ -221,6 +221,15 @@ LOCATION:Marian H. Rochelle Gateway Center
 SUMMARY:La Grande Fleur 2026: A Starry Night Ball
 UID:38818@visitlaramie.org
 URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DESCRIPTION:Peaceful Forest Taiko Performance\nMore info: https://www.visitlaramie.org/event/peaceful-forest-taiko-performance/39048/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Peaceful-Forest-flyer-2026_9DFD294A-C5B7-A125-1015409BF1C5FB7A_9e099eda-c038-949b-c52b274ca8906d75.png\nCategories: Concerts & Live Music\, Performing Arts & Culture\, Family Fun
+GEO:41.312616;-105.570928
+LOCATION:University of Wyoming\, Union Skylight Lounge
+SUMMARY:Peaceful Forest Taiko Performance
+UID:39048@visitlaramie.org
+URL:https://www.visitlaramie.org/event/peaceful-forest-taiko-performance/39048/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
@@ -322,15 +331,6 @@ UID:39046@visitlaramie.org
 URL:https://www.visitlaramie.org/event/volunteer-weed-pull/39046/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260609
-DESCRIPTION:Laramie PrideFest Trivia and Game Night!\nMore info: https://www.visitlaramie.org/event/laramie-pridefest-trivia-and-game-night!/39013/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_Trivia_3617CC24-DEB3-CDFC-2D953329F22B75E9_36269229-f011-d3d2-1ac693899a3c18c3.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.312875;-105.595100
-LOCATION:The Collective
-SUMMARY:Laramie PrideFest Trivia and Game Night!
-UID:39013@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-pridefest-trivia-and-game-night!/39013/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:Afternoon Tea and Tatanka\nMore info: https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/\nVenue: Rebel Ranch\nVenue Info: https://www.visitlaramie.org/listing/rebel-ranch/516/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/cow-calf_A4B3D06D-07AF-9D0D-E4F064D6AC0FD23B_a51c909c-f2af-b816-071fb6249b4c0a05.jpg\nCategories: Outdoor Recreation\, Education\, Social Events
 GEO:41.188541;-106.085557
@@ -382,15 +382,6 @@ LOCATION:Cowgirl Yarn
 SUMMARY:Cowboy Yarn Crawl
 UID:38735@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260609
-DESCRIPTION:Full-Dome Film:The Great Solar System Adventure\nMore info: https://www.visitlaramie.org/event/full-dome-film%3athe-great-solar-system-adventure/39023/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-101002_5969BA9D-0E95-B580-C1BE86C27806AC54_596a25be-b701-15e1-92d5491fffb8f2b7.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film:The Great Solar System Adventure
-UID:39023@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3athe-great-solar-system-adventure/39023/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
