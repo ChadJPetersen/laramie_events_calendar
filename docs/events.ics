@@ -29,15 +29,6 @@ UID:39028@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky-%2b-star-talk/39028/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260614
-DESCRIPTION:Observing Night at Sinks Canyon State Park Lander\, WY\nMore info: https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/39021/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-151843_F3055552-0E77-DF5A-0961F8D6E96B7572_f3204951-c28c-b894-c0bceac8427323b6.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:42.844276;-108.724198
-LOCATION:Off Campus-Sinks Canyon State Park
-SUMMARY:Observing Night at Sinks Canyon State Park Lander\, WY
-UID:39021@visitlaramie.org
-URL:https://www.visitlaramie.org/event/observing-night-at-sinks-canyon-state-park-lander-wy/39021/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Wyoming Statehood Day Celebration2026\nMore info: https://www.visitlaramie.org/event/wyoming-statehood-day-celebration2026/39054/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-08-133612_33464282-D42D-C8FD-94AC970E53733F6A_334761b0-a49a-26d5-7d508d85ca4a2174.png\nCategories: History\, Community\, Wyoming 250
 GEO:41.311613;-105.610512
@@ -63,6 +54,15 @@ LOCATION:Alice Hardie Stevens Center
 SUMMARY:Locks of Love: Victorian Hairwork and Memory
 UID:38901@visitlaramie.org
 URL:https://www.visitlaramie.org/event/locks-of-love%3a-victorian-hairwork-and-memory/38901/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260616
+DESCRIPTION:Gig Into Wyoming Fossil and Gem Discovery\nMore info: https://www.visitlaramie.org/event/gig-into-wyoming-fossil-and-gem-discovery/39066/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-10-130615_FD6F8080-CC99-9281-8257227047924DA9_fd76c6b5-9cf5-46e4-4f78c6a2389cb1c5.png\nCategories: History\, Community\, University of Wyoming\, Education\, Family Fun
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Gig Into Wyoming Fossil and Gem Discovery
+UID:39066@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gig-into-wyoming-fossil-and-gem-discovery/39066/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260617
@@ -223,13 +223,13 @@ UID:38818@visitlaramie.org
 URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DESCRIPTION:Peaceful Forest Taiko Performance\nMore info: https://www.visitlaramie.org/event/peaceful-forest-taiko-performance/39048/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Peaceful-Forest-flyer-2026_9DFD294A-C5B7-A125-1015409BF1C5FB7A_9e099eda-c038-949b-c52b274ca8906d75.png\nCategories: Concerts & Live Music\, Performing Arts & Culture\, Family Fun
-GEO:41.312616;-105.570928
-LOCATION:University of Wyoming\, Union Skylight Lounge
-SUMMARY:Peaceful Forest Taiko Performance
-UID:39048@visitlaramie.org
-URL:https://www.visitlaramie.org/event/peaceful-forest-taiko-performance/39048/
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Touch A Truck\nMore info: https://www.visitlaramie.org/event/touch-a-truck/38909/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TOUCH-A-TRUCK-VL_BBC8EEA9-A841-6975-947BE419C0147000_bbcb52a4-ffd5-5edc-387ca04fd61ae0fb.png\nCategories: Family Fun
+GEO:41.305775;-105.551024
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Touch A Truck
+UID:38909@visitlaramie.org
+URL:https://www.visitlaramie.org/event/touch-a-truck/38909/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260611
@@ -250,13 +250,13 @@ UID:39015@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-pridefests-queer-gear-and-clothing-swap/39015/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Touch A Truck\nMore info: https://www.visitlaramie.org/event/touch-a-truck/38909/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TOUCH-A-TRUCK-VL_BBC8EEA9-A841-6975-947BE419C0147000_bbcb52a4-ffd5-5edc-387ca04fd61ae0fb.png\nCategories: Family Fun
-GEO:41.305775;-105.551024
-LOCATION:Laramie Ice & Event Center
-SUMMARY:Touch A Truck
-UID:38909@visitlaramie.org
-URL:https://www.visitlaramie.org/event/touch-a-truck/38909/
+DTSTART;VALUE=DATE:20260613
+DESCRIPTION:The Hootn Hallers Live @ The Ruffed up Duck\nMore info: https://www.visitlaramie.org/event/the-hootn-hallers-live-%40-the-ruffed-up-duck/39067/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-10-131825_FDA99D0A-94EC-4C3D-3899923090E1EB24_fdabda77-cbb3-465c-d69351e96d198dff.png\nCategories: Concerts & Live Music
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:The Hootn Hallers Live @ The Ruffed up Duck
+UID:39067@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-hootn-hallers-live-%40-the-ruffed-up-duck/39067/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -304,15 +304,6 @@ UID:38641@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-18%2b/38641/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DESCRIPTION:Japanese Sake Tasting with Traditional Live Music\nMore info: https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/unnamed_9A12D3F4-9645-383B-2A3F67FD506E7C5C_9a136ada-a74a-c8fe-c97a71f86602e40c.jpg\nCategories: Performing Arts & Culture
-GEO:41.308353;-105.596400
-LOCATION:Laramie Railroad Depot
-SUMMARY:Japanese Sake Tasting with Traditional Live Music
-UID:38992@visitlaramie.org
-URL:https://www.visitlaramie.org/event/japanese-sake-tasting-with-traditional-live-music/38992/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Tristan Duke & Polar Photography from the Collection\nMore info: https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-132926_8239836F-F287-D0FA-C292489236A0048E_82d5882f-c6aa-2cf6-e350d2a91d5b5653.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
 GEO:41.314165;-105.568122
@@ -338,6 +329,15 @@ LOCATION:Rebel Ranch
 SUMMARY:Afternoon Tea and Tatanka
 UID:38686@visitlaramie.org
 URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DESCRIPTION:Laramie Brewfest\nMore info: https://www.visitlaramie.org/event/laramie-brewfest/39039/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Brewfest_Event_8D48B5F7-A620-5382-5B70D364745CF42B_8d4c049b-a23d-0ad9-57b6febf581cb7a1.png\nCategories: Annual Events & Festivals
+GEO:41.311367;-105.591101
+LOCATION:Depot Park in Downtown Laramie
+SUMMARY:Laramie Brewfest
+UID:39039@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-brewfest/39039/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260618
