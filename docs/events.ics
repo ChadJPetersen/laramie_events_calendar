@@ -2,13 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Taste of Laradise\nMore info: https://www.visitlaramie.org/event/taste-of-laradise/38675/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TasteOfLaradiseLogo_0A9B3F05-EE7E-08CB-CB05C100D4BD6A47_0abc0e07-a237-ba73-d084338659226a68.png\nCategories: Concerts & Live Music\, Community
-GEO:38.794595;-106.534838
-LOCATION:2nd Street between Garfield & Custer\, throughout Downtown
-SUMMARY:Taste of Laradise
-UID:38675@visitlaramie.org
-URL:https://www.visitlaramie.org/event/taste-of-laradise/38675/
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Laramie Jubilee Days Event: Jalapeño Eating Contest\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-jalape%c3%b1o-eating-contest/39080/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-12-102257_5E4EE37B-CB70-A2D8-622812E11B111C6A_5e4fd8ec-0db0-71ec-c8107dc07471d550.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
+GEO:41.311367;-105.591101
+SUMMARY:Laramie Jubilee Days Event: Jalapeño Eating Contest
+UID:39080@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-jalape%c3%b1o-eating-contest/39080/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
@@ -27,14 +26,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: One Sky + Star Talk
 UID:39028@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky-%2b-star-talk/39028/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Laramie Jubilee Days Event: Jalapeño Eating Contest\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-jalape%c3%b1o-eating-contest/39080/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-12-102257_5E4EE37B-CB70-A2D8-622812E11B111C6A_5e4fd8ec-0db0-71ec-c8107dc07471d550.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event: Jalapeño Eating Contest
-UID:39080@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-jalape%c3%b1o-eating-contest/39080/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
@@ -220,15 +211,6 @@ UID:39043@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Pride in the Park\nMore info: https://www.visitlaramie.org/event/pride-in-the-park/39017/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LPF-26_PITP-1-_36D4B458-9371-D5C3-DB7CCE82E571B259_36e1c18f-9d43-2135-1919d2737e564677.jpg\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Performing Arts & Culture\, Family Fun\, Social Events
-GEO:41.306133;-105.576724
-LOCATION:Washington park
-SUMMARY:Pride in the Park
-UID:39017@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pride-in-the-park/39017/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
 DESCRIPTION:45th Annual Centennial Valley Art Show\nMore info: https://www.visitlaramie.org/event/45th-annual-centennial-valley-art-show/39101/\nVenue: Nici Self Museum\nVenue Info: https://www.visitlaramie.org/listing/nici-self-museum/82/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-Centennial-Valley-Art-Show-Poster-8.5x11_440085EB-BBCB-CE14-9ADCD52D52206D83_44066668-cb02-fd06-a4cf42fa437f2312.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.298305;-106.141677
@@ -325,15 +307,6 @@ UID:38870@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo/38870/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:La Grande Fleur 2026: A Starry Night Ball\nMore info: https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/\nVenue: Marian H. Rochelle Gateway Center\nVenue Info: https://www.visitlaramie.org/listing/marian-h-rochelle-gateway-center/220/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-16-120912_AE4707D3-FB35-A74A-7B8F1277A80E9DD4_ae51fa47-ba28-6a6a-9aa9c10c96fec5b0.png\nCategories: Community\, Social Events
-GEO:41.310063;-105.565482
-LOCATION:Marian H. Rochelle Gateway Center
-SUMMARY:La Grande Fleur 2026: A Starry Night Ball
-UID:38818@visitlaramie.org
-URL:https://www.visitlaramie.org/event/la-grande-fleur-2026%3a-a-starry-night-ball/38818/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DESCRIPTION:Touch A Truck\nMore info: https://www.visitlaramie.org/event/touch-a-truck/38909/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TOUCH-A-TRUCK-VL_BBC8EEA9-A841-6975-947BE419C0147000_bbcb52a4-ffd5-5edc-387ca04fd61ae0fb.png\nCategories: Family Fun
 GEO:41.305775;-105.551024
@@ -358,15 +331,6 @@ GEO:41.311367;-105.591101
 SUMMARY:Laramie Jubilee Days Event: Live Music - Jason Moore
 UID:39093@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-jason-moore/39093/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:The Hootn Hallers Live @ The Ruffed up Duck\nMore info: https://www.visitlaramie.org/event/the-hootn-hallers-live-%40-the-ruffed-up-duck/39067/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-10-131825_FDA99D0A-94EC-4C3D-3899923090E1EB24_fdabda77-cbb3-465c-d69351e96d198dff.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:The Hootn Hallers Live @ The Ruffed up Duck
-UID:39067@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-hootn-hallers-live-%40-the-ruffed-up-duck/39067/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -402,15 +366,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Forward! To the Moon + Star Talk
 UID:39027@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2b-star-talk/39027/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - 18+\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-18%2b/38641/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_6495_8304EA3B-5239-4FC8-BDAD78BBB579B05A_f222d784-1a17-48ad-8d80a480d03559f5.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Cowboy Saloon Presents: The Dirt &#8211\; 80’s Hair Metal Tribute Night - 18+
-UID:38641@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-saloon-presents%3a-the-dirt-%26%238211%3b-80%e2%80%99s-hair-metal-tribute-night-18%2b/38641/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -585,14 +540,6 @@ LOCATION:Depot Parking Lot
 SUMMARY:Laramie Jubilee Days Carnival
 UID:39075@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/39075/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DESCRIPTION:Rocky Mountain High Five\nMore info: https://www.visitlaramie.org/event/rocky-mountain-high-five/39042/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
-GEO:41.341222;-106.183517
-SUMMARY:Rocky Mountain High Five
-UID:39042@visitlaramie.org
-URL:https://www.visitlaramie.org/event/rocky-mountain-high-five/39042/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
