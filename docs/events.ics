@@ -289,15 +289,6 @@ UID:39088@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3ajake-haffey-band-live/39088/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-DESCRIPTION:Second Annual Healing Summit / Healing Through Connection\nMore info: https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-131407_AE3BE1CD-FCEC-6DAB-E467F5533C23723E_ae5e1436-edc4-cd92-8365da6aead0068a.png\nCategories: Craft Classes & Workshops
-GEO:41.312875;-105.595100
-LOCATION:The Collective
-SUMMARY:Second Annual Healing Summit / Healing Through Connection
-UID:38734@visitlaramie.org
-URL:https://www.visitlaramie.org/event/second-annual-healing-summit-healing-through-connection/38734/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
