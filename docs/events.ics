@@ -123,15 +123,6 @@ UID:39078@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3amosaico-folklorico-dance/39078/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39071/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-100933_2A493029-0C10-AC72-C7372F57BEE99490_2a538758-c87d-812b-d871fecca2556784.png\nCategories: Community\, Social Events
-GEO:41.311928;-105.600431
-LOCATION:Lincoln Community Center
-SUMMARY:Ecstatic Dance
-UID:39071@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ecstatic-dance/39071/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
 DESCRIPTION:Laramie Plains Museum Presnts: Art Fest on the Lawn\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-presnts%3a-art-fest-on-the-lawn/39103/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-12-123931_6348471F-D5DA-8DA0-D67090839386DF0C_6359a199-af95-64a5-9999cfc26fcb025b.png\nCategories: History\, Wyoming 250
 GEO:41.312068;-105.589055
@@ -157,6 +148,15 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:Laramie Jubilee Days Event: Mr. T XTreme Bull Riding
 UID:39090@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-mr-t-xtreme-bull-riding/39090/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260716
+DESCRIPTION:UWAM Presents - Third Thursday: Women Shaping The West: Stories From Wyoming\nMore info: https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-women-shaping-the-west%3a-stories-from-wyoming/39031/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-112632_8FACB9BB-9687-7B28-3BF7524A578FA690_8fad36ea-9d24-7199-ca61c5cf0a4efe90.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:UWAM Presents - Third Thursday: Women Shaping The West: Stories From Wyoming
+UID:39031@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-women-shaping-the-west%3a-stories-from-wyoming/39031/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
