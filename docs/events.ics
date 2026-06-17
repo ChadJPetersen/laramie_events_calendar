@@ -72,15 +72,6 @@ UID:39092@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-parade/39092/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260616
-DESCRIPTION:Gig Into Wyoming Fossil and Gem Discovery\nMore info: https://www.visitlaramie.org/event/gig-into-wyoming-fossil-and-gem-discovery/39066/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-10-130615_FD6F8080-CC99-9281-8257227047924DA9_fd76c6b5-9cf5-46e4-4f78c6a2389cb1c5.png\nCategories: History\, Community\, University of Wyoming\, Education\, Family Fun
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Gig Into Wyoming Fossil and Gem Discovery
-UID:39066@visitlaramie.org
-URL:https://www.visitlaramie.org/event/gig-into-wyoming-fossil-and-gem-discovery/39066/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260617
 DESCRIPTION:Quinlan Valdez + Mars Birch @ TGU\nMore info: https://www.visitlaramie.org/event/quinlan-valdez-%2b-mars-birch-%40-tgu/39007/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/quinlan-june-17_98EC5DDE-D54B-42DE-A3C695ACA2ADE520_75ba9784-d559-4779-b4d51f556cd0908b.jpg\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -113,6 +104,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Europe to the Stars
 UID:39026@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-europe-to-the-stars/39026/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Rhett Haney Live at The Cowboy Saloon &#8211\; Jubilee Days Celebration\nMore info: https://www.visitlaramie.org/event/rhett-haney-live-at-the-cowboy-saloon-%26%238211%3b-jubilee-days-celebration/39110/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-4_236ACE11-87C3-4176-B5303714830C01DE_93a0c34b-071b-4b27-85b4548d35f9a9da.jpg\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Social Events
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Rhett Haney Live at The Cowboy Saloon &#8211\; Jubilee Days Celebration
+UID:39110@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rhett-haney-live-at-the-cowboy-saloon-%26%238211%3b-jubilee-days-celebration/39110/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
@@ -185,15 +185,6 @@ UID:39050@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vedauwoo-volunteer-fire-department-pancake-breakfast/39050/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260616
-DESCRIPTION:Full-Dome Film: Dark Biosphere + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39024/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_E77917A4-CB39-B17B-16C9D3AA217478DF_e779b311-e819-ee05-746aa775addbd94a.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Dark Biosphere + Star Talk
-UID:39024@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39024/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Laramie Jubilee Days Carnival\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/39076/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Carnival-Jubilee-Days-Cotton-Candy-Laramie-LJD_C9C98EA6-5056-A36F-2391F90264D30BA6_c9d123b5-5056-a36f-235b2f5a1689d088.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.310946;-105.596164
@@ -209,6 +200,15 @@ GEO:41.341222;-106.183517
 SUMMARY:Nature Journaling with Jennie Lawrence
 UID:39043@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:SAFE Project Movie Night\nMore info: https://www.visitlaramie.org/event/safe-project-movie-night/39108/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_23D19D6B-D229-471E-9BC0641A99C36BEA_77bd9a1c-8d1b-443d-ac56d5182733525e.jpg\nCategories: Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:SAFE Project Movie Night
+UID:39108@visitlaramie.org
+URL:https://www.visitlaramie.org/event/safe-project-movie-night/39108/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
@@ -462,6 +462,15 @@ GEO:41.341222;-106.183517
 SUMMARY:Nature Journaling with Jennie Lawrence
 UID:39044@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39044/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Date Night at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/date-night-at-the-cowboy-saloon/39109/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-3_2C2A326F-7B2D-4FE3-86B766C81FC390E5_2678e568-f04a-4f90-9bee704941df3e99.jpg\nCategories: Community\, Social Events
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Date Night at The Cowboy Saloon
+UID:39109@visitlaramie.org
+URL:https://www.visitlaramie.org/event/date-night-at-the-cowboy-saloon/39109/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
