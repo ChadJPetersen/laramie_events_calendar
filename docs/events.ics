@@ -72,14 +72,6 @@ UID:39092@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-parade/39092/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:Quinlan Valdez + Mars Birch @ TGU\nMore info: https://www.visitlaramie.org/event/quinlan-valdez-%2b-mars-birch-%40-tgu/39007/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/quinlan-june-17_98EC5DDE-D54B-42DE-A3C695ACA2ADE520_75ba9784-d559-4779-b4d51f556cd0908b.jpg\nCategories: Concerts & Live Music
-GEO:41.311479;-105.593276
-SUMMARY:Quinlan Valdez + Mars Birch @ TGU
-UID:39007@visitlaramie.org
-URL:https://www.visitlaramie.org/event/quinlan-valdez-%2b-mars-birch-%40-tgu/39007/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DESCRIPTION:Summer Solstice Celebration!\nMore info: https://www.visitlaramie.org/event/summer-solstice-celebration!/39033/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-110126_8EBD2727-0B98-74AA-9367AFACA12A3773_8f67fe24-feb1-9578-c9e2f5302ae4ec28.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun
 GEO:41.314165;-105.568122
@@ -287,6 +279,14 @@ GEO:41.311367;-105.591101
 SUMMARY:Laramie Jubilee Days Event:Jake Haffey Band Live
 UID:39088@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3ajake-haffey-band-live/39088/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260718
+DESCRIPTION:Albany County CattleWomen Ranch Tour\nMore info: https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/39055/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-05-133408_FCA4CEC1-A1FF-0CA1-047CB3950A8604D4_fcaaf035-cf02-27e4-66d22235afb138ba.png\nCategories: History\, Community\, Education\, Wyoming 250
+GEO:41.311367;-105.591101
+SUMMARY:Albany County CattleWomen Ranch Tour
+UID:39055@visitlaramie.org
+URL:https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/39055/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -540,6 +540,15 @@ LOCATION:Depot Parking Lot
 SUMMARY:Laramie Jubilee Days Carnival
 UID:39075@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/39075/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260718
+DESCRIPTION:Cars and Coffee - Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-laramie/39100/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Visit-Laramie-Image_332566C5-CF6D-888F-8A4E860ADB026100_33301892-c356-2383-704c1ccd35434a7c.png\nCategories: Annual Events & Festivals
+GEO:41.308934;-105.562856
+LOCATION:Toyota of Laramie
+SUMMARY:Cars and Coffee - Laramie
+UID:39100@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cars-and-coffee-laramie/39100/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
