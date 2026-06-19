@@ -438,15 +438,6 @@ UID:39084@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3apancake-breakfast/39084/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-DESCRIPTION:Full-Dome Film: From Earth to the Universe + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-star-talk/39025/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-101910_59B9300F-B6F6-542C-3E0384EB132C1F5A_59bbe7e4-d96a-4eca-2ced33da2bc39a72.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: From Earth to the Universe + Star Talk
-UID:39025@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-star-talk/39025/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
 DESCRIPTION:Laramie Jubilee Days Event: Junior Bull Riding\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-junior-bull-riding/39077/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-120858_2E8E37CC-0979-0D6D-2EF73BFC7C63D4E2_2e9cc4d2-bf2d-9c19-891043562336fffa.png\nCategories: Annual Events & Festivals\, Sports\, Performing Arts & Culture
 GEO:41.286512;-105.592547
@@ -479,15 +470,6 @@ GEO:41.311367;-105.591101
 SUMMARY:Laramie Jubilee Days Event: Live Music -Tris Munsick & The Innocents
 UID:39096@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-tris-munsick-%26-the-innocents/39096/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-DESCRIPTION:UWAM Presents - Third Thursday:Instant Icons\nMore info: https://www.visitlaramie.org/event/uwam-presents-third-thursday%3ainstant-icons/39030/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-112632_8FA737CD-A892-5564-198070828A772103_8fa7cf4b-b365-2746-9626040169facfcd.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:UWAM Presents - Third Thursday:Instant Icons
-UID:39030@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uwam-presents-third-thursday%3ainstant-icons/39030/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
