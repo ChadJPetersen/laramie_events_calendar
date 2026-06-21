@@ -72,15 +72,6 @@ UID:39092@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-parade/39092/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Summer Solstice Celebration!\nMore info: https://www.visitlaramie.org/event/summer-solstice-celebration!/39033/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-110126_8EBD2727-0B98-74AA-9367AFACA12A3773_8f67fe24-feb1-9578-c9e2f5302ae4ec28.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun
-GEO:41.314165;-105.568122
-LOCATION:UW Berry Center & University of Wyoming Art Museum
-SUMMARY:Summer Solstice Celebration!
-UID:39033@visitlaramie.org
-URL:https://www.visitlaramie.org/event/summer-solstice-celebration!/39033/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Laramie Jubilee Days Event:PRCA & WPRA Slack\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3aprca-%26-wpra-slack/39085/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-130947_30D1FA78-AF19-EFA3-679C7E6833D02C58_30d2735a-d200-c733-8c642924b440dc6c.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
 GEO:41.282735;-105.593071
@@ -195,23 +186,6 @@ UID:39076@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/39076/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Nature Journaling with Jennie Lawrence\nMore info: https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
-GEO:41.341222;-106.183517
-SUMMARY:Nature Journaling with Jennie Lawrence
-UID:39043@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:SAFE Project Movie Night\nMore info: https://www.visitlaramie.org/event/safe-project-movie-night/39108/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_23D19D6B-D229-471E-9BC0641A99C36BEA_77bd9a1c-8d1b-443d-ac56d5182733525e.jpg\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:SAFE Project Movie Night
-UID:39108@visitlaramie.org
-URL:https://www.visitlaramie.org/event/safe-project-movie-night/39108/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
 DESCRIPTION:45th Annual Centennial Valley Art Show\nMore info: https://www.visitlaramie.org/event/45th-annual-centennial-valley-art-show/39101/\nVenue: Nici Self Museum\nVenue Info: https://www.visitlaramie.org/listing/nici-self-museum/82/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-Centennial-Valley-Art-Show-Poster-8.5x11_440085EB-BBCB-CE14-9ADCD52D52206D83_44066668-cb02-fd06-a4cf42fa437f2312.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.298305;-106.141677
@@ -307,15 +281,6 @@ UID:38870@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo/38870/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Touch A Truck\nMore info: https://www.visitlaramie.org/event/touch-a-truck/38909/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TOUCH-A-TRUCK-VL_BBC8EEA9-A841-6975-947BE419C0147000_bbcb52a4-ffd5-5edc-387ca04fd61ae0fb.png\nCategories: Family Fun
-GEO:41.305775;-105.551024
-LOCATION:Laramie Ice & Event Center
-SUMMARY:Touch A Truck
-UID:38909@visitlaramie.org
-URL:https://www.visitlaramie.org/event/touch-a-truck/38909/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
 DESCRIPTION:Laramie Jubilee Days Carnival\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/39074/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Carnival-Jubilee-Days-Cotton-Candy-Laramie-LJD_C9C98EA6-5056-A36F-2391F90264D30BA6_c9d123b5-5056-a36f-235b2f5a1689d088.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.310946;-105.596164
@@ -323,6 +288,15 @@ LOCATION:Depot Parking Lot
 SUMMARY:Laramie Jubilee Days Carnival
 UID:39074@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/39074/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+DESCRIPTION:Innovation the Cowboy Way: Wyoming's Inventions and Inventors\nMore info: https://www.visitlaramie.org/event/innovation-the-cowboy-way%3a-wyomings-inventions-and-inventors/38902/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-15-100745_EA4CE29A-B5C3-6D14-FAACDE3BB7C5DF5E_ea4e43f5-9786-fc3e-c0291c2a2ee053cf.png\nCategories: History
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:Innovation the Cowboy Way: Wyoming's Inventions and Inventors
+UID:38902@visitlaramie.org
+URL:https://www.visitlaramie.org/event/innovation-the-cowboy-way%3a-wyomings-inventions-and-inventors/38902/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
@@ -394,13 +368,13 @@ UID:39072@visitlaramie.org
 URL:https://www.visitlaramie.org/event/little-pokes-rodeo-kids-rodeo/39072/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Volunteer Weed Pull\nMore info: https://www.visitlaramie.org/event/volunteer-weed-pull/39046/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Weed-Pull-day-2_9AE38000-0977-3E0D-852BE7AFC406D02A_9aebe5f8-b9ac-4f71-6a2a1e4f61a9c01f.png\nCategories: Volunteering
-GEO:41.169150;-105.222448
-LOCATION:Curt Gowdy State Park
-SUMMARY:Volunteer Weed Pull
-UID:39046@visitlaramie.org
-URL:https://www.visitlaramie.org/event/volunteer-weed-pull/39046/
+DTSTART;VALUE=DATE:20260721
+DESCRIPTION:Laramie Plains Museum Presnts:Innovation The Cowboy Way: Wyoming’s Inventions and Inventors”\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-presnts%3ainnovation-the-cowboy-way%3a-wyoming%e2%80%99s-inventions-and-inventors%e2%80%9d/39104/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-05-114348_636D7B30-CC1D-6435-D65B8747E1CD608B_636eac0e-fc9b-d5f1-5dcdbf5f002f5deb.png\nCategories: History\, Wyoming 250
+GEO:41.312068;-105.589055
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Laramie Plains Museum Presnts:Innovation The Cowboy Way: Wyoming’s Inventions and Inventors”
+UID:39104@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-plains-museum-presnts%3ainnovation-the-cowboy-way%3a-wyoming%e2%80%99s-inventions-and-inventors%e2%80%9d/39104/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260712
@@ -556,15 +530,6 @@ GEO:41.311367;-105.591101
 SUMMARY:Laramie Jubilee Days Event:Gabe Jackson Acoustic Live
 UID:39087@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3agabe-jackson-acoustic-live/39087/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Urban Sketching @ LaPrele Park\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-laprele-park/39035/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner_2B8A5A0A-AA64-A8AE-51210AAB903BC3DC_2b9021ad-edf6-e0bc-56baeda8bc1d04b0.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:LaPrele Park
-SUMMARY:Urban Sketching @ LaPrele Park
-UID:39035@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-laprele-park/39035/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
