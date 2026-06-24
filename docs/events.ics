@@ -46,15 +46,6 @@ UID:39073@visitlaramie.org
 URL:https://www.visitlaramie.org/event/joe-dowler-memorial-calcutta-for-mr-t-bull-riding/39073/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Locks of Love: Victorian Hairwork and Memory\nMore info: https://www.visitlaramie.org/event/locks-of-love%3a-victorian-hairwork-and-memory/38901/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-15-100911_EA3C8661-0FD4-E477-60C341EBE9E7C9C1_ea41bda8-d2ab-1bc3-874db7d6bd7559fa.png\nCategories: History\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Locks of Love: Victorian Hairwork and Memory
-UID:38901@visitlaramie.org
-URL:https://www.visitlaramie.org/event/locks-of-love%3a-victorian-hairwork-and-memory/38901/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
 DESCRIPTION:Laramie Jubilee Days Event: Swing Dance Lessons\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-swing-dance-lessons/39099/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-12-102137_5E78A7A1-9C6C-BAE6-A8E9D9134AFC5387_5e79554b-c0ed-7617-c71bc08e7b101df4.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
 GEO:41.311367;-105.591101
@@ -177,6 +168,15 @@ UID:39050@visitlaramie.org
 URL:https://www.visitlaramie.org/event/vedauwoo-volunteer-fire-department-pancake-breakfast/39050/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Sun Printing Workshop\nMore info: https://www.visitlaramie.org/event/sun-printing-workshop/39115/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Sun-Printing-2026-Workshop_61BEB113-F8A9-55D0-79E6CD73051C1A96_61cd2237-048b-ff20-f87487dfa66fc9aa.png\nCategories: Craft Classes & Workshops
+GEO:41.309526;-105.604234
+LOCATION:Optimist Park - LPAC Art Shed
+SUMMARY:Sun Printing Workshop
+UID:39115@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sun-printing-workshop/39115/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Laramie Jubilee Days Carnival\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/39076/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Carnival-Jubilee-Days-Cotton-Candy-Laramie-LJD_C9C98EA6-5056-A36F-2391F90264D30BA6_c9d123b5-5056-a36f-235b2f5a1689d088.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.310946;-105.596164
@@ -272,6 +272,15 @@ UID:39055@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/39055/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:Centennial Speaker Series: Looking Locally\, Speaking Globally\nMore info: https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/39113/\nVenue: Centennial Library\nVenue Info: https://www.visitlaramie.org/listing/centennial-library/1797/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/css-july-2026-8.5x11_33B55E01-A61C-E737-CBCC0CC47C36FAF1_33c018c7-c874-b4db-fc48de0a26a175d7.png\nCategories: University of Wyoming\, Education
+GEO:41.298808;-106.141485
+LOCATION:Centennial Library
+SUMMARY:Centennial Speaker Series: Looking Locally\, Speaking Globally
+UID:39113@visitlaramie.org
+URL:https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/39113/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
@@ -333,13 +342,13 @@ UID:39086@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3athane-zickefoose-live/39086/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Full-Dome Film: Forward! To the Moon + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2b-star-talk/39027/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-141635_4982960B-BA2D-394A-1B6FD32F9201C414_4987f380-e0a2-c5ec-28220e265da27a69.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Forward! To the Moon + Star Talk
-UID:39027@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2b-star-talk/39027/
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Farmersmarket-logo_00CBFB33-0953-3873-966EE253205A3852_00e2a7d3-ec21-ae73-f15905832d23fd4e.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.310946;-105.596164
+LOCATION:Depot Park
+SUMMARY:Downtown Laramie Farmers Market
+UID:39118@visitlaramie.org
+URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
