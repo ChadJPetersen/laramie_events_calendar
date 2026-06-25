@@ -28,6 +28,15 @@ UID:39028@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky-%2b-star-talk/39028/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260702
+DESCRIPTION:Live Presentation: America 250 - USA in Space\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-america-250-usa-in-space/39119/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.02.26-Planetarium-Event_C71B96E5-D125-0689-17609D10E15EE56A_c71fbd7b-ed94-ffd3-6e47ee5ece83dc2f.png\nCategories: Community\, University of Wyoming\, Family Fun\, Wyoming 250
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Live Presentation: America 250 - USA in Space
+UID:39119@visitlaramie.org
+URL:https://www.visitlaramie.org/event/live-presentation%3a-america-250-usa-in-space/39119/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Wyoming Statehood Day Celebration2026\nMore info: https://www.visitlaramie.org/event/wyoming-statehood-day-celebration2026/39054/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-08-133612_33464282-D42D-C8FD-94AC970E53733F6A_334761b0-a49a-26d5-7d508d85ca4a2174.png\nCategories: History\, Community\, Wyoming 250
 GEO:41.311613;-105.610512
@@ -35,6 +44,15 @@ LOCATION:Wyoming Territorial Prison State Historic Site
 SUMMARY:Wyoming Statehood Day Celebration2026
 UID:39054@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-statehood-day-celebration2026/39054/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:The Albany County Fair Smokin' BBQ\nMore info: https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Master_Logo_Black_ADAC2D56-E23D-5D98-F77E910D0C358C19_aded7285-dcfd-9a70-81ef8b34869d0d1a.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun\, Social Events\, Wyoming 250
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:The Albany County Fair Smokin' BBQ
+UID:38876@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260707
@@ -97,6 +115,14 @@ UID:39078@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3amosaico-folklorico-dance/39078/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112607_CC11413B-E4D1-7198-80569E38F0C7D3E1_cc11cbea-ee1b-5473-3d36a666a0249549.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Nellie: The First Woman Governor at America's Milestones
+UID:39136@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39071/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-100933_2A493029-0C10-AC72-C7372F57BEE99490_2a538758-c87d-812b-d871fecca2556784.png\nCategories: Community\, Social Events
 GEO:41.311928;-105.600431
@@ -148,6 +174,15 @@ GEO:41.305330;-105.590308
 SUMMARY:Tuesday Local Market in Undine Park
 UID:39005@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+DESCRIPTION:Full-Dome Film: 5000 Eyes: Mapping the Universe with DESI + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-5000-eyes%3a-mapping-the-universe-with-desi-%2b-startalk/39122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.21.26-Planetarium-Event_C777B021-A8C0-7A5D-5CC398D3C983F514_c778d0f2-943f-6f39-e1181abefacd9280.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: 5000 Eyes: Mapping the Universe with DESI + Startalk
+UID:39122@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-5000-eyes%3a-mapping-the-universe-with-desi-%2b-startalk/39122/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
@@ -228,6 +263,15 @@ LOCATION:Train Tracks Downtown Bridge
 SUMMARY:Urban Sketching @ the Train Tracks
 UID:39036@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-%40-the-train-tracks/39036/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260707
+DESCRIPTION:Full-Dome Film: Two Small Pieces of Glass: The Amazing Telescope + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-two-small-pieces-of-glass%3a-the-amazing-telescope-%2b-star-talk/39120/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.07.26-Film-Event_C748B629-E5DF-6346-335C2A8E93AE8749_c7495754-d614-f03c-e5806613b1d63dc8.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Two Small Pieces of Glass: The Amazing Telescope + Star Talk
+UID:39120@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-two-small-pieces-of-glass%3a-the-amazing-telescope-%2b-star-talk/39120/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
@@ -325,15 +369,6 @@ UID:39060@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tuesday-local-market/39060/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DESCRIPTION:Intoduction to Table Braiding with Hair\nMore info: https://www.visitlaramie.org/event/intoduction-to-table-braiding-with-hair/38947/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-23-112745_51C0AC8F-9758-93C9-61E34327F9525428_51cf2e7a-a35f-d99b-6f1e6221715a4f1e.png\nCategories: History\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Intoduction to Table Braiding with Hair
-UID:38947@visitlaramie.org
-URL:https://www.visitlaramie.org/event/intoduction-to-table-braiding-with-hair/38947/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Laramie Jubilee Days Event:Thane Zickefoose Live\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3athane-zickefoose-live/39086/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-131623_30FEE02F-B7B5-CC15-FD8773796A1679E0_310099ea-f0f5-205e-a296dfb6888c240d.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
 GEO:41.311367;-105.591101
@@ -366,6 +401,14 @@ GEO:41.311367;-105.591101
 SUMMARY:Laramie Jubilee Days Event:La Causa Norteña
 UID:39079@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3ala-causa-norte%c3%b1a/39079/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Turning The Pages OF America\nMore info: https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112732_CB5182C4-004F-FA77-6DCBF7099A2F1025_cb59f300-ee3e-b461-362f7ea5d3a7f061.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Turning The Pages OF America
+UID:39137@visitlaramie.org
+URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260706
@@ -422,6 +465,15 @@ UID:39039@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-brewfest/39039/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Full-Dome Film:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3acosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes-%2b-startalk/39123/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-095758_C78B6D94-ECBD-05B4-C3B17ABD5A6330D5_c78d1daa-0336-2d89-b7c233bb9078be10.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes + Startalk
+UID:39123@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3acosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes-%2b-startalk/39123/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Laramie Jubilee Days Event:Pancake Breakfast\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3apancake-breakfast/39084/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-130826_30A946A4-074F-685F-851681D39E90B05F_30a99b76-fb01-20af-de7b7fe41170f122.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
 GEO:41.312286;-105.593206
@@ -439,12 +491,12 @@ UID:39077@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-junior-bull-riding/39077/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Nature Journaling with Jennie Lawrence\nMore info: https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39044/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
-GEO:41.341222;-106.183517
-SUMMARY:Nature Journaling with Jennie Lawrence
-UID:39044@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39044/
+DTSTART;VALUE=DATE:20260423
+DESCRIPTION:Wyoming Voices: Our Stories of America\nMore info: https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112708_CAD97750-96F9-68AA-A257B378C72A8FC5_caec755b-957f-9a07-8a5968d17b2f8f7a.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Wyoming Voices: Our Stories of America
+UID:39135@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260627
@@ -456,12 +508,29 @@ UID:39109@visitlaramie.org
 URL:https://www.visitlaramie.org/event/date-night-at-the-cowboy-saloon/39109/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Nature Journaling with Jennie Lawrence\nMore info: https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39044/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
+GEO:41.341222;-106.183517
+SUMMARY:Nature Journaling with Jennie Lawrence
+UID:39044@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39044/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
 DESCRIPTION:Laramie Jubilee Days Event: Live Music -Tris Munsick & The Innocents\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-tris-munsick-%26-the-innocents/39096/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-134351_31F144D6-C99F-2AEF-7C28FE12AC8B4FFD_31f4a408-a777-78d8-a4812ea49c96618e.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
 GEO:41.311367;-105.591101
 SUMMARY:Laramie Jubilee Days Event: Live Music -Tris Munsick & The Innocents
 UID:39096@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-tris-munsick-%26-the-innocents/39096/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DESCRIPTION:Full-Dome Film: Big Astronomy + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-big-astronomy-%2b-startalk/39121/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.09.26-Planetarium-Event_C75D3357-CFE1-CDDB-605FBA33ECBD0C54_c7609829-c08e-6dd9-88a1bc978a8f3d43.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Big Astronomy + Startalk
+UID:39121@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-big-astronomy-%2b-startalk/39121/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260705
@@ -533,14 +602,6 @@ UID:39094@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-9s-a-pair/39094/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laramie Jubilee Days Event:Gabe Jackson Acoustic Live\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3agabe-jackson-acoustic-live/39087/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-131944_311CF1EE-0371-A8E6-B5C6EBAD674D4830_31210dc4-096b-9cdd-0672aa77cbd5a2d8.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event:Gabe Jackson Acoustic Live
-UID:39087@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3agabe-jackson-acoustic-live/39087/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
 DESCRIPTION:Artist & Museum: Hung Liu\nMore info: https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-125533_C35E75D6-AAA7-21CA-88EE350CA355A8A0_c35eef76-a969-9341-bd4f3c9b6ff6b57a.png\nCategories: History\, University of Wyoming\, Education
 GEO:41.314165;-105.568122
@@ -550,12 +611,11 @@ UID:39002@visitlaramie.org
 URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DESCRIPTION:Special Presentation with Zen Hansen\nMore info: https://www.visitlaramie.org/event/special-presentation-with-zen-hansen/38948/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-23-140429_575C3CEA-EFEF-0154-62FCB3D999CC7381_575cccd3-049e-afa6-b02b1c382e364394.png\nCategories: History\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Special Presentation with Zen Hansen
-UID:38948@visitlaramie.org
-URL:https://www.visitlaramie.org/event/special-presentation-with-zen-hansen/38948/
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:Laramie Jubilee Days Event:Gabe Jackson Acoustic Live\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3agabe-jackson-acoustic-live/39087/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-131944_311CF1EE-0371-A8E6-B5C6EBAD674D4830_31210dc4-096b-9cdd-0672aa77cbd5a2d8.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
+GEO:41.311367;-105.591101
+SUMMARY:Laramie Jubilee Days Event:Gabe Jackson Acoustic Live
+UID:39087@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3agabe-jackson-acoustic-live/39087/
 END:VEVENT
 END:VCALENDAR
