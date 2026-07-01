@@ -254,6 +254,15 @@ UID:39093@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-jason-moore/39093/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:The Centennial Library Speaker Series: The Solar System from our Backyard\nMore info: https://www.visitlaramie.org/event/the-centennial-library-speaker-series%3a-the-solar-system-from-our-backyard/39151/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-102948_FDD64D44-9A95-799A-7AF8455B8E972A29_fdeb8c89-b1be-8760-371dc56c39d4bf72.png\nCategories: Community\, Education\, Family Fun
+GEO:41.298808;-106.141485
+LOCATION:The Centennial Branch / Albany Co. Public Library
+SUMMARY:The Centennial Library Speaker Series: The Solar System from our Backyard
+UID:39151@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-centennial-library-speaker-series%3a-the-solar-system-from-our-backyard/39151/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:Full-Dome Film: Seeing! + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-seeing!-%2b-startalk/39125/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-100635_C7DF30CC-0A18-6355-33C19B076A60E3D1_c7e02042-e652-6a70-7aa8f06506177cbd.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -403,6 +412,15 @@ UID:39095@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-dori-jo-and-the-double-standards/39095/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260713
+DESCRIPTION:The Company We Keep by Mimi Fenton\, Exhibition on View\nMore info: https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-exhibition-on-view/39153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-121401_01800C0F-A7D5-5CE6-5336DA810D8AE0D5_01b9ebd8-f6f9-4227-6c6441d69aa783ba.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
+SUMMARY:The Company We Keep by Mimi Fenton\, Exhibition on View
+UID:39153@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-exhibition-on-view/39153/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Laramie Jubilee Days Event:Jake Haffey Band Live\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3ajake-haffey-band-live/39088/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-132241_31312A57-E362-268A-EF68D1D3B6D3364D_3134eba1-a7fe-6943-ebb28725fb2dc181.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
 GEO:41.311367;-105.591101
@@ -507,15 +525,6 @@ LOCATION:Wyoming Territorial Prison State Historic Site
 SUMMARY:Wyoming Statehood Day Celebration2026
 UID:39054@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-statehood-day-celebration2026/39054/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DESCRIPTION:Full-Dome Film: One Sky + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-one-sky-%2b-star-talk/39028/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121401_5A20AA23-E380-7F07-32A9EC7A876AA023_5a249fb6-04fe-3058-c0aa37690b58cd3b.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: One Sky + Star Talk
-UID:39028@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky-%2b-star-talk/39028/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260707
@@ -663,6 +672,15 @@ GEO:41.311367;-105.591101
 SUMMARY:Laramie Jubilee Days Event: Live Music - 9's A Pair
 UID:39094@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-9s-a-pair/39094/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DESCRIPTION:The Company We Keep by Mimi Fenton\, Artist Reception\nMore info: https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-artist-reception/39152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-121401_01800C0F-A7D5-5CE6-5336DA810D8AE0D5_01b9ebd8-f6f9-4227-6c6441d69aa783ba.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
+SUMMARY:The Company We Keep by Mimi Fenton\, Artist Reception
+UID:39152@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-artist-reception/39152/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
