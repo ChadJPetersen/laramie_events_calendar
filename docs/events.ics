@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Patriotic Bike Parade\nMore info: https://www.visitlaramie.org/event/patriotic-bike-parade/39145/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-115019_FF25C268-AA60-B79D-9D6C03602DA1ACD5_ff265790-f27e-f283-90d3bd93ab7b3bae.png\nCategories: Community\, Family Fun\, Wyoming 250
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Patriotic Bike Parade
-UID:39145@visitlaramie.org
-URL:https://www.visitlaramie.org/event/patriotic-bike-parade/39145/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DESCRIPTION:Live Presentation: America 250 - USA in Space\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-america-250-usa-in-space/39119/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.02.26-Planetarium-Event_C71B96E5-D125-0689-17609D10E15EE56A_c71fbd7b-ed94-ffd3-6e47ee5ece83dc2f.png\nCategories: Community\, University of Wyoming\, Family Fun\, Wyoming 250
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: America 250 - USA in Space
-UID:39119@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-america-250-usa-in-space/39119/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
 DESCRIPTION:Urban Sketching @ Jubilee Days\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-jubilee-days/39138/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner-1-_D212CB34-F260-B4FD-3BE7AD27F08CC384_d21421c9-ec74-d622-ddd83ae34b9cee3f.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
