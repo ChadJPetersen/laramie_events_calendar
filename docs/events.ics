@@ -168,21 +168,21 @@ URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
-DESCRIPTION:45th Annual Centennial Valley Art Show\nMore info: https://www.visitlaramie.org/event/45th-annual-centennial-valley-art-show/39101/\nVenue: Nici Self Museum\nVenue Info: https://www.visitlaramie.org/listing/nici-self-museum/82/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-Centennial-Valley-Art-Show-Poster-8.5x11_440085EB-BBCB-CE14-9ADCD52D52206D83_44066668-cb02-fd06-a4cf42fa437f2312.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
-GEO:41.298305;-106.141677
-LOCATION:Nici Self Museum
-SUMMARY:45th Annual Centennial Valley Art Show
-UID:39101@visitlaramie.org
-URL:https://www.visitlaramie.org/event/45th-annual-centennial-valley-art-show/39101/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
 DESCRIPTION:Freedom Has A Birthday\nMore info: https://www.visitlaramie.org/event/freedom-has-a-birthday/38989/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FREEDOM-HAS-A-BIRTHDAY-3-_C5A09D89-0AC2-DD7D-8C77391BA4CF90FC_c5a58580-b3cc-4c81-22065eb1ef9a10ed.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Wyoming 250
 GEO:41.311367;-105.591101
 LOCATION:Washington Park
 SUMMARY:Freedom Has A Birthday
 UID:38989@visitlaramie.org
 URL:https://www.visitlaramie.org/event/freedom-has-a-birthday/38989/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DESCRIPTION:45th Annual Centennial Valley Art Show\nMore info: https://www.visitlaramie.org/event/45th-annual-centennial-valley-art-show/39101/\nVenue: Nici Self Museum\nVenue Info: https://www.visitlaramie.org/listing/nici-self-museum/82/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-Centennial-Valley-Art-Show-Poster-8.5x11_440085EB-BBCB-CE14-9ADCD52D52206D83_44066668-cb02-fd06-a4cf42fa437f2312.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.298305;-106.141677
+LOCATION:Nici Self Museum
+SUMMARY:45th Annual Centennial Valley Art Show
+UID:39101@visitlaramie.org
+URL:https://www.visitlaramie.org/event/45th-annual-centennial-valley-art-show/39101/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260707
