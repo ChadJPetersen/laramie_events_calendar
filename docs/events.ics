@@ -19,15 +19,6 @@ UID:39099@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-swing-dance-lessons/39099/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DESCRIPTION:Shirley Lilley Memorial Kids Horse Show\nMore info: https://www.visitlaramie.org/event/shirley-lilley-memorial-kids-horse-show/39003/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_E5A8A37C-D10A-FFBF-2DE807C09B932AFC_e5ae9eef-9f6c-35ce-66882e2da02cb13a.png\nCategories: Annual Events & Festivals\, Outdoor Recreation\, Sports\, Performing Arts & Culture\, Family Fun
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Shirley Lilley Memorial Kids Horse Show
-UID:39003@visitlaramie.org
-URL:https://www.visitlaramie.org/event/shirley-lilley-memorial-kids-horse-show/39003/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
 DESCRIPTION:Tuesday Local Market\nMore info: https://www.visitlaramie.org/event/tuesday-local-market/39060/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TLM_65321B46-F975-66AE-4B7F93FAB64FA696_65692306-eba3-5d36-af75d8144a8a1829.jpg\nCategories: Concerts & Live Music\, Community\, Family Fun
 GEO:41.317073;-105.590587
@@ -165,15 +156,6 @@ GEO:41.305330;-105.590308
 SUMMARY:Tuesday Local Market in Undine Park
 UID:39005@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DESCRIPTION:Freedom Has A Birthday\nMore info: https://www.visitlaramie.org/event/freedom-has-a-birthday/38989/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FREEDOM-HAS-A-BIRTHDAY-3-_C5A09D89-0AC2-DD7D-8C77391BA4CF90FC_c5a58580-b3cc-4c81-22065eb1ef9a10ed.png\nCategories: Annual Events & Festivals\, Community\, Family Fun\, Wyoming 250
-GEO:41.311367;-105.591101
-LOCATION:Washington Park
-SUMMARY:Freedom Has A Birthday
-UID:38989@visitlaramie.org
-URL:https://www.visitlaramie.org/event/freedom-has-a-birthday/38989/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260704
@@ -401,6 +383,15 @@ LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
 SUMMARY:The Company We Keep by Mimi Fenton\, Exhibition on View
 UID:39153@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-exhibition-on-view/39153/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+DESCRIPTION:Cowgirl Soccer: Brown vs. Gold\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-brown-vs-gold/39127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:Madrid Sports Complex
+SUMMARY:Cowgirl Soccer: Brown vs. Gold
+UID:39127@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-brown-vs-gold/39127/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
