@@ -37,15 +37,6 @@ UID:38876@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260707
-DESCRIPTION:Joe Dowler Memorial Calcutta for Mr. T Bull Riding\nMore info: https://www.visitlaramie.org/event/joe-dowler-memorial-calcutta-for-mr-t-bull-riding/39073/\nVenue: Bud's Bar\nVenue Info: https://www.visitlaramie.org/listing/buds-bar/147/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_1F31D195-5056-A36F-2320A05D46FE99FE_1f44281d-5056-a36f-2362cd6d51a2a0dc.png\nCategories: Annual Events & Festivals\, History\, Community\, Sports\, Social Events
-GEO:41.313123;-105.599676
-LOCATION:Bud's Bar
-SUMMARY:Joe Dowler Memorial Calcutta for Mr. T Bull Riding
-UID:39073@visitlaramie.org
-URL:https://www.visitlaramie.org/event/joe-dowler-memorial-calcutta-for-mr-t-bull-riding/39073/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260711
 DESCRIPTION:Urban Sketching @ Jubilee Days\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-jubilee-days/39138/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner-1-_D212CB34-F260-B4FD-3BE7AD27F08CC384_d21421c9-ec74-d622-ddd83ae34b9cee3f.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -236,15 +227,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260707
-DESCRIPTION:Full-Dome Film: Two Small Pieces of Glass: The Amazing Telescope + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-two-small-pieces-of-glass%3a-the-amazing-telescope-%2b-star-talk/39120/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.07.26-Film-Event_C748B629-E5DF-6346-335C2A8E93AE8749_c7495754-d614-f03c-e5806613b1d63dc8.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Two Small Pieces of Glass: The Amazing Telescope + Star Talk
-UID:39120@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-two-small-pieces-of-glass%3a-the-amazing-telescope-%2b-star-talk/39120/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
@@ -483,21 +465,21 @@ UID:39065@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jack-yoder-live/39065/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260707
-DESCRIPTION:Pokemon Literacy Lab\nMore info: https://www.visitlaramie.org/event/pokemon-literacy-lab/39149/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-120559_FFA35640-CFCB-C100-4F404EE42BEEA8AD_ffb65397-fa3d-5dc6-a990037807354f2c.png\nCategories: Community\, Education\, Family Fun
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Pokemon Literacy Lab
-UID:39149@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pokemon-literacy-lab/39149/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:Laramie Jubilee Days Event:Pancake Breakfast\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3apancake-breakfast/39084/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-130826_30A946A4-074F-685F-851681D39E90B05F_30a99b76-fb01-20af-de7b7fe41170f122.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
 GEO:41.312286;-105.593206
 SUMMARY:Laramie Jubilee Days Event:Pancake Breakfast
 UID:39084@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3apancake-breakfast/39084/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Bigs & Littles: Nature Yoga & Grounding Practice at Undine Park\nMore info: https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-110450_FD815363-C6D0-E454-E1D489666BBE9FAC_fd94a77a-cf7f-b467-82dbb72e62e5d5e0.png\nCategories: Community\, Family Fun
+GEO:41.322946;-105.587041
+LOCATION:Undine Park
+SUMMARY:Bigs & Littles: Nature Yoga & Grounding Practice at Undine Park
+UID:39142@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
