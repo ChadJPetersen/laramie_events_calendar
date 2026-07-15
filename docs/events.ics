@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Wyoming Statehood Day Celebration2026\nMore info: https://www.visitlaramie.org/event/wyoming-statehood-day-celebration2026/39054/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-07-08-133612_33464282-D42D-C8FD-94AC970E53733F6A_334761b0-a49a-26d5-7d508d85ca4a2174.png\nCategories: History\, Community\, Wyoming 250
-GEO:41.311613;-105.610512
-LOCATION:Wyoming Territorial Prison State Historic Site
-SUMMARY:Wyoming Statehood Day Celebration2026
-UID:39054@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-statehood-day-celebration2026/39054/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DESCRIPTION:Laramie Jubilee Days 2026\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-2026/38915/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-120122_EC0EC58E-DD3C-32D1-15BF4A90269347C3_ec2c181c-bb3a-f774-5e3018ea4dc8f9d8.png\nCategories: History\, Community\, Performing Arts & Culture\, Family Fun\, Social Events\, Wyoming 250
-GEO:43.075968;-107.290284
-LOCATION:Albany County
-SUMMARY:Laramie Jubilee Days 2026
-UID:38915@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-2026/38915/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260725
 DESCRIPTION:The Albany County Fair Smokin' BBQ\nMore info: https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Master_Logo_Black_ADAC2D56-E23D-5D98-F77E910D0C358C19_aded7285-dcfd-9a70-81ef8b34869d0d1a.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun\, Social Events\, Wyoming 250
 GEO:41.282735;-105.593071
@@ -36,32 +18,6 @@ LOCATION:Wyoming Women's History House
 SUMMARY:Listening Hollows: Transforming Empty Spaces Workshop
 UID:39164@visitlaramie.org
 URL:https://www.visitlaramie.org/event/listening-hollows%3a-transforming-empty-spaces-workshop/39164/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Urban Sketching @ Jubilee Days\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-jubilee-days/39138/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner-1-_D212CB34-F260-B4FD-3BE7AD27F08CC384_d21421c9-ec74-d622-ddd83ae34b9cee3f.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:1st st Plaza
-SUMMARY:Urban Sketching @ Jubilee Days
-UID:39138@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-jubilee-days/39138/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laramie Jubilee Days Event: Swing Dance Lessons\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-swing-dance-lessons/39099/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-12-102137_5E78A7A1-9C6C-BAE6-A8E9D9134AFC5387_5e79554b-c0ed-7617-c71bc08e7b101df4.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event: Swing Dance Lessons
-UID:39099@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-swing-dance-lessons/39099/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laramie Jubilee Days Event: Parade\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-parade/39092/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-133544_31A450F8-D5EE-81C0-64C298EC77D1FCDC_31a55880-bd3e-4265-d59d2731a0e9874c.png\nCategories: Annual Events & Festivals\, Sports
-GEO:41.311367;-105.591101
-LOCATION:Downtown Laramie
-SUMMARY:Laramie Jubilee Days Event: Parade
-UID:39092@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-parade/39092/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260715
@@ -82,21 +38,12 @@ UID:39124@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39124/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Fake Tattoo Pop-Up\nMore info: https://www.visitlaramie.org/event/fake-tattoo-pop-up/39159/\nVenue: Sunshine Coffee\nVenue Info: https://www.visitlaramie.org/listing/sunshine-coffee/1711/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WyoGives-Tattoo-Pop-Up_642A2235-ECA9-26C4-25ABE2D6EAE210ED_64545161-ace7-40b0-a2c1ad3008430b9b.png\nCategories: Performing Arts & Culture\, Family Fun
-GEO:41.309002;-105.587950
-LOCATION:Optimist Park - LPAC Art Shed
-SUMMARY:Fake Tattoo Pop-Up
-UID:39159@visitlaramie.org
-URL:https://www.visitlaramie.org/event/fake-tattoo-pop-up/39159/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laramie Jubilee Days Event:PRCA & WPRA Slack\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3aprca-%26-wpra-slack/39085/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-130947_30D1FA78-AF19-EFA3-679C7E6833D02C58_30d2735a-d200-c733-8c642924b440dc6c.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.282735;-105.593071
-SUMMARY:Laramie Jubilee Days Event:PRCA & WPRA Slack
-UID:39085@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3aprca-%26-wpra-slack/39085/
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:Walk Today for Women Tomorrow - Laramie PEO\nMore info: https://www.visitlaramie.org/event/walk-today-for-women-tomorrow-laramie-peo/39176/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/PEO-cover_D0716872-DD75-6252-6D363A4DC7533A4C_d08c8430-aba7-dc03-8ed182c1537dc279.jpg\nCategories: Outdoor Recreation
+LOCATION:Labonte Park Shelter #3
+SUMMARY:Walk Today for Women Tomorrow - Laramie PEO
+UID:39176@visitlaramie.org
+URL:https://www.visitlaramie.org/event/walk-today-for-women-tomorrow-laramie-peo/39176/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260625
@@ -106,15 +53,6 @@ LOCATION:Downtown Laramie
 SUMMARY:Laramie Cruiser Ride
 UID:39143@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Rhett Haney Live at The Cowboy Saloon &#8211\; Jubilee Days Celebration\nMore info: https://www.visitlaramie.org/event/rhett-haney-live-at-the-cowboy-saloon-%26%238211%3b-jubilee-days-celebration/39110/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-4_236ACE11-87C3-4176-B5303714830C01DE_93a0c34b-071b-4b27-85b4548d35f9a9da.jpg\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Social Events
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Rhett Haney Live at The Cowboy Saloon &#8211\; Jubilee Days Celebration
-UID:39110@visitlaramie.org
-URL:https://www.visitlaramie.org/event/rhett-haney-live-at-the-cowboy-saloon-%26%238211%3b-jubilee-days-celebration/39110/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
@@ -152,31 +90,22 @@ UID:39071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39071/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-DESCRIPTION:Laramie Plains Museum Presents: Art Fest on the Lawn\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-presents%3a-art-fest-on-the-lawn/39103/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-104330_FCB836F0-E116-A520-22DD5847E24CF058_fcc85db2-c14f-d22a-30cd59a43b1cc132.png\nCategories: History\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Laramie Plains Museum Presents: Art Fest on the Lawn
-UID:39103@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-plains-museum-presents%3a-art-fest-on-the-lawn/39103/
+DTSTART;VALUE=DATE:20260810
+DESCRIPTION:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest\nMore info: https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-01-123344_35A40254-E614-E6FB-9FE75FFC6A12A433_35a585e4-e74a-931e-44d22019bf6ec9ca.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
+SUMMARY:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest
+UID:39155@visitlaramie.org
+URL:https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laramie Jubilee Days Event:PRCA Performance\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3aprca-performance/39097/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-134812_32170A2D-B5BD-9AA1-475EDF32444121D5_3219590a-071f-9953-0411bf43427b433d.png\nCategories: Annual Events & Festivals\, Outdoor Recreation\, Sports\, Performing Arts & Culture\, Family Fun
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Laramie Jubilee Days Event:PRCA Performance
-UID:39097@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3aprca-performance/39097/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laramie Jubilee Days Event: Mr. T XTreme Bull Riding\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-mr-t-xtreme-bull-riding/39090/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-133034_31778B30-060A-079D-5E8A7B3F3BABAE38_31788a29-036c-758c-6eaac3dc51f0f620.png\nCategories: Annual Events & Festivals\, Outdoor Recreation\, Sports\, Performing Arts & Culture\, Family Fun
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Laramie Jubilee Days Event: Mr. T XTreme Bull Riding
-UID:39090@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-mr-t-xtreme-bull-riding/39090/
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Cowgirl Soccer: Drake Univ.\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-drake-univ/39129/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:Madrid Sports Complex
+SUMMARY:Cowgirl Soccer: Drake Univ.
+UID:39129@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-drake-univ/39129/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260716
@@ -188,14 +117,6 @@ UID:39031@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-women-shaping-the-west%3a-stories-from-wyoming/39031/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Tuesday Local Market in Undine Park\nMore info: https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-134208_C51E4676-EAFB-6EBA-DE5F73784F6DA357_c51ed91c-ddc6-4557-4c09e4d1b695da6d.png\nCategories: Community\, Social Events
-GEO:41.305330;-105.590308
-SUMMARY:Tuesday Local Market in Undine Park
-UID:39005@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:Full-Dome Film: 5000 Eyes: Mapping the Universe with DESI + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-5000-eyes%3a-mapping-the-universe-with-desi-%2b-startalk/39122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.21.26-Planetarium-Event_C777B021-A8C0-7A5D-5CC398D3C983F514_c778d0f2-943f-6f39-e1181abefacd9280.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -205,21 +126,29 @@ UID:39122@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-5000-eyes%3a-mapping-the-universe-with-desi-%2b-startalk/39122/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laramie Jubilee Days Carnival\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/39076/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Carnival-Jubilee-Days-Cotton-Candy-Laramie-LJD_C9C98EA6-5056-A36F-2391F90264D30BA6_c9d123b5-5056-a36f-235b2f5a1689d088.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
-GEO:41.310946;-105.596164
-LOCATION:Depot Parking Lot
-SUMMARY:Laramie Jubilee Days Carnival
-UID:39076@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-carnival/39076/
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Tuesday Local Market in Undine Park\nMore info: https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-134208_C51E4676-EAFB-6EBA-DE5F73784F6DA357_c51ed91c-ddc6-4557-4c09e4d1b695da6d.png\nCategories: Community\, Social Events
+GEO:41.305330;-105.590308
+SUMMARY:Tuesday Local Market in Undine Park
+UID:39005@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laramie Jubilee Days Event: Live Music - Dori Jo and The Double Standards\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-dori-jo-and-the-double-standards/39095/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-134134_31DDD57C-9BCB-015F-1947C78E97AC40D1_31e2aa58-cfce-7e3c-71b508f341d0d09d.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event: Live Music - Dori Jo and The Double Standards
-UID:39095@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-dori-jo-and-the-double-standards/39095/
+DTSTART;VALUE=DATE:20260718
+DESCRIPTION:Naughty Pines Roller Derby - Chaos Carnival\nMore info: https://www.visitlaramie.org/event/naughty-pines-roller-derby-chaos-carnival/39174/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/645/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-14-111950_D070BA72-9907-6F02-16A0AF29BD089F29_d073fed4-c5df-a26f-1d244a07040ccdb1.png\nCategories: Community\, Sports\, Family Fun
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Naughty Pines Roller Derby - Chaos Carnival
+UID:39174@visitlaramie.org
+URL:https://www.visitlaramie.org/event/naughty-pines-roller-derby-chaos-carnival/39174/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Read With A Ranger\nMore info: https://www.visitlaramie.org/event/read-with-a-ranger/39141/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-105219_FD0F8FCB-9F43-3BED-03DB3F5C19E700D5_fd1bccce-b937-c3a6-a8c7e2c038af020e.png\nCategories: Community\, Education\, Family Fun
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Read With A Ranger
+UID:39141@visitlaramie.org
+URL:https://www.visitlaramie.org/event/read-with-a-ranger/39141/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
@@ -247,14 +176,6 @@ LOCATION:Madrid Sports Complex
 SUMMARY:Cowgirl Soccer: Brown vs. Gold
 UID:39127@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-brown-vs-gold/39127/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laramie Jubilee Days Event:Jake Haffey Band Live\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3ajake-haffey-band-live/39088/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-132241_31312A57-E362-268A-EF68D1D3B6D3364D_3134eba1-a7fe-6943-ebb28725fb2dc181.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event:Jake Haffey Band Live
-UID:39088@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3ajake-haffey-band-live/39088/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260717
@@ -319,23 +240,6 @@ UID:39106@visitlaramie.org
 URL:https://www.visitlaramie.org/event/y2k-night-out/39106/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laramie Jubilee Days Event: Live Music - Jason Moore\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-jason-moore/39093/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-133648_31BA6260-BFCC-5B13-4F89009169A28D32_31be54ca-978a-ab3e-9ff3c043537e52c3.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event: Live Music - Jason Moore
-UID:39093@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-jason-moore/39093/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Friends of the Albany County Public Library Jubilee Days Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-jubilee-days-book-sale/39158/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Jubilee-days-2026-book-sale-poster_6141E5CC-C614-595C-D678E0548AA85E24_61561edd-f312-c14b-73e1a96a81f43c12.jpg\nCategories: Community\, Family Fun
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Friends of the Albany County Public Library Jubilee Days Book Sale
-UID:39158@visitlaramie.org
-URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-jubilee-days-book-sale/39158/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
 DESCRIPTION:Tuesday Local Market\nMore info: https://www.visitlaramie.org/event/tuesday-local-market/39060/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TLM_65321B46-F975-66AE-4B7F93FAB64FA696_65692306-eba3-5d36-af75d8144a8a1829.jpg\nCategories: Concerts & Live Music\, Community\, Family Fun
 GEO:41.317073;-105.590587
@@ -361,14 +265,6 @@ LOCATION:The Centennial Branch / Albany Co. Public Library
 SUMMARY:The Centennial Library Speaker Series: The Solar System from our Backyard
 UID:39151@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-centennial-library-speaker-series%3a-the-solar-system-from-our-backyard/39151/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laramie Jubilee Days Event:Thane Zickefoose Live\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3athane-zickefoose-live/39086/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-131623_30FEE02F-B7B5-CC15-FD8773796A1679E0_310099ea-f0f5-205e-a296dfb6888c240d.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event:Thane Zickefoose Live
-UID:39086@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3athane-zickefoose-live/39086/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
@@ -424,24 +320,6 @@ UID:39104@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-plains-museum-presnts%3ainnovation-the-cowboy-way%3a-wyoming%e2%80%99s-inventions-and-inventors%e2%80%9d/39104/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-DESCRIPTION:Laramie Jubilee Days Event: PRCA Performance\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-prca-performance/39098/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-135055_3232FF4B-99F7-8112-19797A070829770C_323534cd-afdb-0217-ba0fd76e31dfb449.png\nCategories: Annual Events & Festivals\, Outdoor Recreation\, Sports\, Performing Arts & Culture\, Family Fun
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Laramie Jubilee Days Event: PRCA Performance
-UID:39098@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-prca-performance/39098/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laramie Jubilee Days Event: Betty Kiser Memorial CASI Chili Cookoff\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-betty-kiser-memorial-casi-chili-cookoff/39091/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1_8817FD84-D2B1-A899-F1648CFADCF504EF_8821a8c5-d3fd-8bc0-8294d30e6f6859f0.png\nCategories: Annual Events & Festivals\, Sports
-GEO:41.311367;-105.591101
-LOCATION:Downtown Laramie
-SUMMARY:Laramie Jubilee Days Event: Betty Kiser Memorial CASI Chili Cookoff
-UID:39091@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-betty-kiser-memorial-casi-chili-cookoff/39091/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:Afternoon Tea and Tatanka\nMore info: https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/\nVenue: Rebel Ranch\nVenue Info: https://www.visitlaramie.org/listing/rebel-ranch/516/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/cow-calf_A4B3D06D-07AF-9D0D-E4F064D6AC0FD23B_a51c909c-f2af-b816-071fb6249b4c0a05.jpg\nCategories: Outdoor Recreation\, Education\, Social Events
 GEO:41.188541;-106.085557
@@ -449,24 +327,6 @@ LOCATION:Rebel Ranch
 SUMMARY:Afternoon Tea and Tatanka
 UID:38686@visitlaramie.org
 URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laramie Brewfest\nMore info: https://www.visitlaramie.org/event/laramie-brewfest/39039/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Brewfest_Event_8D48B5F7-A620-5382-5B70D364745CF42B_8d4c049b-a23d-0ad9-57b6febf581cb7a1.png\nCategories: Annual Events & Festivals
-GEO:41.311367;-105.591101
-LOCATION:Depot Park in Downtown Laramie
-SUMMARY:Laramie Brewfest
-UID:39039@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-brewfest/39039/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-DESCRIPTION:Full-Dome Film:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3acosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes-%2b-startalk/39123/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-095758_C78B6D94-ECBD-05B4-C3B17ABD5A6330D5_c78d1daa-0336-2d89-b7c233bb9078be10.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes + Startalk
-UID:39123@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3acosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes-%2b-startalk/39123/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
@@ -478,6 +338,15 @@ UID:39065@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jack-yoder-live/39065/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:Full-Dome Film:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3acosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes-%2b-startalk/39123/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-095758_C78B6D94-ECBD-05B4-C3B17ABD5A6330D5_c78d1daa-0336-2d89-b7c233bb9078be10.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes + Startalk
+UID:39123@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3acosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes-%2b-startalk/39123/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
 DESCRIPTION:Laramie Breastival\nMore info: https://www.visitlaramie.org/event/laramie-breastival/39156/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_0082_04863848-FBDD-83D0-DAA2ACC60CA2FC7A_04e9b28f-d63a-b31d-1651757e38787acd.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.306787;-105.571082
@@ -485,14 +354,6 @@ LOCATION:Washington Park
 SUMMARY:Laramie Breastival
 UID:39156@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-breastival/39156/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laramie Jubilee Days Event:Pancake Breakfast\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3apancake-breakfast/39084/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-130826_30A946A4-074F-685F-851681D39E90B05F_30a99b76-fb01-20af-de7b7fe41170f122.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.312286;-105.593206
-SUMMARY:Laramie Jubilee Days Event:Pancake Breakfast
-UID:39084@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3apancake-breakfast/39084/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
@@ -504,13 +365,13 @@ UID:39142@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Collage: Life in Layers with Tawni Shuler\nMore info: https://www.visitlaramie.org/event/collage%3a-life-in-layers-with-tawni-shuler/39161/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Collage-Life-in-Layers-with-Tawni-Shuler_AC7242C1-ED6E-CF4C-6525A66EF8782627_ac8d3c02-c2a7-dda9-d70d3ba49474b392.jpg\nCategories: History\, Craft Classes & Workshops
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Collage: Life in Layers with Tawni Shuler
-UID:39161@visitlaramie.org
-URL:https://www.visitlaramie.org/event/collage%3a-life-in-layers-with-tawni-shuler/39161/
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie\nMore info: https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_6516587B-C3E6-4214-8E73F4A1E1FDD36E_eb21b273-756f-4cd2-a2d0f65a6be6ac4a.jpg\nCategories: Concerts & Live Music\, Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie
+UID:39070@visitlaramie.org
+URL:https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
@@ -521,23 +382,6 @@ UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie\nMore info: https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_6516587B-C3E6-4214-8E73F4A1E1FDD36E_eb21b273-756f-4cd2-a2d0f65a6be6ac4a.jpg\nCategories: Concerts & Live Music\, Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie
-UID:39070@visitlaramie.org
-URL:https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laramie Jubilee Days Event: Live Music -Tris Munsick & The Innocents\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-tris-munsick-%26-the-innocents/39096/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-134351_31F144D6-C99F-2AEF-7C28FE12AC8B4FFD_31f4a408-a777-78d8-a4812ea49c96618e.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event: Live Music -Tris Munsick & The Innocents
-UID:39096@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-tris-munsick-%26-the-innocents/39096/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
 DESCRIPTION:Cowgirl Soccer: Univ. of Denver (Exhibition)\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-denver-(exhibition)/39128/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
 GEO:41.313732;-105.570741
@@ -545,14 +389,6 @@ LOCATION:Madrid Sports Complex
 SUMMARY:Cowgirl Soccer: Univ. of Denver (Exhibition)
 UID:39128@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-denver-(exhibition)/39128/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laramie Jubilee Days Event:Jaimie Hansen Live\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3ajaimie-hansen-live/39089/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-132651_315A49A4-DE5D-F6EA-C340C32ECFEDB7CC_315b9c54-03d9-eaf4-aa9c109057a5f47f.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event:Jaimie Hansen Live
-UID:39089@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3ajaimie-hansen-live/39089/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260808
@@ -618,21 +454,13 @@ UID:39100@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-laramie/39100/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Laramie Jubilee Days Event: Live Music - 9's A Pair\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-9s-a-pair/39094/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-133927_31CC3D6F-B693-B490-7D358CCF8558EC31_31ce6ffc-d913-1fac-093227bee8952c32.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event: Live Music - 9's A Pair
-UID:39094@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3a-live-music-9s-a-pair/39094/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:The Company We Keep by Mimi Fenton\, Artist Reception\nMore info: https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-artist-reception/39152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-121401_01800C0F-A7D5-5CE6-5336DA810D8AE0D5_01b9ebd8-f6f9-4227-6c6441d69aa783ba.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
-SUMMARY:The Company We Keep by Mimi Fenton\, Artist Reception
-UID:39152@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-artist-reception/39152/
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:Fake Tattoo Pop-Up\nMore info: https://www.visitlaramie.org/event/fake-tattoo-pop-up/39159/\nVenue: Sunshine Coffee\nVenue Info: https://www.visitlaramie.org/listing/sunshine-coffee/1711/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WyoGives-Tattoo-Pop-Up_642A2235-ECA9-26C4-25ABE2D6EAE210ED_64545161-ace7-40b0-a2c1ad3008430b9b.png\nCategories: Performing Arts & Culture\, Family Fun
+GEO:41.309002;-105.587950
+LOCATION:Optimist Park - LPAC Art Shed
+SUMMARY:Fake Tattoo Pop-Up
+UID:39159@visitlaramie.org
+URL:https://www.visitlaramie.org/event/fake-tattoo-pop-up/39159/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -651,13 +479,5 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Artist & Museum: Hung Liu
 UID:39002@visitlaramie.org
 URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:Laramie Jubilee Days Event:Gabe Jackson Acoustic Live\nMore info: https://www.visitlaramie.org/event/laramie-jubilee-days-event%3agabe-jackson-acoustic-live/39087/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-131944_311CF1EE-0371-A8E6-B5C6EBAD674D4830_31210dc4-096b-9cdd-0672aa77cbd5a2d8.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Performing Arts & Culture
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Jubilee Days Event:Gabe Jackson Acoustic Live
-UID:39087@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-jubilee-days-event%3agabe-jackson-acoustic-live/39087/
 END:VEVENT
 END:VCALENDAR
