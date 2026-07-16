@@ -20,13 +20,13 @@ UID:39164@visitlaramie.org
 URL:https://www.visitlaramie.org/event/listening-hollows%3a-transforming-empty-spaces-workshop/39164/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Explorers Night: Pablo Velt\nMore info: https://www.visitlaramie.org/event/explorers-night%3a-pablo-velt/39150/\nVenue: Laramie's Basecamp\nVenue Info: https://www.visitlaramie.org/listing/laramies-basecamp/384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/EXPLORERS-NIGHT-2_6584A450-D04C-EC27-8C14B7000E085496_659addba-9f12-0d6e-b81296df09bf11b5.png\nCategories: Community\, Outdoor Recreation\, Social Events
-GEO:41.311263;-105.595108
-LOCATION:Laramie's Basecamp
-SUMMARY:Explorers Night: Pablo Velt
-UID:39150@visitlaramie.org
-URL:https://www.visitlaramie.org/event/explorers-night%3a-pablo-velt/39150/
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:2026 Annual Wanna Ride Memorial Ride &Scavenger Hunt\nMore info: https://www.visitlaramie.org/event/2026-annual-wanna-ride-memorial-ride-%26scavenger-hunt/38668/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_3653_764B03A5-97F4-4D91-A03047B2647524D4_76564a07-a0e3-92a2-79b5ca6255895be7.jpg\nCategories: Annual Events & Festivals
+GEO:41.038434;-106.167053
+LOCATION:2 Power Line Rd.\, Laramie\, WY 82070
+SUMMARY:2026 Annual Wanna Ride Memorial Ride &Scavenger Hunt
+UID:38668@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2026-annual-wanna-ride-memorial-ride-%26scavenger-hunt/38668/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
@@ -73,14 +73,6 @@ UID:39162@visitlaramie.org
 URL:https://www.visitlaramie.org/event/fun-with-folded-paper-fidgets-and-simple-book-forms/39162/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Nellie: The First Woman Governor at America's Milestones
-UID:39136@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39071/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-100933_2A493029-0C10-AC72-C7372F57BEE99490_2a538758-c87d-812b-d871fecca2556784.png\nCategories: Community\, Social Events
 GEO:41.311928;-105.600431
@@ -88,6 +80,14 @@ LOCATION:Lincoln Community Center
 SUMMARY:Ecstatic Dance
 UID:39071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39071/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Nellie: The First Woman Governor at America's Milestones
+UID:39136@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
@@ -178,6 +178,15 @@ UID:39127@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-brown-vs-gold/39127/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DESCRIPTION:2026 Albany County Fair!\nMore info: https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-15-115338_05362B57-FA5E-A230-DBDDE3D423E84890_05436b9d-0d20-5909-7a7e937b514b238c.png\nCategories: Annual Events & Festivals\, Community\, Education\, Family Fun\, Social Events
+GEO:41.286512;-105.592547
+LOCATION:Albany County Fairgrounds
+SUMMARY:2026 Albany County Fair!
+UID:39179@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:UniWyo Summer Movie Series: The Parent Trap\nMore info: https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-the-parent-trap/39146/\nVenue: War Memorial Stadium\nVenue Info: https://www.visitlaramie.org/listing/war-memorial-stadium/270/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-115425_FF39C671-D5BD-D74D-3D6BBC29481275A5_ff49b450-d5fc-1624-558888f752361a97.png\nCategories: Community\, University of Wyoming\, Family Fun\, Social Events
 GEO:41.312460;-105.569531
@@ -193,15 +202,6 @@ GEO:41.311367;-105.591101
 SUMMARY:Albany County CattleWomen Ranch Tour
 UID:39055@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/39055/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Centennial Speaker Series: Looking Locally\, Speaking Globally\nMore info: https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/39113/\nVenue: Centennial Library\nVenue Info: https://www.visitlaramie.org/listing/centennial-library/1797/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/css-july-2026-8.5x11_33B55E01-A61C-E737-CBCC0CC47C36FAF1_33c018c7-c874-b4db-fc48de0a26a175d7.png\nCategories: University of Wyoming\, Education
-GEO:41.298808;-106.141485
-LOCATION:Centennial Library
-SUMMARY:Centennial Speaker Series: Looking Locally\, Speaking Globally
-UID:39113@visitlaramie.org
-URL:https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/39113/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -238,6 +238,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Y2K Night Out
 UID:39106@visitlaramie.org
 URL:https://www.visitlaramie.org/event/y2k-night-out/39106/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Make a Mini Mural with Cassidy Post\nMore info: https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Make-a-Mini-Mural-with-Cassidy-Post_ACF7EDD9-EC21-1BF5-A73A9C6FA81851FF_acff9ceb-a568-8f47-7e39911bb2bd7593.jpg\nCategories: Craft Classes & Workshops
+GEO:41.310382;-105.594446
+LOCATION:Wyoming Women's History House
+SUMMARY:Make a Mini Mural with Cassidy Post
+UID:39165@visitlaramie.org
+URL:https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -427,6 +436,15 @@ UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Med Bow Rail Marathon & Half Marathon\nMore info: https://www.visitlaramie.org/event/med-bow-rail-marathon-%26-half-marathon/38910/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-103105_E8CED529-9ED0-C75E-27D2B82224E3D149_e90cf21a-eb54-4b9c-b31b6f6ad025f5c7.png\nCategories: Community\, Outdoor Recreation\, Sports\, Family Fun
+GEO:41.311367;-105.591101
+LOCATION:Medicine Bow National Forest- Lake Owen
+SUMMARY:Med Bow Rail Marathon & Half Marathon
+UID:38910@visitlaramie.org
+URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-%26-half-marathon/38910/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220813
 DESCRIPTION:WYCO Volunteer Fire Department Annual Fundraiser.\nMore info: https://www.visitlaramie.org/event/wyco-volunteer-fire-department-annual-fundraiser/31506/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_1651BE60-5056-A36F-230D4E6E62C421DF_16a44bd4-5056-a36f-2328563c1297ea2f.png\nCategories: Annual Events & Festivals\, Community\, Social Events\, Volunteering
 GEO:41.013090;-106.168432
@@ -452,15 +470,6 @@ LOCATION:Toyota of Laramie
 SUMMARY:Cars and Coffee - Laramie
 UID:39100@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-laramie/39100/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:Fake Tattoo Pop-Up\nMore info: https://www.visitlaramie.org/event/fake-tattoo-pop-up/39159/\nVenue: Sunshine Coffee\nVenue Info: https://www.visitlaramie.org/listing/sunshine-coffee/1711/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WyoGives-Tattoo-Pop-Up_642A2235-ECA9-26C4-25ABE2D6EAE210ED_64545161-ace7-40b0-a2c1ad3008430b9b.png\nCategories: Performing Arts & Culture\, Family Fun
-GEO:41.309002;-105.587950
-LOCATION:Optimist Park - LPAC Art Shed
-SUMMARY:Fake Tattoo Pop-Up
-UID:39159@visitlaramie.org
-URL:https://www.visitlaramie.org/event/fake-tattoo-pop-up/39159/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
