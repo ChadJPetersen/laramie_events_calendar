@@ -73,6 +73,14 @@ UID:39162@visitlaramie.org
 URL:https://www.visitlaramie.org/event/fun-with-folded-paper-fidgets-and-simple-book-forms/39162/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Nellie: The First Woman Governor at America's Milestones
+UID:39136@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39071/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-100933_2A493029-0C10-AC72-C7372F57BEE99490_2a538758-c87d-812b-d871fecca2556784.png\nCategories: Community\, Social Events
 GEO:41.311928;-105.600431
@@ -80,14 +88,6 @@ LOCATION:Lincoln Community Center
 SUMMARY:Ecstatic Dance
 UID:39071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39071/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Nellie: The First Woman Governor at America's Milestones
-UID:39136@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
@@ -176,15 +176,6 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:2026 Albany County Fair!
 UID:39179@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:UniWyo Summer Movie Series: The Parent Trap\nMore info: https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-the-parent-trap/39146/\nVenue: War Memorial Stadium\nVenue Info: https://www.visitlaramie.org/listing/war-memorial-stadium/270/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-115425_FF39C671-D5BD-D74D-3D6BBC29481275A5_ff49b450-d5fc-1624-558888f752361a97.png\nCategories: Community\, University of Wyoming\, Family Fun\, Social Events
-GEO:41.312460;-105.569531
-LOCATION:War Memorial Stadium
-SUMMARY:UniWyo Summer Movie Series: The Parent Trap
-UID:39146@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-the-parent-trap/39146/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260718
