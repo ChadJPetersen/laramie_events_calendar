@@ -64,15 +64,6 @@ UID:39169@visitlaramie.org
 URL:https://www.visitlaramie.org/event/summer-concert-series/39169/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DESCRIPTION:Fun with Folded Paper Fidgets and Simple Book Forms\nMore info: https://www.visitlaramie.org/event/fun-with-folded-paper-fidgets-and-simple-book-forms/39162/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Fun-with-Folded-Paper-Fidgets-and-Simple-Book-Forms_ACA57788-DA3B-2681-25B3D20A1161A2F7_aca9fefb-ec30-7692-4ddc6e127d44ef28.jpg\nCategories: Craft Classes & Workshops
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Fun with Folded Paper Fidgets and Simple Book Forms
-UID:39162@visitlaramie.org
-URL:https://www.visitlaramie.org/event/fun-with-folded-paper-fidgets-and-simple-book-forms/39162/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
 DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
@@ -125,14 +116,6 @@ UID:39005@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DESCRIPTION:Naughty Pines Roller Derby - Chaos Carnival\nMore info: https://www.visitlaramie.org/event/naughty-pines-roller-derby-chaos-carnival/39174/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/645/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-14-111950_D070BA72-9907-6F02-16A0AF29BD089F29_d073fed4-c5df-a26f-1d244a07040ccdb1.png\nCategories: Community\, Sports\, Family Fun
-LOCATION:Laramie Ice & Event Center
-SUMMARY:Naughty Pines Roller Derby - Chaos Carnival
-UID:39174@visitlaramie.org
-URL:https://www.visitlaramie.org/event/naughty-pines-roller-derby-chaos-carnival/39174/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
 DESCRIPTION:Read With A Ranger\nMore info: https://www.visitlaramie.org/event/read-with-a-ranger/39141/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-105219_FD0F8FCB-9F43-3BED-03DB3F5C19E700D5_fd1bccce-b937-c3a6-a8c7e2c038af020e.png\nCategories: Community\, Education\, Family Fun
 GEO:41.310342;-105.587834
@@ -178,14 +161,6 @@ UID:39179@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DESCRIPTION:Albany County CattleWomen Ranch Tour\nMore info: https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/39055/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-05-133408_FCA4CEC1-A1FF-0CA1-047CB3950A8604D4_fcaaf035-cf02-27e4-66d22235afb138ba.png\nCategories: History\, Community\, Education\, Wyoming 250
-GEO:41.311367;-105.591101
-SUMMARY:Albany County CattleWomen Ranch Tour
-UID:39055@visitlaramie.org
-URL:https://www.visitlaramie.org/event/albany-county-cattlewomen-ranch-tour/39055/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
@@ -195,13 +170,13 @@ UID:38870@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo/38870/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DESCRIPTION:Urban Sketching @ Washington Park (joint event with Sketchy Folks)\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-washington-park-(joint-event-with-sketchy-folks)/39139/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner-1-_D22DF81F-E0B1-A489-C09799FEAF8E0839_d23b8456-c6ab-c15f-3eac446cecba72a8.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Washington Park
-SUMMARY:Urban Sketching @ Washington Park (joint event with Sketchy Folks)
-UID:39139@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-washington-park-(joint-event-with-sketchy-folks)/39139/
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Make a Mini Mural with Cassidy Post\nMore info: https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Make-a-Mini-Mural-with-Cassidy-Post_ACF7EDD9-EC21-1BF5-A73A9C6FA81851FF_acff9ceb-a568-8f47-7e39911bb2bd7593.jpg\nCategories: Craft Classes & Workshops
+GEO:41.310382;-105.594446
+LOCATION:Wyoming Women's History House
+SUMMARY:Make a Mini Mural with Cassidy Post
+UID:39165@visitlaramie.org
+URL:https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
@@ -220,15 +195,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Y2K Night Out
 UID:39106@visitlaramie.org
 URL:https://www.visitlaramie.org/event/y2k-night-out/39106/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DESCRIPTION:Make a Mini Mural with Cassidy Post\nMore info: https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Make-a-Mini-Mural-with-Cassidy-Post_ACF7EDD9-EC21-1BF5-A73A9C6FA81851FF_acff9ceb-a568-8f47-7e39911bb2bd7593.jpg\nCategories: Craft Classes & Workshops
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Make a Mini Mural with Cassidy Post
-UID:39165@visitlaramie.org
-URL:https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
