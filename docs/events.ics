@@ -29,6 +29,15 @@ UID:38668@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-annual-wanna-ride-memorial-ride-%26scavenger-hunt/38668/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Bat Walk at Curt Gowdy State Park\nMore info: https://www.visitlaramie.org/event/bat-walk-at-curt-gowdy-state-park/39183/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Bat-Walk_DEFD267A-E08F-213D-36FBA3136DA6DF5D_df074cd6-b8ec-cd8d-234f56e4a38e61fc.png\nCategories: Education
+GEO:41.169150;-105.222448
+LOCATION:Curt Gowdy State Park
+SUMMARY:Bat Walk at Curt Gowdy State Park
+UID:39183@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bat-walk-at-curt-gowdy-state-park/39183/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:Full-Dome Film: Hot and Energetic Universe\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-095859_58FB32C9-9212-9972-7A41AC265F344D63_58ff8451-da98-b4c5-221c5c49602bfab0.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -70,15 +79,6 @@ GEO:41.314165;-105.568122
 SUMMARY:Nellie: The First Woman Governor at America's Milestones
 UID:39136@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39071/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-100933_2A493029-0C10-AC72-C7372F57BEE99490_2a538758-c87d-812b-d871fecca2556784.png\nCategories: Community\, Social Events
-GEO:41.311928;-105.600431
-LOCATION:Lincoln Community Center
-SUMMARY:Ecstatic Dance
-UID:39071@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ecstatic-dance/39071/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
@@ -123,6 +123,14 @@ LOCATION:Albany County Public Library
 SUMMARY:Read With A Ranger
 UID:39141@visitlaramie.org
 URL:https://www.visitlaramie.org/event/read-with-a-ranger/39141/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DESCRIPTION:Nature Journaling with Jennie Lawrence\nMore info: https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
+GEO:41.341222;-106.183517
+SUMMARY:Nature Journaling with Jennie Lawrence
+UID:39043@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
@@ -197,6 +205,15 @@ UID:39106@visitlaramie.org
 URL:https://www.visitlaramie.org/event/y2k-night-out/39106/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:7th Annual Eagle Classic Car & Bike Show\nMore info: https://www.visitlaramie.org/event/7th-annual-eagle-classic-car-%26-bike-show/39184/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-20-093031_0191035B-DF1D-B4D9-FE3B6448BE810E45_01bd6cfa-073c-9366-257ea8895cf0cb07.png\nCategories: Annual Events & Festivals\, History\, Community\, Family Fun\, Social Events
+GEO:41.325456;-105.596768
+LOCATION:FOE Eagles #3493
+SUMMARY:7th Annual Eagle Classic Car & Bike Show
+UID:39184@visitlaramie.org
+URL:https://www.visitlaramie.org/event/7th-annual-eagle-classic-car-%26-bike-show/39184/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
 DESCRIPTION:Tuesday Local Market\nMore info: https://www.visitlaramie.org/event/tuesday-local-market/39060/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TLM_65321B46-F975-66AE-4B7F93FAB64FA696_65692306-eba3-5d36-af75d8144a8a1829.jpg\nCategories: Concerts & Live Music\, Community\, Family Fun
 GEO:41.317073;-105.590587
@@ -268,6 +285,15 @@ UID:39137@visitlaramie.org
 URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Cowgirl Soccer: Weber State\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:Madrid Sports Complex
+SUMMARY:Cowgirl Soccer: Weber State
+UID:39130@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:Laramie Plains Museum Presnts:Innovation The Cowboy Way: Wyoming’s Inventions and Inventors”\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-presnts%3ainnovation-the-cowboy-way%3a-wyoming%e2%80%99s-inventions-and-inventors%e2%80%9d/39104/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-05-114348_636D7B30-CC1D-6435-D65B8747E1CD608B_636eac0e-fc9b-d5f1-5dcdbf5f002f5deb.png\nCategories: History\, Wyoming 250
 GEO:41.312068;-105.589055
@@ -275,6 +301,15 @@ LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
 SUMMARY:Laramie Plains Museum Presnts:Innovation The Cowboy Way: Wyoming’s Inventions and Inventors”
 UID:39104@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-plains-museum-presnts%3ainnovation-the-cowboy-way%3a-wyoming%e2%80%99s-inventions-and-inventors%e2%80%9d/39104/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Access Adventure Multi-Sport Day at Curt Gowdy State Park\nMore info: https://www.visitlaramie.org/event/access-adventure-multi-sport-day-at-curt-gowdy-state-park/39182/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Gowdy-AA-Logo_DEBDF0A1-DEAE-AE05-97AAF94391A5090B_dec45efa-bf9d-94b6-c881fd13b6357954.jpg\nCategories: Annual Events & Festivals
+GEO:41.185148;-105.243932
+LOCATION:Curt Gowdy State Park
+SUMMARY:Access Adventure Multi-Sport Day at Curt Gowdy State Park
+UID:39182@visitlaramie.org
+URL:https://www.visitlaramie.org/event/access-adventure-multi-sport-day-at-curt-gowdy-state-park/39182/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
@@ -311,6 +346,15 @@ LOCATION:Washington Park
 SUMMARY:Laramie Breastival
 UID:39156@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-breastival/39156/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:UWAM Presents - Third Thursday: Palette / Palate\nMore info: https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-palette-palate/39032/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-112632_8FA0F501-B3E1-8C3A-521CE6BD383EA2E2_8fa19904-90a9-88df-87f6300349b05840.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:UWAM Presents - Third Thursday: Palette / Palate
+UID:39032@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-palette-palate/39032/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
