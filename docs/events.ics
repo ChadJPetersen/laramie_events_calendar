@@ -38,6 +38,15 @@ UID:39183@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bat-walk-at-curt-gowdy-state-park/39183/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Side Quests\, Show Reception\nMore info: https://www.visitlaramie.org/event/side-quests-show-reception/39157/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-01-123344_35B1115A-9B3F-2C66-8B97B86BA36F18D9_35b1bc08-d6d4-e0ec-8b8e694bc6fc1be1.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
+SUMMARY:Side Quests\, Show Reception
+UID:39157@visitlaramie.org
+URL:https://www.visitlaramie.org/event/side-quests-show-reception/39157/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:Full-Dome Film: Hot and Energetic Universe\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-095859_58FB32C9-9212-9972-7A41AC265F344D63_58ff8451-da98-b4c5-221c5c49602bfab0.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -99,13 +108,13 @@ UID:39129@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-drake-univ/39129/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-DESCRIPTION:Full-Dome Film: 5000 Eyes: Mapping the Universe with DESI + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-5000-eyes%3a-mapping-the-universe-with-desi-%2b-startalk/39122/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/07.21.26-Planetarium-Event_C777B021-A8C0-7A5D-5CC398D3C983F514_c778d0f2-943f-6f39-e1181abefacd9280.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: 5000 Eyes: Mapping the Universe with DESI + Startalk
-UID:39122@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-5000-eyes%3a-mapping-the-universe-with-desi-%2b-startalk/39122/
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Jett Vincent LIVE at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_AAFBD7C6-1601-47FF-A7FB9031C883B28C_c77170b9-baa5-4209-bd98734a9e938bae.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Jett Vincent LIVE at The Cowboy Saloon
+UID:39064@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -131,6 +140,15 @@ GEO:41.341222;-106.183517
 SUMMARY:Nature Journaling with Jennie Lawrence
 UID:39043@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Wyoming Fringe Festival 2026\nMore info: https://www.visitlaramie.org/event/wyoming-fringe-festival-2026/38722/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-131500_7A684EFD-BB79-3FB1-E6AE7BB0D3E99996_7a6c5695-f945-db65-61da8eff212d8cb8.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center
+SUMMARY:Wyoming Fringe Festival 2026
+UID:38722@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-fringe-festival-2026/38722/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
@@ -187,15 +205,6 @@ UID:39165@visitlaramie.org
 URL:https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-DESCRIPTION:Innovation the Cowboy Way: Wyoming's Inventions and Inventors\nMore info: https://www.visitlaramie.org/event/innovation-the-cowboy-way%3a-wyomings-inventions-and-inventors/38902/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-10-15-100745_EA4CE29A-B5C3-6D14-FAACDE3BB7C5DF5E_ea4e43f5-9786-fc3e-c0291c2a2ee053cf.png\nCategories: History
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Innovation the Cowboy Way: Wyoming's Inventions and Inventors
-UID:38902@visitlaramie.org
-URL:https://www.visitlaramie.org/event/innovation-the-cowboy-way%3a-wyomings-inventions-and-inventors/38902/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260808
 DESCRIPTION:Y2K Night Out\nMore info: https://www.visitlaramie.org/event/y2k-night-out/39106/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Y2K-Night-Out-1-_690E80E9-C450-EBAB-2ED7822E1780F6F9_69253460-0013-716c-f8e6b4a9263f2851.png\nCategories: Social Events
 GEO:41.312707;-105.595125
@@ -241,13 +250,11 @@ UID:39151@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-centennial-library-speaker-series%3a-the-solar-system-from-our-backyard/39151/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-DESCRIPTION:Super Soaring Dino Kites w/ Tara Pappas\nMore info: https://www.visitlaramie.org/event/super-soaring-dino-kites-w-tara-pappas/39144/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-112348_FEEE969D-E171-2510-ED5559D09E1DE836_fefb3382-a2ef-445c-8d4476369c436dd6.png\nCategories: Community\, Education\, Family Fun
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Super Soaring Dino Kites w/ Tara Pappas
-UID:39144@visitlaramie.org
-URL:https://www.visitlaramie.org/event/super-soaring-dino-kites-w-tara-pappas/39144/
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-14-124735_D6150CD6-C630-25FE-B8F63A4317C96ECD_d639e8b0-efcb-d762-265d3bb1c02334fa.png\nCategories: Community\, Outdoor Recreation\, Family Fun
+SUMMARY:Glow and Go Run 3.07 miles
+UID:39177@visitlaramie.org
+URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
@@ -292,15 +299,6 @@ LOCATION:Madrid Sports Complex
 SUMMARY:Cowgirl Soccer: Weber State
 UID:39130@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-DESCRIPTION:Laramie Plains Museum Presnts:Innovation The Cowboy Way: Wyoming’s Inventions and Inventors”\nMore info: https://www.visitlaramie.org/event/laramie-plains-museum-presnts%3ainnovation-the-cowboy-way%3a-wyoming%e2%80%99s-inventions-and-inventors%e2%80%9d/39104/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-05-114348_636D7B30-CC1D-6435-D65B8747E1CD608B_636eac0e-fc9b-d5f1-5dcdbf5f002f5deb.png\nCategories: History\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Laramie Plains Museum Presnts:Innovation The Cowboy Way: Wyoming’s Inventions and Inventors”
-UID:39104@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-plains-museum-presnts%3ainnovation-the-cowboy-way%3a-wyoming%e2%80%99s-inventions-and-inventors%e2%80%9d/39104/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260814
@@ -383,6 +381,15 @@ UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Side Quests\, Show Reception\nMore info: https://www.visitlaramie.org/event/side-quests-show-reception/39154/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-125353_030263A7-ADD8-A9D0-25FF762BECDB2D22_032b6695-b7b0-6a35-ba664237ba2c0938.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
+SUMMARY:Side Quests\, Show Reception
+UID:39154@visitlaramie.org
+URL:https://www.visitlaramie.org/event/side-quests-show-reception/39154/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
 DESCRIPTION:Cowgirl Soccer: Univ. of Denver (Exhibition)\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-denver-(exhibition)/39128/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
 GEO:41.313732;-105.570741
@@ -435,6 +442,15 @@ LOCATION:Medicine Bow National Forest- Lake Owen
 SUMMARY:Med Bow Rail Marathon & Half Marathon
 UID:38910@visitlaramie.org
 URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-%26-half-marathon/38910/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:UniWyo Summer Movie Series: Zootopia 2\nMore info: https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-zootopia-2/39147/\nVenue: War Memorial Stadium\nVenue Info: https://www.visitlaramie.org/listing/war-memorial-stadium/270/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-115817_FF5691E9-D381-61DE-6ABC4296E2AE68D4_ff625a37-b777-4720-6492357f41b6d53d.png\nCategories: Community\, University of Wyoming\, Family Fun\, Social Events
+GEO:41.312460;-105.569531
+LOCATION:War Memorial Stadium
+SUMMARY:UniWyo Summer Movie Series: Zootopia 2
+UID:39147@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-zootopia-2/39147/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220813
