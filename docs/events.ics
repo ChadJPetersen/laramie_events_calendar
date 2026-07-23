@@ -2,6 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Youth Market Beef Show\nMore info: https://www.visitlaramie.org/event/youth-market-beef-show/39197/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143428_7365C2CC-AAA2-02C9-1B1466105B7CBFD5_73688ee1-9b2b-e158-b793eb56b4143b9d.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Youth Market Beef Show
+UID:39197@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-market-beef-show/39197/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260725
 DESCRIPTION:The Albany County Fair Smokin' BBQ\nMore info: https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Master_Logo_Black_ADAC2D56-E23D-5D98-F77E910D0C358C19_aded7285-dcfd-9a70-81ef8b34869d0d1a.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun\, Social Events\, Wyoming 250
 GEO:41.282735;-105.593071
@@ -9,6 +18,15 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:The Albany County Fair Smokin' BBQ
 UID:38876@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DESCRIPTION:4-H Dog Show\nMore info: https://www.visitlaramie.org/event/4-h-dog-show/39190/\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:4-H Dog Show
+UID:39190@visitlaramie.org
+URL:https://www.visitlaramie.org/event/4-h-dog-show/39190/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260801
@@ -38,15 +56,6 @@ UID:39183@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bat-walk-at-curt-gowdy-state-park/39183/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Side Quests\, Show Reception\nMore info: https://www.visitlaramie.org/event/side-quests-show-reception/39157/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-01-123344_35B1115A-9B3F-2C66-8B97B86BA36F18D9_35b1bc08-d6d4-e0ec-8b8e694bc6fc1be1.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
-SUMMARY:Side Quests\, Show Reception
-UID:39157@visitlaramie.org
-URL:https://www.visitlaramie.org/event/side-quests-show-reception/39157/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:Full-Dome Film: Hot and Energetic Universe\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-095859_58FB32C9-9212-9972-7A41AC265F344D63_58ff8451-da98-b4c5-221c5c49602bfab0.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -73,6 +82,24 @@ UID:39143@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:Youth Market & Breeding Sheep Show\nMore info: https://www.visitlaramie.org/event/youth-market-%26-breeding-sheep-show/39201/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144443_740438D4-BCED-61D5-7BC526BA903427B4_7404e80a-a580-335c-bc9a1be61760cdc5.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Youth Market & Breeding Sheep Show
+UID:39201@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-market-%26-breeding-sheep-show/39201/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260727
+DESCRIPTION:Youth Rabbit Show\nMore info: https://www.visitlaramie.org/event/youth-rabbit-show/39195/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143105_73430062-BDD2-DCB4-F45172FE8A8C68AE_73452f9a-f11a-9cfc-d52953a92d8459f3.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Youth Rabbit Show
+UID:39195@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-rabbit-show/39195/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
 DESCRIPTION:Summer Concert Series\nMore info: https://www.visitlaramie.org/event/summer-concert-series/39169/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Title-4-_6CC62216-B8EA-B6C9-95C90E4ADB857910_6ce3e0d5-fecc-a163-d116d386e3e68858.png\nCategories: Concerts & Live Music\, Family Fun
 GEO:41.311367;-105.591101
@@ -88,6 +115,15 @@ GEO:41.314165;-105.568122
 SUMMARY:Nellie: The First Woman Governor at America's Milestones
 UID:39136@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Younth Poultry Show Day 2\nMore info: https://www.visitlaramie.org/event/younth-poultry-show-day-2/39188/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-135817_721E01DB-963D-4629-60DA9B72709B12CC_72271294-f8b3-e2bd-979b8f645910a624.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Younth Poultry Show Day 2
+UID:39188@visitlaramie.org
+URL:https://www.visitlaramie.org/event/younth-poultry-show-day-2/39188/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
@@ -134,6 +170,15 @@ UID:39141@visitlaramie.org
 URL:https://www.visitlaramie.org/event/read-with-a-ranger/39141/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DESCRIPTION:Youth Breeding Swine & 4-H Swine Showmanship\nMore info: https://www.visitlaramie.org/event/youth-breeding-swine-%26-4-h-swine-showmanship/39193/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-141658_72CBB6EA-A0F2-399E-5879B37E2067F973_72d20524-e1c5-afc9-c3afdaaca1fd1afa.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Youth Breeding Swine & 4-H Swine Showmanship
+UID:39193@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-breeding-swine-%26-4-h-swine-showmanship/39193/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
 DESCRIPTION:Nature Journaling with Jennie Lawrence\nMore info: https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
 GEO:41.341222;-106.183517
@@ -143,12 +188,20 @@ URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Wyoming Fringe Festival 2026\nMore info: https://www.visitlaramie.org/event/wyoming-fringe-festival-2026/38722/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-23-131500_7A684EFD-BB79-3FB1-E6AE7BB0D3E99996_7a6c5695-f945-db65-61da8eff212d8cb8.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Performing Arts & Culture
+DESCRIPTION:Wyoming Fringe Festival 2026\nMore info: https://www.visitlaramie.org/event/wyoming-fringe-festival-2026/38722/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-110135_6BC6E546-E65D-C4E3-01FEBC5EA01100F4_6bc9cb5b-d0b3-2fb3-33206556c7f2b2e9.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
 LOCATION:Laramie Plains Civic Center
 SUMMARY:Wyoming Fringe Festival 2026
 UID:38722@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-fringe-festival-2026/38722/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:Family Night at The Albany County Fair\nMore info: https://www.visitlaramie.org/event/family-night-at-the-albany-county-fair/39186/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-123620_6F2F08F2-9FF5-6C4D-3FB910B0E1001BCF_6f48ed88-f510-480f-2836f3303732c21b.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+SUMMARY:Family Night at The Albany County Fair
+UID:39186@visitlaramie.org
+URL:https://www.visitlaramie.org/event/family-night-at-the-albany-county-fair/39186/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
@@ -185,6 +238,24 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:2026 Albany County Fair!
 UID:39179@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:Team Roping Jackpot\nMore info: https://www.visitlaramie.org/event/team-roping-jackpot/39198/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143556_7371513F-B9EB-2A91-D4116497AB0FFDA7_737a4532-9205-e110-8709ab3e00a92f8e.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Team Roping Jackpot
+UID:39198@visitlaramie.org
+URL:https://www.visitlaramie.org/event/team-roping-jackpot/39198/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DESCRIPTION:Open Rabbit Show\nMore info: https://www.visitlaramie.org/event/open-rabbit-show/39191/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-140702_72683234-BC22-C864-B7490EC535942073_72706533-ba82-26eb-6732dca2d09db4bf.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Open Rabbit Show
+UID:39191@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-rabbit-show/39191/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -266,6 +337,24 @@ UID:39118@visitlaramie.org
 URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Ppocket Pet Show\nMore info: https://www.visitlaramie.org/event/ppocket-pet-show/39202/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144619_73D9F59D-E2CF-65D3-2977D5C2A6F37814_73da77f5-f0bd-6ff5-a8f6a0f6c21d6193.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Ppocket Pet Show
+UID:39202@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ppocket-pet-show/39202/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:4-H Cat Show\nMore info: https://www.visitlaramie.org/event/4-h-cat-show/39196/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143210_735696A1-A1F5-667F-AA98759D1CD1BC9C_7357f1e5-c464-d13e-d3aa20bc669b7683.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:4-H Cat Show
+UID:39196@visitlaramie.org
+URL:https://www.visitlaramie.org/event/4-h-cat-show/39196/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Tristan Duke & Polar Photography from the Collection\nMore info: https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-30-132926_8239836F-F287-D0FA-C292489236A0048E_82d5882f-c6aa-2cf6-e350d2a91d5b5653.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
 GEO:41.314165;-105.568122
@@ -299,6 +388,15 @@ LOCATION:Madrid Sports Complex
 SUMMARY:Cowgirl Soccer: Weber State
 UID:39130@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DESCRIPTION:4-H Dog Show\nMore info: https://www.visitlaramie.org/event/4-h-dog-show/39189/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-140304_72454C2A-9D51-8635-7C6BDE33D63B97FC_7249031d-06bb-2097-94fff5a121fc239b.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:4-H Dog Show
+UID:39189@visitlaramie.org
+URL:https://www.visitlaramie.org/event/4-h-dog-show/39189/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260814
@@ -364,6 +462,24 @@ UID:39142@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:ACF Junior Livestock Sale\nMore info: https://www.visitlaramie.org/event/acf-junior-livestock-sale/39200/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144110_73A650FE-BD36-B923-A228075707E34D47_73b05c5a-f665-5a5a-38d74e97599a2f74.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:ACF Junior Livestock Sale
+UID:39200@visitlaramie.org
+URL:https://www.visitlaramie.org/event/acf-junior-livestock-sale/39200/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260727
+DESCRIPTION:Home Raised Market Show\nMore info: https://www.visitlaramie.org/event/home-raised-market-show/39194/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-142750_7325B074-E2A8-A988-F824B78624F02DF5_732c75ac-a937-4a79-d5f928ad8d1d37d2.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Home Raised Market Show
+UID:39194@visitlaramie.org
+URL:https://www.visitlaramie.org/event/home-raised-market-show/39194/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260808
 DESCRIPTION:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie\nMore info: https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_6516587B-C3E6-4214-8E73F4A1E1FDD36E_eb21b273-756f-4cd2-a2d0f65a6be6ac4a.jpg\nCategories: Concerts & Live Music\, Community
 GEO:41.312707;-105.595125
@@ -379,6 +495,15 @@ GEO:41.314165;-105.568122
 SUMMARY:Wyoming Voices: Our Stories of America
 UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:FFA Swine Showmanship & Youth Market Swine Show\nMore info: https://www.visitlaramie.org/event/ffa-swine-showmanship-%26-youth-market-swine-show/39187/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-135239_71F8D943-069E-2F84-A901F9F59B1127E9_7202cfde-c4e7-7023-c12a195a0994c977.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:FFA Swine Showmanship & Youth Market Swine Show
+UID:39187@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ffa-swine-showmanship-%26-youth-market-swine-show/39187/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
@@ -424,6 +549,24 @@ LOCATION:University of Wyoming
 SUMMARY:urban Sketching @ uWyo Campus
 UID:39140@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-%40-uwyo-campus/39140/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Youth Meat Goat & Breeding Meat Goat Show\nMore info: https://www.visitlaramie.org/event/youth-meat-goat-%26-breeding-meat-goat-show/39199/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143811_7394E4C5-983B-0898-F3C7279BA2A7B5E8_73959872-dcea-a391-18e72f2329c281f5.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Youth Meat Goat & Breeding Meat Goat Show
+UID:39199@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-meat-goat-%26-breeding-meat-goat-show/39199/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DESCRIPTION:Cattle Showmanship and Breeding Cattle Show\nMore info: https://www.visitlaramie.org/event/cattle-showmanship-and-breeding-cattle-show/39192/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-141126_72B5C537-ADAB-9771-97E8473E459C0956_72b70e06-0457-928f-106188cf932a5019.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Cattle Showmanship and Breeding Cattle Show
+UID:39192@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cattle-showmanship-and-breeding-cattle-show/39192/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
