@@ -2,22 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Youth Market Beef Show\nMore info: https://www.visitlaramie.org/event/youth-market-beef-show/39197/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143428_7365C2CC-AAA2-02C9-1B1466105B7CBFD5_73688ee1-9b2b-e158-b793eb56b4143b9d.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Youth Market Beef Show
-UID:39197@visitlaramie.org
-URL:https://www.visitlaramie.org/event/youth-market-beef-show/39197/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:The Albany County Fair Smokin' BBQ\nMore info: https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Master_Logo_Black_ADAC2D56-E23D-5D98-F77E910D0C358C19_aded7285-dcfd-9a70-81ef8b34869d0d1a.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun\, Social Events\, Wyoming 250
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:The Albany County Fair Smokin' BBQ
-UID:38876@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/
+DTSTART;VALUE=DATE:20260804
+DESCRIPTION:Full-Dome Film: The Sun: Our Living Star + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star-%2b-star-talk/39203/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121138_9EA8EC0A-E100-B3CE-F37EFEB3B0BE0928_9ec00472-9e55-9c4e-3ab244cf7a7ca534.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: The Sun: Our Living Star + Star Talk
+UID:39203@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star-%2b-star-talk/39203/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
@@ -38,15 +29,6 @@ UID:39164@visitlaramie.org
 URL:https://www.visitlaramie.org/event/listening-hollows%3a-transforming-empty-spaces-workshop/39164/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DESCRIPTION:2026 Annual Wanna Ride Memorial Ride &Scavenger Hunt\nMore info: https://www.visitlaramie.org/event/2026-annual-wanna-ride-memorial-ride-%26scavenger-hunt/38668/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_3653_764B03A5-97F4-4D91-A03047B2647524D4_76564a07-a0e3-92a2-79b5ca6255895be7.jpg\nCategories: Annual Events & Festivals
-GEO:41.038434;-106.167053
-LOCATION:2 Power Line Rd.\, Laramie\, WY 82070
-SUMMARY:2026 Annual Wanna Ride Memorial Ride &Scavenger Hunt
-UID:38668@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2026-annual-wanna-ride-memorial-ride-%26scavenger-hunt/38668/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:Bat Walk at Curt Gowdy State Park\nMore info: https://www.visitlaramie.org/event/bat-walk-at-curt-gowdy-state-park/39183/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Bat-Walk_DEFD267A-E08F-213D-36FBA3136DA6DF5D_df074cd6-b8ec-cd8d-234f56e4a38e61fc.png\nCategories: Education
 GEO:41.169150;-105.222448
@@ -54,15 +36,6 @@ LOCATION:Curt Gowdy State Park
 SUMMARY:Bat Walk at Curt Gowdy State Park
 UID:39183@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bat-walk-at-curt-gowdy-state-park/39183/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-DESCRIPTION:Full-Dome Film: Hot and Energetic Universe\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-095859_58FB32C9-9212-9972-7A41AC265F344D63_58ff8451-da98-b4c5-221c5c49602bfab0.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Hot and Energetic Universe
-UID:39124@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39124/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260801
@@ -73,22 +46,13 @@ UID:39176@visitlaramie.org
 URL:https://www.visitlaramie.org/event/walk-today-for-women-tomorrow-laramie-peo/39176/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260625
-DESCRIPTION:Laramie Cruiser Ride\nMore info: https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-111313_FDC7D910-A3DE-74D8-FB5D91CADBA80CB3_fde42a33-d3ff-4051-043429b2832f6c6f.png\nCategories: Community\, Outdoor Recreation\, Sports
-GEO:41.311781;-105.596016
-LOCATION:Downtown Laramie
-SUMMARY:Laramie Cruiser Ride
-UID:39143@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Youth Market & Breeding Sheep Show\nMore info: https://www.visitlaramie.org/event/youth-market-%26-breeding-sheep-show/39201/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144443_740438D4-BCED-61D5-7BC526BA903427B4_7404e80a-a580-335c-bc9a1be61760cdc5.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Youth Market & Breeding Sheep Show
-UID:39201@visitlaramie.org
-URL:https://www.visitlaramie.org/event/youth-market-%26-breeding-sheep-show/39201/
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Full-Dome Film: One Sky + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-one-sky-%2b-startalk/39208/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-23-133121_A33F81D0-D1E1-3EED-3EBED3B18062BC8F_a3400bcb-ab16-be5d-a66e6828db2105a0.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: One Sky + Startalk
+UID:39208@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky-%2b-startalk/39208/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260727
@@ -109,14 +73,6 @@ UID:39169@visitlaramie.org
 URL:https://www.visitlaramie.org/event/summer-concert-series/39169/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Nellie: The First Woman Governor at America's Milestones
-UID:39136@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:Younth Poultry Show Day 2\nMore info: https://www.visitlaramie.org/event/younth-poultry-show-day-2/39188/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-135817_721E01DB-963D-4629-60DA9B72709B12CC_72271294-f8b3-e2bd-979b8f645910a624.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
 GEO:41.282735;-105.593071
@@ -126,31 +82,156 @@ UID:39188@visitlaramie.org
 URL:https://www.visitlaramie.org/event/younth-poultry-show-day-2/39188/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260810
-DESCRIPTION:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest\nMore info: https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-01-123344_35A40254-E614-E6FB-9FE75FFC6A12A433_35a585e4-e74a-931e-44d22019bf6ec9ca.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
-SUMMARY:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest
-UID:39155@visitlaramie.org
-URL:https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:Tuesday Local Market\nMore info: https://www.visitlaramie.org/event/tuesday-local-market/39060/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TLM_65321B46-F975-66AE-4B7F93FAB64FA696_65692306-eba3-5d36-af75d8144a8a1829.jpg\nCategories: Concerts & Live Music\, Community\, Family Fun
+GEO:41.317073;-105.590587
+LOCATION:Undine Park
+SUMMARY:Tuesday Local Market
+UID:39060@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tuesday-local-market/39060/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-DESCRIPTION:Cowgirl Soccer: Drake Univ.\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-drake-univ/39129/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Cowgirl Soccer: Weber State\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
 GEO:41.313732;-105.570741
 LOCATION:Madrid Sports Complex
-SUMMARY:Cowgirl Soccer: Drake Univ.
-UID:39129@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-drake-univ/39129/
+SUMMARY:Cowgirl Soccer: Weber State
+UID:39130@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+DESCRIPTION:Afternoon Tea and Tatanka\nMore info: https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/\nVenue: Rebel Ranch\nVenue Info: https://www.visitlaramie.org/listing/rebel-ranch/516/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/cow-calf_A4B3D06D-07AF-9D0D-E4F064D6AC0FD23B_a51c909c-f2af-b816-071fb6249b4c0a05.jpg\nCategories: Outdoor Recreation\, Education\, Social Events
+GEO:41.188541;-106.085557
+LOCATION:Rebel Ranch
+SUMMARY:Afternoon Tea and Tatanka
+UID:38686@visitlaramie.org
+URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+DESCRIPTION:Jack Yoder Live\nMore info: https://www.visitlaramie.org/event/jack-yoder-live/39065/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-10-125511_FCBDD3C9-EF67-F895-FB6A1738277A24DA_fcc99366-d7d0-e07a-fdc1b8442304a41b.png\nCategories: Concerts & Live Music
+GEO:41.310483;-105.591301
+LOCATION:Ruffed Up Duck Saloon
+SUMMARY:Jack Yoder Live
+UID:39065@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jack-yoder-live/39065/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Bigs & Littles: Nature Yoga & Grounding Practice at Undine Park\nMore info: https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-110450_FD815363-C6D0-E454-E1D489666BBE9FAC_fd94a77a-cf7f-b467-82dbb72e62e5d5e0.png\nCategories: Community\, Family Fun
+GEO:41.322946;-105.587041
+LOCATION:Undine Park
+SUMMARY:Bigs & Littles: Nature Yoga & Grounding Practice at Undine Park
+UID:39142@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:ACF Junior Livestock Sale\nMore info: https://www.visitlaramie.org/event/acf-junior-livestock-sale/39200/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144110_73A650FE-BD36-B923-A228075707E34D47_73b05c5a-f665-5a5a-38d74e97599a2f74.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:ACF Junior Livestock Sale
+UID:39200@visitlaramie.org
+URL:https://www.visitlaramie.org/event/acf-junior-livestock-sale/39200/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+DESCRIPTION:Wyoming Voices: Our Stories of America\nMore info: https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112708_CAD97750-96F9-68AA-A257B378C72A8FC5_caec755b-957f-9a07-8a5968d17b2f8f7a.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Wyoming Voices: Our Stories of America
+UID:39135@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Jett Vincent LIVE at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_AAFBD7C6-1601-47FF-A7FB9031C883B28C_c77170b9-baa5-4209-bd98734a9e938bae.jpg\nCategories: Concerts & Live Music
+DESCRIPTION:Side Quests\, Show Reception\nMore info: https://www.visitlaramie.org/event/side-quests-show-reception/39154/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-125353_030263A7-ADD8-A9D0-25FF762BECDB2D22_032b6695-b7b0-6a35-ba664237ba2c0938.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
+SUMMARY:Side Quests\, Show Reception
+UID:39154@visitlaramie.org
+URL:https://www.visitlaramie.org/event/side-quests-show-reception/39154/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+DESCRIPTION:Cowgirl Soccer: Univ. of Denver (Exhibition)\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-denver-(exhibition)/39128/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:Madrid Sports Complex
+SUMMARY:Cowgirl Soccer: Univ. of Denver (Exhibition)
+UID:39128@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-denver-(exhibition)/39128/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:Full-Dome Film: Back to the Moon for Good + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-back-to-the-moon-for-good-%2b-startalk/39126/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-100834_C7F2E113-A217-EE78-0101E44CAFCF4DD1_c7f423bb-b12c-b90e-7352d4965f8da825.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Back to the Moon for Good + Startalk
+UID:39126@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-back-to-the-moon-for-good-%2b-startalk/39126/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:UniWyo Summer Movie Series: Zootopia 2\nMore info: https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-zootopia-2/39147/\nVenue: War Memorial Stadium\nVenue Info: https://www.visitlaramie.org/listing/war-memorial-stadium/270/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-115817_FF5691E9-D381-61DE-6ABC4296E2AE68D4_ff625a37-b777-4720-6492357f41b6d53d.png\nCategories: Community\, University of Wyoming\, Family Fun\, Social Events
+GEO:41.312460;-105.569531
+LOCATION:War Memorial Stadium
+SUMMARY:UniWyo Summer Movie Series: Zootopia 2
+UID:39147@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-zootopia-2/39147/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+DESCRIPTION:Observing Night at North Crow Reservoir\nMore info: https://www.visitlaramie.org/event/observing-night-at-north-crow-reservoir/39205/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-110612_9F721FD3-BBF4-B133-EA8B8AA9AE4FBC1F_9f81ea8b-e158-6b32-5adb0d5fcaf44a9a.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Observing Night at North Crow Reservoir
+UID:39205@visitlaramie.org
+URL:https://www.visitlaramie.org/event/observing-night-at-north-crow-reservoir/39205/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Med Bow Rail Marathon & Half Marathon\nMore info: https://www.visitlaramie.org/event/med-bow-rail-marathon-%26-half-marathon/38910/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-103105_E8CED529-9ED0-C75E-27D2B82224E3D149_e90cf21a-eb54-4b9c-b31b6f6ad025f5c7.png\nCategories: Community\, Outdoor Recreation\, Sports\, Family Fun
+GEO:41.311367;-105.591101
+LOCATION:Medicine Bow National Forest- Lake Owen
+SUMMARY:Med Bow Rail Marathon & Half Marathon
+UID:38910@visitlaramie.org
+URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-%26-half-marathon/38910/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DESCRIPTION:Cattle Showmanship and Breeding Cattle Show\nMore info: https://www.visitlaramie.org/event/cattle-showmanship-and-breeding-cattle-show/39192/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-141126_72B5C537-ADAB-9771-97E8473E459C0956_72b70e06-0457-928f-106188cf932a5019.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Cattle Showmanship and Breeding Cattle Show
+UID:39192@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cattle-showmanship-and-breeding-cattle-show/39192/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DESCRIPTION:Sunday Funday @ The Cowboy Saloon and Dance Hall\nMore info: https://www.visitlaramie.org/event/sunday-funday-%40-the-cowboy-saloon-and-dance-hall/39178/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-15-113114_04629DC1-FAB7-46DB-127FFF4EFBF6CB74_046d28a0-fea5-32d5-a06e4657865cbdff.png\nCategories: Community\, Social Events
 GEO:41.312707;-105.595125
 LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Jett Vincent LIVE at The Cowboy Saloon
-UID:39064@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/
+SUMMARY:Sunday Funday @ The Cowboy Saloon and Dance Hall
+UID:39178@visitlaramie.org
+URL:https://www.visitlaramie.org/event/sunday-funday-%40-the-cowboy-saloon-and-dance-hall/39178/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:Youth Market Beef Show\nMore info: https://www.visitlaramie.org/event/youth-market-beef-show/39197/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143428_7365C2CC-AAA2-02C9-1B1466105B7CBFD5_73688ee1-9b2b-e158-b793eb56b4143b9d.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Youth Market Beef Show
+UID:39197@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-market-beef-show/39197/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:The Albany County Fair Smokin' BBQ\nMore info: https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Master_Logo_Black_ADAC2D56-E23D-5D98-F77E910D0C358C19_aded7285-dcfd-9a70-81ef8b34869d0d1a.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun\, Social Events\, Wyoming 250
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:The Albany County Fair Smokin' BBQ
+UID:38876@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -159,24 +240,6 @@ GEO:41.305330;-105.590308
 SUMMARY:Tuesday Local Market in Undine Park
 UID:39005@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-DESCRIPTION:Read With A Ranger\nMore info: https://www.visitlaramie.org/event/read-with-a-ranger/39141/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-105219_FD0F8FCB-9F43-3BED-03DB3F5C19E700D5_fd1bccce-b937-c3a6-a8c7e2c038af020e.png\nCategories: Community\, Education\, Family Fun
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Read With A Ranger
-UID:39141@visitlaramie.org
-URL:https://www.visitlaramie.org/event/read-with-a-ranger/39141/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-DESCRIPTION:Youth Breeding Swine & 4-H Swine Showmanship\nMore info: https://www.visitlaramie.org/event/youth-breeding-swine-%26-4-h-swine-showmanship/39193/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-141658_72CBB6EA-A0F2-399E-5879B37E2067F973_72d20524-e1c5-afc9-c3afdaaca1fd1afa.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Youth Breeding Swine & 4-H Swine Showmanship
-UID:39193@visitlaramie.org
-URL:https://www.visitlaramie.org/event/youth-breeding-swine-%26-4-h-swine-showmanship/39193/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260620
@@ -196,12 +259,147 @@ UID:38722@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-fringe-festival-2026/38722/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Family Night at The Albany County Fair\nMore info: https://www.visitlaramie.org/event/family-night-at-the-albany-county-fair/39186/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-123620_6F2F08F2-9FF5-6C4D-3FB910B0E1001BCF_6f48ed88-f510-480f-2836f3303732c21b.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:Y2K Night Out\nMore info: https://www.visitlaramie.org/event/y2k-night-out/39106/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Y2K-Night-Out-1-_690E80E9-C450-EBAB-2ED7822E1780F6F9_69253460-0013-716c-f8e6b4a9263f2851.png\nCategories: Social Events
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Y2K Night Out
+UID:39106@visitlaramie.org
+URL:https://www.visitlaramie.org/event/y2k-night-out/39106/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:The Centennial Library Speaker Series: The Solar System from our Backyard\nMore info: https://www.visitlaramie.org/event/the-centennial-library-speaker-series%3a-the-solar-system-from-our-backyard/39151/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-102948_FDD64D44-9A95-799A-7AF8455B8E972A29_fdeb8c89-b1be-8760-371dc56c39d4bf72.png\nCategories: Community\, Education\, Family Fun
+GEO:41.298808;-106.141485
+LOCATION:The Centennial Branch / Albany Co. Public Library
+SUMMARY:The Centennial Library Speaker Series: The Solar System from our Backyard
+UID:39151@visitlaramie.org
+URL:https://www.visitlaramie.org/event/the-centennial-library-speaker-series%3a-the-solar-system-from-our-backyard/39151/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DESCRIPTION:Full-Dome Film: Seeing! + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-seeing!-%2b-startalk/39125/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-100635_C7DF30CC-0A18-6355-33C19B076A60E3D1_c7e02042-e652-6a70-7aa8f06506177cbd.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Seeing! + Startalk
+UID:39125@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-seeing!-%2b-startalk/39125/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Farmersmarket-logo_00CBFB33-0953-3873-966EE253205A3852_00e2a7d3-ec21-ae73-f15905832d23fd4e.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
+GEO:41.310946;-105.596164
+LOCATION:Depot Park
+SUMMARY:Downtown Laramie Farmers Market
+UID:39118@visitlaramie.org
+URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Ppocket Pet Show\nMore info: https://www.visitlaramie.org/event/ppocket-pet-show/39202/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144619_73D9F59D-E2CF-65D3-2977D5C2A6F37814_73da77f5-f0bd-6ff5-a8f6a0f6c21d6193.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
 GEO:41.282735;-105.593071
-SUMMARY:Family Night at The Albany County Fair
-UID:39186@visitlaramie.org
-URL:https://www.visitlaramie.org/event/family-night-at-the-albany-county-fair/39186/
+LOCATION:Albany County Fairgrounds
+SUMMARY:Ppocket Pet Show
+UID:39202@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ppocket-pet-show/39202/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:Mini-Quilt! Hand Quilted Sampler with Sadie Clarendon\nMore info: https://www.visitlaramie.org/event/mini-quilt!-hand-quilted-sampler-with-sadie-clarendon/39163/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Mini-Quilt-Hand-Quilted-Sampler-with-Sadie-Clarendon_ACC3231E-FD6A-795B-995FB751D9FCE9CD_acd12952-d723-c838-b536e38962a86929.jpg\nCategories: Craft Classes & Workshops
+GEO:41.310382;-105.594446
+LOCATION:Wyoming Women's History House
+SUMMARY:Mini-Quilt! Hand Quilted Sampler with Sadie Clarendon
+UID:39163@visitlaramie.org
+URL:https://www.visitlaramie.org/event/mini-quilt!-hand-quilted-sampler-with-sadie-clarendon/39163/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Turning The Pages OF America\nMore info: https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112732_CB5182C4-004F-FA77-6DCBF7099A2F1025_cb59f300-ee3e-b461-362f7ea5d3a7f061.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Turning The Pages OF America
+UID:39137@visitlaramie.org
+URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DESCRIPTION:Access Adventure Multi-Sport Day at Curt Gowdy State Park\nMore info: https://www.visitlaramie.org/event/access-adventure-multi-sport-day-at-curt-gowdy-state-park/39182/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Gowdy-AA-Logo_DEBDF0A1-DEAE-AE05-97AAF94391A5090B_dec45efa-bf9d-94b6-c881fd13b6357954.jpg\nCategories: Annual Events & Festivals
+GEO:41.185148;-105.243932
+LOCATION:Curt Gowdy State Park
+SUMMARY:Access Adventure Multi-Sport Day at Curt Gowdy State Park
+UID:39182@visitlaramie.org
+URL:https://www.visitlaramie.org/event/access-adventure-multi-sport-day-at-curt-gowdy-state-park/39182/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:Laramie Breastival\nMore info: https://www.visitlaramie.org/event/laramie-breastival/39156/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_0082_04863848-FBDD-83D0-DAA2ACC60CA2FC7A_04e9b28f-d63a-b31d-1651757e38787acd.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.306787;-105.571082
+LOCATION:Washington Park
+SUMMARY:Laramie Breastival
+UID:39156@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-breastival/39156/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260811
+DESCRIPTION:Full-Dome Film: Dawn of the Space Age + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%2b-startalk/39207/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-123552_A2A35568-04F3-A8DF-C39CEA0697983BA6_a3090d03-b017-575c-02fca2110c863467.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Dawn of the Space Age + Startalk
+UID:39207@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%2b-startalk/39207/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260727
+DESCRIPTION:Home Raised Market Show\nMore info: https://www.visitlaramie.org/event/home-raised-market-show/39194/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-142750_7325B074-E2A8-A988-F824B78624F02DF5_732c75ac-a937-4a79-d5f928ad8d1d37d2.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Home Raised Market Show
+UID:39194@visitlaramie.org
+URL:https://www.visitlaramie.org/event/home-raised-market-show/39194/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:FFA Swine Showmanship & Youth Market Swine Show\nMore info: https://www.visitlaramie.org/event/ffa-swine-showmanship-%26-youth-market-swine-show/39187/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-135239_71F8D943-069E-2F84-A901F9F59B1127E9_7202cfde-c4e7-7023-c12a195a0994c977.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:FFA Swine Showmanship & Youth Market Swine Show
+UID:39187@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ffa-swine-showmanship-%26-youth-market-swine-show/39187/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Youth Meat Goat & Breeding Meat Goat Show\nMore info: https://www.visitlaramie.org/event/youth-meat-goat-%26-breeding-meat-goat-show/39199/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143811_7394E4C5-983B-0898-F3C7279BA2A7B5E8_73959872-dcea-a391-18e72f2329c281f5.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Youth Meat Goat & Breeding Meat Goat Show
+UID:39199@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-meat-goat-%26-breeding-meat-goat-show/39199/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Artist & Museum: Hung Liu\nMore info: https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-125533_C35E75D6-AAA7-21CA-88EE350CA355A8A0_c35eef76-a969-9341-bd4f3c9b6ff6b57a.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Artist & Museum: Hung Liu
+UID:39002@visitlaramie.org
+URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Jett Vincent LIVE at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_AAFBD7C6-1601-47FF-A7FB9031C883B28C_c77170b9-baa5-4209-bd98734a9e938bae.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Jett Vincent LIVE at The Cowboy Saloon
+UID:39064@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Read With A Ranger\nMore info: https://www.visitlaramie.org/event/read-with-a-ranger/39141/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-105219_FD0F8FCB-9F43-3BED-03DB3F5C19E700D5_fd1bccce-b937-c3a6-a8c7e2c038af020e.png\nCategories: Community\, Education\, Family Fun
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Read With A Ranger
+UID:39141@visitlaramie.org
+URL:https://www.visitlaramie.org/event/read-with-a-ranger/39141/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260713
@@ -213,15 +411,6 @@ UID:39153@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-exhibition-on-view/39153/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
 DESCRIPTION:Cowgirl Soccer: Brown vs. Gold\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-brown-vs-gold/39127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
 GEO:41.313732;-105.570741
@@ -231,22 +420,22 @@ UID:39127@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-brown-vs-gold/39127/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-DESCRIPTION:2026 Albany County Fair!\nMore info: https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-15-115338_05362B57-FA5E-A230-DBDDE3D423E84890_05436b9d-0d20-5909-7a7e937b514b238c.png\nCategories: Annual Events & Festivals\, Community\, Education\, Family Fun\, Social Events
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:2026 Albany County Fair!
-UID:39179@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Full-Dome Film: From Earth to the Universe + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-startalk/39211/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-131502_A40A1927-C10D-5B33-7AF284F02301AACB_a411c6aa-ceb2-1317-d0ba6fcb85de83eb.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: From Earth to the Universe + Startalk
+UID:39211@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-startalk/39211/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Team Roping Jackpot\nMore info: https://www.visitlaramie.org/event/team-roping-jackpot/39198/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143556_7371513F-B9EB-2A91-D4116497AB0FFDA7_737a4532-9205-e110-8709ab3e00a92f8e.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Team Roping Jackpot
-UID:39198@visitlaramie.org
-URL:https://www.visitlaramie.org/event/team-roping-jackpot/39198/
+DTSTART;VALUE=DATE:20260804
+DESCRIPTION:Full-Dome Film: Dark Biosphere + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39204/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_9ECBBB02-D61B-B0C9-14E23B808B70DC22_9ed05be0-c72b-60de-a3378d1d089b5c22.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Dark Biosphere + Star Talk
+UID:39204@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39204/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
@@ -276,15 +465,6 @@ UID:39165@visitlaramie.org
 URL:https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Y2K Night Out\nMore info: https://www.visitlaramie.org/event/y2k-night-out/39106/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Y2K-Night-Out-1-_690E80E9-C450-EBAB-2ED7822E1780F6F9_69253460-0013-716c-f8e6b4a9263f2851.png\nCategories: Social Events
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Y2K Night Out
-UID:39106@visitlaramie.org
-URL:https://www.visitlaramie.org/event/y2k-night-out/39106/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260725
 DESCRIPTION:7th Annual Eagle Classic Car & Bike Show\nMore info: https://www.visitlaramie.org/event/7th-annual-eagle-classic-car-%26-bike-show/39184/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-20-093031_0191035B-DF1D-B4D9-FE3B6448BE810E45_01bd6cfa-073c-9366-257ea8895cf0cb07.png\nCategories: Annual Events & Festivals\, History\, Community\, Family Fun\, Social Events
 GEO:41.325456;-105.596768
@@ -294,33 +474,6 @@ UID:39184@visitlaramie.org
 URL:https://www.visitlaramie.org/event/7th-annual-eagle-classic-car-%26-bike-show/39184/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Tuesday Local Market\nMore info: https://www.visitlaramie.org/event/tuesday-local-market/39060/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TLM_65321B46-F975-66AE-4B7F93FAB64FA696_65692306-eba3-5d36-af75d8144a8a1829.jpg\nCategories: Concerts & Live Music\, Community\, Family Fun
-GEO:41.317073;-105.590587
-LOCATION:Undine Park
-SUMMARY:Tuesday Local Market
-UID:39060@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tuesday-local-market/39060/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-DESCRIPTION:Full-Dome Film: Seeing! + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-seeing!-%2b-startalk/39125/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-100635_C7DF30CC-0A18-6355-33C19B076A60E3D1_c7e02042-e652-6a70-7aa8f06506177cbd.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Seeing! + Startalk
-UID:39125@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-seeing!-%2b-startalk/39125/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:The Centennial Library Speaker Series: The Solar System from our Backyard\nMore info: https://www.visitlaramie.org/event/the-centennial-library-speaker-series%3a-the-solar-system-from-our-backyard/39151/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-102948_FDD64D44-9A95-799A-7AF8455B8E972A29_fdeb8c89-b1be-8760-371dc56c39d4bf72.png\nCategories: Community\, Education\, Family Fun
-GEO:41.298808;-106.141485
-LOCATION:The Centennial Branch / Albany Co. Public Library
-SUMMARY:The Centennial Library Speaker Series: The Solar System from our Backyard
-UID:39151@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-centennial-library-speaker-series%3a-the-solar-system-from-our-backyard/39151/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-14-124735_D6150CD6-C630-25FE-B8F63A4317C96ECD_d639e8b0-efcb-d762-265d3bb1c02334fa.png\nCategories: Community\, Outdoor Recreation\, Family Fun
 SUMMARY:Glow and Go Run 3.07 miles
@@ -328,22 +481,13 @@ UID:39177@visitlaramie.org
 URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Farmersmarket-logo_00CBFB33-0953-3873-966EE253205A3852_00e2a7d3-ec21-ae73-f15905832d23fd4e.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.310946;-105.596164
-LOCATION:Depot Park
-SUMMARY:Downtown Laramie Farmers Market
-UID:39118@visitlaramie.org
-URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:Ppocket Pet Show\nMore info: https://www.visitlaramie.org/event/ppocket-pet-show/39202/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144619_73D9F59D-E2CF-65D3-2977D5C2A6F37814_73da77f5-f0bd-6ff5-a8f6a0f6c21d6193.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Ppocket Pet Show
-UID:39202@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ppocket-pet-show/39202/
+DTSTART;VALUE=DATE:20260818
+DESCRIPTION:Fulldome Film: Distant Worlds: Alien Life? + Startalk\nMore info: https://www.visitlaramie.org/event/fulldome-film%3a-distant-worlds%3a-alien-life%3f-%2b-startalk/39209/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-125543_A3A30020-9556-4163-84AF278350E8342A_a3a7816e-b79e-22b2-c2e44404474cc16a.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Fulldome Film: Distant Worlds: Alien Life? + Startalk
+UID:39209@visitlaramie.org
+URL:https://www.visitlaramie.org/event/fulldome-film%3a-distant-worlds%3a-alien-life%3f-%2b-startalk/39209/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -364,32 +508,6 @@ UID:38875@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tristan-duke-%26-polar-photography-from-the-collection/38875/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260724
-DESCRIPTION:Mini-Quilt! Hand Quilted Sampler with Sadie Clarendon\nMore info: https://www.visitlaramie.org/event/mini-quilt!-hand-quilted-sampler-with-sadie-clarendon/39163/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Mini-Quilt-Hand-Quilted-Sampler-with-Sadie-Clarendon_ACC3231E-FD6A-795B-995FB751D9FCE9CD_acd12952-d723-c838-b536e38962a86929.jpg\nCategories: Craft Classes & Workshops
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Mini-Quilt! Hand Quilted Sampler with Sadie Clarendon
-UID:39163@visitlaramie.org
-URL:https://www.visitlaramie.org/event/mini-quilt!-hand-quilted-sampler-with-sadie-clarendon/39163/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260309
-DESCRIPTION:Turning The Pages OF America\nMore info: https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112732_CB5182C4-004F-FA77-6DCBF7099A2F1025_cb59f300-ee3e-b461-362f7ea5d3a7f061.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Turning The Pages OF America
-UID:39137@visitlaramie.org
-URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260820
-DESCRIPTION:Cowgirl Soccer: Weber State\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:Madrid Sports Complex
-SUMMARY:Cowgirl Soccer: Weber State
-UID:39130@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
 DESCRIPTION:4-H Dog Show\nMore info: https://www.visitlaramie.org/event/4-h-dog-show/39189/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-140304_72454C2A-9D51-8635-7C6BDE33D63B97FC_7249031d-06bb-2097-94fff5a121fc239b.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
 GEO:41.282735;-105.593071
@@ -399,176 +517,6 @@ UID:39189@visitlaramie.org
 URL:https://www.visitlaramie.org/event/4-h-dog-show/39189/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260814
-DESCRIPTION:Access Adventure Multi-Sport Day at Curt Gowdy State Park\nMore info: https://www.visitlaramie.org/event/access-adventure-multi-sport-day-at-curt-gowdy-state-park/39182/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Gowdy-AA-Logo_DEBDF0A1-DEAE-AE05-97AAF94391A5090B_dec45efa-bf9d-94b6-c881fd13b6357954.jpg\nCategories: Annual Events & Festivals
-GEO:41.185148;-105.243932
-LOCATION:Curt Gowdy State Park
-SUMMARY:Access Adventure Multi-Sport Day at Curt Gowdy State Park
-UID:39182@visitlaramie.org
-URL:https://www.visitlaramie.org/event/access-adventure-multi-sport-day-at-curt-gowdy-state-park/39182/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260521
-DESCRIPTION:Afternoon Tea and Tatanka\nMore info: https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/\nVenue: Rebel Ranch\nVenue Info: https://www.visitlaramie.org/listing/rebel-ranch/516/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/cow-calf_A4B3D06D-07AF-9D0D-E4F064D6AC0FD23B_a51c909c-f2af-b816-071fb6249b4c0a05.jpg\nCategories: Outdoor Recreation\, Education\, Social Events
-GEO:41.188541;-106.085557
-LOCATION:Rebel Ranch
-SUMMARY:Afternoon Tea and Tatanka
-UID:38686@visitlaramie.org
-URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-DESCRIPTION:Jack Yoder Live\nMore info: https://www.visitlaramie.org/event/jack-yoder-live/39065/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-10-125511_FCBDD3C9-EF67-F895-FB6A1738277A24DA_fcc99366-d7d0-e07a-fdc1b8442304a41b.png\nCategories: Concerts & Live Music
-GEO:41.310483;-105.591301
-LOCATION:Ruffed Up Duck Saloon
-SUMMARY:Jack Yoder Live
-UID:39065@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jack-yoder-live/39065/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-DESCRIPTION:Full-Dome Film:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3acosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes-%2b-startalk/39123/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-095758_C78B6D94-ECBD-05B4-C3B17ABD5A6330D5_c78d1daa-0336-2d89-b7c233bb9078be10.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film:Cosmic Mashups: Gravity\, Galaxies\, and Supermassive Black Holes + Startalk
-UID:39123@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3acosmic-mashups%3a-gravity-galaxies-and-supermassive-black-holes-%2b-startalk/39123/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DESCRIPTION:Laramie Breastival\nMore info: https://www.visitlaramie.org/event/laramie-breastival/39156/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_0082_04863848-FBDD-83D0-DAA2ACC60CA2FC7A_04e9b28f-d63a-b31d-1651757e38787acd.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
-GEO:41.306787;-105.571082
-LOCATION:Washington Park
-SUMMARY:Laramie Breastival
-UID:39156@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-breastival/39156/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260820
-DESCRIPTION:UWAM Presents - Third Thursday: Palette / Palate\nMore info: https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-palette-palate/39032/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-112632_8FA0F501-B3E1-8C3A-521CE6BD383EA2E2_8fa19904-90a9-88df-87f6300349b05840.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:UWAM Presents - Third Thursday: Palette / Palate
-UID:39032@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-palette-palate/39032/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DESCRIPTION:Bigs & Littles: Nature Yoga & Grounding Practice at Undine Park\nMore info: https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-110450_FD815363-C6D0-E454-E1D489666BBE9FAC_fd94a77a-cf7f-b467-82dbb72e62e5d5e0.png\nCategories: Community\, Family Fun
-GEO:41.322946;-105.587041
-LOCATION:Undine Park
-SUMMARY:Bigs & Littles: Nature Yoga & Grounding Practice at Undine Park
-UID:39142@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:ACF Junior Livestock Sale\nMore info: https://www.visitlaramie.org/event/acf-junior-livestock-sale/39200/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144110_73A650FE-BD36-B923-A228075707E34D47_73b05c5a-f665-5a5a-38d74e97599a2f74.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:ACF Junior Livestock Sale
-UID:39200@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acf-junior-livestock-sale/39200/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260727
-DESCRIPTION:Home Raised Market Show\nMore info: https://www.visitlaramie.org/event/home-raised-market-show/39194/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-142750_7325B074-E2A8-A988-F824B78624F02DF5_732c75ac-a937-4a79-d5f928ad8d1d37d2.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Home Raised Market Show
-UID:39194@visitlaramie.org
-URL:https://www.visitlaramie.org/event/home-raised-market-show/39194/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie\nMore info: https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_6516587B-C3E6-4214-8E73F4A1E1FDD36E_eb21b273-756f-4cd2-a2d0f65a6be6ac4a.jpg\nCategories: Concerts & Live Music\, Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie
-UID:39070@visitlaramie.org
-URL:https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-DESCRIPTION:Wyoming Voices: Our Stories of America\nMore info: https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112708_CAD97750-96F9-68AA-A257B378C72A8FC5_caec755b-957f-9a07-8a5968d17b2f8f7a.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Wyoming Voices: Our Stories of America
-UID:39135@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:FFA Swine Showmanship & Youth Market Swine Show\nMore info: https://www.visitlaramie.org/event/ffa-swine-showmanship-%26-youth-market-swine-show/39187/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-135239_71F8D943-069E-2F84-A901F9F59B1127E9_7202cfde-c4e7-7023-c12a195a0994c977.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:FFA Swine Showmanship & Youth Market Swine Show
-UID:39187@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ffa-swine-showmanship-%26-youth-market-swine-show/39187/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Side Quests\, Show Reception\nMore info: https://www.visitlaramie.org/event/side-quests-show-reception/39154/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-125353_030263A7-ADD8-A9D0-25FF762BECDB2D22_032b6695-b7b0-6a35-ba664237ba2c0938.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
-SUMMARY:Side Quests\, Show Reception
-UID:39154@visitlaramie.org
-URL:https://www.visitlaramie.org/event/side-quests-show-reception/39154/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-DESCRIPTION:Cowgirl Soccer: Univ. of Denver (Exhibition)\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-denver-(exhibition)/39128/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:Madrid Sports Complex
-SUMMARY:Cowgirl Soccer: Univ. of Denver (Exhibition)
-UID:39128@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-denver-(exhibition)/39128/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Greenhill Cemetary Walking Tour\nMore info: https://www.visitlaramie.org/event/greenhill-cemetary-walking-tour/39056/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-05-134303_FCF11181-F73A-F64C-F82D5C0A88E2FD2B_fd0567e5-9e09-03db-36e29ca4b0238352.png\nCategories: History\, Community\, Wyoming 250
-GEO:41.311367;-105.591101
-LOCATION:Greenhill Cemetary
-SUMMARY:Greenhill Cemetary Walking Tour
-UID:39056@visitlaramie.org
-URL:https://www.visitlaramie.org/event/greenhill-cemetary-walking-tour/39056/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-26-120006_1159C72E-D02A-B43A-A39595EA0C7EF8E0_115d3ff4-f395-6393-5c359061c420e51a.png\nCategories: Annual Events & Festivals
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Cowboy Yarn Crawl
-UID:38735@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:urban Sketching @ uWyo Campus\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-uwyo-campus/39140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner-1-_D28F5E3A-BE54-DDD7-2300D93256C873F9_d2949bcc-a2aa-8ee5-172162d783041a1b.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:University of Wyoming
-SUMMARY:urban Sketching @ uWyo Campus
-UID:39140@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-uwyo-campus/39140/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:Youth Meat Goat & Breeding Meat Goat Show\nMore info: https://www.visitlaramie.org/event/youth-meat-goat-%26-breeding-meat-goat-show/39199/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143811_7394E4C5-983B-0898-F3C7279BA2A7B5E8_73959872-dcea-a391-18e72f2329c281f5.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Youth Meat Goat & Breeding Meat Goat Show
-UID:39199@visitlaramie.org
-URL:https://www.visitlaramie.org/event/youth-meat-goat-%26-breeding-meat-goat-show/39199/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-DESCRIPTION:Cattle Showmanship and Breeding Cattle Show\nMore info: https://www.visitlaramie.org/event/cattle-showmanship-and-breeding-cattle-show/39192/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-141126_72B5C537-ADAB-9771-97E8473E459C0956_72b70e06-0457-928f-106188cf932a5019.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Cattle Showmanship and Breeding Cattle Show
-UID:39192@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cattle-showmanship-and-breeding-cattle-show/39192/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:Global Collection : Masks of the World\nMore info: https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-101318_BD8D4C9E-BA8C-F3B0-E5DE078649781A01_bd937282-ae8d-0a89-7128ba09c4f30a48.png\nCategories: History\, University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -576,24 +524,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DESCRIPTION:Med Bow Rail Marathon & Half Marathon\nMore info: https://www.visitlaramie.org/event/med-bow-rail-marathon-%26-half-marathon/38910/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-103105_E8CED529-9ED0-C75E-27D2B82224E3D149_e90cf21a-eb54-4b9c-b31b6f6ad025f5c7.png\nCategories: Community\, Outdoor Recreation\, Sports\, Family Fun
-GEO:41.311367;-105.591101
-LOCATION:Medicine Bow National Forest- Lake Owen
-SUMMARY:Med Bow Rail Marathon & Half Marathon
-UID:38910@visitlaramie.org
-URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-%26-half-marathon/38910/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:UniWyo Summer Movie Series: Zootopia 2\nMore info: https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-zootopia-2/39147/\nVenue: War Memorial Stadium\nVenue Info: https://www.visitlaramie.org/listing/war-memorial-stadium/270/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-115817_FF5691E9-D381-61DE-6ABC4296E2AE68D4_ff625a37-b777-4720-6492357f41b6d53d.png\nCategories: Community\, University of Wyoming\, Family Fun\, Social Events
-GEO:41.312460;-105.569531
-LOCATION:War Memorial Stadium
-SUMMARY:UniWyo Summer Movie Series: Zootopia 2
-UID:39147@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-zootopia-2/39147/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20220813
@@ -623,21 +553,172 @@ UID:39100@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cars-and-coffee-laramie/39100/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Full-Dome Film: Back to the Moon for Good + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-back-to-the-moon-for-good-%2b-startalk/39126/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-100834_C7F2E113-A217-EE78-0101E44CAFCF4DD1_c7f423bb-b12c-b90e-7352d4965f8da825.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Back to the Moon for Good + Startalk
-UID:39126@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-back-to-the-moon-for-good-%2b-startalk/39126/
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:2026 Annual Wanna Ride Memorial Ride &Scavenger Hunt\nMore info: https://www.visitlaramie.org/event/2026-annual-wanna-ride-memorial-ride-%26scavenger-hunt/38668/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_3653_764B03A5-97F4-4D91-A03047B2647524D4_76564a07-a0e3-92a2-79b5ca6255895be7.jpg\nCategories: Annual Events & Festivals
+GEO:41.038434;-106.167053
+LOCATION:2 Power Line Rd.\, Laramie\, WY 82070
+SUMMARY:2026 Annual Wanna Ride Memorial Ride &Scavenger Hunt
+UID:38668@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2026-annual-wanna-ride-memorial-ride-%26scavenger-hunt/38668/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Artist & Museum: Hung Liu\nMore info: https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-125533_C35E75D6-AAA7-21CA-88EE350CA355A8A0_c35eef76-a969-9341-bd4f3c9b6ff6b57a.png\nCategories: History\, University of Wyoming\, Education
+DTSTART;VALUE=DATE:20260728
+DESCRIPTION:Full-Dome Film: Hot and Energetic Universe\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39124/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-28-095859_58FB32C9-9212-9972-7A41AC265F344D63_58ff8451-da98-b4c5-221c5c49602bfab0.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Hot and Energetic Universe
+UID:39124@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39124/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+DESCRIPTION:Laramie Cruiser Ride\nMore info: https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-111313_FDC7D910-A3DE-74D8-FB5D91CADBA80CB3_fde42a33-d3ff-4051-043429b2832f6c6f.png\nCategories: Community\, Outdoor Recreation\, Sports
+GEO:41.311781;-105.596016
+LOCATION:Downtown Laramie
+SUMMARY:Laramie Cruiser Ride
+UID:39143@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:Youth Market & Breeding Sheep Show\nMore info: https://www.visitlaramie.org/event/youth-market-%26-breeding-sheep-show/39201/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144443_740438D4-BCED-61D5-7BC526BA903427B4_7404e80a-a580-335c-bc9a1be61760cdc5.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Youth Market & Breeding Sheep Show
+UID:39201@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-market-%26-breeding-sheep-show/39201/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Nellie: The First Woman Governor at America's Milestones
+UID:39136@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+DESCRIPTION:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest\nMore info: https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-01-123344_35A40254-E614-E6FB-9FE75FFC6A12A433_35a585e4-e74a-931e-44d22019bf6ec9ca.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
+SUMMARY:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest
+UID:39155@visitlaramie.org
+URL:https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DESCRIPTION:Cowgirl Soccer: Drake Univ.\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-drake-univ/39129/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:Madrid Sports Complex
+SUMMARY:Cowgirl Soccer: Drake Univ.
+UID:39129@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-drake-univ/39129/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Full-Dome Film: Great Solar System Adventure + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure-%2b-startalk/39206/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-135046_A2818FF2-FD34-186B-FB958CD3526395A7_a28403f9-bd07-4c11-2502dc2c7ed9a4d8.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Great Solar System Adventure + Startalk
+UID:39206@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure-%2b-startalk/39206/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DESCRIPTION:Youth Breeding Swine & 4-H Swine Showmanship\nMore info: https://www.visitlaramie.org/event/youth-breeding-swine-%26-4-h-swine-showmanship/39193/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-141658_72CBB6EA-A0F2-399E-5879B37E2067F973_72d20524-e1c5-afc9-c3afdaaca1fd1afa.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Youth Breeding Swine & 4-H Swine Showmanship
+UID:39193@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-breeding-swine-%26-4-h-swine-showmanship/39193/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:Family Night at The Albany County Fair\nMore info: https://www.visitlaramie.org/event/family-night-at-the-albany-county-fair/39186/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-123620_6F2F08F2-9FF5-6C4D-3FB910B0E1001BCF_6f48ed88-f510-480f-2836f3303732c21b.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+SUMMARY:Family Night at The Albany County Fair
+UID:39186@visitlaramie.org
+URL:https://www.visitlaramie.org/event/family-night-at-the-albany-county-fair/39186/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DESCRIPTION:2026 Albany County Fair!\nMore info: https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-15-115338_05362B57-FA5E-A230-DBDDE3D423E84890_05436b9d-0d20-5909-7a7e937b514b238c.png\nCategories: Annual Events & Festivals\, Community\, Education\, Family Fun\, Social Events
+GEO:41.286512;-105.592547
+LOCATION:Albany County Fairgrounds
+SUMMARY:2026 Albany County Fair!
+UID:39179@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:Team Roping Jackpot\nMore info: https://www.visitlaramie.org/event/team-roping-jackpot/39198/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143556_7371513F-B9EB-2A91-D4116497AB0FFDA7_737a4532-9205-e110-8709ab3e00a92f8e.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Team Roping Jackpot
+UID:39198@visitlaramie.org
+URL:https://www.visitlaramie.org/event/team-roping-jackpot/39198/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:UWAM Presents - Third Thursday: Palette / Palate\nMore info: https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-palette-palate/39032/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-112632_8FA0F501-B3E1-8C3A-521CE6BD383EA2E2_8fa19904-90a9-88df-87f6300349b05840.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
 GEO:41.314165;-105.568122
 LOCATION:University of Wyoming Art Museum
-SUMMARY:Artist & Museum: Hung Liu
-UID:39002@visitlaramie.org
-URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
+SUMMARY:UWAM Presents - Third Thursday: Palette / Palate
+UID:39032@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-palette-palate/39032/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie\nMore info: https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_6516587B-C3E6-4214-8E73F4A1E1FDD36E_eb21b273-756f-4cd2-a2d0f65a6be6ac4a.jpg\nCategories: Concerts & Live Music\, Community
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie
+UID:39070@visitlaramie.org
+URL:https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:Greenhill Cemetary Walking Tour\nMore info: https://www.visitlaramie.org/event/greenhill-cemetary-walking-tour/39056/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-05-134303_FCF11181-F73A-F64C-F82D5C0A88E2FD2B_fd0567e5-9e09-03db-36e29ca4b0238352.png\nCategories: History\, Community\, Wyoming 250
+GEO:41.311367;-105.591101
+LOCATION:Greenhill Cemetary
+SUMMARY:Greenhill Cemetary Walking Tour
+UID:39056@visitlaramie.org
+URL:https://www.visitlaramie.org/event/greenhill-cemetary-walking-tour/39056/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-26-120006_1159C72E-D02A-B43A-A39595EA0C7EF8E0_115d3ff4-f395-6393-5c359061c420e51a.png\nCategories: Annual Events & Festivals
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Cowboy Yarn Crawl
+UID:38735@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DESCRIPTION:urban Sketching @ uWyo Campus\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-uwyo-campus/39140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner-1-_D28F5E3A-BE54-DDD7-2300D93256C873F9_d2949bcc-a2aa-8ee5-172162d783041a1b.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:University of Wyoming
+SUMMARY:urban Sketching @ uWyo Campus
+UID:39140@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-%40-uwyo-campus/39140/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260818
+DESCRIPTION:Full-Dome Film: Forward! To the Moon + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2b-startalk/39210/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-141635_A3C39D7C-A9F4-70D3-9BB9C91707F31716_a3c43180-e77d-4002-6de6b6dfbd60fba5.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: Forward! To the Moon + Startalk
+UID:39210@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2b-startalk/39210/
 END:VEVENT
 END:VCALENDAR
