@@ -11,13 +11,12 @@ UID:39203@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star-%2b-star-talk/39203/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260726
-DESCRIPTION:4-H Dog Show\nMore info: https://www.visitlaramie.org/event/4-h-dog-show/39190/\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:Braden Zink\nMore info: https://www.visitlaramie.org/event/braden-zink/39190/\nVenue: WyColo Lodge\nVenue Info: https://www.visitlaramie.org/listing/wycolo-lodge/339/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-24-124745_D6956647-F243-BD5E-66B259B37C7A5008_d69c9297-985a-d98c-3f1ecf85d3e61990.png\nCategories: Concerts & Live Music\, Social Events
 GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:4-H Dog Show
+SUMMARY:Braden Zink
 UID:39190@visitlaramie.org
-URL:https://www.visitlaramie.org/event/4-h-dog-show/39190/
+URL:https://www.visitlaramie.org/event/braden-zink/39190/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260801
@@ -36,6 +35,15 @@ LOCATION:Curt Gowdy State Park
 SUMMARY:Bat Walk at Curt Gowdy State Park
 UID:39183@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bat-walk-at-curt-gowdy-state-park/39183/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:What Was Ours\, Who She Is\nMore info: https://www.visitlaramie.org/event/what-was-ours-who-she-is/39215/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-24-135503_D90AB92C-E2F0-71A6-1761AA6303C867FA_d9d78124-cb1a-971e-dd5c702e7dd7f0ce.png\nCategories: History\, Performing Arts & Culture\, Education\, Wyoming 250
+GEO:41.309522;-105.587753
+LOCATION:Gryphon Theatre @ The Laramie Plains Civic Center
+SUMMARY:What Was Ours\, Who She Is
+UID:39215@visitlaramie.org
+URL:https://www.visitlaramie.org/event/what-was-ours-who-she-is/39215/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260801
@@ -302,15 +310,6 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:Ppocket Pet Show
 UID:39202@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ppocket-pet-show/39202/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260724
-DESCRIPTION:Mini-Quilt! Hand Quilted Sampler with Sadie Clarendon\nMore info: https://www.visitlaramie.org/event/mini-quilt!-hand-quilted-sampler-with-sadie-clarendon/39163/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Mini-Quilt-Hand-Quilted-Sampler-with-Sadie-Clarendon_ACC3231E-FD6A-795B-995FB751D9FCE9CD_acd12952-d723-c838-b536e38962a86929.jpg\nCategories: Craft Classes & Workshops
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Mini-Quilt! Hand Quilted Sampler with Sadie Clarendon
-UID:39163@visitlaramie.org
-URL:https://www.visitlaramie.org/event/mini-quilt!-hand-quilted-sampler-with-sadie-clarendon/39163/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260309
@@ -695,15 +694,6 @@ UID:39056@visitlaramie.org
 URL:https://www.visitlaramie.org/event/greenhill-cemetary-walking-tour/39056/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-26-120006_1159C72E-D02A-B43A-A39595EA0C7EF8E0_115d3ff4-f395-6393-5c359061c420e51a.png\nCategories: Annual Events & Festivals
-GEO:41.312291;-105.595158
-LOCATION:Cowgirl Yarn
-SUMMARY:Cowboy Yarn Crawl
-UID:38735@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260725
 DESCRIPTION:urban Sketching @ uWyo Campus\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-uwyo-campus/39140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner-1-_D28F5E3A-BE54-DDD7-2300D93256C873F9_d2949bcc-a2aa-8ee5-172162d783041a1b.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -711,6 +701,15 @@ LOCATION:University of Wyoming
 SUMMARY:urban Sketching @ uWyo Campus
 UID:39140@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-%40-uwyo-campus/39140/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DESCRIPTION:Cowboy Yarn Crawl\nMore info: https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-26-120006_1159C72E-D02A-B43A-A39595EA0C7EF8E0_115d3ff4-f395-6393-5c359061c420e51a.png\nCategories: Annual Events & Festivals
+GEO:41.312291;-105.595158
+LOCATION:Cowgirl Yarn
+SUMMARY:Cowboy Yarn Crawl
+UID:38735@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-yarn-crawl/38735/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260818
