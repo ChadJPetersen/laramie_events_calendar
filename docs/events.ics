@@ -233,15 +233,6 @@ UID:39197@visitlaramie.org
 URL:https://www.visitlaramie.org/event/youth-market-beef-show/39197/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:The Albany County Fair Smokin' BBQ\nMore info: https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Master_Logo_Black_ADAC2D56-E23D-5D98-F77E910D0C358C19_aded7285-dcfd-9a70-81ef8b34869d0d1a.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Family Fun\, Social Events\, Wyoming 250
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:The Albany County Fair Smokin' BBQ
-UID:38876@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-albany-county-fair-smokin-bbq/38876/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
 DESCRIPTION:Tuesday Local Market in Undine Park\nMore info: https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-134208_C51E4676-EAFB-6EBA-DE5F73784F6DA357_c51ed91c-ddc6-4557-4c09e4d1b695da6d.png\nCategories: Community\, Social Events
 GEO:41.305330;-105.590308
@@ -464,15 +455,6 @@ UID:39165@visitlaramie.org
 URL:https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:7th Annual Eagle Classic Car & Bike Show\nMore info: https://www.visitlaramie.org/event/7th-annual-eagle-classic-car-%26-bike-show/39184/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-20-093031_0191035B-DF1D-B4D9-FE3B6448BE810E45_01bd6cfa-073c-9366-257ea8895cf0cb07.png\nCategories: Annual Events & Festivals\, History\, Community\, Family Fun\, Social Events
-GEO:41.325456;-105.596768
-LOCATION:FOE Eagles #3493
-SUMMARY:7th Annual Eagle Classic Car & Bike Show
-UID:39184@visitlaramie.org
-URL:https://www.visitlaramie.org/event/7th-annual-eagle-classic-car-%26-bike-show/39184/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-14-124735_D6150CD6-C630-25FE-B8F63A4317C96ECD_d639e8b0-efcb-d762-265d3bb1c02334fa.png\nCategories: Community\, Outdoor Recreation\, Family Fun
 SUMMARY:Glow and Go Run 3.07 miles
@@ -692,15 +674,6 @@ LOCATION:Greenhill Cemetary
 SUMMARY:Greenhill Cemetary Walking Tour
 UID:39056@visitlaramie.org
 URL:https://www.visitlaramie.org/event/greenhill-cemetary-walking-tour/39056/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DESCRIPTION:urban Sketching @ uWyo Campus\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-uwyo-campus/39140/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/usk-event-banner-1-_D28F5E3A-BE54-DDD7-2300D93256C873F9_d2949bcc-a2aa-8ee5-172162d783041a1b.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:University of Wyoming
-SUMMARY:urban Sketching @ uWyo Campus
-UID:39140@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-uwyo-campus/39140/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260525
