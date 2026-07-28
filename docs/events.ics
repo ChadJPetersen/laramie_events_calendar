@@ -46,6 +46,15 @@ UID:38668@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-annual-wanna-ride-memorial-ride-%26scavenger-hunt/38668/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DESCRIPTION:Cowgirl Soccer: Univ. of South Carolina\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-south-carolina/39131/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:Madrid Sports Complex
+SUMMARY:Cowgirl Soccer: Univ. of South Carolina
+UID:39131@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-south-carolina/39131/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:Bat Walk at Curt Gowdy State Park\nMore info: https://www.visitlaramie.org/event/bat-walk-at-curt-gowdy-state-park/39183/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Bat-Walk_DEFD267A-E08F-213D-36FBA3136DA6DF5D_df074cd6-b8ec-cd8d-234f56e4a38e61fc.png\nCategories: Education
 GEO:41.169150;-105.222448
@@ -108,15 +117,6 @@ UID:39201@visitlaramie.org
 URL:https://www.visitlaramie.org/event/youth-market-%26-breeding-sheep-show/39201/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260727
-DESCRIPTION:Youth Rabbit Show\nMore info: https://www.visitlaramie.org/event/youth-rabbit-show/39195/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143105_73430062-BDD2-DCB4-F45172FE8A8C68AE_73452f9a-f11a-9cfc-d52953a92d8459f3.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Youth Rabbit Show
-UID:39195@visitlaramie.org
-URL:https://www.visitlaramie.org/event/youth-rabbit-show/39195/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
 DESCRIPTION:Summer Concert Series\nMore info: https://www.visitlaramie.org/event/summer-concert-series/39169/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Title-4-_6CC62216-B8EA-B6C9-95C90E4ADB857910_6ce3e0d5-fecc-a163-d116d386e3e68858.png\nCategories: Concerts & Live Music\, Family Fun
 GEO:41.311367;-105.591101
@@ -132,6 +132,15 @@ GEO:41.314165;-105.568122
 SUMMARY:Nellie: The First Woman Governor at America's Milestones
 UID:39136@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260615
+DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39071/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-100933_2A493029-0C10-AC72-C7372F57BEE99490_2a538758-c87d-812b-d871fecca2556784.png\nCategories: Community\, Social Events
+GEO:41.311928;-105.600431
+LOCATION:Lincoln Community Center
+SUMMARY:Ecstatic Dance
+UID:39071@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ecstatic-dance/39071/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
@@ -495,15 +504,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Dawn of the Space Age + Startalk
 UID:39207@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%2b-startalk/39207/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260727
-DESCRIPTION:Home Raised Market Show\nMore info: https://www.visitlaramie.org/event/home-raised-market-show/39194/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-142750_7325B074-E2A8-A988-F824B78624F02DF5_732c75ac-a937-4a79-d5f928ad8d1d37d2.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Home Raised Market Show
-UID:39194@visitlaramie.org
-URL:https://www.visitlaramie.org/event/home-raised-market-show/39194/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260808
