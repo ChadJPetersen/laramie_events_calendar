@@ -37,6 +37,15 @@ UID:39222@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tell-me-more!-with-daniel-galbreath-and-musicians-from-the-wyoming-international-chamber-music-festival/39222/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DESCRIPTION:Art Shed Workshops: Continuous Strand Weaving Workshop\nMore info: https://www.visitlaramie.org/event/art-shed-workshops%3a-continuous-strand-weaving-workshop/39241/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-135003_0DF37A33-96A6-724E-182A4994CDB4CDEA_0df3fb1e-f055-7020-36a175d3c11a60e6.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.309526;-105.604234
+LOCATION:Optimist Park
+SUMMARY:Art Shed Workshops: Continuous Strand Weaving Workshop
+UID:39241@visitlaramie.org
+URL:https://www.visitlaramie.org/event/art-shed-workshops%3a-continuous-strand-weaving-workshop/39241/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DESCRIPTION:What Was Ours\, Who She Is\nMore info: https://www.visitlaramie.org/event/what-was-ours-who-she-is/39215/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-24-135503_D90AB92C-E2F0-71A6-1761AA6303C867FA_d9d78124-cb1a-971e-dd5c702e7dd7f0ce.png\nCategories: History\, Performing Arts & Culture\, Education\, Wyoming 250
 GEO:41.309522;-105.587753
@@ -55,12 +64,12 @@ URL:https://www.visitlaramie.org/event/walk-today-for-women-tomorrow-laramie-peo
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: Festival Grand Finale - Academy of St. Matthew's in the Valley\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-festival-grand-finale-academy-of-st-matthews-in-the-valley/39234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_08A893A3-D061-0C12-8D142C3A1756511F_08aa31c7-e81f-c1b6-c6408d785a592c99.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: Festival Grand Finale - Academy of St. Matthew's in the Valley
 UID:39234@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39234/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-festival-grand-finale-academy-of-st-matthews-in-the-valley/39234/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
@@ -73,12 +82,12 @@ URL:https://www.visitlaramie.org/event/full-dome-film%3a-one-sky-%2b-startalk/39
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260812
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39227/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: Chamber Music Matinee no. 1\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-1/39227/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105833_07B273F0-E46B-A905-DBC1C607CC046889_07b724cd-04c7-f340-fc5a71828d958787.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: Chamber Music Matinee no. 1
 UID:39227@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39227/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-1/39227/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -170,15 +179,6 @@ UID:39212@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-losing-the-dark-with-laramie-audubon-society/39212/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Full-Dome Film: Back to the Moon for Good + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-back-to-the-moon-for-good-%2b-startalk/39126/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-100834_C7F2E113-A217-EE78-0101E44CAFCF4DD1_c7f423bb-b12c-b90e-7352d4965f8da825.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Back to the Moon for Good + Startalk
-UID:39126@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-back-to-the-moon-for-good-%2b-startalk/39126/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DESCRIPTION:UniWyo Summer Movie Series: Zootopia 2\nMore info: https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-zootopia-2/39147/\nVenue: War Memorial Stadium\nVenue Info: https://www.visitlaramie.org/listing/war-memorial-stadium/270/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-115817_FF5691E9-D381-61DE-6ABC4296E2AE68D4_ff625a37-b777-4720-6492357f41b6d53d.png\nCategories: Community\, University of Wyoming\, Family Fun\, Social Events
 GEO:41.312460;-105.569531
@@ -189,12 +189,12 @@ URL:https://www.visitlaramie.org/event/uniwyo-summer-movie-series%3a-zootopia-2/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260814
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39231/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: Chamber Music Matinee no. 3\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-3/39231/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-110744_085885AC-A479-9D54-C4F99AC1852C45DF_085ae423-9f9c-f3f8-c56c16ab24989289.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: Chamber Music Matinee no. 3
 UID:39231@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39231/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-3/39231/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260805
@@ -216,12 +216,12 @@ URL:https://www.visitlaramie.org/event/med-bow-rail-marathon-%26-half-marathon/3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260807
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39224/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: Academy of St. Matthew's in the Valley\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-academy-of-st-matthews-in-the-valley/39224/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_07997853-D26C-E2A1-E9F372521A87FFC6_079b29d1-b31a-d379-ffa40d9e5dd9e6e3.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: Academy of St. Matthew's in the Valley
 UID:39224@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39224/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-academy-of-st-matthews-in-the-valley/39224/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260801
@@ -242,6 +242,15 @@ UID:39178@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sunday-funday-%40-the-cowboy-saloon-and-dance-hall/39178/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DESCRIPTION:Laramie Bike Park Ribbon Cutting Ceremony\nMore info: https://www.visitlaramie.org/event/laramie-bike-park-ribbon-cutting-ceremony/39236/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/GRAND-OPENING-2-_DBD390F4-F33E-4FF9-ADF7BCBECE8E5C49_dbd74eb8-9c00-b4c7-a3dc9e79d32db45f.png\nCategories: Outdoor Recreation\, Sports\, Family Fun
+GEO:41.305283;-105.551569
+LOCATION:Laramie Bike Park
+SUMMARY:Laramie Bike Park Ribbon Cutting Ceremony
+UID:39236@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-bike-park-ribbon-cutting-ceremony/39236/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
 DESCRIPTION:Youth Market Beef Show\nMore info: https://www.visitlaramie.org/event/youth-market-beef-show/39197/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143428_7365C2CC-AAA2-02C9-1B1466105B7CBFD5_73688ee1-9b2b-e158-b793eb56b4143b9d.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
 GEO:41.282735;-105.593071
@@ -252,12 +261,12 @@ URL:https://www.visitlaramie.org/event/youth-market-beef-show/39197/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39229/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: Pre-Concert Talk - Anne Marie Guzzo\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-pre-concert-talk-anne-marie-guzzo/39229/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-110308_082FDBF0-ABD3-6D06-455A65EDBA4A45B3_08319d12-fa64-fdf6-df44e1232448319c.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: Pre-Concert Talk - Anne Marie Guzzo
 UID:39229@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39229/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-pre-concert-talk-anne-marie-guzzo/39229/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -285,13 +294,13 @@ UID:38722@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-fringe-festival-2026/38722/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Y2K Night Out\nMore info: https://www.visitlaramie.org/event/y2k-night-out/39106/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Y2K-Night-Out-1-_690E80E9-C450-EBAB-2ED7822E1780F6F9_69253460-0013-716c-f8e6b4a9263f2851.png\nCategories: Social Events
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Y2K Night Out
-UID:39106@visitlaramie.org
-URL:https://www.visitlaramie.org/event/y2k-night-out/39106/
+DTSTART;VALUE=DATE:20260830
+DESCRIPTION:Cowgirl Soccer: Univ. of South Dakota\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-south-dakota/39132/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:Madrid Sports Complex
+SUMMARY:Cowgirl Soccer: Univ. of South Dakota
+UID:39132@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-south-dakota/39132/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
@@ -348,12 +357,12 @@ URL:https://www.visitlaramie.org/event/live-concert%3a-dome-after-dark-dance-and
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260815
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39233/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: The French (and Czech) Connection\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-the-french-(and-czech)-connection/39233/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_0897DD00-F6AE-146D-0500E298F3974CC7_089d361d-f188-6a21-d70af8f8f589c22e.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: The French (and Czech) Connection
 UID:39233@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39233/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-the-french-(and-czech)-connection/39233/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
@@ -366,12 +375,12 @@ URL:https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39226/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: An Evening with Consonari\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-an-evening-with-consonari/39226/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-104931_0769A1EE-DD32-7B2B-259C0D9F038A54B6_077d8471-a021-e227-bb33ed13a980238d.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: An Evening with Consonari
 UID:39226@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39226/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-an-evening-with-consonari/39226/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260815
@@ -381,6 +390,15 @@ LOCATION:Laramie Civic Center
 SUMMARY:Urban Sketching at the Civic Center
 UID:39219@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-at-the-civic-center/39219/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DESCRIPTION:Roller Derby: Naughty Pines vs Los Alamos\nMore info: https://www.visitlaramie.org/event/roller-derby%3a-naughty-pines-vs-los-alamos/39238/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/645/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-125243_0BBA256F-B27C-1693-7154D2A8297FEFAC_0bbc22ef-a7af-cf7a-44817db1b15c98fd.png\nCategories: Sports
+GEO:41.305775;-105.551024
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Roller Derby: Naughty Pines vs Los Alamos
+UID:39238@visitlaramie.org
+URL:https://www.visitlaramie.org/event/roller-derby%3a-naughty-pines-vs-los-alamos/39238/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
@@ -428,13 +446,13 @@ UID:39141@visitlaramie.org
 URL:https://www.visitlaramie.org/event/read-with-a-ranger/39141/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260713
-DESCRIPTION:The Company We Keep by Mimi Fenton\, Exhibition on View\nMore info: https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-exhibition-on-view/39153/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-30-121401_01800C0F-A7D5-5CE6-5336DA810D8AE0D5_01b9ebd8-f6f9-4227-6c6441d69aa783ba.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
-SUMMARY:The Company We Keep by Mimi Fenton\, Exhibition on View
-UID:39153@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-company-we-keep-by-mimi-fenton-exhibition-on-view/39153/
+DTSTART;VALUE=DATE:20260830
+DESCRIPTION:Cowgirl Volleyball: Rumble in the Rockies / St. Thomas\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-st-thomas/39134/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowgirl Volleyball: Rumble in the Rockies / St. Thomas
+UID:39134@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-st-thomas/39134/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
@@ -456,12 +474,12 @@ URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-unive
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: Dvorak and Franck\, Piano Quintets\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-dvorak-and-franck-piano-quintets/39230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-112047_0874B4BB-0D36-65CF-D0031C5252922532_08796df6-aa56-bdb3-1e774e5df000264c.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: Dvorak and Franck\, Piano Quintets
 UID:39230@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39230/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-dvorak-and-franck-piano-quintets/39230/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260804
@@ -525,22 +543,13 @@ UID:39209@visitlaramie.org
 URL:https://www.visitlaramie.org/event/fulldome-film%3a-distant-worlds%3a-alien-life%3f-%2b-startalk/39209/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:4-H Cat Show\nMore info: https://www.visitlaramie.org/event/4-h-cat-show/39196/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143210_735696A1-A1F5-667F-AA98759D1CD1BC9C_7357f1e5-c464-d13e-d3aa20bc669b7683.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:4-H Cat Show
-UID:39196@visitlaramie.org
-URL:https://www.visitlaramie.org/event/4-h-cat-show/39196/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39228/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: Chamber Music Matinee no. 2\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-2/39228/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_0824161C-B2E7-14D3-9DF8176E397F63FE_0827f908-f121-c6eb-d0f6f7d85664bbb6.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: Chamber Music Matinee no. 2
 UID:39228@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39228/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-2/39228/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
@@ -597,15 +606,6 @@ UID:39143@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Youth Market & Breeding Sheep Show\nMore info: https://www.visitlaramie.org/event/youth-market-%26-breeding-sheep-show/39201/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144443_740438D4-BCED-61D5-7BC526BA903427B4_7404e80a-a580-335c-bc9a1be61760cdc5.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Youth Market & Breeding Sheep Show
-UID:39201@visitlaramie.org
-URL:https://www.visitlaramie.org/event/youth-market-%26-breeding-sheep-show/39201/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
 DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
@@ -651,12 +651,12 @@ URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-starta
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260814
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39232/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival: The Tufte-McIntosh Duo\; Jessamyn Fry\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-the-tufte-mcintosh-duo%3b-jessamyn-fry/39232/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_088DB79E-D1B0-85B4-62CBF438136DCED6_089058be-edcd-a2a6-dfc4f0a24e64911d.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
+SUMMARY:Wyoming International Chamber Music Festival: The Tufte-McIntosh Duo\; Jessamyn Fry
 UID:39232@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39232/
+URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-the-tufte-mcintosh-duo%3b-jessamyn-fry/39232/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
@@ -669,20 +669,12 @@ URL:https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adve
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39225/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-27-142328_A2B93ECF-E2CD-F7F7-1369CC57650CD5F6_a347b16c-915c-4342-64a70c3ec424d278.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
+DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39225/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_079162FB-CB0A-6DB4-4F51D18B544B8653_07951c85-c374-d6a3-5eaecc2c43cf9c47.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
 LOCATION:St Matthew's Cathedral
 SUMMARY:Wyoming International Chamber Music Festival
 UID:39225@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39225/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Family Night at The Albany County Fair\nMore info: https://www.visitlaramie.org/event/family-night-at-the-albany-county-fair/39186/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-123620_6F2F08F2-9FF5-6C4D-3FB910B0E1001BCF_6f48ed88-f510-480f-2836f3303732c21b.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-SUMMARY:Family Night at The Albany County Fair
-UID:39186@visitlaramie.org
-URL:https://www.visitlaramie.org/event/family-night-at-the-albany-county-fair/39186/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -710,15 +702,6 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:2026 Albany County Fair!
 UID:39179@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Team Roping Jackpot\nMore info: https://www.visitlaramie.org/event/team-roping-jackpot/39198/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143556_7371513F-B9EB-2A91-D4116497AB0FFDA7_737a4532-9205-e110-8709ab3e00a92f8e.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Team Roping Jackpot
-UID:39198@visitlaramie.org
-URL:https://www.visitlaramie.org/event/team-roping-jackpot/39198/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
