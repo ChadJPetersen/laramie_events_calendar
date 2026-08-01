@@ -90,6 +90,24 @@ UID:39227@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-1/39227/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260804
+DESCRIPTION:Laramie Police Celebrate National Night Out\nMore info: https://www.visitlaramie.org/event/laramie-police-celebrate-national-night-out/39246/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-113032_3C6878B1-D4F5-66D3-5479D7F0C882F012_3c6c731b-be8f-457c-8b2ec158ff2fd884.png\nCategories: Annual Events & Festivals\, Community
+GEO:41.304746;-105.583759
+LOCATION:Undine Park
+SUMMARY:Laramie Police Celebrate National Night Out
+UID:39246@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-police-celebrate-national-night-out/39246/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:Andy Warhol: 99 Photos\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39239/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/1658/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-101509_06183010-D4B1-995A-750F7918423610F5_06230f70-f4c8-0df9-63c595565aa3e7f3.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Andy Warhol: 99 Photos
+UID:39239@visitlaramie.org
+URL:https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39239/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
 DESCRIPTION:Tuesday Local Market\nMore info: https://www.visitlaramie.org/event/tuesday-local-market/39060/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TLM_65321B46-F975-66AE-4B7F93FAB64FA696_65692306-eba3-5d36-af75d8144a8a1829.jpg\nCategories: Concerts & Live Music\, Community\, Family Fun
 GEO:41.317073;-105.590587
@@ -224,6 +242,15 @@ UID:39224@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-academy-of-st-matthews-in-the-valley/39224/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+DESCRIPTION:Jackalope Cult Cinema Presents: Drop Dead Gorgeous (Double Feature)\nMore info: https://www.visitlaramie.org/event/jackalope-cult-cinema-presents%3a-drop-dead-gorgeous-(double-feature)/39243/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-102517_3A118503-0681-C94E-48EE077C83236551_3a201546-025a-1af8-cd57c352329ed316.png\nCategories: Community\, Performing Arts & Culture\, Social Events
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Jackalope Cult Cinema Presents: Drop Dead Gorgeous (Double Feature)
+UID:39243@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jackalope-cult-cinema-presents%3a-drop-dead-gorgeous-(double-feature)/39243/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260801
 DESCRIPTION:Urban Sketching in West Laramie\nMore info: https://www.visitlaramie.org/event/urban-sketching-in-west-laramie/39217/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-25-_4CAA106A-FD15-DC6B-EC0E384270820CD5_4d0adde0-fc02-3cff-1943c25106308ac7.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
 GEO:43.075968;-107.290284
@@ -251,15 +278,6 @@ UID:39236@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-bike-park-ribbon-cutting-ceremony/39236/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DESCRIPTION:Youth Market Beef Show\nMore info: https://www.visitlaramie.org/event/youth-market-beef-show/39197/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-143428_7365C2CC-AAA2-02C9-1B1466105B7CBFD5_73688ee1-9b2b-e158-b793eb56b4143b9d.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Youth Market Beef Show
-UID:39197@visitlaramie.org
-URL:https://www.visitlaramie.org/event/youth-market-beef-show/39197/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260813
 DESCRIPTION:Wyoming International Chamber Music Festival: Pre-Concert Talk - Anne Marie Guzzo\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-pre-concert-talk-anne-marie-guzzo/39229/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-110308_082FDBF0-ABD3-6D06-455A65EDBA4A45B3_08319d12-fa64-fdf6-df44e1232448319c.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
@@ -267,6 +285,15 @@ LOCATION:St Matthew's Cathedral
 SUMMARY:Wyoming International Chamber Music Festival: Pre-Concert Talk - Anne Marie Guzzo
 UID:39229@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-pre-concert-talk-anne-marie-guzzo/39229/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+DESCRIPTION:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F517400-C0F9-9CF5-CE86DA06EC5BF945_3f54533b-d053-8e2d-245efff6b0483bcb.png\nCategories: Education\, Craft Classes & Workshops
+GEO:41.298808;-106.141485
+LOCATION:Centennial Valley Library
+SUMMARY:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow
+UID:39248@visitlaramie.org
+URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260623
@@ -345,6 +372,15 @@ LOCATION:Washington Park
 SUMMARY:Laramie Breastival
 UID:39156@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-breastival/39156/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:I Can't Believe It's Not Butter\nMore info: https://www.visitlaramie.org/event/i-cant-believe-its-not-butter/39240/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-123709_3EC2775D-02CB-E2A2-D483BF36F43FC908_3ecd44df-9cd2-99d7-9edc87ab7e1df34b.png\nCategories: Performing Arts & Culture
+GEO:41.322811;-105.591448
+LOCATION:Cooper Center for Creative Arts
+SUMMARY:I Can't Believe It's Not Butter
+UID:39240@visitlaramie.org
+URL:https://www.visitlaramie.org/event/i-cant-believe-its-not-butter/39240/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
@@ -510,7 +546,7 @@ URL:https://www.visitlaramie.org/event/%f0%9f%92%96-music-for-a-meaningful-cause
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260815
-DESCRIPTION:Make a Mini Mural with Cassidy Post\nMore info: https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Make-a-Mini-Mural-with-Cassidy-Post_ACF7EDD9-EC21-1BF5-A73A9C6FA81851FF_acff9ceb-a568-8f47-7e39911bb2bd7593.jpg\nCategories: Craft Classes & Workshops
+DESCRIPTION:Make a Mini Mural with Cassidy Post\nMore info: https://www.visitlaramie.org/event/make-a-mini-mural-with-cassidy-post/39165/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-124311_3EE6CEE3-C714-5A11-FB3F5428CD81D374_3ee980e6-a78d-e240-dd65cb95db0b92c9.png\nCategories: Craft Classes & Workshops
 GEO:41.310382;-105.594446
 LOCATION:Wyoming Women's History House
 SUMMARY:Make a Mini Mural with Cassidy Post
@@ -550,6 +586,15 @@ LOCATION:St Matthew's Cathedral
 SUMMARY:Wyoming International Chamber Music Festival: Chamber Music Matinee no. 2
 UID:39228@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-2/39228/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DESCRIPTION:Lemonade Day! Laramie\nMore info: https://www.visitlaramie.org/event/lemonade-day!-laramie/39247/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-113557_3C9340D5-07EE-A0C3-630C2596834E569B_3c9676f2-efe5-c728-034582e8922c5e7b.png\nCategories: Community\, Family Fun\, Social Events
+GEO:41.311367;-105.591101
+LOCATION:Citywide
+SUMMARY:Lemonade Day! Laramie
+UID:39247@visitlaramie.org
+URL:https://www.visitlaramie.org/event/lemonade-day!-laramie/39247/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
@@ -702,6 +747,14 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:2026 Albany County Fair!
 UID:39179@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Weekly Yoga At The Centennial Public Library Thursday - Restorative/Yoga Nidra\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-thursday-restorative-yoga-nidra/39249/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F4B8212-D92D-D314-A0101474B437F09F_3f4dd649-9385-f585-a2020b7bc021bc03.png\nCategories: Education\, Craft Classes & Workshops
+GEO:41.298808;-106.141485
+SUMMARY:Weekly Yoga At The Centennial Public Library Thursday - Restorative/Yoga Nidra
+UID:39249@visitlaramie.org
+URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-thursday-restorative-yoga-nidra/39249/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
