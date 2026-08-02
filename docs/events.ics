@@ -11,23 +11,6 @@ UID:39203@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star-%2b-star-talk/39203/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Braden Zink\nMore info: https://www.visitlaramie.org/event/braden-zink/39190/\nVenue: WyColo Lodge\nVenue Info: https://www.visitlaramie.org/listing/wycolo-lodge/339/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-24-124745_D6956647-F243-BD5E-66B259B37C7A5008_d69c9297-985a-d98c-3f1ecf85d3e61990.png\nCategories: Concerts & Live Music\, Social Events
-GEO:41.282735;-105.593071
-SUMMARY:Braden Zink
-UID:39190@visitlaramie.org
-URL:https://www.visitlaramie.org/event/braden-zink/39190/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Listening Hollows: Transforming Empty Spaces Workshop\nMore info: https://www.visitlaramie.org/event/listening-hollows%3a-transforming-empty-spaces-workshop/39164/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Listening-Hollows-Transforming-Empty-Spaces-Workshop_ACE1E9F0-9A06-5E31-9D38E46320295234_ace8314c-9122-02bf-cb16e485b73065e5.jpg\nCategories: Craft Classes & Workshops
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Listening Hollows: Transforming Empty Spaces Workshop
-UID:39164@visitlaramie.org
-URL:https://www.visitlaramie.org/event/listening-hollows%3a-transforming-empty-spaces-workshop/39164/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 DESCRIPTION:Tell Me More! with Daniel Galbreath and musicians from the Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/tell-me-more!-with-daniel-galbreath-and-musicians-from-the-wyoming-international-chamber-music-festival/39222/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WICMF-Tell-Me-More-_75630BF0-D8ED-2D24-5C3F67862F7A8A1B_7589fb80-c031-a435-0781cb126ccc52d3.png\nCategories: Performing Arts & Culture
 GEO:38.794595;-106.534838
@@ -53,14 +36,6 @@ LOCATION:Gryphon Theatre @ The Laramie Plains Civic Center
 SUMMARY:What Was Ours\, Who She Is
 UID:39215@visitlaramie.org
 URL:https://www.visitlaramie.org/event/what-was-ours-who-she-is/39215/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Walk Today for Women Tomorrow - Laramie PEO\nMore info: https://www.visitlaramie.org/event/walk-today-for-women-tomorrow-laramie-peo/39176/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/PEO-cover_D0716872-DD75-6252-6D363A4DC7533A4C_d08c8430-aba7-dc03-8ed182c1537dc279.jpg\nCategories: Outdoor Recreation
-LOCATION:Labonte Park Shelter #3
-SUMMARY:Walk Today for Women Tomorrow - Laramie PEO
-UID:39176@visitlaramie.org
-URL:https://www.visitlaramie.org/event/walk-today-for-women-tomorrow-laramie-peo/39176/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
@@ -153,15 +128,6 @@ UID:39142@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:ACF Junior Livestock Sale\nMore info: https://www.visitlaramie.org/event/acf-junior-livestock-sale/39200/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-144110_73A650FE-BD36-B923-A228075707E34D47_73b05c5a-f665-5a5a-38d74e97599a2f74.png\nCategories: Annual Events & Festivals\, Family Fun\, Social Events
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:ACF Junior Livestock Sale
-UID:39200@visitlaramie.org
-URL:https://www.visitlaramie.org/event/acf-junior-livestock-sale/39200/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:Wyoming Voices: Our Stories of America\nMore info: https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112708_CAD97750-96F9-68AA-A257B378C72A8FC5_caec755b-957f-9a07-8a5968d17b2f8f7a.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
@@ -249,15 +215,6 @@ LOCATION:The Gryphon Theatre
 SUMMARY:Jackalope Cult Cinema Presents: Drop Dead Gorgeous (Double Feature)
 UID:39243@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jackalope-cult-cinema-presents%3a-drop-dead-gorgeous-(double-feature)/39243/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Urban Sketching in West Laramie\nMore info: https://www.visitlaramie.org/event/urban-sketching-in-west-laramie/39217/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-25-_4CAA106A-FD15-DC6B-EC0E384270820CD5_4d0adde0-fc02-3cff-1943c25106308ac7.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:43.075968;-107.290284
-LOCATION:West Laramie
-SUMMARY:Urban Sketching in West Laramie
-UID:39217@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-in-west-laramie/39217/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260823
@@ -426,15 +383,6 @@ LOCATION:Laramie Civic Center
 SUMMARY:Urban Sketching at the Civic Center
 UID:39219@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-at-the-civic-center/39219/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DESCRIPTION:Roller Derby: Naughty Pines vs Los Alamos\nMore info: https://www.visitlaramie.org/event/roller-derby%3a-naughty-pines-vs-los-alamos/39238/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/645/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-125243_0BBA256F-B27C-1693-7154D2A8297FEFAC_0bbc22ef-a7af-cf7a-44817db1b15c98fd.png\nCategories: Sports
-GEO:41.305775;-105.551024
-LOCATION:Laramie Ice & Event Center
-SUMMARY:Roller Derby: Naughty Pines vs Los Alamos
-UID:39238@visitlaramie.org
-URL:https://www.visitlaramie.org/event/roller-derby%3a-naughty-pines-vs-los-alamos/39238/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
@@ -722,15 +670,6 @@ UID:39225@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39225/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260808
 DESCRIPTION:Urban Sketching at Greenhill Cemetary\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-greenhill-cemetary/39218/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-25-_4D235EF4-070C-C5F8-5D9AAD7FE4AA75D1_4d49a0f5-f43f-c359-15d5fe1adfa8b5d7.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
 GEO:43.075968;-107.290284
@@ -740,13 +679,13 @@ UID:39218@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-at-greenhill-cemetary/39218/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-DESCRIPTION:2026 Albany County Fair!\nMore info: https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-15-115338_05362B57-FA5E-A230-DBDDE3D423E84890_05436b9d-0d20-5909-7a7e937b514b238c.png\nCategories: Annual Events & Festivals\, Community\, Education\, Family Fun\, Social Events
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:2026 Albany County Fair!
-UID:39179@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2026-albany-county-fair!/39179/
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
