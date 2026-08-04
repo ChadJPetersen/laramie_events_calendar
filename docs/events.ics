@@ -11,15 +11,6 @@ UID:39203@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star-%2b-star-talk/39203/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260803
-DESCRIPTION:Tell Me More! with Daniel Galbreath and musicians from the Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/tell-me-more!-with-daniel-galbreath-and-musicians-from-the-wyoming-international-chamber-music-festival/39222/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WICMF-Tell-Me-More-_75630BF0-D8ED-2D24-5C3F67862F7A8A1B_7589fb80-c031-a435-0781cb126ccc52d3.png\nCategories: Performing Arts & Culture
-GEO:38.794595;-106.534838
-LOCATION:110 E Grand Ave.
-SUMMARY:Tell Me More! with Daniel Galbreath and musicians from the Wyoming International Chamber Music Festival
-UID:39222@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tell-me-more!-with-daniel-galbreath-and-musicians-from-the-wyoming-international-chamber-music-festival/39222/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260815
 DESCRIPTION:Art Shed Workshops: Continuous Strand Weaving Workshop\nMore info: https://www.visitlaramie.org/event/art-shed-workshops%3a-continuous-strand-weaving-workshop/39241/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-135003_0DF37A33-96A6-724E-182A4994CDB4CDEA_0df3fb1e-f055-7020-36a175d3c11a60e6.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.309526;-105.604234
@@ -507,15 +498,6 @@ DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/
 SUMMARY:Glow and Go Run 3.07 miles
 UID:39177@visitlaramie.org
 URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260803
-DESCRIPTION:Tell Me More\nMore info: https://www.visitlaramie.org/event/tell-me-more/39235/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-28-124328_A46C01C2-C670-1FBF-9AB995E036BFF952_a5f11fe6-e008-0b65-902821ac5e5ebd26.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
-GEO:41.310977;-105.595679
-LOCATION:Coal Creek Coffee
-SUMMARY:Tell Me More
-UID:39235@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tell-me-more/39235/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260818
