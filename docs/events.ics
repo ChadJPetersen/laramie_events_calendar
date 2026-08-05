@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
-DESCRIPTION:Full-Dome Film: The Sun: Our Living Star + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star-%2b-star-talk/39203/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-27-121138_9EA8EC0A-E100-B3CE-F37EFEB3B0BE0928_9ec00472-9e55-9c4e-3ab244cf7a7ca534.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: The Sun: Our Living Star + Star Talk
-UID:39203@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-star-%2b-star-talk/39203/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260815
 DESCRIPTION:Art Shed Workshops: Continuous Strand Weaving Workshop\nMore info: https://www.visitlaramie.org/event/art-shed-workshops%3a-continuous-strand-weaving-workshop/39241/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-135003_0DF37A33-96A6-724E-182A4994CDB4CDEA_0df3fb1e-f055-7020-36a175d3c11a60e6.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.309526;-105.604234
@@ -54,15 +45,6 @@ LOCATION:St Matthew's Cathedral
 SUMMARY:Wyoming International Chamber Music Festival: Chamber Music Matinee no. 1
 UID:39227@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-1/39227/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
-DESCRIPTION:Laramie Police Celebrate National Night Out\nMore info: https://www.visitlaramie.org/event/laramie-police-celebrate-national-night-out/39246/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-113032_3C6878B1-D4F5-66D3-5479D7F0C882F012_3c6c731b-be8f-457c-8b2ec158ff2fd884.png\nCategories: Annual Events & Festivals\, Community
-GEO:41.304746;-105.583759
-LOCATION:Undine Park
-SUMMARY:Laramie Police Celebrate National Night Out
-UID:39246@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-police-celebrate-national-night-out/39246/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -430,15 +412,6 @@ UID:39134@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-st-thomas/39134/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
-DESCRIPTION:Cowgirl Soccer: Brown vs. Gold\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-brown-vs-gold/39127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:Madrid Sports Complex
-SUMMARY:Cowgirl Soccer: Brown vs. Gold
-UID:39127@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-brown-vs-gold/39127/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260820
 DESCRIPTION:Full-Dome Film: From Earth to the Universe + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-startalk/39211/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-131502_A40A1927-C10D-5B33-7AF284F02301AACB_a411c6aa-ceb2-1317-d0ba6fcb85de83eb.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -455,15 +428,6 @@ LOCATION:St Matthew's Cathedral
 SUMMARY:Wyoming International Chamber Music Festival: Dvorak and Franck\, Piano Quintets
 UID:39230@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-dvorak-and-franck-piano-quintets/39230/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260804
-DESCRIPTION:Full-Dome Film: Dark Biosphere + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39204/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_9ECBBB02-D61B-B0C9-14E23B808B70DC22_9ed05be0-c72b-60de-a3378d1d089b5c22.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Dark Biosphere + Star Talk
-UID:39204@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39204/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
