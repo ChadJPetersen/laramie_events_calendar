@@ -214,15 +214,6 @@ UID:39243@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jackalope-cult-cinema-presents%3a-drop-dead-gorgeous-(double-feature)/39243/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260823
-DESCRIPTION:Sunday Funday @ The Cowboy Saloon and Dance Hall\nMore info: https://www.visitlaramie.org/event/sunday-funday-%40-the-cowboy-saloon-and-dance-hall/39178/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-15-113114_04629DC1-FAB7-46DB-127FFF4EFBF6CB74_046d28a0-fea5-32d5-a06e4657865cbdff.png\nCategories: Community\, Social Events
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Sunday Funday @ The Cowboy Saloon and Dance Hall
-UID:39178@visitlaramie.org
-URL:https://www.visitlaramie.org/event/sunday-funday-%40-the-cowboy-saloon-and-dance-hall/39178/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
 DESCRIPTION:Laramie Bike Park Ribbon Cutting Ceremony\nMore info: https://www.visitlaramie.org/event/laramie-bike-park-ribbon-cutting-ceremony/39236/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/GRAND-OPENING-2-_DBD390F4-F33E-4FF9-ADF7BCBECE8E5C49_dbd74eb8-9c00-b4c7-a3dc9e79d32db45f.png\nCategories: Outdoor Recreation\, Sports\, Family Fun
 GEO:41.305283;-105.551569
@@ -326,15 +317,6 @@ LOCATION:Washington Park
 SUMMARY:Laramie Breastival
 UID:39156@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-breastival/39156/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-DESCRIPTION:I Can't Believe It's Not Butter\nMore info: https://www.visitlaramie.org/event/i-cant-believe-its-not-butter/39240/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-123709_3EC2775D-02CB-E2A2-D483BF36F43FC908_3ecd44df-9cd2-99d7-9edc87ab7e1df34b.png\nCategories: Performing Arts & Culture
-GEO:41.322811;-105.591448
-LOCATION:Cooper Center for Creative Arts
-SUMMARY:I Can't Believe It's Not Butter
-UID:39240@visitlaramie.org
-URL:https://www.visitlaramie.org/event/i-cant-believe-its-not-butter/39240/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
@@ -663,15 +645,6 @@ LOCATION:St Matthew's Cathedral
 SUMMARY:Wyoming International Chamber Music Festival: The Tufte-McIntosh Duo\; Jessamyn Fry
 UID:39232@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-the-tufte-mcintosh-duo%3b-jessamyn-fry/39232/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-DESCRIPTION:Full-Dome Film: Great Solar System Adventure + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure-%2b-startalk/39206/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-135046_A2818FF2-FD34-186B-FB958CD3526395A7_a28403f9-bd07-4c11-2502dc2c7ed9a4d8.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Great Solar System Adventure + Startalk
-UID:39206@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure-%2b-startalk/39206/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
