@@ -20,6 +20,15 @@ UID:39215@visitlaramie.org
 URL:https://www.visitlaramie.org/event/what-was-ours-who-she-is/39215/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260819
+DESCRIPTION:Centennial Speaker Series: Looking Locally\, Speaking Globally\nMore info: https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/39260/\nVenue: Centennial Library\nVenue Info: https://www.visitlaramie.org/listing/centennial-library/1797/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/css-aug-2026_4625B540-9C16-4D81-393022F5C26C1F66_462cbe66-e83f-7ac5-1561fb4aa2d2f57a.png\nCategories: Community\, University of Wyoming\, Education
+GEO:41.298808;-106.141485
+LOCATION:Centennial Library
+SUMMARY:Centennial Speaker Series: Looking Locally\, Speaking Globally
+UID:39260@visitlaramie.org
+URL:https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/39260/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
 DESCRIPTION:Wyoming International Chamber Music Festival: Festival Grand Finale - Academy of St. Matthew's in the Valley\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-festival-grand-finale-academy-of-st-matthews-in-the-valley/39234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_08A893A3-D061-0C12-8D142C3A1756511F_08aa31c7-e81f-c1b6-c6408d785a592c99.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
 GEO:41.312466;-105.592455
@@ -98,15 +107,6 @@ LOCATION:Rebel Ranch
 SUMMARY:Afternoon Tea and Tatanka
 UID:38686@visitlaramie.org
 URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DESCRIPTION:Bigs & Littles: Nature Yoga & Grounding Practice at Undine Park\nMore info: https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-110450_FD815363-C6D0-E454-E1D489666BBE9FAC_fd94a77a-cf7f-b467-82dbb72e62e5d5e0.png\nCategories: Community\, Family Fun
-GEO:41.322946;-105.587041
-LOCATION:Undine Park
-SUMMARY:Bigs & Littles: Nature Yoga & Grounding Practice at Undine Park
-UID:39142@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bigs-%26-littles%3a-nature-yoga-%26-grounding-practice-at-undine-park/39142/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
@@ -194,15 +194,6 @@ GEO:41.318245;-105.580053
 SUMMARY:UMW Annual Rummage Sale
 UID:39250@visitlaramie.org
 URL:https://www.visitlaramie.org/event/umw-annual-rummage-sale/39250/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DESCRIPTION:Wyoming International Chamber Music Festival: Academy of St. Matthew's in the Valley\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-academy-of-st-matthews-in-the-valley/39224/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_07997853-D26C-E2A1-E9F372521A87FFC6_079b29d1-b31a-d379-ffa40d9e5dd9e6e3.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
-GEO:41.312466;-105.592455
-LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival: Academy of St. Matthew's in the Valley
-UID:39224@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-academy-of-st-matthews-in-the-valley/39224/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260809
@@ -308,15 +299,6 @@ LOCATION:Curt Gowdy State Park
 SUMMARY:Access Adventure Multi-Sport Day at Curt Gowdy State Park
 UID:39182@visitlaramie.org
 URL:https://www.visitlaramie.org/event/access-adventure-multi-sport-day-at-curt-gowdy-state-park/39182/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DESCRIPTION:Laramie Breastival\nMore info: https://www.visitlaramie.org/event/laramie-breastival/39156/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_0082_04863848-FBDD-83D0-DAA2ACC60CA2FC7A_04e9b28f-d63a-b31d-1651757e38787acd.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
-GEO:41.306787;-105.571082
-LOCATION:Washington Park
-SUMMARY:Laramie Breastival
-UID:39156@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-breastival/39156/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
@@ -494,6 +476,15 @@ DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/
 SUMMARY:Glow and Go Run 3.07 miles
 UID:39177@visitlaramie.org
 URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+DESCRIPTION:Late Summer Plant Hike\nMore info: https://www.visitlaramie.org/event/late-summer-plant-hike/39261/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Plant-Hike-1-_7938EF7D-B208-7041-0CBDBF031E24A4EA_793eb0ab-a679-ace0-49c0024733e0c6c5.jpg\nCategories: Outdoor Recreation
+GEO:41.169150;-105.222448
+LOCATION:Curt Gowdy State Park
+SUMMARY:Late Summer Plant Hike
+UID:39261@visitlaramie.org
+URL:https://www.visitlaramie.org/event/late-summer-plant-hike/39261/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260818
