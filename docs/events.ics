@@ -514,15 +514,6 @@ UID:39228@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-chamber-music-matinee-no-2/39228/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Lemonade Day! Laramie\nMore info: https://www.visitlaramie.org/event/lemonade-day!-laramie/39247/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-113557_3C9340D5-07EE-A0C3-630C2596834E569B_3c9676f2-efe5-c728-034582e8922c5e7b.png\nCategories: Community\, Family Fun\, Social Events
-GEO:41.311367;-105.591101
-LOCATION:Citywide
-SUMMARY:Lemonade Day! Laramie
-UID:39247@visitlaramie.org
-URL:https://www.visitlaramie.org/event/lemonade-day!-laramie/39247/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
 DESCRIPTION:Eagle's Annual Picnic\nMore info: https://www.visitlaramie.org/event/eagles-annual-picnic/39259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-115855_3ED42FE6-F2D5-5DE7-5F6CBE3F9A564B25_3eff56e1-e1cf-a7f2-9709d793642aecbe.png\nCategories: Community\, Outdoor Recreation\, Family Fun
 GEO:41.305330;-105.590308
@@ -538,15 +529,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220813
-DESCRIPTION:WYCO Volunteer Fire Department Annual Fundraiser.\nMore info: https://www.visitlaramie.org/event/wyco-volunteer-fire-department-annual-fundraiser/31506/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/events3_1651BE60-5056-A36F-230D4E6E62C421DF_16a44bd4-5056-a36f-2328563c1297ea2f.png\nCategories: Annual Events & Festivals\, Community\, Social Events\, Volunteering
-GEO:41.013090;-106.168432
-LOCATION:WYCO Volunteer Fire Department
-SUMMARY:WYCO Volunteer Fire Department Annual Fundraiser.
-UID:31506@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyco-volunteer-fire-department-annual-fundraiser/31506/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260718
@@ -646,24 +628,6 @@ UID:39251@visitlaramie.org
 URL:https://www.visitlaramie.org/event/umw-annual-rummage-sale/39251/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Wyoming International Chamber Music Festival\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39225/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_079162FB-CB0A-6DB4-4F51D18B544B8653_07951c85-c374-d6a3-5eaecc2c43cf9c47.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
-GEO:41.312466;-105.592455
-LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival
-UID:39225@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival/39225/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Urban Sketching at Greenhill Cemetary\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-greenhill-cemetary/39218/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-25-_4D235EF4-070C-C5F8-5D9AAD7FE4AA75D1_4d49a0f5-f43f-c359-15d5fe1adfa8b5d7.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:43.075968;-107.290284
-LOCATION:Greenhill Cemetary
-SUMMARY:Urban Sketching at Greenhill Cemetary
-UID:39218@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-at-greenhill-cemetary/39218/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -671,15 +635,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Grateful Heart: A Seek Community Event\nMore info: https://www.visitlaramie.org/event/grateful-heart%3a-a-seek-community-event/39256/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-114359_3E4C4775-FAC4-5E6C-EF1B366CCA814BF3_3e5c7ba6-abbd-97a8-7ba47f5f1647decb.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Grateful Heart: A Seek Community Event
-UID:39256@visitlaramie.org
-URL:https://www.visitlaramie.org/event/grateful-heart%3a-a-seek-community-event/39256/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
@@ -697,24 +652,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:UWAM Presents - Third Thursday: Palette / Palate
 UID:39032@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-palette-palate/39032/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie\nMore info: https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_6516587B-C3E6-4214-8E73F4A1E1FDD36E_eb21b273-756f-4cd2-a2d0f65a6be6ac4a.jpg\nCategories: Concerts & Live Music\, Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Y2K Night Out Brings Nostalgia and Community Together in Downtown Laramie
-UID:39070@visitlaramie.org
-URL:https://www.visitlaramie.org/event/y2k-night-out-brings-nostalgia-and-community-together-in-downtown-laramie/39070/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DESCRIPTION:Greenhill Cemetary Walking Tour\nMore info: https://www.visitlaramie.org/event/greenhill-cemetary-walking-tour/39056/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-05-134303_FCF11181-F73A-F64C-F82D5C0A88E2FD2B_fd0567e5-9e09-03db-36e29ca4b0238352.png\nCategories: History\, Community\, Wyoming 250
-GEO:41.311367;-105.591101
-LOCATION:Greenhill Cemetary
-SUMMARY:Greenhill Cemetary Walking Tour
-UID:39056@visitlaramie.org
-URL:https://www.visitlaramie.org/event/greenhill-cemetary-walking-tour/39056/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260525
