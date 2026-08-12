@@ -110,15 +110,6 @@ UID:39052@visitlaramie.org
 URL:https://www.visitlaramie.org/event/george-birge-laramie/39052/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260811
-DESCRIPTION:Science Loves Art: Suminagashi Paper Marbling\nMore info: https://www.visitlaramie.org/event/science-loves-art%3a-suminagashi-paper-marbling/39253/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-112349_3D91502C-D05C-510B-1A86A180D8B856D3_3dc26b97-0ab8-7ee4-f0b401aa1c7e3369.png\nCategories: Community\, Family Fun\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Science Loves Art: Suminagashi Paper Marbling
-UID:39253@visitlaramie.org
-URL:https://www.visitlaramie.org/event/science-loves-art%3a-suminagashi-paper-marbling/39253/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
 DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
@@ -479,15 +470,6 @@ UID:39233@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-the-french-(and-czech)-connection/39233/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260811
-DESCRIPTION:Full-Dome Film: Dawn of the Space Age + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%2b-startalk/39207/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-123552_A2A35568-04F3-A8DF-C39CEA0697983BA6_a3090d03-b017-575c-02fca2110c863467.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Dawn of the Space Age + Startalk
-UID:39207@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-dawn-of-the-space-age-%2b-startalk/39207/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260816
 DESCRIPTION:Eagle's Annual Picnic\nMore info: https://www.visitlaramie.org/event/eagles-annual-picnic/39259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-115855_3ED42FE6-F2D5-5DE7-5F6CBE3F9A564B25_3eff56e1-e1cf-a7f2-9709d793642aecbe.png\nCategories: Community\, Outdoor Recreation\, Family Fun
 GEO:41.305330;-105.590308
@@ -546,6 +528,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Wyoming Skies: Losing the Dark with Laramie Audubon Society
 UID:39212@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-losing-the-dark-with-laramie-audubon-society/39212/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Ryan Charles: Hall Of Fame Weekend After Party\nMore info: https://www.visitlaramie.org/event/ryan-charles%3a-hall-of-fame-weekend-after-party/39063/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_8B7B0058-DE64-4274-8211BE698424025B_38c421ad-3f1d-4f89-a7b54b11d3659365.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Ryan Charles: Hall Of Fame Weekend After Party
+UID:39063@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ryan-charles%3a-hall-of-fame-weekend-after-party/39063/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
