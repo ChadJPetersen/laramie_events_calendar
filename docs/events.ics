@@ -65,15 +65,6 @@ UID:39260@visitlaramie.org
 URL:https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/39260/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260816
-DESCRIPTION:Wyoming International Chamber Music Festival: Festival Grand Finale - Academy of St. Matthew's in the Valley\nMore info: https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-festival-grand-finale-academy-of-st-matthews-in-the-valley/39234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-105315_08A893A3-D061-0C12-8D142C3A1756511F_08aa31c7-e81f-c1b6-c6408d785a592c99.png\nCategories: Community\, Performing Arts & Culture\, Family Fun
-GEO:41.312466;-105.592455
-LOCATION:St Matthew's Cathedral
-SUMMARY:Wyoming International Chamber Music Festival: Festival Grand Finale - Academy of St. Matthew's in the Valley
-UID:39234@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-international-chamber-music-festival%3a-festival-grand-finale-academy-of-st-matthews-in-the-valley/39234/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260625
 DESCRIPTION:Laramie Cruiser Ride\nMore info: https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-111313_FDC7D910-A3DE-74D8-FB5D91CADBA80CB3_fde42a33-d3ff-4051-043429b2832f6c6f.png\nCategories: Community\, Outdoor Recreation\, Sports
 GEO:41.311781;-105.596016
@@ -404,14 +395,6 @@ LOCATION:UW Arena Auditorium
 SUMMARY:Cowgirl Volleyball: Cowgirls vs. South Dakota
 UID:39266@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-south-dakota/39266/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260816
-DESCRIPTION:Eagle's Annual Picnic\nMore info: https://www.visitlaramie.org/event/eagles-annual-picnic/39259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-115855_3ED42FE6-F2D5-5DE7-5F6CBE3F9A564B25_3eff56e1-e1cf-a7f2-9709d793642aecbe.png\nCategories: Community\, Outdoor Recreation\, Family Fun
-GEO:41.305330;-105.590308
-SUMMARY:Eagle's Annual Picnic
-UID:39259@visitlaramie.org
-URL:https://www.visitlaramie.org/event/eagles-annual-picnic/39259/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260827
