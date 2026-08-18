@@ -239,15 +239,6 @@ UID:39211@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-startalk/39211/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260817
-DESCRIPTION:Tell Me More! Guest Lecture Series: JAB Artist Talk\nMore info: https://www.visitlaramie.org/event/tell-me-more!-guest-lecture-series%3a-jab-artist-talk/39263/\nVenue: Coal Creek Coffee Co. (Downtown)\nVenue Info: https://www.visitlaramie.org/listing/coal-creek-coffee-co-(downtown)/28/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TELL-ME-MORE-JAB26-square_4956A53A-F310-338C-1893634D7F77BB10_4964b50b-b79a-50bf-199a2a73a4dc601e.png\nCategories: Performing Arts & Culture
-GEO:41.310977;-105.595679
-LOCATION:Coal Creek Coffee Co. (Downtown)
-SUMMARY:Tell Me More! Guest Lecture Series: JAB Artist Talk
-UID:39263@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tell-me-more!-guest-lecture-series%3a-jab-artist-talk/39263/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
