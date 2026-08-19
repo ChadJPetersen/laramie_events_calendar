@@ -11,6 +11,15 @@ UID:39236@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-bike-park-ribbon-cutting-ceremony/39236/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:-in-chief by Ally Duvak\nMore info: https://www.visitlaramie.org/event/in-chief-by-ally-duvak/39281/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-18-101008_D86321C2-D77E-CE8C-EDA9B5937599F75D_d866e259-97c3-ae26-14f4b2dee93e61e8.png\nCategories: Performing Arts & Culture
+GEO:41.312616;-105.570928
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:-in-chief by Ally Duvak
+UID:39281@visitlaramie.org
+URL:https://www.visitlaramie.org/event/in-chief-by-ally-duvak/39281/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DESCRIPTION:Campus Pass\nMore info: https://www.visitlaramie.org/event/campus-pass/39255/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-113649_3E069721-E61D-CFD3-B518237603E09645_3e3a3062-db16-99ec-bedaa871ddffb87d.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Sports
 GEO:41.313968;-105.584517
@@ -109,15 +118,6 @@ UID:39071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39071/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260810
-DESCRIPTION:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest\nMore info: https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-01-123344_35A40254-E614-E6FB-9FE75FFC6A12A433_35a585e4-e74a-931e-44d22019bf6ec9ca.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
-SUMMARY:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest
-UID:39155@visitlaramie.org
-URL:https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
 DESCRIPTION:Jett Vincent LIVE at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_AAFBD7C6-1601-47FF-A7FB9031C883B28C_c77170b9-baa5-4209-bd98734a9e938bae.jpg\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -125,6 +125,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Jett Vincent LIVE at The Cowboy Saloon
 UID:39064@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+DESCRIPTION:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest\nMore info: https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-01-123344_35A40254-E614-E6FB-9FE75FFC6A12A433_35a585e4-e74a-931e-44d22019bf6ec9ca.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
+SUMMARY:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest
+UID:39155@visitlaramie.org
+URL:https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
@@ -221,6 +230,15 @@ UID:39134@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-st-thomas/39134/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DESCRIPTION:Urban Sketching at LaPrele Park\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A2B1F55F-0014-DE99-170B87CCA990C353_a2c00309-d058-d9bb-3f39cfb54e38a817.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:LaPrele Park
+SUMMARY:Urban Sketching at LaPrele Park
+UID:39277@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -237,6 +255,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: From Earth to the Universe + Startalk
 UID:39211@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-startalk/39211/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:Stargaze with Laramie Audubon\nMore info: https://www.visitlaramie.org/event/stargaze-with-laramie-audubon/39282/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Stargaze_B8B54B00-B30E-E656-55C598663AA141F3_b8cad25b-9e36-f6e2-a2fd87cb975018ca.jpg\nCategories: Family Fun
+GEO:41.313620;-105.583635
+LOCATION:University of Wyoming’s Harry C Vaughan Planetarium
+SUMMARY:Stargaze with Laramie Audubon
+UID:39282@visitlaramie.org
+URL:https://www.visitlaramie.org/event/stargaze-with-laramie-audubon/39282/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -290,22 +317,6 @@ LOCATION:Optimist Park
 SUMMARY:Art Shed Workshops: Botanical Dyeing 101
 UID:39242@visitlaramie.org
 URL:https://www.visitlaramie.org/event/art-shed-workshops%3a-botanical-dyeing-101/39242/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-125304_40BE3944-915C-B64B-548DEC7FD2B93E83_40c0f80e-9bc1-29b2-9cae113be0ef865f.png\nCategories: Community\, Outdoor Recreation\, Family Fun
-SUMMARY:Glow and Go Run 3.07 miles
-UID:39177@visitlaramie.org
-URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260818
-DESCRIPTION:Fulldome Film: Distant Worlds: Alien Life? + Startalk\nMore info: https://www.visitlaramie.org/event/fulldome-film%3a-distant-worlds%3a-alien-life%3f-%2b-startalk/39209/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-125543_A3A30020-9556-4163-84AF278350E8342A_a3a7816e-b79e-22b2-c2e44404474cc16a.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Fulldome Film: Distant Worlds: Alien Life? + Startalk
-UID:39209@visitlaramie.org
-URL:https://www.visitlaramie.org/event/fulldome-film%3a-distant-worlds%3a-alien-life%3f-%2b-startalk/39209/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
@@ -404,6 +415,15 @@ UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Urban Sketching at Territorial Prison Archaeology Fair\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-territorial-prison-archaeology-fair/39278/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A2E80959-0048-1305-42737DE345BE4A90_a2f867af-f1d5-5446-0de82bd4563d3cd4.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Laramie Territorial Prison
+SUMMARY:Urban Sketching at Territorial Prison Archaeology Fair
+UID:39278@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-at-territorial-prison-archaeology-fair/39278/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
 DESCRIPTION:2nd Annual Cowboy Open\nMore info: https://www.visitlaramie.org/event/2nd-annual-cowboy-open/39180/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-15-133204_09A2EC2B-D4BF-2EAB-F504D6DE8A910135_09b48281-0a05-8633-e341ec0ca8ed2592.png\nCategories: Annual Events & Festivals\, Community\, Sports
 GEO:41.311367;-105.591101
@@ -429,15 +449,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Ryan Charles: Hall Of Fame Weekend After Party
 UID:39063@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ryan-charles%3a-hall-of-fame-weekend-after-party/39063/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DESCRIPTION:Live Presentation: Wyoming Skies: Losing the Dark with Laramie Audubon Society\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-losing-the-dark-with-laramie-audubon-society/39212/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-132117_A443F03B-F40B-7AB0-00D43DF267A9A976_a447c94b-c280-eb2d-28cd5f979e59d8be.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Wyoming Skies: Losing the Dark with Laramie Audubon Society
-UID:39212@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-losing-the-dark-with-laramie-audubon-society/39212/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
@@ -484,6 +495,15 @@ UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+DESCRIPTION:Relative Theatrics - Season 14 Kickoff\nMore info: https://www.visitlaramie.org/event/relative-theatrics-season-14-kickoff/39283/\nVenue: Altitude Chophouse & Brewery\nVenue Info: https://www.visitlaramie.org/listing/altitude-chophouse-%26-brewery/438/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-18-100847_D86E3556-EDE3-C1DB-3C45E4EB36E53219_da58d1a3-0920-5ac5-dfa008f584dcf3c6.png\nCategories: Community\, Performing Arts & Culture
+GEO:41.310353;-105.595370
+LOCATION:Al
+SUMMARY:Relative Theatrics - Season 14 Kickoff
+UID:39283@visitlaramie.org
+URL:https://www.visitlaramie.org/event/relative-theatrics-season-14-kickoff/39283/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
 DESCRIPTION:Big Blocks & Brews Car Show\nMore info: https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/39257/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-114750_3E7885B4-0BE8-83F9-AE1D85161765E402_3e799381-0bba-f36b-eabe9b98b6ac5317.png\nCategories: Community\, Family Fun\, Social Events
 GEO:41.309643;-105.594735
@@ -510,6 +530,15 @@ UID:39133@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-texas-tech/39133/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Veterans' Partner Hike\nMore info: https://www.visitlaramie.org/event/veterans-partner-hike/39276/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Visit-Laramie-and-Cheyenne-Banners_7DBA99E5-D2F2-65D5-23449A9D3E677B28_7dc18b47-b95b-a8b9-2361db29acca9606.png\nCategories: Outdoor Recreation
+GEO:41.169150;-105.222448
+LOCATION:Curt Gowdy State Park
+SUMMARY:Veterans' Partner Hike
+UID:39276@visitlaramie.org
+URL:https://www.visitlaramie.org/event/veterans-partner-hike/39276/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DESCRIPTION:Jaden Schumacher: Hall of Fame Weekend\nMore info: https://www.visitlaramie.org/event/jaden-schumacher%3a-hall-of-fame-weekend/39068/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-24-091929_CF222153-D3F7-A4F2-4E56EA8BF683F510_cf243b8e-c9d8-0973-c964fe1872a97b00.png\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -526,15 +555,6 @@ LOCATION:975 Snowy Range Rd\, Laramie
 SUMMARY:2026 Wyoming Archaeology Fair
 UID:39061@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-wyoming-archaeology-fair/39061/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260818
-DESCRIPTION:Full-Dome Film: Forward! To the Moon + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2b-startalk/39210/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-141635_A3C39D7C-A9F4-70D3-9BB9C91707F31716_a3c43180-e77d-4002-6de6b6dfbd60fba5.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Forward! To the Moon + Startalk
-UID:39210@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-forward!-to-the-moon-%2b-startalk/39210/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
