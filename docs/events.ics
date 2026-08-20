@@ -65,15 +65,6 @@ UID:39267@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-colorado-state/39267/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260819
-DESCRIPTION:Centennial Speaker Series: Looking Locally\, Speaking Globally\nMore info: https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/39260/\nVenue: Centennial Library\nVenue Info: https://www.visitlaramie.org/listing/centennial-library/1797/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/css-aug-2026_4625B540-9C16-4D81-393022F5C26C1F66_462cbe66-e83f-7ac5-1561fb4aa2d2f57a.png\nCategories: Community\, University of Wyoming\, Education
-GEO:41.298808;-106.141485
-LOCATION:Centennial Library
-SUMMARY:Centennial Speaker Series: Looking Locally\, Speaking Globally
-UID:39260@visitlaramie.org
-URL:https://www.visitlaramie.org/event/centennial-speaker-series%3a-looking-locally-speaking-globally/39260/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260625
 DESCRIPTION:Laramie Cruiser Ride\nMore info: https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-111313_FDC7D910-A3DE-74D8-FB5D91CADBA80CB3_fde42a33-d3ff-4051-043429b2832f6c6f.png\nCategories: Community\, Outdoor Recreation\, Sports
 GEO:41.311781;-105.596016
@@ -116,6 +107,15 @@ LOCATION:Lincoln Community Center
 SUMMARY:Ecstatic Dance
 UID:39071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39071/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DESCRIPTION:Urban Sketching in Bosler Ghost Town\nMore info: https://www.visitlaramie.org/event/urban-sketching-in-bosler-ghost-town/39279/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A3155A66-B1ED-38FD-208F7A6D29AB6854_a333f22f-f7b0-b3ac-53efd418802e01b8.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:1st st Plaza
+SUMMARY:Urban Sketching in Bosler Ghost Town
+UID:39279@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-in-bosler-ghost-town/39279/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260821
@@ -177,6 +177,15 @@ GEO:41.312068;-105.589055
 SUMMARY:Albany County Historical Society: Robin Hill and Melissa Mehle program on Eleanor "Nellie" Quackenbush Corthell.
 UID:39057@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-county-historical-society%3a-robin-hill-and-melissa-mehle-program-on-eleanor-nellie-quackenbush-corthell/39057/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260718
+DESCRIPTION:Cars and Coffee - Laramie\nMore info: https://www.visitlaramie.org/event/cars-and-coffee-laramie/39100/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Visit-Laramie-Image_332566C5-CF6D-888F-8A4E860ADB026100_33301892-c356-2383-704c1ccd35434a7c.png\nCategories: Annual Events & Festivals
+GEO:41.308934;-105.562856
+LOCATION:Toyota of Laramie
+SUMMARY:Cars and Coffee - Laramie
+UID:39100@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cars-and-coffee-laramie/39100/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
