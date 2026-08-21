@@ -12,9 +12,9 @@ URL:https://www.visitlaramie.org/event/laramie-bike-park-ribbon-cutting-ceremony
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
-DESCRIPTION:-in-chief by Ally Duvak\nMore info: https://www.visitlaramie.org/event/in-chief-by-ally-duvak/39281/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-18-101008_D86321C2-D77E-CE8C-EDA9B5937599F75D_d866e259-97c3-ae26-14f4b2dee93e61e8.png\nCategories: Performing Arts & Culture
+DESCRIPTION:-in-chief by Ally Duvak\nMore info: https://www.visitlaramie.org/event/in-chief-by-ally-duvak/39281/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-20-134345_4714FDC4-AE31-3F19-3622C5DABD151EA4_4715ff9f-da29-62aa-dd68f40db6f3b1db.png\nCategories: Performing Arts & Culture
 GEO:41.312616;-105.570928
-LOCATION:Buchanan Center for the Performing Arts
+LOCATION:Buchanan Center for the Performing Arts - Studio Theatre
 SUMMARY:-in-chief by Ally Duvak
 UID:39281@visitlaramie.org
 URL:https://www.visitlaramie.org/event/in-chief-by-ally-duvak/39281/
@@ -118,15 +118,6 @@ UID:39279@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-in-bosler-ghost-town/39279/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Jett Vincent LIVE at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_AAFBD7C6-1601-47FF-A7FB9031C883B28C_c77170b9-baa5-4209-bd98734a9e938bae.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Jett Vincent LIVE at The Cowboy Saloon
-UID:39064@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
 DESCRIPTION:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest\nMore info: https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-01-123344_35A40254-E614-E6FB-9FE75FFC6A12A433_35a585e4-e74a-931e-44d22019bf6ec9ca.png\nCategories: Community\, Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -134,6 +125,15 @@ LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
 SUMMARY:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest
 UID:39155@visitlaramie.org
 URL:https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DESCRIPTION:Jett Vincent LIVE at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_AAFBD7C6-1601-47FF-A7FB9031C883B28C_c77170b9-baa5-4209-bd98734a9e938bae.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Jett Vincent LIVE at The Cowboy Saloon
+UID:39064@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jett-vincent-live-at-the-cowboy-saloon/39064/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
@@ -189,12 +189,12 @@ URL:https://www.visitlaramie.org/event/cars-and-coffee-laramie/39100/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
-DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-105804_777207CE-F4E7-A173-D835963E0626411C_777a47fe-0d26-20f9-ae2775ea41693bf3.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.311627;-105.564677
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football "Save the Date"
-UID:38788@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/
+DESCRIPTION:Ride With a Ranger at Curt Gowdy State Park\nMore info: https://www.visitlaramie.org/event/ride-with-a-ranger-at-curt-gowdy-state-park/39284/\nVenue: Curt Gowdy State Park\nVenue Info: https://www.visitlaramie.org/listing/curt-gowdy-state-park/174/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Visit-Laramie-and-Cheyenne-Banners-2-_41E9BFE3-D26B-A7BF-EA5D356124F4EDE8_423c064d-f4b1-6699-93efbbf5ae6bd6b0.png\nCategories: Outdoor Recreation
+GEO:41.169150;-105.222448
+LOCATION:Curt Gowdy State Park
+SUMMARY:Ride With a Ranger at Curt Gowdy State Park
+UID:39284@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ride-with-a-ranger-at-curt-gowdy-state-park/39284/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
@@ -248,6 +248,15 @@ UID:39277@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-105804_777207CE-F4E7-A173-D835963E0626411C_777a47fe-0d26-20f9-ae2775ea41693bf3.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+GEO:41.311627;-105.564677
+LOCATION:War Memorial Stadium
+SUMMARY:UW Cowboy Football "Save the Date"
+UID:38788@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -257,13 +266,13 @@ UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260820
-DESCRIPTION:Full-Dome Film: From Earth to the Universe + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-startalk/39211/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-131502_A40A1927-C10D-5B33-7AF284F02301AACB_a411c6aa-ceb2-1317-d0ba6fcb85de83eb.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: From Earth to the Universe + Startalk
-UID:39211@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-from-earth-to-the-universe-%2b-startalk/39211/
+DTSTART;VALUE=DATE:20260920
+DESCRIPTION:Rededication of World War I Monument after Restoration\nMore info: https://www.visitlaramie.org/event/rededication-of-world-war-i-monument-after-restoration/39062/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-10-103804_F7CDD430-E826-6CEC-0965F3900C2497AB_f7ce67fe-ab6f-1234-b567d3c6a2bc53b9.png\nCategories: History\, Education\, Wyoming 250
+GEO:41.311573;-105.586953
+LOCATION:WWI Monument - NE Courthouse Square
+SUMMARY:Rededication of World War I Monument after Restoration
+UID:39062@visitlaramie.org
+URL:https://www.visitlaramie.org/event/rededication-of-world-war-i-monument-after-restoration/39062/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260828
@@ -354,15 +363,6 @@ UID:39137@visitlaramie.org
 URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260820
-DESCRIPTION:Cowgirl Soccer: Weber State\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:Madrid Sports Complex
-SUMMARY:Cowgirl Soccer: Weber State
-UID:39130@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-weber-state/39130/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
 DESCRIPTION:Urban Sketching in Downtown Alleyways\nMore info: https://www.visitlaramie.org/event/urban-sketching-in-downtown-alleyways/39221/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-25-_4DAFA39B-9457-F788-2CF6B8D2039C855F_4dc17a45-e6bc-fb71-aa77eac304d7b056.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -388,15 +388,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Concert: Dome After Dark - Dance and Create
 UID:39214@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-concert%3a-dome-after-dark-dance-and-create/39214/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260820
-DESCRIPTION:UWAM Presents - Third Thursday: Palette / Palate\nMore info: https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-palette-palate/39032/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-112632_8FA0F501-B3E1-8C3A-521CE6BD383EA2E2_8fa19904-90a9-88df-87f6300349b05840.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:UWAM Presents - Third Thursday: Palette / Palate
-UID:39032@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uwam-presents-third-thursday%3a-palette-palate/39032/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
