@@ -65,6 +65,15 @@ UID:39052@visitlaramie.org
 URL:https://www.visitlaramie.org/event/george-birge-laramie/39052/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DESCRIPTION:Canada's Unmarked-Graves Social Panic\, Five Years Later\nMore info: https://www.visitlaramie.org/event/canadas-unmarked-graves-social-panic-five-years-later/39117/\nVenue: UW Catering & Events\nVenue Info: https://www.visitlaramie.org/listing/uw-catering-%26-events/623/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/jonathan-kay-book_65DC706C-054D-384E-9B6E8DF2A535C917_65e22e4d-fe9f-e41d-21fa89a87f2c5cbb.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.312616;-105.570928
+LOCATION:UW Wyoming Union Center Yellowstone Ballroom
+SUMMARY:Canada's Unmarked-Graves Social Panic\, Five Years Later
+UID:39117@visitlaramie.org
+URL:https://www.visitlaramie.org/event/canadas-unmarked-graves-social-panic-five-years-later/39117/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39071/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-100933_2A493029-0C10-AC72-C7372F57BEE99490_2a538758-c87d-812b-d871fecca2556784.png\nCategories: Community\, Social Events
 GEO:41.311928;-105.600431
@@ -176,15 +185,6 @@ UID:39043@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:Wyoming Fringe Festival 2026\nMore info: https://www.visitlaramie.org/event/wyoming-fringe-festival-2026/38722/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-22-110135_6BC6E546-E65D-C4E3-01FEBC5EA01100F4_6bc9cb5b-d0b3-2fb3-33206556c7f2b2e9.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center
-SUMMARY:Wyoming Fringe Festival 2026
-UID:38722@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-fringe-festival-2026/38722/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260830
 DESCRIPTION:Cowgirl Volleyball: Rumble in the Rockies / St. Thomas\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-st-thomas/39134/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
 GEO:41.313732;-105.570741
@@ -194,15 +194,6 @@ UID:39134@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-st-thomas/39134/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Urban Sketching at LaPrele Park\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A2B1F55F-0014-DE99-170B87CCA990C353_a2c00309-d058-d9bb-3f39cfb54e38a817.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:LaPrele Park
-SUMMARY:Urban Sketching at LaPrele Park
-UID:39277@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-105804_777207CE-F4E7-A173-D835963E0626411C_777a47fe-0d26-20f9-ae2775ea41693bf3.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
@@ -210,6 +201,15 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football "Save the Date"
 UID:38788@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DESCRIPTION:Urban Sketching at LaPrele Park\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A2B1F55F-0014-DE99-170B87CCA990C353_a2c00309-d058-d9bb-3f39cfb54e38a817.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:LaPrele Park
+SUMMARY:Urban Sketching at LaPrele Park
+UID:39277@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
