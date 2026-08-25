@@ -301,6 +301,14 @@ UID:39118@visitlaramie.org
 URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Cowboy Breakfast at Ivinson\nMore info: https://www.visitlaramie.org/event/cowboy-breakfast-at-ivinson/39287/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cowboy-Pancake-Breakfast-2026_Facebook_0C614D63-92A0-1C95-499CC523CC094556_0c6dfe88-bc30-2e2f-a2db61861c9ed1f1.png\nCategories: Family Fun
+LOCATION:IMH West Parking Lot $4
+SUMMARY:Cowboy Breakfast at Ivinson
+UID:39287@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-breakfast-at-ivinson/39287/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
 DESCRIPTION:Bond's Trivia & Tacos Night\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/39254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-113411_3DEC1633-9E08-310A-4D3DF5D421B30E43_3df91b13-9536-a999-b3740f714b045bfb.png\nCategories: Community\, Social Events
 GEO:41.309652;-105.594751
