@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Homecoming Weekend Just Got Better With Dori Jo and the Double Standards\nMore info: https://www.visitlaramie.org/event/homecoming-weekend-just-got-better-with-dori-jo-and-the-double-standards/39171/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-1_C4FBE036-7924-4BC7-97B1952D6DFF817F_f1b73a29-492e-4e03-8f39a15ff41971e1.jpg\nCategories: Concerts & Live Music\, Community\, Social Events
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Homecoming Weekend Just Got Better With Dori Jo and the Double Standards
+UID:39171@visitlaramie.org
+URL:https://www.visitlaramie.org/event/homecoming-weekend-just-got-better-with-dori-jo-and-the-double-standards/39171/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
 DESCRIPTION:-in-chief by Ally Duvak\nMore info: https://www.visitlaramie.org/event/in-chief-by-ally-duvak/39281/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-20-134345_4714FDC4-AE31-3F19-3622C5DABD151EA4_4715ff9f-da29-62aa-dd68f40db6f3b1db.png\nCategories: Performing Arts & Culture
 GEO:41.312616;-105.570928
@@ -21,12 +29,12 @@ URL:https://www.visitlaramie.org/event/campus-pass/39255/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260827
-DESCRIPTION:Cowgirl Soccer: Univ. of South Carolina\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-south-carolina/39131/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
+DESCRIPTION:Cowgirl Soccer Gold Out vs. Univ. of South Carolina\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer-gold-out-vs-univ-of-south-carolina/39131/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
 GEO:41.313732;-105.570741
 LOCATION:Madrid Sports Complex
-SUMMARY:Cowgirl Soccer: Univ. of South Carolina
+SUMMARY:Cowgirl Soccer Gold Out vs. Univ. of South Carolina
 UID:39131@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-south-carolina/39131/
+URL:https://www.visitlaramie.org/event/cowgirl-soccer-gold-out-vs-univ-of-south-carolina/39131/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
@@ -74,6 +82,14 @@ UID:39117@visitlaramie.org
 URL:https://www.visitlaramie.org/event/canadas-unmarked-graves-social-panic-five-years-later/39117/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Nellie: The First Woman Governor at America's Milestones
+UID:39136@visitlaramie.org
+URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39071/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-11-100933_2A493029-0C10-AC72-C7372F57BEE99490_2a538758-c87d-812b-d871fecca2556784.png\nCategories: Community\, Social Events
 GEO:41.311928;-105.600431
@@ -83,14 +99,6 @@ UID:39071@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39071/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Nellie: The First Woman Governor at America's Milestones
-UID:39136@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260919
 DESCRIPTION:Urban Sketching in Bosler Ghost Town\nMore info: https://www.visitlaramie.org/event/urban-sketching-in-bosler-ghost-town/39279/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A3155A66-B1ED-38FD-208F7A6D29AB6854_a333f22f-f7b0-b3ac-53efd418802e01b8.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -98,6 +106,15 @@ LOCATION:1st st Plaza
 SUMMARY:Urban Sketching in Bosler Ghost Town
 UID:39279@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-in-bosler-ghost-town/39279/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39272/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-13-112814_D9EDF125-F8DE-8CEB-CFA99B9BB78E32DC_da31dd1f-c742-9385-1e01294b1fcc5a4f.png\nCategories: Community\, Social Events
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center
+SUMMARY:Ecstatic Dance
+UID:39272@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ecstatic-dance/39272/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260810
@@ -116,14 +133,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: We Are Stars + Startalk
 UID:39213@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39213/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Tuesday Local Market in Undine Park\nMore info: https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-134208_C51E4676-EAFB-6EBA-DE5F73784F6DA357_c51ed91c-ddc6-4557-4c09e4d1b695da6d.png\nCategories: Community\, Social Events
-GEO:41.305330;-105.590308
-SUMMARY:Tuesday Local Market in Undine Park
-UID:39005@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tuesday-local-market-in-undine-park/39005/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
@@ -274,15 +283,6 @@ UID:39249@visitlaramie.org
 URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-thursday-restorative-yoga-nidra/39249/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:Tuesday Local Market\nMore info: https://www.visitlaramie.org/event/tuesday-local-market/39060/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/TLM_65321B46-F975-66AE-4B7F93FAB64FA696_65692306-eba3-5d36-af75d8144a8a1829.jpg\nCategories: Concerts & Live Music\, Community\, Family Fun
-GEO:41.317073;-105.590587
-LOCATION:Undine Park
-SUMMARY:Tuesday Local Market
-UID:39060@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tuesday-local-market/39060/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
 DESCRIPTION:Art Shed Workshops: Botanical Dyeing 101\nMore info: https://www.visitlaramie.org/event/art-shed-workshops%3a-botanical-dyeing-101/39242/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-135013_0DEE5CAA-B94E-7B15-18F483F9A3F1F8AB_0df12f5a-9140-542c-3a3d36a4ef55ac75.png\nCategories: Community\, Craft Classes & Workshops
 GEO:41.309526;-105.604234
@@ -290,6 +290,15 @@ LOCATION:Optimist Park
 SUMMARY:Art Shed Workshops: Botanical Dyeing 101
 UID:39242@visitlaramie.org
 URL:https://www.visitlaramie.org/event/art-shed-workshops%3a-botanical-dyeing-101/39242/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Cowgirl Volleyball: Cowgirls vs. UTEP\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39268/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowgirl Volleyball: Cowgirls vs. UTEP
+UID:39268@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39268/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
@@ -447,15 +456,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-DESCRIPTION:Relative Theatrics - Season 14 Kickoff\nMore info: https://www.visitlaramie.org/event/relative-theatrics-season-14-kickoff/39283/\nVenue: Altitude Chophouse & Brewery\nVenue Info: https://www.visitlaramie.org/listing/altitude-chophouse-%26-brewery/438/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-18-100847_D86E3556-EDE3-C1DB-3C45E4EB36E53219_da58d1a3-0920-5ac5-dfa008f584dcf3c6.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.310353;-105.595370
-LOCATION:Al
-SUMMARY:Relative Theatrics - Season 14 Kickoff
-UID:39283@visitlaramie.org
-URL:https://www.visitlaramie.org/event/relative-theatrics-season-14-kickoff/39283/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
