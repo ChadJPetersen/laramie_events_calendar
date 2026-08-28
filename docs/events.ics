@@ -36,15 +36,6 @@ UID:39255@visitlaramie.org
 URL:https://www.visitlaramie.org/event/campus-pass/39255/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260827
-DESCRIPTION:Cowgirl Soccer Gold Out vs. Univ. of South Carolina\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer-gold-out-vs-univ-of-south-carolina/39131/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:Madrid Sports Complex
-SUMMARY:Cowgirl Soccer Gold Out vs. Univ. of South Carolina
-UID:39131@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-soccer-gold-out-vs-univ-of-south-carolina/39131/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 DESCRIPTION:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F517400-C0F9-9CF5-CE86DA06EC5BF945_3f54533b-d053-8e2d-245efff6b0483bcb.png\nCategories: Education\, Craft Classes & Workshops
 GEO:41.298808;-106.141485
@@ -61,15 +52,6 @@ LOCATION:UW Arena Auditorium
 SUMMARY:Cowgirl Volleyball: Cowgirls vs. Colorado State
 UID:39267@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-colorado-state/39267/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260625
-DESCRIPTION:Laramie Cruiser Ride\nMore info: https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-111313_FDC7D910-A3DE-74D8-FB5D91CADBA80CB3_fde42a33-d3ff-4051-043429b2832f6c6f.png\nCategories: Community\, Outdoor Recreation\, Sports
-GEO:41.311781;-105.596016
-LOCATION:Downtown Laramie
-SUMMARY:Laramie Cruiser Ride
-UID:39143@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-cruiser-ride/39143/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
@@ -422,14 +404,6 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football Cowboys vs. Hawaii
 UID:38789@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-cowboys-vs-hawaii/38789/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260827
-DESCRIPTION:Lunar Release: A Full Moon Yin Practice\nMore info: https://www.visitlaramie.org/event/lunar-release%3a-a-full-moon-yin-practice/39252/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-111719_3D60A3EC-BE67-7988-4CACE1C3F145B1D3_3d813f5c-f46b-44d0-f89b2dc44d0186d2.png\nCategories: Community\, Education\, Craft Classes & Workshops
-GEO:41.313179;-105.595024
-SUMMARY:Lunar Release: A Full Moon Yin Practice
-UID:39252@visitlaramie.org
-URL:https://www.visitlaramie.org/event/lunar-release%3a-a-full-moon-yin-practice/39252/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
