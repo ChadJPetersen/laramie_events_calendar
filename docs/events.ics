@@ -54,15 +54,6 @@ UID:39267@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-colorado-state/39267/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:George Birge - Laramie\nMore info: https://www.visitlaramie.org/event/george-birge-laramie/39052/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/George-Birge_FB946C96-9E4A-B721-1975B64E933087BA_fb97684f-9ae2-d8a2-935ed09116c2e6ba.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:Cowboy Saloon & Dance Hall
-SUMMARY:George Birge - Laramie
-UID:39052@visitlaramie.org
-URL:https://www.visitlaramie.org/event/george-birge-laramie/39052/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260923
 DESCRIPTION:Canada's Unmarked-Graves Social Panic\, Five Years Later\nMore info: https://www.visitlaramie.org/event/canadas-unmarked-graves-social-panic-five-years-later/39117/\nVenue: UW Catering & Events\nVenue Info: https://www.visitlaramie.org/listing/uw-catering-%26-events/623/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/jonathan-kay-book_65DC706C-054D-384E-9B6E8DF2A535C917_65e22e4d-fe9f-e41d-21fa89a87f2c5cbb.png\nCategories: History\, University of Wyoming\, Education
 GEO:41.312616;-105.570928
@@ -123,6 +114,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: We Are Stars + Startalk
 UID:39213@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39213/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:iNDIGENOUS CLIMATE SCIENCE\nMore info: https://www.visitlaramie.org/event/indigenous-climate-science/39304/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/whyte_B00C8D4D-0E21-96E8-5C8454B4AF3669F0_b04992c5-b21f-7772-ae2ef6f0e7721e78.jpg\nCategories: University of Wyoming
+GEO:41.311367;-105.591101
+LOCATION:UW AGRICULTURAL AUDITORIUM
+SUMMARY:iNDIGENOUS CLIMATE SCIENCE
+UID:39304@visitlaramie.org
+URL:https://www.visitlaramie.org/event/indigenous-climate-science/39304/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
@@ -236,15 +236,6 @@ LOCATION:Seek Yoga Studio
 SUMMARY:New Moon Manifestation
 UID:39296@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-moon-manifestation/39296/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DESCRIPTION:Stargaze with Laramie Audubon\nMore info: https://www.visitlaramie.org/event/stargaze-with-laramie-audubon/39282/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Stargaze_B8B54B00-B30E-E656-55C598663AA141F3_b8cad25b-9e36-f6e2-a2fd87cb975018ca.jpg\nCategories: Family Fun
-GEO:41.313620;-105.583635
-LOCATION:University of Wyoming’s Harry C Vaughan Planetarium
-SUMMARY:Stargaze with Laramie Audubon
-UID:39282@visitlaramie.org
-URL:https://www.visitlaramie.org/event/stargaze-with-laramie-audubon/39282/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -371,6 +362,15 @@ URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260829
+DESCRIPTION:George Birge - Laramie\nMore info: https://www.visitlaramie.org/event/george-birge-laramie/39305/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/George-Birge_FB946C96-9E4A-B721-1975B64E933087BA_fb97684f-9ae2-d8a2-935ed09116c2e6ba.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:Cowboy Saloon & Dance Hall
+SUMMARY:George Birge - Laramie
+UID:39305@visitlaramie.org
+URL:https://www.visitlaramie.org/event/george-birge-laramie/39305/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
 DESCRIPTION:Live Concert: Dome After Dark - Dance and Create\nMore info: https://www.visitlaramie.org/event/live-concert%3a-dome-after-dark-dance-and-create/39214/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-132946_A49F17EF-A32A-A604-967D63300A1C2705_a4a0f740-0193-a40c-6d91cad4b12c0243.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
 LOCATION:University of Wyoming Planetarium
@@ -492,23 +492,6 @@ LOCATION:Bond's Brewing Company
 SUMMARY:Big Blocks & Brews Car Show
 UID:39257@visitlaramie.org
 URL:https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/39257/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DESCRIPTION:UMW Annual Rummage Sale\nMore info: https://www.visitlaramie.org/event/umw-annual-rummage-sale/39250/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-111041_3D199A07-9F81-0F44-7868FBE5DDC6719F_3d3ab2c2-b7c9-0bc4-6ab7cb2ea0297abf.png\nCategories: Community\, Family Fun
-GEO:41.318245;-105.580053
-SUMMARY:UMW Annual Rummage Sale
-UID:39250@visitlaramie.org
-URL:https://www.visitlaramie.org/event/umw-annual-rummage-sale/39250/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DESCRIPTION:Cowgirl Volleyball: Rumble in the Rockies / Texas Tech\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-texas-tech/39133/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowgirl Volleyball: Rumble in the Rockies / Texas Tech
-UID:39133@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-texas-tech/39133/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260718
