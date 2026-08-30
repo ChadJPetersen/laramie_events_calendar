@@ -107,15 +107,6 @@ UID:39155@visitlaramie.org
 URL:https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Full-Dome Film: We Are Stars + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39213/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-135341_A47D06FE-AFF6-6E92-BF30F6661E847612_a4811f57-c80f-8610-84f3ed9c7326c1c4.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: We Are Stars + Startalk
-UID:39213@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39213/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
 DESCRIPTION:iNDIGENOUS CLIMATE SCIENCE\nMore info: https://www.visitlaramie.org/event/indigenous-climate-science/39304/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/whyte_B00C8D4D-0E21-96E8-5C8454B4AF3669F0_b04992c5-b21f-7772-ae2ef6f0e7721e78.jpg\nCategories: University of Wyoming
 GEO:41.311367;-105.591101
@@ -168,20 +159,13 @@ UID:39258@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo-night/39258/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:UMW Annual Rummage Sale\nMore info: https://www.visitlaramie.org/event/umw-annual-rummage-sale/39251/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-111041_3D199A07-9F81-0F44-7868FBE5DDC6719F_3d3ab2c2-b7c9-0bc4-6ab7cb2ea0297abf.png\nCategories: Community\, Family Fun
-GEO:41.318245;-105.580053
-SUMMARY:UMW Annual Rummage Sale
-UID:39251@visitlaramie.org
-URL:https://www.visitlaramie.org/event/umw-annual-rummage-sale/39251/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Nature Journaling with Jennie Lawrence\nMore info: https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-03-131249_950251AB-9D9F-ED91-DEC1F412DCB081A4_95400268-0f7e-79fb-86cdbc3c87d32107.png\nCategories: Annual Events & Festivals\, Community\, Outdoor Recreation\, Family Fun
-GEO:41.341222;-106.183517
-SUMMARY:Nature Journaling with Jennie Lawrence
-UID:39043@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nature-journaling-with-jennie-lawrence/39043/
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-105804_777207CE-F4E7-A173-D835963E0626411C_777a47fe-0d26-20f9-ae2775ea41693bf3.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+GEO:41.311627;-105.564677
+LOCATION:War Memorial Stadium
+SUMMARY:UW Cowboy Football "Save the Date"
+UID:38788@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260830
@@ -191,15 +175,6 @@ LOCATION:UW Arena Auditorium
 SUMMARY:Cowgirl Volleyball: Rumble in the Rockies / St. Thomas
 UID:39134@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-st-thomas/39134/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-105804_777207CE-F4E7-A173-D835963E0626411C_777a47fe-0d26-20f9-ae2775ea41693bf3.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.311627;-105.564677
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football "Save the Date"
-UID:38788@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
@@ -254,15 +229,6 @@ LOCATION:Madrid Sports Complex
 SUMMARY:Cowgirl Soccer: Univ. of South Dakota
 UID:39132@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-south-dakota/39132/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Nature Journaling Workshop with Jennie Lawrence\nMore info: https://www.visitlaramie.org/event/nature-journaling-workshop-with-jennie-lawrence/39275/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Centennial-VC-Upcoming-Interpretive-Events_0BD3B816-C914-B1CA-1FB9F54F639A5A4B_0bdf4cea-da84-5911-15ec2ded8075595c.png\nCategories: Craft Classes & Workshops
-GEO:41.320911;-106.156908
-LOCATION:Centennial Visitor Center
-SUMMARY:Nature Journaling Workshop with Jennie Lawrence
-UID:39275@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nature-journaling-workshop-with-jennie-lawrence/39275/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
@@ -343,15 +309,6 @@ UID:39137@visitlaramie.org
 URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Urban Sketching in Downtown Alleyways\nMore info: https://www.visitlaramie.org/event/urban-sketching-in-downtown-alleyways/39221/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-25-_4DAFA39B-9457-F788-2CF6B8D2039C855F_4dc17a45-e6bc-fb71-aa77eac304d7b056.png\nCategories: Community\, Family Fun\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Downtown Laramie
-SUMMARY:Urban Sketching in Downtown Alleyways
-UID:39221@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-in-downtown-alleyways/39221/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:Afternoon Tea and Tatanka\nMore info: https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/\nVenue: Rebel Ranch\nVenue Info: https://www.visitlaramie.org/listing/rebel-ranch/516/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/cow-calf_A4B3D06D-07AF-9D0D-E4F064D6AC0FD23B_a51c909c-f2af-b816-071fb6249b4c0a05.jpg\nCategories: Outdoor Recreation\, Education\, Social Events
 GEO:41.188541;-106.085557
@@ -359,24 +316,6 @@ LOCATION:Rebel Ranch
 SUMMARY:Afternoon Tea and Tatanka
 UID:38686@visitlaramie.org
 URL:https://www.visitlaramie.org/event/afternoon-tea-and-tatanka/38686/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:George Birge - Laramie\nMore info: https://www.visitlaramie.org/event/george-birge-laramie/39305/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/George-Birge_FB946C96-9E4A-B721-1975B64E933087BA_fb97684f-9ae2-d8a2-935ed09116c2e6ba.jpg\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:Cowboy Saloon & Dance Hall
-SUMMARY:George Birge - Laramie
-UID:39305@visitlaramie.org
-URL:https://www.visitlaramie.org/event/george-birge-laramie/39305/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Live Concert: Dome After Dark - Dance and Create\nMore info: https://www.visitlaramie.org/event/live-concert%3a-dome-after-dark-dance-and-create/39214/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-132946_A49F17EF-A32A-A604-967D63300A1C2705_a4a0f740-0193-a40c-6d91cad4b12c0243.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Concert: Dome After Dark - Dance and Create
-UID:39214@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-concert%3a-dome-after-dark-dance-and-create/39214/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260913
@@ -483,15 +422,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DESCRIPTION:Big Blocks & Brews Car Show\nMore info: https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/39257/\nVenue: Bond's Brewing Company\nVenue Info: https://www.visitlaramie.org/listing/bonds-brewing-company/286/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-114750_3E7885B4-0BE8-83F9-AE1D85161765E402_3e799381-0bba-f36b-eabe9b98b6ac5317.png\nCategories: Community\, Family Fun\, Social Events
-GEO:41.309643;-105.594735
-LOCATION:Bond's Brewing Company
-SUMMARY:Big Blocks & Brews Car Show
-UID:39257@visitlaramie.org
-URL:https://www.visitlaramie.org/event/big-blocks-%26-brews-car-show/39257/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260718
