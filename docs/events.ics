@@ -168,15 +168,6 @@ UID:38788@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DESCRIPTION:Cowgirl Volleyball: Rumble in the Rockies / St. Thomas\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-st-thomas/39134/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowgirl Volleyball: Rumble in the Rockies / St. Thomas
-UID:39134@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-rumble-in-the-rockies-st-thomas/39134/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
 DESCRIPTION:Urban Sketching at LaPrele Park\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A2B1F55F-0014-DE99-170B87CCA990C353_a2c00309-d058-d9bb-3f39cfb54e38a817.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -220,15 +211,6 @@ LOCATION:102 S. 2nd St
 SUMMARY:Bingo
 UID:38870@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo/38870/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DESCRIPTION:Cowgirl Soccer: Univ. of South Dakota\nMore info: https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-south-dakota/39132/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103539_C90D132F-E09E-B68B-1C66D9FA3B05CCA0_c9387a3a-b2c4-bba3-5afad614bfd814f4.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:Madrid Sports Complex
-SUMMARY:Cowgirl Soccer: Univ. of South Dakota
-UID:39132@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-soccer%3a-univ-of-south-dakota/39132/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
