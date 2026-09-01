@@ -177,6 +177,15 @@ UID:39277@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DESCRIPTION:UWSO: Opening Night\nMore info: https://www.visitlaramie.org/event/uwso%3a-opening-night/39270/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-12-123739_A8C5F015-C1F7-BA5F-0809966E7B20E47B_a8f1b09d-f22d-10a8-95b30252d983d254.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.323713;-105.613005
+LOCATION:Buchanan
+SUMMARY:UWSO: Opening Night
+UID:39270@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uwso%3a-opening-night/39270/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
