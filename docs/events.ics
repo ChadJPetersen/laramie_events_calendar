@@ -36,6 +36,14 @@ UID:39255@visitlaramie.org
 URL:https://www.visitlaramie.org/event/campus-pass/39255/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39274/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-14-101353_0A97A80B-DE9C-1480-3859B2B2481C9567_0aa131da-90b8-9358-7fa3f4d56ce9184f.png\nCategories: Community\, Outdoor Recreation\, Family Fun
+GEO:41.309143;-105.564383
+SUMMARY:Glow and Go Run 3.07 miles
+UID:39274@visitlaramie.org
+URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39274/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 DESCRIPTION:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F517400-C0F9-9CF5-CE86DA06EC5BF945_3f54533b-d053-8e2d-245efff6b0483bcb.png\nCategories: Education\, Craft Classes & Workshops
 GEO:41.298808;-106.141485
@@ -186,15 +194,6 @@ UID:39270@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uwso%3a-opening-night/39270/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250201
-DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
-GEO:41.325969;-105.592220
-LOCATION:Laramie Fitness
-SUMMARY:Cowork & Cocktails
-UID:37719@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260920
 DESCRIPTION:Rededication of World War I Monument after Restoration\nMore info: https://www.visitlaramie.org/event/rededication-of-world-war-i-monument-after-restoration/39062/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-10-103804_F7CDD430-E826-6CEC-0965F3900C2497AB_f7ce67fe-ab6f-1234-b567d3c6a2bc53b9.png\nCategories: History\, Education\, Wyoming 250
 GEO:41.311573;-105.586953
@@ -202,6 +201,15 @@ LOCATION:WWI Monument - NE Courthouse Square
 SUMMARY:Rededication of World War I Monument after Restoration
 UID:39062@visitlaramie.org
 URL:https://www.visitlaramie.org/event/rededication-of-world-war-i-monument-after-restoration/39062/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250201
+DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
+GEO:41.325969;-105.592220
+LOCATION:Laramie Fitness
+SUMMARY:Cowork & Cocktails
+UID:37719@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
@@ -257,6 +265,13 @@ UID:39268@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39268/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-125304_40BE3944-915C-B64B-548DEC7FD2B93E83_40c0f80e-9bc1-29b2-9cae113be0ef865f.png\nCategories: Community\, Outdoor Recreation\, Family Fun
+SUMMARY:Glow and Go Run 3.07 miles
+UID:39177@visitlaramie.org
+URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
 DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-124813_4099DC29-9D51-49F8-DA366D20340D1A45_40a4c52e-a865-2449-5361bc2fdde04150.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
 GEO:41.310946;-105.596164
@@ -298,6 +313,14 @@ GEO:41.314165;-105.568122
 SUMMARY:Turning The Pages OF America
 UID:39137@visitlaramie.org
 URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:UW Cowboy Kickoff Concert\nMore info: https://www.visitlaramie.org/event/uw-cowboy-kickoff-concert/39312/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Logo-Mixed_B265688A-DA7F-8530-6DAF4899FF30B144_b269d350-fe86-13ef-b3a5a380da630906.png\nCategories: Concerts & Live Music
+LOCATION:Fraternity/Sorority Mall
+SUMMARY:UW Cowboy Kickoff Concert
+UID:39312@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboy-kickoff-concert/39312/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260521
