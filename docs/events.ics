@@ -36,6 +36,15 @@ UID:39255@visitlaramie.org
 URL:https://www.visitlaramie.org/event/campus-pass/39255/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+DESCRIPTION:Eleanor “Nellie” Quackenbush Corthell\nMore info: https://www.visitlaramie.org/event/eleanor-%e2%80%9cnellie%e2%80%9d-quackenbush-corthell/39313/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-02-132354_E3F441F1-92CF-5DF3-E56938E3C9014B99_e3fd353b-b623-3673-6623c92ac39b27ed.png\nCategories: History\, Wyoming 250
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:Eleanor “Nellie” Quackenbush Corthell
+UID:39313@visitlaramie.org
+URL:https://www.visitlaramie.org/event/eleanor-%e2%80%9cnellie%e2%80%9d-quackenbush-corthell/39313/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
 DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39274/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-14-101353_0A97A80B-DE9C-1480-3859B2B2481C9567_0aa131da-90b8-9358-7fa3f4d56ce9184f.png\nCategories: Community\, Outdoor Recreation\, Family Fun
 GEO:41.309143;-105.564383
@@ -51,6 +60,15 @@ LOCATION:Centennial Valley Library
 SUMMARY:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow
 UID:39248@visitlaramie.org
 URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:Disability Centered Emergency Preparedness Workshop\nMore info: https://www.visitlaramie.org/event/disability-centered-emergency-preparedness-workshop/39306/\nVenue: Holiday Inn\nVenue Info: https://www.visitlaramie.org/listing/holiday-inn/54/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Preparedness-Workshop---Save-the-Date-4-_DDC64F3B-03C6-4287-B887EF715E9670E2_ddf57a67-a76e-2878-56fa212c6699962b.png\nCategories: Education
+GEO:41.310316;-105.558383
+LOCATION:Holiday Inn
+SUMMARY:Disability Centered Emergency Preparedness Workshop
+UID:39306@visitlaramie.org
+URL:https://www.visitlaramie.org/event/disability-centered-emergency-preparedness-workshop/39306/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
@@ -221,6 +239,15 @@ UID:39296@visitlaramie.org
 URL:https://www.visitlaramie.org/event/new-moon-manifestation/39296/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Zach Bellas Live @ The Great Untamed\nMore info: https://www.visitlaramie.org/event/zach-bellas-live-%40-the-great-untamed/38923/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-125724_EE096AE0-E4A9-B928-9F3A162BDF87F47A_ee27a785-bf8a-6eea-90e581046b89e7fe.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
+GEO:41.311479;-105.593276
+LOCATION:The Great Untamed
+SUMMARY:Zach Bellas Live @ The Great Untamed
+UID:38923@visitlaramie.org
+URL:https://www.visitlaramie.org/event/zach-bellas-live-%40-the-great-untamed/38923/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
@@ -245,6 +272,15 @@ LOCATION:Optimist Park
 SUMMARY:Art Shed Workshops: Botanical Dyeing 101
 UID:39242@visitlaramie.org
 URL:https://www.visitlaramie.org/event/art-shed-workshops%3a-botanical-dyeing-101/39242/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260914
+DESCRIPTION:POM's 5th Birthday Celebration\nMore info: https://www.visitlaramie.org/event/poms-5th-birthday-celebration/39307/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Birthday-1-_DE0F9B4E-CD1A-E8AF-60846044ED7799C1_de26ff0f-f69b-e7dd-17af444aa25525af.png\nCategories: Family Fun
+GEO:41.309270;-105.587834
+LOCATION:Laramie Plains Civic Center
+SUMMARY:POM's 5th Birthday Celebration
+UID:39307@visitlaramie.org
+URL:https://www.visitlaramie.org/event/poms-5th-birthday-celebration/39307/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
