@@ -439,6 +439,15 @@ UID:39245@visitlaramie.org
 URL:https://www.visitlaramie.org/event/university-of-wyoming-homecoming-2026/39245/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261005
+DESCRIPTION:Zach Bellas Live @ The Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/zach-bellas-live-%40-the-ruffed-up-duck/38924/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-125724_EE096AE0-E4A9-B928-9F3A162BDF87F47A_ee27a785-bf8a-6eea-90e581046b89e7fe.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
+GEO:41.311479;-105.593276
+LOCATION:The Great Untamed
+SUMMARY:Zach Bellas Live @ The Ruffed Up Duck
+UID:38924@visitlaramie.org
+URL:https://www.visitlaramie.org/event/zach-bellas-live-%40-the-ruffed-up-duck/38924/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
 DESCRIPTION:UW Cowboy Football 2026 Season Opener & Schedule\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-2026-season-opener-%26-schedule/38794/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-110053_77A927B1-D05C-5533-8955DE593B0AEC8F_77be37cd-9061-fcc1-99549dd33e99f22d.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:40.585260;-105.084423
