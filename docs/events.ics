@@ -194,15 +194,6 @@ UID:38788@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Urban Sketching at LaPrele Park\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A2B1F55F-0014-DE99-170B87CCA990C353_a2c00309-d058-d9bb-3f39cfb54e38a817.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:LaPrele Park
-SUMMARY:Urban Sketching at LaPrele Park
-UID:39277@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-at-laprele-park/39277/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
 DESCRIPTION:UWSO: Opening Night\nMore info: https://www.visitlaramie.org/event/uwso%3a-opening-night/39270/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-12-123739_A8C5F015-C1F7-BA5F-0809966E7B20E47B_a8f1b09d-f22d-10a8-95b30252d983d254.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.323713;-105.613005
@@ -263,15 +254,6 @@ GEO:41.298808;-106.141485
 SUMMARY:Weekly Yoga At The Centennial Public Library Thursday - Restorative/Yoga Nidra
 UID:39249@visitlaramie.org
 URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-thursday-restorative-yoga-nidra/39249/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Art Shed Workshops: Botanical Dyeing 101\nMore info: https://www.visitlaramie.org/event/art-shed-workshops%3a-botanical-dyeing-101/39242/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-135013_0DEE5CAA-B94E-7B15-18F483F9A3F1F8AB_0df12f5a-9140-542c-3a3d36a4ef55ac75.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.309526;-105.604234
-LOCATION:Optimist Park
-SUMMARY:Art Shed Workshops: Botanical Dyeing 101
-UID:39242@visitlaramie.org
-URL:https://www.visitlaramie.org/event/art-shed-workshops%3a-botanical-dyeing-101/39242/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260914
@@ -412,15 +394,6 @@ UID:39278@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-at-territorial-prison-archaeology-fair/39278/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:2nd Annual Cowboy Open\nMore info: https://www.visitlaramie.org/event/2nd-annual-cowboy-open/39180/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-15-133204_09A2EC2B-D4BF-2EAB-F504D6DE8A910135_09b48281-0a05-8633-e341ec0ca8ed2592.png\nCategories: Annual Events & Festivals\, Community\, Sports
-GEO:41.311367;-105.591101
-LOCATION:Univ of Wyoming Indoor Practice Facility
-SUMMARY:2nd Annual Cowboy Open
-UID:39180@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2nd-annual-cowboy-open/39180/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
 DESCRIPTION:Ryan Charles: Hall Of Fame Weekend After Party\nMore info: https://www.visitlaramie.org/event/ryan-charles%3a-hall-of-fame-weekend-after-party/39063/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_8B7B0058-DE64-4274-8211BE698424025B_38c421ad-3f1d-4f89-a7b54b11d3659365.jpg\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -446,14 +419,6 @@ LOCATION:The Great Untamed
 SUMMARY:Zach Bellas Live @ The Ruffed Up Duck
 UID:38924@visitlaramie.org
 URL:https://www.visitlaramie.org/event/zach-bellas-live-%40-the-ruffed-up-duck/38924/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:UW Cowboy Football 2026 Season Opener & Schedule\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-2026-season-opener-%26-schedule/38794/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-110053_77A927B1-D05C-5533-8955DE593B0AEC8F_77be37cd-9061-fcc1-99549dd33e99f22d.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:40.585260;-105.084423
-SUMMARY:UW Cowboy Football 2026 Season Opener & Schedule
-UID:38794@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-2026-season-opener-%26-schedule/38794/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
@@ -508,15 +473,6 @@ LOCATION:975 Snowy Range Rd\, Laramie
 SUMMARY:2026 Wyoming Archaeology Fair
 UID:39061@visitlaramie.org
 URL:https://www.visitlaramie.org/event/2026-wyoming-archaeology-fair/39061/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Windy City Turns 10!\nMore info: https://www.visitlaramie.org/event/windy-city-turns-10!/39295/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-26-114556_77E08739-B09C-CC50-19675990E571F9D3_77f1a52e-f84f-ac0b-c0ca4bcd12e93e80.png\nCategories: Community
-GEO:41.307077;-105.594215
-LOCATION:Windy City Pet Store
-SUMMARY:Windy City Turns 10!
-UID:39295@visitlaramie.org
-URL:https://www.visitlaramie.org/event/windy-city-turns-10!/39295/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
