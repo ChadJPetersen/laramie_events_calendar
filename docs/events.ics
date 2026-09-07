@@ -97,6 +97,15 @@ UID:39136@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+DESCRIPTION:MASTER YOUR CELL PHONE CAMERA sponsored by WYOMING ARTS COUNCIL\nMore info: https://www.visitlaramie.org/event/master-your-cell-phone-camera-sponsored-by-wyoming-arts-council/39311/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screen-Shot-2026-09-01-at-12.22.41-PM_AE23DCED-C8E3-0242-0BE3EEA2F4C447CD_ae27a881-ab53-7f86-5c4da2ee5517d253.png\nCategories: Wyoming 250
+GEO:41.167144;-105.244383
+LOCATION:CURT GOWDY STATE PARK VISITOR'S CENTER
+SUMMARY:MASTER YOUR CELL PHONE CAMERA sponsored by WYOMING ARTS COUNCIL
+UID:39311@visitlaramie.org
+URL:https://www.visitlaramie.org/event/master-your-cell-phone-camera-sponsored-by-wyoming-arts-council/39311/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260919
 DESCRIPTION:Urban Sketching in Bosler Ghost Town\nMore info: https://www.visitlaramie.org/event/urban-sketching-in-bosler-ghost-town/39279/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A3155A66-B1ED-38FD-208F7A6D29AB6854_a333f22f-f7b0-b3ac-53efd418802e01b8.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
