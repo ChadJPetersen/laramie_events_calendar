@@ -151,6 +151,14 @@ UID:39304@visitlaramie.org
 URL:https://www.visitlaramie.org/event/indigenous-climate-science/39304/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DESCRIPTION:LAramie Clothing Exchange\nMore info: https://www.visitlaramie.org/event/laramie-clothing-exchange/39291/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-26-110626_767A66B3-B9A7-F2BA-0D0E2CFE4B1CA185_768c231c-f871-a993-5fe7b25528274ca1.png\nCategories: Community
+GEO:41.326127;-105.554361
+SUMMARY:LAramie Clothing Exchange
+UID:39291@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-clothing-exchange/39291/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:Cowgirl Volleyball: Cowgirls vs. UC Santa Barbara\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-uc-santa-barbara/39265/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
 GEO:41.313732;-105.570741
@@ -300,13 +308,6 @@ UID:39268@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39268/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-125304_40BE3944-915C-B64B-548DEC7FD2B93E83_40c0f80e-9bc1-29b2-9cae113be0ef865f.png\nCategories: Community\, Outdoor Recreation\, Family Fun
-SUMMARY:Glow and Go Run 3.07 miles
-UID:39177@visitlaramie.org
-URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39177/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
 DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-124813_4099DC29-9D51-49F8-DA366D20340D1A45_40a4c52e-a865-2449-5361bc2fdde04150.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
 GEO:41.310946;-105.596164
@@ -318,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DESCRIPTION:Cowboy Breakfast at Ivinson\nMore info: https://www.visitlaramie.org/event/cowboy-breakfast-at-ivinson/39287/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Cowboy-Pancake-Breakfast-2026_Facebook_0C614D63-92A0-1C95-499CC523CC094556_0c6dfe88-bc30-2e2f-a2db61861c9ed1f1.png\nCategories: Family Fun
-LOCATION:IMH West Parking Lot $4
+LOCATION:IMH West Parking Lot #4
 SUMMARY:Cowboy Breakfast at Ivinson
 UID:39287@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-breakfast-at-ivinson/39287/
@@ -394,6 +395,15 @@ UID:38789@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-cowboys-vs-hawaii/38789/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DESCRIPTION:2026 Annual Frison Institute Archaeology Lecture\nMore info: https://www.visitlaramie.org/event/2026-annual-frison-institute-archaeology-lecture/39317/\nVenue: University of Wyoming Anthropology Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-anthropology-museum/123/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-Frison-Institute-Flyer-_15D1F10A-F942-3ABB-94D7441F5FFD86DD_15e39d99-09e4-b387-69d8a989f13dc5a3.jpg\nCategories: Annual Events & Festivals
+GEO:41.311229;-105.578176
+LOCATION:University of Wyoming Business Auditorium
+SUMMARY:2026 Annual Frison Institute Archaeology Lecture
+UID:39317@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2026-annual-frison-institute-archaeology-lecture/39317/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:Wyoming Voices: Our Stories of America\nMore info: https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112708_CAD97750-96F9-68AA-A257B378C72A8FC5_caec755b-957f-9a07-8a5968d17b2f8f7a.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
@@ -454,6 +464,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Kids Pumpkin Walk\nMore info: https://www.visitlaramie.org/event/kids-pumpkin-walk/39315/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WTP-front-with-prison-wagon_5E9C4DAC-257B-40AC-9D39C33B259A7B27_d5cf2be5-b6da-410e-b58971ecc4c50665.jpg\nCategories: Annual Events & Festivals
+GEO:41.311613;-105.610512
+LOCATION:Wyoming Territorial Prison State Historic Stie
+SUMMARY:Kids Pumpkin Walk
+UID:39315@visitlaramie.org
+URL:https://www.visitlaramie.org/event/kids-pumpkin-walk/39315/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260718
