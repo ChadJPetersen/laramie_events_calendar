@@ -133,15 +133,6 @@ UID:39269@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39269/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260810
-DESCRIPTION:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest\nMore info: https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-01-123344_35A40254-E614-E6FB-9FE75FFC6A12A433_35a585e4-e74a-931e-44d22019bf6ec9ca.png\nCategories: Community\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:The Gorgon Galley @ The Laramie Plains Civic Center
-SUMMARY:Side Quests\, An Exhibition Presented in Partnership with Wyoming Fringefest
-UID:39155@visitlaramie.org
-URL:https://www.visitlaramie.org/event/side-quests-an-exhibition-presented-in-partnership-with-wyoming-fringefest/39155/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260911
 DESCRIPTION:iNDIGENOUS CLIMATE SCIENCE\nMore info: https://www.visitlaramie.org/event/indigenous-climate-science/39304/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/whyte_B00C8D4D-0E21-96E8-5C8454B4AF3669F0_b04992c5-b21f-7772-ae2ef6f0e7721e78.jpg\nCategories: University of Wyoming
 GEO:41.311367;-105.591101
@@ -157,15 +148,6 @@ GEO:41.326127;-105.554361
 SUMMARY:LAramie Clothing Exchange
 UID:39291@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-clothing-exchange/39291/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260910
-DESCRIPTION:Cowgirl Volleyball: Cowgirls vs. UC Santa Barbara\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-uc-santa-barbara/39265/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowgirl Volleyball: Cowgirls vs. UC Santa Barbara
-UID:39265@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-uc-santa-barbara/39265/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -194,14 +176,6 @@ UID:39284@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ride-with-a-ranger-at-curt-gowdy-state-park/39284/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-DESCRIPTION:Bingo Night\nMore info: https://www.visitlaramie.org/event/bingo-night/39258/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-115102_3E89EA70-F5E1-7936-2BAA4E059F87FE7F_3ec318d4-bd44-3e8b-79e5c77e89559f8b.png\nCategories: Community\, Social Events
-LOCATION:Bond's Brewing Company
-SUMMARY:Bingo Night
-UID:39258@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bingo-night/39258/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260912
 DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-105804_777207CE-F4E7-A173-D835963E0626411C_777a47fe-0d26-20f9-ae2775ea41693bf3.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
@@ -209,6 +183,14 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football "Save the Date"
 UID:38788@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38788/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:Bingo Night\nMore info: https://www.visitlaramie.org/event/bingo-night/39258/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-115102_3E89EA70-F5E1-7936-2BAA4E059F87FE7F_3ec318d4-bd44-3e8b-79e5c77e89559f8b.png\nCategories: Community\, Social Events
+LOCATION:Bond's Brewing Company
+SUMMARY:Bingo Night
+UID:39258@visitlaramie.org
+URL:https://www.visitlaramie.org/event/bingo-night/39258/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
@@ -236,15 +218,6 @@ LOCATION:Laramie Fitness
 SUMMARY:Cowork & Cocktails
 UID:37719@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260910
-DESCRIPTION:New Moon Manifestation\nMore info: https://www.visitlaramie.org/event/new-moon-manifestation/39296/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-26-115324_7810F03F-F90F-2FB2-AB75B69EB93A5946_78235e34-d0b7-a2c0-4823a9a8a5daa385.png\nCategories: Community
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:New Moon Manifestation
-UID:39296@visitlaramie.org
-URL:https://www.visitlaramie.org/event/new-moon-manifestation/39296/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261003
