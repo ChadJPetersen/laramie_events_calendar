@@ -249,12 +249,11 @@ URL:https://www.visitlaramie.org/event/zach-bellas-live-%40-the-great-untamed/38
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Snow Train Music Festival- Cowboy Saloon & Dance Hall\nMore info: https://www.visitlaramie.org/event/snow-train-music-festival-cowboy-saloon-%26-dance-hall/39354/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-17-111729_E3CB21D7-91A8-7B2B-7608257DB28EFD53_e40ee38d-b1ea-06f0-3d2c41b4cffb2b06.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
-GEO:41.312707;-105.595125
-LOCATION:Cowboy Saloon & Dance Hall
-SUMMARY:Snow Train Music Festival- Cowboy Saloon & Dance Hall
-UID:39354@visitlaramie.org
-URL:https://www.visitlaramie.org/event/snow-train-music-festival-cowboy-saloon-%26-dance-hall/39354/
+DESCRIPTION:🎶❄️ The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!\nMore info: https://www.visitlaramie.org/event/%f0%9f%8e%b6%e2%9d%84%ef%b8%8f-the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_06BCD46B-249C-48FC-AA6986C0CB7F4239_1d05393d-7344-494d-920f8851d410c892.jpg\nCategories: Concerts & Live Music\, Community\, Social Events
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:🎶❄️ The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!
+UID:39172@visitlaramie.org
+URL:https://www.visitlaramie.org/event/%f0%9f%8e%b6%e2%9d%84%ef%b8%8f-the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260926
@@ -266,14 +265,6 @@ UID:39328@visitlaramie.org
 URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-fall-book-sale/39328/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:🎶❄️ The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!\nMore info: https://www.visitlaramie.org/event/%f0%9f%8e%b6%e2%9d%84%ef%b8%8f-the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_06BCD46B-249C-48FC-AA6986C0CB7F4239_1d05393d-7344-494d-920f8851d410c892.jpg\nCategories: Concerts & Live Music\, Community\, Social Events
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:🎶❄️ The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!
-UID:39172@visitlaramie.org
-URL:https://www.visitlaramie.org/event/%f0%9f%8e%b6%e2%9d%84%ef%b8%8f-the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
 DESCRIPTION:Laser Jimi Hendrix Experience Electric Ladyland\nMore info: https://www.visitlaramie.org/event/laser-jimi-hendrix-experience-electric-ladyland/39347/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-16-115613_B1A14C21-F198-E919-7A3CFE62CB9E6271_b1a21310-e0e7-8834-e2e81c38d5517762.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.313697;-105.590676
@@ -281,15 +272,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Laser Jimi Hendrix Experience Electric Ladyland
 UID:39347@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-jimi-hendrix-experience-electric-ladyland/39347/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Live Presentation: Extreme Explorers Cassini and Saturn Aniversary Talk\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-extreme-explorers-cassini-and-saturn-aniversary-talk/39340/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-15-134746_82287FAF-BAEB-88AC-2159D49A37D16B58_82326eec-e463-27d8-998d6f0c1f49c1c0.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.313697;-105.590676
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Extreme Explorers Cassini and Saturn Aniversary Talk
-UID:39340@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-extreme-explorers-cassini-and-saturn-aniversary-talk/39340/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -530,24 +512,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Wanxin Zhang - Lunchtime Conversation\nMore info: https://www.visitlaramie.org/event/wanxin-zhang-lunchtime-conversation/39348/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-16-130740_B4702B8F-98FE-3BFF-198EC39886ADC2E2_b47b0197-e2eb-2b04-f2401b5e1d36b6c2.png\nCategories: University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Wanxin Zhang - Lunchtime Conversation
-UID:39348@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wanxin-zhang-lunchtime-conversation/39348/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DESCRIPTION:Laser Sgt Pepper's Lonely Hearts Club Band\nMore info: https://www.visitlaramie.org/event/laser-sgt-peppers-lonely-hearts-club-band/39341/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-15-135045_8243B605-E81B-7CCA-747E1E672229CB8C_824b137f-905d-527e-7b5f91e167b1c203.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.313697;-105.590676
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Laser Sgt Pepper's Lonely Hearts Club Band
-UID:39341@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laser-sgt-peppers-lonely-hearts-club-band/39341/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261003
