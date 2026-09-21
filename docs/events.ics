@@ -167,15 +167,6 @@ UID:39270@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uwso%3a-opening-night/39270/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Rededication of World War I Monument after Restoration\nMore info: https://www.visitlaramie.org/event/rededication-of-world-war-i-monument-after-restoration/39062/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-10-103804_F7CDD430-E826-6CEC-0965F3900C2497AB_f7ce67fe-ab6f-1234-b567d3c6a2bc53b9.png\nCategories: History\, Education\, Wyoming 250
-GEO:41.311573;-105.586953
-LOCATION:WWI Monument - NE Courthouse Square
-SUMMARY:Rededication of World War I Monument after Restoration
-UID:39062@visitlaramie.org
-URL:https://www.visitlaramie.org/event/rededication-of-world-war-i-monument-after-restoration/39062/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
 DESCRIPTION:Cowork & Cocktails\nMore info: https://www.visitlaramie.org/event/cowork-%26-cocktails/37719/\nVenue: Laramie Fitness\nVenue Info: https://www.visitlaramie.org/listing/laramie-fitness/1843/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-01-10-111232_2E05A6BF-FA92-B98E-C85CEE854C66A453_2e0ffb73-f037-25bc-f2a56db442572242.png\nCategories: Community
 GEO:41.325969;-105.592220
@@ -369,13 +360,13 @@ UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DESCRIPTION:Fall Festival @ Cathedral Square\nMore info: https://www.visitlaramie.org/event/fall-festival-%40-cathedral-square/39336/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-15-124314_7FDB0B3F-08F8-9B1E-A237F6563D61CF7A_7ff27214-f475-794b-764bba9c71995d24.png\nCategories: Community\, Family Fun\, Social Events
-GEO:41.312010;-105.593515
-LOCATION:St Matthew's Cathedral Close
-SUMMARY:Fall Festival @ Cathedral Square
-UID:39336@visitlaramie.org
-URL:https://www.visitlaramie.org/event/fall-festival-%40-cathedral-square/39336/
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Into the Badlands Tattoo Expo\nMore info: https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/InShot_20260812_201110499_BB3CFDBD-AE60-0BAB-CBE9EDCC14DE77BF_bb46ab3d-ca20-e9ff-a8aec3fc865d5499.jpg\nCategories: Annual Events & Festivals
+GEO:41.282735;-105.593071
+LOCATION:Albany County Fairgrounds
+SUMMARY:Into the Badlands Tattoo Expo
+UID:39271@visitlaramie.org
+URL:https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260921
@@ -394,15 +385,6 @@ LOCATION:The Great Untamed
 SUMMARY:Zach Bellas Live @ The Ruffed Up Duck
 UID:38924@visitlaramie.org
 URL:https://www.visitlaramie.org/event/zach-bellas-live-%40-the-ruffed-up-duck/38924/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Into the Badlands Tattoo Expo\nMore info: https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/InShot_20260812_201110499_BB3CFDBD-AE60-0BAB-CBE9EDCC14DE77BF_bb46ab3d-ca20-e9ff-a8aec3fc865d5499.jpg\nCategories: Annual Events & Festivals
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Into the Badlands Tattoo Expo
-UID:39271@visitlaramie.org
-URL:https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
