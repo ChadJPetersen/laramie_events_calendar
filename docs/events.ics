@@ -44,15 +44,6 @@ UID:39274@visitlaramie.org
 URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39274/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260803
-DESCRIPTION:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F517400-C0F9-9CF5-CE86DA06EC5BF945_3f54533b-d053-8e2d-245efff6b0483bcb.png\nCategories: Education\, Craft Classes & Workshops
-GEO:41.298808;-106.141485
-LOCATION:Centennial Valley Library
-SUMMARY:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow
-UID:39248@visitlaramie.org
-URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260923
 DESCRIPTION:Laramie Audubon Evening Program: Bats and Sage-Grouse\nMore info: https://www.visitlaramie.org/event/laramie-audubon-evening-program%3a-bats-and-sage-grouse/39332/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/SageGrouse_530B6508-BD08-8361-668D0CD6A73FC849_531eebf1-a2c8-d0e2-26d5b35de205a92e.jpg\nCategories: Education
 GEO:41.312203;-105.587931
@@ -60,6 +51,15 @@ LOCATION:Trinity Lutheran Church
 SUMMARY:Laramie Audubon Evening Program: Bats and Sage-Grouse
 UID:39332@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-audubon-evening-program%3a-bats-and-sage-grouse/39332/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+DESCRIPTION:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F517400-C0F9-9CF5-CE86DA06EC5BF945_3f54533b-d053-8e2d-245efff6b0483bcb.png\nCategories: Education\, Craft Classes & Workshops
+GEO:41.298808;-106.141485
+LOCATION:Centennial Valley Library
+SUMMARY:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow
+UID:39248@visitlaramie.org
+URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
@@ -122,15 +122,6 @@ LOCATION:Pokes Pub\, UW Student Union
 SUMMARY:Beer Education Night
 UID:39330@visitlaramie.org
 URL:https://www.visitlaramie.org/event/beer-education-night/39330/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261017
-DESCRIPTION:Family Weekend 2026\nMore info: https://www.visitlaramie.org/event/family-weekend-2026/39298/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-26-115642_7870C48C-B481-5577-A85A7A7FE4AC2A12_7876ae00-ad7c-50d3-74262f1a3582bc8f.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Family Fun
-GEO:41.313057;-105.595859
-LOCATION:Univesity of Wyoming
-SUMMARY:Family Weekend 2026
-UID:39298@visitlaramie.org
-URL:https://www.visitlaramie.org/event/family-weekend-2026/39298/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
@@ -317,6 +308,15 @@ UID:39338@visitlaramie.org
 URL:https://www.visitlaramie.org/event/a-bookish-social%3a-books-bites-%26-banter/39338/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:YOUTH FIRST SHOTS\nMore info: https://www.visitlaramie.org/event/youth-first-shots/39357/\nVenue: Laramie Rifle Range\nVenue Info: https://www.visitlaramie.org/listing/laramie-rifle-range/453/\nCategories: Sports
+GEO:41.311367;-105.591101
+LOCATION:Laramie Rifle Range
+SUMMARY:YOUTH FIRST SHOTS
+UID:39357@visitlaramie.org
+URL:https://www.visitlaramie.org/event/youth-first-shots/39357/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261006
 DESCRIPTION:Vera Bradley Bingo 2026\nMore info: https://www.visitlaramie.org/event/vera-bradley-bingo-2026/39350/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Vera-Bradley-Bingo-2026-Social-Assets_Facebook_B4C15047-BBFD-DA57-EC5CE5963C0FA35E_b4fc954c-dd43-6052-a66d3447459b53c7.png\nCategories: Annual Events & Festivals
 GEO:38.794595;-106.534838
@@ -390,7 +390,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DESCRIPTION:Family Weekend 2026\nMore info: https://www.visitlaramie.org/event/family-weekend-2026/39297/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-26-115642_7840B39F-9EA5-2C6A-6E986E67C964C601_786405ba-9d03-32d9-4de8ee6c6e97e671.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Family Fun
 GEO:41.311795;-105.581222
-LOCATION:Univesity of Wyoming
+LOCATION:University of Wyoming
 SUMMARY:Family Weekend 2026
 UID:39297@visitlaramie.org
 URL:https://www.visitlaramie.org/event/family-weekend-2026/39297/
