@@ -62,6 +62,15 @@ UID:39248@visitlaramie.org
 URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261020
+DESCRIPTION:ALOK: EAT PRAY LEAVE TOUR\nMore info: https://www.visitlaramie.org/event/alok%3a-eat-pray-leave-tour/39358/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/ALOK_ADD10269-DF6D-8DD1-B848760BD955002E_add890ce-e9dc-01b8-08ab3327aadc4efa.jpg\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:ALOK: EAT PRAY LEAVE TOUR
+UID:39358@visitlaramie.org
+URL:https://www.visitlaramie.org/event/alok%3a-eat-pray-leave-tour/39358/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38790/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-121442_7972C802-02B3-2A55-C9F07C2CF33D84E8_79737a58-ebef-5601-751182c7fac73bfe.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
@@ -106,15 +115,6 @@ UID:39272@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39272/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DESCRIPTION:Cowgirl Volleyball: Cowgirls vs. UTEP\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39269/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowgirl Volleyball: Cowgirls vs. UTEP
-UID:39269@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39269/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261008
 DESCRIPTION:Beer Education Night\nMore info: https://www.visitlaramie.org/event/beer-education-night/39330/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BeerEducationWindRiver_5174257C-F200-8FA7-AE29E7C5BACCCF6D_517ffc17-b167-bfb6-5dc60a62d1e9b4a0.png\nCategories: University of Wyoming\, Social Events
 GEO:41.314718;-105.569029
@@ -149,6 +149,15 @@ UID:39258@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo-night/39258/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Artist & Museum: Hung Liu\nMore info: https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-125533_C35E75D6-AAA7-21CA-88EE350CA355A8A0_c35eef76-a969-9341-bd4f3c9b6ff6b57a.png\nCategories: History\, University of Wyoming\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Artist & Museum: Hung Liu
+UID:39002@visitlaramie.org
+URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
 DESCRIPTION:UWSO: Opening Night\nMore info: https://www.visitlaramie.org/event/uwso%3a-opening-night/39270/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-12-123739_A8C5F015-C1F7-BA5F-0809966E7B20E47B_a8f1b09d-f22d-10a8-95b30252d983d254.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.323713;-105.613005
@@ -156,6 +165,14 @@ LOCATION:Buchanan
 SUMMARY:UWSO: Opening Night
 UID:39270@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uwso%3a-opening-night/39270/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DESCRIPTION:Pleasure People\, Why Am I Still Here?\nMore info: https://www.visitlaramie.org/event/pleasure-people-why-am-i-still-here%3f/39361/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-22-125841_E8FA4E9F-DC65-A89E-D720CBF4C4121DC2_e9040e0d-0e95-9857-918d08c518733366.png\nCategories: Concerts & Live Music\, Community\, Social Events
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Pleasure People\, Why Am I Still Here?
+UID:39361@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pleasure-people-why-am-i-still-here%3f/39361/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -176,12 +193,21 @@ UID:38923@visitlaramie.org
 URL:https://www.visitlaramie.org/event/zach-bellas-live-%40-the-great-untamed/38923/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:Hurting\, Healing\, Hoping: a trio of medical operas\nMore info: https://www.visitlaramie.org/event/hurting-healing-hoping%3a-a-trio-of-medical-operas/39309/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Hurting-Healing-Hoping_E07B0A07-CA6C-205A-6F84B8D1800E6DCC_e07bc04f-d50e-110f-c68f1b4d4bc556ff.png\nCategories: Concerts & Live Music
+GEO:41.309522;-105.587753
+LOCATION:Gryphon Theatre at the Laramie Plains Civic Center
+SUMMARY:Hurting\, Healing\, Hoping: a trio of medical operas
+UID:39309@visitlaramie.org
+URL:https://www.visitlaramie.org/event/hurting-healing-hoping%3a-a-trio-of-medical-operas/39309/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261008
-DESCRIPTION:🎶❄️ The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!\nMore info: https://www.visitlaramie.org/event/%f0%9f%8e%b6%e2%9d%84%ef%b8%8f-the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_06BCD46B-249C-48FC-AA6986C0CB7F4239_1d05393d-7344-494d-920f8851d410c892.jpg\nCategories: Concerts & Live Music\, Community\, Social Events
+DESCRIPTION:The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!\nMore info: https://www.visitlaramie.org/event/the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_06BCD46B-249C-48FC-AA6986C0CB7F4239_1d05393d-7344-494d-920f8851d410c892.jpg\nCategories: Concerts & Live Music\, Community\, Social Events
 LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:🎶❄️ The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!
+SUMMARY:The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!
 UID:39172@visitlaramie.org
-URL:https://www.visitlaramie.org/event/%f0%9f%8e%b6%e2%9d%84%ef%b8%8f-the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/
+URL:https://www.visitlaramie.org/event/the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260926
@@ -246,6 +272,24 @@ UID:39268@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39268/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Read\, Rant\, Relate- THE ANTIPODES\nMore info: https://www.visitlaramie.org/event/read-rant-relate-the-antipodes/39359/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Antipodes-Poster_D977EB41-B139-1278-60670C23426D96C1_d9801f02-9244-b776-086aac271a7e4279.png\nCategories: Performing Arts & Culture
+GEO:41.311429;-105.577757
+LOCATION:UW College of Business
+SUMMARY:Read\, Rant\, Relate- THE ANTIPODES
+UID:39359@visitlaramie.org
+URL:https://www.visitlaramie.org/event/read-rant-relate-the-antipodes/39359/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38791/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-104141_8E021BB6-0C53-8F1F-E805DC1B442C492E_8e060f65-f1e4-0dec-7ae6b8d8716233ee.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+GEO:41.311627;-105.564677
+LOCATION:War Memorial Stadium
+SUMMARY:UW Cowboy Football "Save the Date"
+UID:38791@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38791/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260626
 DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-124813_4099DC29-9D51-49F8-DA366D20340D1A45_40a4c52e-a865-2449-5361bc2fdde04150.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
 GEO:41.310946;-105.596164
@@ -264,13 +308,13 @@ UID:39111@visitlaramie.org
 URL:https://www.visitlaramie.org/event/girl-crush-live-at-the-cowboy-saloon/39111/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DESCRIPTION:Live Presentation: Wyoming Skies: Autumnal Equinox w/ Dark Skies in Laramie\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-autumnal-equinox-w-dark-skies-in-laramie/39345/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-15-140109_829A65B8-CF97-DC7A-3C03722BD1F89C7F_829b4730-9ddf-fbd2-35920c0c37dfbe61.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.313697;-105.590676
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Wyoming Skies: Autumnal Equinox w/ Dark Skies in Laramie
-UID:39345@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-autumnal-equinox-w-dark-skies-in-laramie/39345/
+DTSTART;VALUE=DATE:20260926
+DESCRIPTION:Urban Sketching at Laramie Green Belt\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-laramie-green-belt/39280/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A3482209-FA24-9604-47659A6D77B588B5_a3570dbb-b6d3-fad3-46a16a8a38e0f4c3.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:Optimist Park Parking lot
+SUMMARY:Urban Sketching at Laramie Green Belt
+UID:39280@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-at-laramie-green-belt/39280/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
@@ -288,15 +332,6 @@ GEO:41.314165;-105.568122
 SUMMARY:Turning The Pages OF America
 UID:39137@visitlaramie.org
 URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DESCRIPTION:Urban Sketching at Laramie Green Belt\nMore info: https://www.visitlaramie.org/event/urban-sketching-at-laramie-green-belt/39280/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location_A3482209-FA24-9604-47659A6D77B588B5_a3570dbb-b6d3-fad3-46a16a8a38e0f4c3.jpg\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Optimist Park Parking lot
-SUMMARY:Urban Sketching at Laramie Green Belt
-UID:39280@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-at-laramie-green-belt/39280/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
@@ -360,6 +395,14 @@ UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DESCRIPTION:Pleasure People\, Why Am I Still Here?\nMore info: https://www.visitlaramie.org/event/pleasure-people-why-am-i-still-here%3f/39362/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-22-125841_E90B4C98-9C32-39C4-5EF647CDC4D092FB_e941aaf7-cfb9-13c6-589a9ca9acdfc2b9.png\nCategories: Concerts & Live Music\, Community\, Social Events
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Pleasure People\, Why Am I Still Here?
+UID:39362@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pleasure-people-why-am-i-still-here%3f/39362/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Into the Badlands Tattoo Expo\nMore info: https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/InShot_20260812_201110499_BB3CFDBD-AE60-0BAB-CBE9EDCC14DE77BF_bb46ab3d-ca20-e9ff-a8aec3fc865d5499.jpg\nCategories: Annual Events & Festivals
 GEO:41.282735;-105.593071
@@ -414,6 +457,15 @@ UID:39315@visitlaramie.org
 URL:https://www.visitlaramie.org/event/kids-pumpkin-walk/39315/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Jalan Crossland / Snow Train Music Festival\nMore info: https://www.visitlaramie.org/event/jalan-crossland-snow-train-music-festival/39360/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-22-122333_E85D1BD1-C8A4-6F2F-05EB8CED8241710C_e8709150-fc1f-2ef5-015a3da898e12e95.png\nCategories: Concerts & Live Music\, Community\, Social Events
+GEO:41.309522;-105.587753
+LOCATION:Gryphon Theatre
+SUMMARY:Jalan Crossland / Snow Train Music Festival
+UID:39360@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jalan-crossland-snow-train-music-festival/39360/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261003
 DESCRIPTION:Laramie Audubon Field Trip to the Greenbelt\nMore info: https://www.visitlaramie.org/event/laramie-audubon-field-trip-to-the-greenbelt/39334/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/OCWA_54506609-AE11-5C89-3935BCE8CA967228_5465c487-f084-9676-abf8eb6954b4323d.jpg\nCategories: Outdoor Recreation
 GEO:41.310181;-105.604450
@@ -423,12 +475,12 @@ UID:39334@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-audubon-field-trip-to-the-greenbelt/39334/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Artist & Museum: Hung Liu\nMore info: https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-125533_C35E75D6-AAA7-21CA-88EE350CA355A8A0_c35eef76-a969-9341-bd4f3c9b6ff6b57a.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Artist & Museum: Hung Liu
-UID:39002@visitlaramie.org
-URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
+DTSTART;VALUE=DATE:20260926
+DESCRIPTION:Cowgirl Volleyball: Cowgirls vs. UTEP\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39269/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
+GEO:41.313732;-105.570741
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowgirl Volleyball: Cowgirls vs. UTEP
+UID:39269@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39269/
 END:VEVENT
 END:VCALENDAR
