@@ -36,21 +36,21 @@ UID:39105@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jay-webb-%26%238211%3b-the-homesick-tour-comes-at-the-cowboy-saloon!/39105/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DESCRIPTION:UW MBB Cowboys vs. The College of Idaho\nMore info: https://www.visitlaramie.org/event/uw-mbb-cowboys-vs-the-college-of-idaho/39365/\nVenue: University of Wyoming Sports Facilities\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-sports-facilities/1657/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-23-105724_180D286C-A397-9B08-86B55EDF18C30B12_1827aa95-9c07-63af-3c30d544b47bd4f7.png\nCategories: University of Wyoming\, Sports
+GEO:41.312616;-105.570928
+LOCATION:University of Wyoming Arena Auditorium
+SUMMARY:UW MBB Cowboys vs. The College of Idaho
+UID:39365@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-mbb-cowboys-vs-the-college-of-idaho/39365/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261002
 DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39274/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-14-101353_0A97A80B-DE9C-1480-3859B2B2481C9567_0aa131da-90b8-9358-7fa3f4d56ce9184f.png\nCategories: Community\, Outdoor Recreation\, Family Fun
 GEO:41.309143;-105.564383
 SUMMARY:Glow and Go Run 3.07 miles
 UID:39274@visitlaramie.org
 URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39274/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Laramie Audubon Evening Program: Bats and Sage-Grouse\nMore info: https://www.visitlaramie.org/event/laramie-audubon-evening-program%3a-bats-and-sage-grouse/39332/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/SageGrouse_530B6508-BD08-8361-668D0CD6A73FC849_531eebf1-a2c8-d0e2-26d5b35de205a92e.jpg\nCategories: Education
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church
-SUMMARY:Laramie Audubon Evening Program: Bats and Sage-Grouse
-UID:39332@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-audubon-evening-program%3a-bats-and-sage-grouse/39332/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
@@ -80,15 +80,6 @@ UID:38790@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38790/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Canada's Unmarked-Graves Social Panic\, Five Years Later\nMore info: https://www.visitlaramie.org/event/canadas-unmarked-graves-social-panic-five-years-later/39117/\nVenue: UW Catering & Events\nVenue Info: https://www.visitlaramie.org/listing/uw-catering-%26-events/623/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/jonathan-kay-book_65DC706C-054D-384E-9B6E8DF2A535C917_65e22e4d-fe9f-e41d-21fa89a87f2c5cbb.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.312616;-105.570928
-LOCATION:UW Wyoming Union Center Yellowstone Ballroom
-SUMMARY:Canada's Unmarked-Graves Social Panic\, Five Years Later
-UID:39117@visitlaramie.org
-URL:https://www.visitlaramie.org/event/canadas-unmarked-graves-social-panic-five-years-later/39117/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
 DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
@@ -113,6 +104,15 @@ LOCATION:Laramie Plains Civic Center
 SUMMARY:Ecstatic Dance
 UID:39272@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39272/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Laramie Dinner Club\nMore info: https://www.visitlaramie.org/event/laramie-dinner-club/39363/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LDC_EABE3F71-04F9-3E04-E566E378C025F84A_eac2c16b-00c8-ca09-a346929920e07f8f.png\nCategories: Community\, Social Events
+GEO:41.311367;-105.591101
+LOCATION:Multiple Locations
+SUMMARY:Laramie Dinner Club
+UID:39363@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-dinner-club/39363/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261008
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
 DESCRIPTION:UWSO: Opening Night\nMore info: https://www.visitlaramie.org/event/uwso%3a-opening-night/39270/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-12-123739_A8C5F015-C1F7-BA5F-0809966E7B20E47B_a8f1b09d-f22d-10a8-95b30252d983d254.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.323713;-105.613005
-LOCATION:Buchanan
+LOCATION:Buchanan Performing Arts Center / Concert Hall
 SUMMARY:UWSO: Opening Night
 UID:39270@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uwso%3a-opening-night/39270/
@@ -202,6 +202,15 @@ UID:39309@visitlaramie.org
 URL:https://www.visitlaramie.org/event/hurting-healing-hoping%3a-a-trio-of-medical-operas/39309/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DESCRIPTION:Cowboy Saloon Present: Jamie Hansen\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-present%3a-jamie-hansen/39069/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-4_2E48B220-A61C-40F2-868DE637936B07F1_f6abe00d-010e-472c-acbd5c7f20282a83.jpg\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Cowboy Saloon Present: Jamie Hansen
+UID:39069@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-saloon-present%3a-jamie-hansen/39069/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261008
 DESCRIPTION:The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!\nMore info: https://www.visitlaramie.org/event/the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_06BCD46B-249C-48FC-AA6986C0CB7F4239_1d05393d-7344-494d-920f8851d410c892.jpg\nCategories: Concerts & Live Music\, Community\, Social Events
 LOCATION:The Cowboy Saloon & Dance Hall
@@ -217,6 +226,15 @@ LOCATION:Albany County Public Library
 SUMMARY:Friends of the Albany County Public Library Fall Book Sale
 UID:39328@visitlaramie.org
 URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-fall-book-sale/39328/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+DESCRIPTION:UW Music Presents: Wind Symphony\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-wind-symphony/39373/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2025-09-11-103109_1E1DCCED-F76F-3D38-39153A596D91D03A_1e1f3d48-f355-c892-81d1f2abd540a9d6.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.323713;-105.613005
+LOCATION:Buchanan Performing Arts Center / Concert Hall
+SUMMARY:UW Music Presents: Wind Symphony
+UID:39373@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-music-presents%3a-wind-symphony/39373/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260925
@@ -334,6 +352,15 @@ UID:39137@visitlaramie.org
 URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DESCRIPTION:"How to Be a (Happy) Skeptic" -- A Public Talk by Massimo Pigliucci\nMore info: https://www.visitlaramie.org/event/how-to-be-a-(happy)-skeptic-a-public-talk-by-massimo-pigliucci/39364/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-23-101308_1671F4BF-E0C5-E783-E0106DD418D93304_1674ac58-eb6b-0de4-dc9a4685d5a2918c.png\nCategories: University of Wyoming\, Education
+GEO:41.311367;-105.591101
+LOCATION:University of Wyoming College of Business Auditorium
+SUMMARY:"How to Be a (Happy) Skeptic" -- A Public Talk by Massimo Pigliucci
+UID:39364@visitlaramie.org
+URL:https://www.visitlaramie.org/event/how-to-be-a-(happy)-skeptic-a-public-talk-by-massimo-pigliucci/39364/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
 DESCRIPTION:A Bookish Social: Books\, Bites\, & Banter\nMore info: https://www.visitlaramie.org/event/a-bookish-social%3a-books-bites-%26-banter/39338/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Friendraiser-Event---Sponsor-1-1-_8071DFF4-BBA0-B0AE-1A4B191C52127878_8084c051-d243-762f-d767032e1ce77408.png\nCategories: Community\, Social Events
 GEO:41.310342;-105.587834
@@ -395,14 +422,6 @@ UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Pleasure People\, Why Am I Still Here?\nMore info: https://www.visitlaramie.org/event/pleasure-people-why-am-i-still-here%3f/39362/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-22-125841_E90B4C98-9C32-39C4-5EF647CDC4D092FB_e941aaf7-cfb9-13c6-589a9ca9acdfc2b9.png\nCategories: Concerts & Live Music\, Community\, Social Events
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Pleasure People\, Why Am I Still Here?
-UID:39362@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pleasure-people-why-am-i-still-here%3f/39362/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Into the Badlands Tattoo Expo\nMore info: https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/InShot_20260812_201110499_BB3CFDBD-AE60-0BAB-CBE9EDCC14DE77BF_bb46ab3d-ca20-e9ff-a8aec3fc865d5499.jpg\nCategories: Annual Events & Festivals
 GEO:41.282735;-105.593071
@@ -446,6 +465,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DESCRIPTION:UW Music Presents: Wind Symphony\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-wind-symphony/39374/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-23-135049_1E37E12D-03DC-D352-7B9A301C0D0DE491_1e3bf53e-eede-d520-16cc2aa3a631f332.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.323713;-105.613005
+LOCATION:Buchanan Performing Arts Center / Recital Hall
+SUMMARY:UW Music Presents: Wind Symphony
+UID:39374@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-music-presents%3a-wind-symphony/39374/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261003
