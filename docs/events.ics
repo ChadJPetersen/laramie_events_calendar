@@ -10,6 +10,15 @@ UID:39171@visitlaramie.org
 URL:https://www.visitlaramie.org/event/homecoming-weekend-just-got-better-with-dori-jo-and-the-double-standards/39171/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Book Arts: A Revolution / Artists Discussion and Reception\nMore info: https://www.visitlaramie.org/event/book-arts%3a-a-revolution-artists-discussion-and-reception/39379/\nVenue: Gym Event Spaces at Laramie Plains Civic Center\nVenue Info: https://www.visitlaramie.org/listing/gym-event-spaces-at-laramie-plains-civic-center/647/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-24-104156_4B27D17C-FF6D-CD7F-0EEE37B31EF880B5_4b4f8a58-d140-993b-65aecf79275c466d.png\nCategories: Performing Arts & Culture\, Education
+GEO:41.309522;-105.587753
+LOCATION:Gorgon Gallery
+SUMMARY:Book Arts: A Revolution / Artists Discussion and Reception
+UID:39379@visitlaramie.org
+URL:https://www.visitlaramie.org/event/book-arts%3a-a-revolution-artists-discussion-and-reception/39379/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260926
 DESCRIPTION:National Public Lands Day Volunteer Event\nMore info: https://www.visitlaramie.org/event/national-public-lands-day-volunteer-event/39288/\nVenue: Visit Laramie\nVenue Info: https://www.visitlaramie.org/listing/visit-laramie/1663/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-NPLD-Social-Dates_13B1A387-CE4E-F670-BE052323822C87BB_13cdeca0-ee15-0eb9-530283626dd009b4.png\nCategories: Community\, Outdoor Recreation\, University of Wyoming\, Family Fun\, Volunteering
 LOCATION:Washington Park Otto Dahl Picnic Shelter (multiple project locations around Laramie)
@@ -78,6 +87,15 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football "Save the Date"
 UID:38790@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38790/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DESCRIPTION:Gorgon Gallery Presents: Book Arts: A Revolution\nMore info: https://www.visitlaramie.org/event/gorgon-gallery-presents%3a-book-arts%3a-a-revolution/39377/\nVenue: Gym Event Spaces at Laramie Plains Civic Center\nVenue Info: https://www.visitlaramie.org/listing/gym-event-spaces-at-laramie-plains-civic-center/647/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-24-104156_4B27D17C-FF6D-CD7F-0EEE37B31EF880B5_4b4f8a58-d140-993b-65aecf79275c466d.png\nCategories: Performing Arts & Culture\, Education
+GEO:41.309522;-105.587753
+LOCATION:Gorgon Gallery
+SUMMARY:Gorgon Gallery Presents: Book Arts: A Revolution
+UID:39377@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gorgon-gallery-presents%3a-book-arts%3a-a-revolution/39377/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
@@ -317,6 +335,15 @@ UID:39118@visitlaramie.org
 URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Book Arts: A Revolution / Artists Discussion and Reception\nMore info: https://www.visitlaramie.org/event/book-arts%3a-a-revolution-artists-discussion-and-reception/39378/\nVenue: Gym Event Spaces at Laramie Plains Civic Center\nVenue Info: https://www.visitlaramie.org/listing/gym-event-spaces-at-laramie-plains-civic-center/647/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-24-101451_4B21D518-9EAD-9B0B-C81A5E7314621996_4b4f01d9-da16-3cb7-847030f05bd9c01c.png\nCategories: Performing Arts & Culture\, Education
+GEO:41.309522;-105.587753
+LOCATION:Gorgon Gallery
+SUMMARY:Book Arts: A Revolution / Artists Discussion and Reception
+UID:39378@visitlaramie.org
+URL:https://www.visitlaramie.org/event/book-arts%3a-a-revolution-artists-discussion-and-reception/39378/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Girl Crush Live at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/girl-crush-live-at-the-cowboy-saloon/39111/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_57429B99-3CA1-4A11-8BD094C6580C0920_60891801-8520-4782-87468aba08ac3a4e.jpg\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Social Events
 GEO:41.312707;-105.595125
@@ -403,15 +430,6 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football Cowboys vs. Hawaii
 UID:38789@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-cowboys-vs-hawaii/38789/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260924
-DESCRIPTION:2026 Annual Frison Institute Archaeology Lecture\nMore info: https://www.visitlaramie.org/event/2026-annual-frison-institute-archaeology-lecture/39317/\nVenue: University of Wyoming Anthropology Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-anthropology-museum/123/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-Frison-Institute-Flyer-_15D1F10A-F942-3ABB-94D7441F5FFD86DD_15e39d99-09e4-b387-69d8a989f13dc5a3.jpg\nCategories: Annual Events & Festivals
-GEO:41.311229;-105.578176
-LOCATION:University of Wyoming Business Auditorium
-SUMMARY:2026 Annual Frison Institute Archaeology Lecture
-UID:39317@visitlaramie.org
-URL:https://www.visitlaramie.org/event/2026-annual-frison-institute-archaeology-lecture/39317/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
