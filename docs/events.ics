@@ -2,38 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Homecoming Weekend Just Got Better With Dori Jo and the Double Standards\nMore info: https://www.visitlaramie.org/event/homecoming-weekend-just-got-better-with-dori-jo-and-the-double-standards/39171/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-1_C4FBE036-7924-4BC7-97B1952D6DFF817F_f1b73a29-492e-4e03-8f39a15ff41971e1.jpg\nCategories: Concerts & Live Music\, Community\, Social Events
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Homecoming Weekend Just Got Better With Dori Jo and the Double Standards
-UID:39171@visitlaramie.org
-URL:https://www.visitlaramie.org/event/homecoming-weekend-just-got-better-with-dori-jo-and-the-double-standards/39171/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Book Arts: A Revolution / Artists Discussion and Reception\nMore info: https://www.visitlaramie.org/event/book-arts%3a-a-revolution-artists-discussion-and-reception/39379/\nVenue: Gym Event Spaces at Laramie Plains Civic Center\nVenue Info: https://www.visitlaramie.org/listing/gym-event-spaces-at-laramie-plains-civic-center/647/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-24-104156_4B27D17C-FF6D-CD7F-0EEE37B31EF880B5_4b4f8a58-d140-993b-65aecf79275c466d.png\nCategories: Performing Arts & Culture\, Education
-GEO:41.309522;-105.587753
-LOCATION:Gorgon Gallery
-SUMMARY:Book Arts: A Revolution / Artists Discussion and Reception
-UID:39379@visitlaramie.org
-URL:https://www.visitlaramie.org/event/book-arts%3a-a-revolution-artists-discussion-and-reception/39379/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260926
 DESCRIPTION:National Public Lands Day Volunteer Event\nMore info: https://www.visitlaramie.org/event/national-public-lands-day-volunteer-event/39288/\nVenue: Visit Laramie\nVenue Info: https://www.visitlaramie.org/listing/visit-laramie/1663/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-NPLD-Social-Dates_13B1A387-CE4E-F670-BE052323822C87BB_13cdeca0-ee15-0eb9-530283626dd009b4.png\nCategories: Community\, Outdoor Recreation\, University of Wyoming\, Family Fun\, Volunteering
 LOCATION:Washington Park Otto Dahl Picnic Shelter (multiple project locations around Laramie)
 SUMMARY:National Public Lands Day Volunteer Event
 UID:39288@visitlaramie.org
 URL:https://www.visitlaramie.org/event/national-public-lands-day-volunteer-event/39288/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Live Presentation: Meet the Planets\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-meet-the-planets/39346/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-16-115020_B172788C-E227-4FFD-3C6B7DBBF72984CC_b18ee011-aa89-a213-9fe36344b7f9cb69.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.313697;-105.590676
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Meet the Planets
-UID:39346@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-meet-the-planets/39346/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
@@ -113,15 +87,6 @@ LOCATION:CURT GOWDY STATE PARK VISITOR'S CENTER
 SUMMARY:MASTER YOUR CELL PHONE CAMERA sponsored by WYOMING ARTS COUNCIL
 UID:39311@visitlaramie.org
 URL:https://www.visitlaramie.org/event/master-your-cell-phone-camera-sponsored-by-wyoming-arts-council/39311/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39272/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-13-112814_D9EDF125-F8DE-8CEB-CFA99B9BB78E32DC_da31dd1f-c742-9385-1e01294b1fcc5a4f.png\nCategories: Community\, Social Events
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center
-SUMMARY:Ecstatic Dance
-UID:39272@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ecstatic-dance/39272/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
@@ -255,15 +220,6 @@ UID:39373@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-wind-symphony/39373/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Laser Jimi Hendrix Experience Electric Ladyland\nMore info: https://www.visitlaramie.org/event/laser-jimi-hendrix-experience-electric-ladyland/39347/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-16-115613_B1A14C21-F198-E919-7A3CFE62CB9E6271_b1a21310-e0e7-8834-e2e81c38d5517762.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.313697;-105.590676
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Laser Jimi Hendrix Experience Electric Ladyland
-UID:39347@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laser-jimi-hendrix-experience-electric-ladyland/39347/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
 DESCRIPTION:Bingo\nMore info: https://www.visitlaramie.org/event/bingo/38870/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_8873-1-_514B008B-A3AC-06C4-EC940A48C2511267_51e13bbf-ed28-f580-abd9dab43feea949.jpg\nCategories: Social Events
 GEO:41.312823;-105.595038
@@ -271,6 +227,15 @@ LOCATION:102 S. 2nd St
 SUMMARY:Bingo
 UID:38870@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo/38870/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DESCRIPTION:UW WBB Cowgirls vs. Colorado Christian (Exhibition)\nMore info: https://www.visitlaramie.org/event/uw-wbb-cowgirls-vs-colorado-christian-(exhibition)/39366/\nVenue: University of Wyoming Sports Facilities\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-sports-facilities/1657/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-23-110649_18680A02-B943-CF2D-42ABEEA221652DFA_1868ba52-ca50-651e-cc91dc9142d24581.png\nCategories: University of Wyoming\, Sports
+GEO:41.312616;-105.570928
+LOCATION:University of Wyoming Arena Auditorium
+SUMMARY:UW WBB Cowgirls vs. Colorado Christian (Exhibition)
+UID:39366@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-wbb-cowgirls-vs-colorado-christian-(exhibition)/39366/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
@@ -299,15 +264,6 @@ UID:39300@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-war-and-treaty-live-concert/39300/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Cowgirl Volleyball: Cowgirls vs. UTEP\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39268/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
-GEO:41.313732;-105.570741
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowgirl Volleyball: Cowgirls vs. UTEP
-UID:39268@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-utep/39268/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
 DESCRIPTION:Read\, Rant\, Relate- THE ANTIPODES\nMore info: https://www.visitlaramie.org/event/read-rant-relate-the-antipodes/39359/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Antipodes-Poster_D977EB41-B139-1278-60670C23426D96C1_d9801f02-9244-b776-086aac271a7e4279.png\nCategories: Performing Arts & Culture
 GEO:41.311429;-105.577757
@@ -324,24 +280,6 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football "Save the Date"
 UID:38791@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38791/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:Downtown Laramie Farmers Market\nMore info: https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-124813_4099DC29-9D51-49F8-DA366D20340D1A45_40a4c52e-a865-2449-5361bc2fdde04150.png\nCategories: Concerts & Live Music\, Annual Events & Festivals\, Community\, Family Fun\, Social Events
-GEO:41.310946;-105.596164
-LOCATION:Depot Park
-SUMMARY:Downtown Laramie Farmers Market
-UID:39118@visitlaramie.org
-URL:https://www.visitlaramie.org/event/downtown-laramie-farmers-market/39118/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:Book Arts: A Revolution / Artists Discussion and Reception\nMore info: https://www.visitlaramie.org/event/book-arts%3a-a-revolution-artists-discussion-and-reception/39378/\nVenue: Gym Event Spaces at Laramie Plains Civic Center\nVenue Info: https://www.visitlaramie.org/listing/gym-event-spaces-at-laramie-plains-civic-center/647/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-24-101451_4B21D518-9EAD-9B0B-C81A5E7314621996_4b4f01d9-da16-3cb7-847030f05bd9c01c.png\nCategories: Performing Arts & Culture\, Education
-GEO:41.309522;-105.587753
-LOCATION:Gorgon Gallery
-SUMMARY:Book Arts: A Revolution / Artists Discussion and Reception
-UID:39378@visitlaramie.org
-URL:https://www.visitlaramie.org/event/book-arts%3a-a-revolution-artists-discussion-and-reception/39378/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
