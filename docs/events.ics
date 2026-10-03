@@ -177,14 +177,6 @@ UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Glow and Go Run 3.07 miles\nMore info: https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39274/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-14-101353_0A97A80B-DE9C-1480-3859B2B2481C9567_0aa131da-90b8-9358-7fa3f4d56ce9184f.png\nCategories: Community\, Outdoor Recreation\, Family Fun
-GEO:41.309143;-105.564383
-SUMMARY:Glow and Go Run 3.07 miles
-UID:39274@visitlaramie.org
-URL:https://www.visitlaramie.org/event/glow-and-go-run-3-07-miles/39274/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 DESCRIPTION:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F517400-C0F9-9CF5-CE86DA06EC5BF945_3f54533b-d053-8e2d-245efff6b0483bcb.png\nCategories: Education\, Craft Classes & Workshops
 GEO:41.298808;-106.141485
@@ -263,6 +255,15 @@ LOCATION:Arena Auditorium - WY
 SUMMARY:Exhibition: Wyoming Cowboys vs. College of Idaho Yotes - Laramie
 UID:39368@visitlaramie.org
 URL:https://www.visitlaramie.org/event/exhibition%3a-wyoming-cowboys-vs-college-of-idaho-yotes-laramie/39368/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Live Music: The Pegs and Friends\nMore info: https://www.visitlaramie.org/event/live-music%3a-the-pegs-and-friends/39426/\nVenue: Bear Bottom Bar and Grill\nVenue Info: https://www.visitlaramie.org/listing/bear-bottom-bar-and-grill/15/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-101519_E5FF9CF3-B5A6-42BF-AE520B1358692CD9_e6026c26-c3ec-f7e5-b0f93b5d74760ba4.png\nCategories: Concerts & Live Music
+GEO:41.298305;-106.141677
+LOCATION:Bear Bottom Bar and Grill
+SUMMARY:Live Music: The Pegs and Friends
+UID:39426@visitlaramie.org
+URL:https://www.visitlaramie.org/event/live-music%3a-the-pegs-and-friends/39426/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
@@ -381,6 +382,15 @@ UID:39411@visitlaramie.org
 URL:https://www.visitlaramie.org/event/that-cellar-thing-%40-the-railyard/39411/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+DESCRIPTION:UW Music Presents: Clay Jenkins with UW Faculty Jazz Trio\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-clay-jenkins-with-uw-faculty-jazz-trio/39372/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-23-135049_1E53799A-BDF0-4C8F-825633DD1C61E46E_1e5412d5-d562-238b-bd6951cb7a4bf60d.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.323713;-105.613005
+LOCATION:Buchanan Performing Arts Center / Recital Hall
+SUMMARY:UW Music Presents: Clay Jenkins with UW Faculty Jazz Trio
+UID:39372@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-music-presents%3a-clay-jenkins-with-uw-faculty-jazz-trio/39372/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
 DESCRIPTION:Full-Dome Film: Hot and Energetic Universe\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39404/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-130835_1E3F2D5E-F278-5CBB-4F2EBCA72E46CAF3_1e3ffe2d-a03a-a053-6beb36d52c3e1778.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -388,15 +398,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Hot and Energetic Universe
 UID:39404@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-hot-and-energetic-universe/39404/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Live Presentation: NASA's Great Observatories\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-nasas-great-observatories/39391/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-124217_1D6237D1-0D6F-4029-7013DA8EFD05E3B8_1d6393e3-923a-1902-3b14b2dc502df170.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: NASA's Great Observatories
-UID:39391@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-nasas-great-observatories/39391/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
@@ -409,7 +410,7 @@ URL:https://www.visitlaramie.org/event/uw-mbb-cowboys-vs-the-college-of-idaho/39
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Kevin Sloan Exhibition\, Opening Reception\nMore info: https://www.visitlaramie.org/event/kevin-sloan-exhibition-opening-reception/39423/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-01-134346_B9F54A71-DEEC-9017-56513312628D3890_b9fb5f73-a4ec-ebf2-da09ae22e3b6eeac.png\nCategories: University of Wyoming\, Performing Arts & Culture
+DESCRIPTION:Kevin Sloan Exhibition\, Opening Reception\nMore info: https://www.visitlaramie.org/event/kevin-sloan-exhibition-opening-reception/39423/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-01-135047_ECD7E3EC-CA47-D8B1-2615BDFBE047DFF2_ecd87bfc-9301-b7ab-928e3353423b6b40.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.313464;-105.564486
 LOCATION:University of Wyoming\, Visual Arts Building
 SUMMARY:Kevin Sloan Exhibition\, Opening Reception
@@ -603,6 +604,15 @@ LOCATION:Arena Auditorium - WY
 SUMMARY:Exhibition: Wyoming Cowboys vs. College of Idaho Yotes - Laramie
 UID:39367@visitlaramie.org
 URL:https://www.visitlaramie.org/event/exhibition%3a-wyoming-cowboys-vs-college-of-idaho-yotes-laramie/39367/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DESCRIPTION:Matt Baird of the band Spoken - Acoustic Show\nMore info: https://www.visitlaramie.org/event/matt-baird-of-the-band-spoken-acoustic-show/39425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/4548A947-6ACE-4BDC-A3BF-14058F8E7181_BD8AD6CE-F6D1-8676-A8CE8D8FE45C0D49_bd9c28de-c03a-417e-def6f8c83421953f.png\nCategories: Concerts & Live Music
+GEO:41.308628;-105.594256
+LOCATION:Martin Barber Co.
+SUMMARY:Matt Baird of the band Spoken - Acoustic Show
+UID:39425@visitlaramie.org
+URL:https://www.visitlaramie.org/event/matt-baird-of-the-band-spoken-acoustic-show/39425/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
