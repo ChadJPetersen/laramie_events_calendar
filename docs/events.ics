@@ -239,15 +239,6 @@ UID:39414@visitlaramie.org
 URL:https://www.visitlaramie.org/event/pierre-bensusan-live-%40-the-laramie-plains-civic-center/39414/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Laser Country\nMore info: https://www.visitlaramie.org/event/laser-country/39394/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-124652_1D77115F-C72B-3373-31690E7798632785_1d7d206c-0b97-bf4c-156382f14a12e5b9.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Laser Country
-UID:39394@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laser-country/39394/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DESCRIPTION:Exhibition: Wyoming Cowboys vs. College of Idaho Yotes - Laramie\nMore info: https://www.visitlaramie.org/event/exhibition%3a-wyoming-cowboys-vs-college-of-idaho-yotes-laramie/39368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/College-of-Idaho-Yotes_1C866BAB-C2AA-8C32-3CEEF296F94BC2EF_1c8b2cfb-d18a-f593-6ed6a7a15eb347c1.jpg\nCategories: University of Wyoming\, Sports
 GEO:41.312441;-105.569888
@@ -255,15 +246,6 @@ LOCATION:Arena Auditorium - WY
 SUMMARY:Exhibition: Wyoming Cowboys vs. College of Idaho Yotes - Laramie
 UID:39368@visitlaramie.org
 URL:https://www.visitlaramie.org/event/exhibition%3a-wyoming-cowboys-vs-college-of-idaho-yotes-laramie/39368/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Live Music: The Pegs and Friends\nMore info: https://www.visitlaramie.org/event/live-music%3a-the-pegs-and-friends/39426/\nVenue: Bear Bottom Bar and Grill\nVenue Info: https://www.visitlaramie.org/listing/bear-bottom-bar-and-grill/15/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-101519_E5FF9CF3-B5A6-42BF-AE520B1358692CD9_e6026c26-c3ec-f7e5-b0f93b5d74760ba4.png\nCategories: Concerts & Live Music
-GEO:41.298305;-106.141677
-LOCATION:Bear Bottom Bar and Grill
-SUMMARY:Live Music: The Pegs and Friends
-UID:39426@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-music%3a-the-pegs-and-friends/39426/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
@@ -328,15 +310,6 @@ UID:38924@visitlaramie.org
 URL:https://www.visitlaramie.org/event/zach-bellas-live-%40-the-ruffed-up-duck/38924/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Kids Pumpkin Walk\nMore info: https://www.visitlaramie.org/event/kids-pumpkin-walk/39315/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/WTP-front-with-prison-wagon_5E9C4DAC-257B-40AC-9D39C33B259A7B27_d5cf2be5-b6da-410e-b58971ecc4c50665.jpg\nCategories: Annual Events & Festivals
-GEO:41.311613;-105.610512
-LOCATION:Wyoming Territorial Prison State Historic Stie
-SUMMARY:Kids Pumpkin Walk
-UID:39315@visitlaramie.org
-URL:https://www.visitlaramie.org/event/kids-pumpkin-walk/39315/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
 DESCRIPTION:Jalan Crossland / Snow Train Music Festival\nMore info: https://www.visitlaramie.org/event/jalan-crossland-snow-train-music-festival/39360/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-22-122333_E85D1BD1-C8A4-6F2F-05EB8CED8241710C_e8709150-fc1f-2ef5-015a3da898e12e95.png\nCategories: Concerts & Live Music\, Community\, Social Events
 GEO:41.309522;-105.587753
@@ -344,15 +317,6 @@ LOCATION:Gryphon Theatre
 SUMMARY:Jalan Crossland / Snow Train Music Festival
 UID:39360@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jalan-crossland-snow-train-music-festival/39360/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Laramie Audubon Field Trip to the Greenbelt\nMore info: https://www.visitlaramie.org/event/laramie-audubon-field-trip-to-the-greenbelt/39334/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/OCWA_54506609-AE11-5C89-3935BCE8CA967228_5465c487-f084-9676-abf8eb6954b4323d.jpg\nCategories: Outdoor Recreation
-GEO:41.310181;-105.604450
-LOCATION:Optimist Park
-SUMMARY:Laramie Audubon Field Trip to the Greenbelt
-UID:39334@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-audubon-field-trip-to-the-greenbelt/39334/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
@@ -552,15 +516,6 @@ UID:39381@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39381/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Family Fun Fair\nMore info: https://www.visitlaramie.org/event/family-fun-fair/39413/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-29-134709_531E44A9-027D-E2AB-0513F63E157ED3B2_53453677-95ce-6e50-a97bf55b02692263.png\nCategories: Community\, Family Fun\, Social Events
-GEO:41.311367;-105.591101
-LOCATION:Home on the Range
-SUMMARY:Family Fun Fair
-UID:39413@visitlaramie.org
-URL:https://www.visitlaramie.org/event/family-fun-fair/39413/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:Global Collection : Masks of the World\nMore info: https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-101318_BD8D4C9E-BA8C-F3B0-E5DE078649781A01_bd937282-ae8d-0a89-7128ba09c4f30a48.png\nCategories: History\, University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -586,15 +541,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Halloween
 UID:39406@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-halloween/39406/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Full-Dome Film: Messengers of Time and Space\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-messengers-of-time-and-space/39393/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-124502_1D5BFBC4-DDA9-70FF-C707A1F7813B2D43_1d5db33f-d7ea-1d66-bb2b7a647ce85aaf.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Messengers of Time and Space
-UID:39393@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-messengers-of-time-and-space/39393/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
@@ -666,15 +612,6 @@ GEO:41.314165;-105.568122
 SUMMARY:Nellie: The First Woman Governor at America's Milestones
 UID:39136@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Zach Bellas Live @ The Great Untamed\nMore info: https://www.visitlaramie.org/event/zach-bellas-live-%40-the-great-untamed/38923/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-125724_EE096AE0-E4A9-B928-9F3A162BDF87F47A_ee27a785-bf8a-6eea-90e581046b89e7fe.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
-GEO:41.311479;-105.593276
-LOCATION:The Great Untamed
-SUMMARY:Zach Bellas Live @ The Great Untamed
-UID:38923@visitlaramie.org
-URL:https://www.visitlaramie.org/event/zach-bellas-live-%40-the-great-untamed/38923/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -766,15 +703,6 @@ UID:39338@visitlaramie.org
 URL:https://www.visitlaramie.org/event/a-bookish-social%3a-books-bites-%26-banter/39338/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Urban Sketching @ Pumpkin Walk\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-pumpkin-walk/39383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-26-_82A17F92-9BA2-C798-4C416706C6F33332_82b3f74d-b1b4-24a4-3dac1875d030a326.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Territorial Prison
-SUMMARY:Urban Sketching @ Pumpkin Walk
-UID:39383@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-pumpkin-walk/39383/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
 DESCRIPTION:YOUTH FIRST SHOTS\nMore info: https://www.visitlaramie.org/event/youth-first-shots/39357/\nVenue: Laramie Rifle Range\nVenue Info: https://www.visitlaramie.org/listing/laramie-rifle-range/453/\nCategories: Sports
 GEO:41.311367;-105.591101
@@ -782,15 +710,6 @@ LOCATION:Laramie Rifle Range
 SUMMARY:YOUTH FIRST SHOTS
 UID:39357@visitlaramie.org
 URL:https://www.visitlaramie.org/event/youth-first-shots/39357/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Mountainfilm on Tour\nMore info: https://www.visitlaramie.org/event/mountainfilm-on-tour/39415/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-30-131539_87AECDE0-D7EC-690F-48A384384EA19EC4_87af7c9e-cca3-01d8-3496e36d97207453.png\nCategories: Community\, Outdoor Recreation\, University of Wyoming\, Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center
-SUMMARY:Mountainfilm on Tour
-UID:39415@visitlaramie.org
-URL:https://www.visitlaramie.org/event/mountainfilm-on-tour/39415/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
