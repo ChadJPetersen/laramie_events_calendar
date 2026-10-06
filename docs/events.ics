@@ -152,6 +152,15 @@ UID:39111@visitlaramie.org
 URL:https://www.visitlaramie.org/event/girl-crush-live-at-the-cowboy-saloon/39111/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DESCRIPTION:Laramie Hay Company Fall Festival\nMore info: https://www.visitlaramie.org/event/laramie-hay-company-fall-festival/39436/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-05-094453_7F7FE316-A7C1-EF09-F7DEA3E814168966_7f9b3bc5-bdd6-6108-3dbe401b01437685.png\nCategories: Community\, Outdoor Recreation\, Family Fun
+GEO:41.261755;-105.696012
+LOCATION:Laramie Hay Company
+SUMMARY:Laramie Hay Company Fall Festival
+UID:39436@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-hay-company-fall-festival/39436/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DESCRIPTION:Laser Show: Zeppelin Unbound\nMore info: https://www.visitlaramie.org/event/laser-show%3a-zeppelin-unbound/39397/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-125409_1DC73D10-FF6F-9E98-8A126BF6DE3A2062_1dc7945f-92b2-4cda-b7484574d432a15a.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -266,6 +275,15 @@ UID:39419@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-goblin-king%e2%80%99s-masquerade-ball/39419/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Laramie Hay Company 2026 Fall Festival\nMore info: https://www.visitlaramie.org/event/laramie-hay-company-2026-fall-festival/39438/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LAramie-Hay-Company-2026-Fall-Festival_7EC492F4-D83B-1196-7DE842B1D555182B_7ef98081-f346-345a-63237797ed9bd4be.jpg\nCategories: Annual Events & Festivals
+GEO:41.261755;-105.696012
+LOCATION:Laramie Hay Company | Oct. 10-11
+SUMMARY:Laramie Hay Company 2026 Fall Festival
+UID:39438@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-hay-company-2026-fall-festival/39438/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
 DESCRIPTION:Live Presentation: Wyoming Skies: Autumnal Equinox w/ Dark Skies in Laramie\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-autumnal-equinox-w-dark-skies-in-laramie/39399/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-125858_1DEDD004-C3D9-B354-27B293771172CB11_1defeb2f-ee2b-51f0-9a4729d45ac7c0b4.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -299,15 +317,6 @@ LOCATION:Albany County Fairgrounds
 SUMMARY:Into the Badlands Tattoo Expo
 UID:39271@visitlaramie.org
 URL:https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261005
-DESCRIPTION:Zach Bellas Live @ The Ruffed Up Duck\nMore info: https://www.visitlaramie.org/event/zach-bellas-live-%40-the-ruffed-up-duck/38924/\nVenue: Ruffed Up Duck Saloon\nVenue Info: https://www.visitlaramie.org/listing/ruffed-up-duck-saloon/476/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-04-21-125724_EE096AE0-E4A9-B928-9F3A162BDF87F47A_ee27a785-bf8a-6eea-90e581046b89e7fe.png\nCategories: Concerts & Live Music\, Performing Arts & Culture
-GEO:41.311479;-105.593276
-LOCATION:The Great Untamed
-SUMMARY:Zach Bellas Live @ The Ruffed Up Duck
-UID:38924@visitlaramie.org
-URL:https://www.visitlaramie.org/event/zach-bellas-live-%40-the-ruffed-up-duck/38924/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261009
@@ -407,6 +416,15 @@ LOCATION:Gorgon Gallery
 SUMMARY:Gorgon Gallery Presents: Book Arts: A Revolution
 UID:39377@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gorgon-gallery-presents%3a-book-arts%3a-a-revolution/39377/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DESCRIPTION:Laramie Hay Company 2026 Fall Festival\nMore info: https://www.visitlaramie.org/event/laramie-hay-company-2026-fall-festival/39435/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LAramie-Hay-Company-2026-Fall-Festival_7EC492F4-D83B-1196-7DE842B1D555182B_7ef98081-f346-345a-63237797ed9bd4be.jpg\nCategories: Annual Events & Festivals
+GEO:41.261755;-105.696012
+LOCATION:Laramie Hay Company | Oct. 10-11
+SUMMARY:Laramie Hay Company 2026 Fall Festival
+UID:39435@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-hay-company-2026-fall-festival/39435/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
@@ -579,6 +597,15 @@ UID:39418@visitlaramie.org
 URL:https://www.visitlaramie.org/event/open-jam-night/39418/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Shoreline Sentinels of Great Salt Lake\nMore info: https://www.visitlaramie.org/event/shoreline-sentinels-of-great-salt-lake/39437/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-05-104914_81BD517C-E64C-A1DC-1B46CA4F55048689_81d20232-a3d7-1680-c509b4886d848efe.png\nCategories: Community\, Outdoor Recreation\, Education\, Family Fun
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Shoreline Sentinels of Great Salt Lake
+UID:39437@visitlaramie.org
+URL:https://www.visitlaramie.org/event/shoreline-sentinels-of-great-salt-lake/39437/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Laser Michael Jackson\nMore info: https://www.visitlaramie.org/event/laser-michael-jackson/39398/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-125549_1DC47497-9D9B-8A05-D2024A1FEDCEFD4B_1dc4d7b1-f5ba-4a61-92d50deacf99ab77.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -710,6 +737,15 @@ LOCATION:Laramie Rifle Range
 SUMMARY:YOUTH FIRST SHOTS
 UID:39357@visitlaramie.org
 URL:https://www.visitlaramie.org/event/youth-first-shots/39357/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DESCRIPTION:SCARAMIE\nMore info: https://www.visitlaramie.org/event/scaramie/39434/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/SCARAMIE_53BB7E65-E0D2-7FB1-3DFECC714EDF0DFD_53d76efd-ce5f-21a9-fd874a4d91cd0594.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.311367;-105.591101
+LOCATION:Downtown Laramie
+SUMMARY:SCARAMIE
+UID:39434@visitlaramie.org
+URL:https://www.visitlaramie.org/event/scaramie/39434/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260929
