@@ -152,15 +152,6 @@ UID:39111@visitlaramie.org
 URL:https://www.visitlaramie.org/event/girl-crush-live-at-the-cowboy-saloon/39111/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Laramie Hay Company Fall Festival\nMore info: https://www.visitlaramie.org/event/laramie-hay-company-fall-festival/39436/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-05-094453_7F7FE316-A7C1-EF09-F7DEA3E814168966_7f9b3bc5-bdd6-6108-3dbe401b01437685.png\nCategories: Community\, Outdoor Recreation\, Family Fun
-GEO:41.261755;-105.696012
-LOCATION:Laramie Hay Company
-SUMMARY:Laramie Hay Company Fall Festival
-UID:39436@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-hay-company-fall-festival/39436/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DESCRIPTION:Laser Show: Zeppelin Unbound\nMore info: https://www.visitlaramie.org/event/laser-show%3a-zeppelin-unbound/39397/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-125409_1DC73D10-FF6F-9E98-8A126BF6DE3A2062_1dc7945f-92b2-4cda-b7484574d432a15a.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -237,6 +228,15 @@ LOCATION:121 E Grand Ave
 SUMMARY:The Haunted Basement- The Zombie Apocalypse
 UID:39382@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-haunted-basement-the-zombie-apocalypse/39382/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Tipsy Tarot & Terracotta\nMore info: https://www.visitlaramie.org/event/tipsy-tarot-%26-terracotta/39440/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-06-100656_B3C01307-E749-C8D3-BD1EF2436491A212_b400ed02-c653-94dd-477e2476c7dce794.png\nCategories: Annual Events & Festivals\, Community\, Craft Classes & Workshops
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center
+SUMMARY:Tipsy Tarot & Terracotta
+UID:39440@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tipsy-tarot-%26-terracotta/39440/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261021
@@ -428,7 +428,7 @@ URL:https://www.visitlaramie.org/event/laramie-hay-company-2026-fall-festival/39
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Pumpkin Dunkin'\nMore info: https://www.visitlaramie.org/event/pumpkin-dunkin/39409/\nVenue: Laramie Community Recreation Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-community-recreation-center/66/\nCategories: Annual Events & Festivals\, Family Fun
+DESCRIPTION:Pumpkin Dunkin'\nMore info: https://www.visitlaramie.org/event/pumpkin-dunkin/39409/\nVenue: Laramie Community Recreation Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-community-recreation-center/66/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-06-124233_B9472948-0417-8670-ABF05E2DB76747E3_b947f381-d6cf-3175-1fba39b616f134da.png\nCategories: Annual Events & Festivals\, Family Fun
 GEO:41.304977;-105.548536
 LOCATION:Laramie Ice & Event Center
 SUMMARY:Pumpkin Dunkin'
@@ -507,13 +507,13 @@ UID:39292@visitlaramie.org
 URL:https://www.visitlaramie.org/event/aaron-watson-with-special-guest-jake-watson/39292/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261006
-DESCRIPTION:Vera Bradley Bingo 2026\nMore info: https://www.visitlaramie.org/event/vera-bradley-bingo-2026/39350/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Vera-Bradley-Bingo-2026-Social-Assets_Facebook_B4C15047-BBFD-DA57-EC5CE5963C0FA35E_b4fc954c-dd43-6052-a66d3447459b53c7.png\nCategories: Annual Events & Festivals
-GEO:38.794595;-106.534838
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Vera Bradley Bingo 2026
-UID:39350@visitlaramie.org
-URL:https://www.visitlaramie.org/event/vera-bradley-bingo-2026/39350/
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Songwriter Sessions\nMore info: https://www.visitlaramie.org/event/songwriter-sessions/39420/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-30-131938_8779F06C-A1BD-8004-E2DB721E150ACAE5_877a7262-0d7e-037f-179b1f0cfea8995d.png\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center
+SUMMARY:Songwriter Sessions
+UID:39420@visitlaramie.org
+URL:https://www.visitlaramie.org/event/songwriter-sessions/39420/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
@@ -712,15 +712,6 @@ UID:39364@visitlaramie.org
 URL:https://www.visitlaramie.org/event/how-to-be-a-(happy)-skeptic-a-public-talk-by-massimo-pigliucci/39364/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261006
-DESCRIPTION:Visiting Artist Talk : Kevin Sloan\nMore info: https://www.visitlaramie.org/event/visiting-artist-talk-%3a-kevin-sloan/39422/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-01-133955_B9D0641A-C09D-FEBC-C47629ADD4EE4F19_b9dab31f-ff88-0296-63ef38b5df3656b7.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.310928;-105.564614
-LOCATION:University of Wyoming\, Visual Arts Building
-SUMMARY:Visiting Artist Talk : Kevin Sloan
-UID:39422@visitlaramie.org
-URL:https://www.visitlaramie.org/event/visiting-artist-talk-%3a-kevin-sloan/39422/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
 DESCRIPTION:A Bookish Social: Books\, Bites\, & Banter\nMore info: https://www.visitlaramie.org/event/a-bookish-social%3a-books-bites-%26-banter/39338/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Friendraiser-Event---Sponsor-1-1-_8071DFF4-BBA0-B0AE-1A4B191C52127878_8084c051-d243-762f-d767032e1ce77408.png\nCategories: Community\, Social Events
 GEO:41.310342;-105.587834
@@ -737,6 +728,15 @@ LOCATION:Laramie Rifle Range
 SUMMARY:YOUTH FIRST SHOTS
 UID:39357@visitlaramie.org
 URL:https://www.visitlaramie.org/event/youth-first-shots/39357/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:Buchanan Center Special Events Presents: The Filharmonic\nMore info: https://www.visitlaramie.org/event/buchanan-center-special-events-presents%3a-the-filharmonic/39376/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-23-135430_1E8167FD-C114-76AD-837E44D43AE9F48E_1e823543-fedb-5837-e34fd9320d56e1b0.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.323713;-105.613005
+LOCATION:Buchanan Performing Arts Center / Concert Hall
+SUMMARY:Buchanan Center Special Events Presents: The Filharmonic
+UID:39376@visitlaramie.org
+URL:https://www.visitlaramie.org/event/buchanan-center-special-events-presents%3a-the-filharmonic/39376/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
@@ -764,5 +764,14 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Presentation: Stellar Graveyard
 UID:39395@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-stellar-graveyard/39395/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:Toys for Tots Chili dog dinner\nMore info: https://www.visitlaramie.org/event/toys-for-tots-chili-dog-dinner/39439/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot_20260731-144039_99A3A071-E2AE-70A1-97167452014AE196_99c2ee39-e541-c1b8-1bcdba57b249cb4b.png\nCategories: Community\, Family Fun\, Social Events
+GEO:41.308313;-105.565468
+LOCATION:VFW Post #2221\, 2142 East Garfield Street
+SUMMARY:Toys for Tots Chili dog dinner
+UID:39439@visitlaramie.org
+URL:https://www.visitlaramie.org/event/toys-for-tots-chili-dog-dinner/39439/
 END:VEVENT
 END:VCALENDAR
