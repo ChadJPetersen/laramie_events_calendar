@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Beer Education Night\nMore info: https://www.visitlaramie.org/event/beer-education-night/39330/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/BeerEducationWindRiver_5174257C-F200-8FA7-AE29E7C5BACCCF6D_517ffc17-b167-bfb6-5dc60a62d1e9b4a0.png\nCategories: University of Wyoming\, Social Events
-GEO:41.314718;-105.569029
-LOCATION:Pokes Pub\, UW Student Union
-SUMMARY:Beer Education Night
-UID:39330@visitlaramie.org
-URL:https://www.visitlaramie.org/event/beer-education-night/39330/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
 DESCRIPTION:LAramie Clothing Exchange\nMore info: https://www.visitlaramie.org/event/laramie-clothing-exchange/39291/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-26-110626_767A66B3-B9A7-F2BA-0D0E2CFE4B1CA185_768c231c-f871-a993-5fe7b25528274ca1.png\nCategories: Community
 GEO:41.326127;-105.554361
@@ -43,14 +34,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Fulldome Film: Distant Worlds: Alien Life? + Startalk
 UID:39400@visitlaramie.org
 URL:https://www.visitlaramie.org/event/fulldome-film%3a-distant-worlds%3a-alien-life%3f-%2b-startalk/39400/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Pleasure People\, Why Am I Still Here?\nMore info: https://www.visitlaramie.org/event/pleasure-people-why-am-i-still-here%3f/39361/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-22-125841_E8FA4E9F-DC65-A89E-D720CBF4C4121DC2_e9040e0d-0e95-9857-918d08c518733366.png\nCategories: Concerts & Live Music\, Community\, Social Events
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Pleasure People\, Why Am I Still Here?
-UID:39361@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pleasure-people-why-am-i-still-here%3f/39361/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
@@ -303,20 +286,12 @@ URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-aut
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
-DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38791/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-29-104141_8E021BB6-0C53-8F1F-E805DC1B442C492E_8e060f65-f1e4-0dec-7ae6b8d8716233ee.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+DESCRIPTION:UW Cowboy Football: Cowboy vs. Falcons\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboy-vs-falcons/38791/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-103239_1BA1B9A4-E8E2-CF3D-13820FA67F9A75AA_1ba79865-f9ad-b5ac-2455e02a1678e239.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
 LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football "Save the Date"
+SUMMARY:UW Cowboy Football: Cowboy vs. Falcons
 UID:38791@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38791/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260309
-DESCRIPTION:Turning The Pages OF America\nMore info: https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112732_CB5182C4-004F-FA77-6DCBF7099A2F1025_cb59f300-ee3e-b461-362f7ea5d3a7f061.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Turning The Pages OF America
-UID:39137@visitlaramie.org
-URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
+URL:https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboy-vs-falcons/38791/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
@@ -391,15 +366,6 @@ UID:39365@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-mbb-cowboys-vs-the-college-of-idaho/39365/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Kevin Sloan Exhibition\, Opening Reception\nMore info: https://www.visitlaramie.org/event/kevin-sloan-exhibition-opening-reception/39423/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-01-135047_ECD7E3EC-CA47-D8B1-2615BDFBE047DFF2_ecd87bfc-9301-b7ab-928e3353423b6b40.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.313464;-105.564486
-LOCATION:University of Wyoming\, Visual Arts Building
-SUMMARY:Kevin Sloan Exhibition\, Opening Reception
-UID:39423@visitlaramie.org
-URL:https://www.visitlaramie.org/event/kevin-sloan-exhibition-opening-reception/39423/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261010
 DESCRIPTION:Urban Sketching @ Greenhill Cemetery\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-greenhill-cemetery/39384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-26-_82C91F7A-BA20-AF59-8D47CF62DAED0308_82d8411d-f619-51fe-bbcb9c9005107ca1.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -463,6 +429,14 @@ UID:39396@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/39396/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DESCRIPTION:Turning The Pages OF America\nMore info: https://www.visitlaramie.org/event/turning-the-pages-of-america/39454/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112732_CB5182C4-004F-FA77-6DCBF7099A2F1025_cb59f300-ee3e-b461-362f7ea5d3a7f061.png\nCategories: History\, University of Wyoming\, Wyoming 250
+GEO:41.314165;-105.568122
+SUMMARY:Turning The Pages OF America
+UID:39454@visitlaramie.org
+URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39454/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261107
 DESCRIPTION:Annual Iron Pour\nMore info: https://www.visitlaramie.org/event/annual-iron-pour/39428/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-103235_E6BB67C9-9A66-D9DF-6D13DDD7183F8517_e6c83d05-e5b1-f26a-19cdcfc8883c307b.png\nCategories: University of Wyoming\, Performing Arts & Culture\, Craft Classes & Workshops
 GEO:41.313464;-105.564486
@@ -497,14 +471,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Present: Jamie Hansen
 UID:39069@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-present%3a-jamie-hansen/39069/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!\nMore info: https://www.visitlaramie.org/event/the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-2_06BCD46B-249C-48FC-AA6986C0CB7F4239_1d05393d-7344-494d-920f8851d410c892.jpg\nCategories: Concerts & Live Music\, Community\, Social Events
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:The Cowboy Saloon is thrilled to be part of the Snow Train Downtown Music Festival!
-UID:39172@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-cowboy-saloon-is-thrilled-to-be-part-of-the-snow-train-downtown-music-festival!/39172/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -615,15 +581,6 @@ UID:39367@visitlaramie.org
 URL:https://www.visitlaramie.org/event/exhibition%3a-wyoming-cowboys-vs-college-of-idaho-yotes-laramie/39367/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Matt Baird of the band Spoken - Acoustic Show\nMore info: https://www.visitlaramie.org/event/matt-baird-of-the-band-spoken-acoustic-show/39425/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/4548A947-6ACE-4BDC-A3BF-14058F8E7181_BD8AD6CE-F6D1-8676-A8CE8D8FE45C0D49_bd9c28de-c03a-417e-def6f8c83421953f.png\nCategories: Concerts & Live Music
-GEO:41.308628;-105.594256
-LOCATION:Martin Barber Co.
-SUMMARY:Matt Baird of the band Spoken - Acoustic Show
-UID:39425@visitlaramie.org
-URL:https://www.visitlaramie.org/event/matt-baird-of-the-band-spoken-acoustic-show/39425/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DESCRIPTION:Urban Sketching @ Laramie Tree Area\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-laramie-tree-area/39386/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-26-_8343498C-C79E-5F3A-327C894D76DB56EE_834fd879-9e41-accd-26b4f473f1f55111.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.307444;-105.573458
@@ -667,6 +624,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Jay Webb &#8211\; The Homesick Tour comes at The Cowboy Saloon!
 UID:39105@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jay-webb-%26%238211%3b-the-homesick-tour-comes-at-the-cowboy-saloon!/39105/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261020
+DESCRIPTION:Laramie's West Side Neighborhood as a Historic District on the National Register of Historic Places.\nMore info: https://www.visitlaramie.org/event/laramies-west-side-neighborhood-as-a-historic-district-on-the-national-register-of-historic-places/39449/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-102220_1B5B2752-9AC8-D890-61EC8D71F296A36D_1b5fdb52-9bd9-6900-7920db1e450c7170.png\nCategories: History\, Community\, University of Wyoming\, Education\, Wyoming 250
+GEO:41.312068;-105.589055
+LOCATION:Alice Hardie Stevens Center
+SUMMARY:Laramie's West Side Neighborhood as a Historic District on the National Register of Historic Places.
+UID:39449@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramies-west-side-neighborhood-as-a-historic-district-on-the-national-register-of-historic-places/39449/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
@@ -767,7 +733,7 @@ URL:https://www.visitlaramie.org/event/a-bookish-social%3a-books-bites-%26-bante
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
-DESCRIPTION:YOUTH FIRST SHOTS\nMore info: https://www.visitlaramie.org/event/youth-first-shots/39357/\nVenue: Laramie Rifle Range\nVenue Info: https://www.visitlaramie.org/listing/laramie-rifle-range/453/\nCategories: Sports
+DESCRIPTION:YOUTH FIRST SHOTS\nMore info: https://www.visitlaramie.org/event/youth-first-shots/39357/\nVenue: Laramie Rifle Range\nVenue Info: https://www.visitlaramie.org/listing/laramie-rifle-range/453/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-103023_1B8C9C36-D37C-AFEF-B12B07CB9DDA599D_1b8d4795-bb73-3d4e-8cd0aeedcf846a32.png\nCategories: Sports
 GEO:41.311367;-105.591101
 LOCATION:Laramie Rifle Range
 SUMMARY:YOUTH FIRST SHOTS
