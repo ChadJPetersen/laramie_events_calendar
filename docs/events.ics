@@ -72,15 +72,6 @@ UID:39366@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-wbb-cowgirls-vs-colorado-christian-(exhibition)/39366/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Kevin Sloan Hands-on Workshop\nMore info: https://www.visitlaramie.org/event/kevin-sloan-hands-on-workshop/39424/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-01-134346_B9F54A71-DEEC-9017-56513312628D3890_b9fb5f73-a4ec-ebf2-da09ae22e3b6eeac.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.313464;-105.564486
-LOCATION:University of Wyoming\, Visual Arts Building
-SUMMARY:Kevin Sloan Hands-on Workshop
-UID:39424@visitlaramie.org
-URL:https://www.visitlaramie.org/event/kevin-sloan-hands-on-workshop/39424/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DESCRIPTION:Urban Sketching @ Ivinson Mansion\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-ivinson-mansion/39385/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-26-_8315BE86-9189-BDA4-FFE2CFBA2F9FA527_832e50eb-cab6-ab79-54567ab0cd629f2e.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.311367;-105.591101
@@ -133,6 +124,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Laser Show: Zeppelin Unbound
 UID:39397@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-show%3a-zeppelin-unbound/39397/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DESCRIPTION:Visiting Artist Talk by David Eaton\nMore info: https://www.visitlaramie.org/event/visiting-artist-talk-by-david-eaton/39429/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-113139_E8BC5D31-A22D-213F-436855B8BF16CA01_e9382f6e-f62f-a6ae-3cf8d0568172a2d8.png\nCategories: University of Wyoming\, Performing Arts & Culture\, Craft Classes & Workshops
+GEO:41.310928;-105.564614
+LOCATION:University of Wyoming\, Visual Arts Building
+SUMMARY:Visiting Artist Talk by David Eaton
+UID:39429@visitlaramie.org
+URL:https://www.visitlaramie.org/event/visiting-artist-talk-by-david-eaton/39429/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
@@ -303,15 +303,6 @@ UID:39271@visitlaramie.org
 URL:https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Jalan Crossland / Snow Train Music Festival\nMore info: https://www.visitlaramie.org/event/jalan-crossland-snow-train-music-festival/39360/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-22-122333_E85D1BD1-C8A4-6F2F-05EB8CED8241710C_e8709150-fc1f-2ef5-015a3da898e12e95.png\nCategories: Concerts & Live Music\, Community\, Social Events
-GEO:41.309522;-105.587753
-LOCATION:Gryphon Theatre
-SUMMARY:Jalan Crossland / Snow Train Music Festival
-UID:39360@visitlaramie.org
-URL:https://www.visitlaramie.org/event/jalan-crossland-snow-train-music-festival/39360/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:POM's 1st Ever BOOzy Hot Cocoa Contest\nMore info: https://www.visitlaramie.org/event/poms-1st-ever-boozy-hot-cocoa-contest/39308/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Guest-Flyer-Front-2-_DE6F5BFE-E9FD-5DEA-A65E20771F031696_deb37c57-f4ff-ddd6-ea7fdf5919e02978.png\nCategories: Social Events
 GEO:41.309522;-105.587753
@@ -453,15 +444,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Seeing! + Startalk
 UID:39389@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-seeing!-%2b-startalk/39389/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:Music at the Cathedral\nMore info: https://www.visitlaramie.org/event/music-at-the-cathedral/39447/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-07-135908_EF7F8D00-03EE-2645-8F648B39268D790E_ef811118-bc8f-028e-693dcf1e11191fde.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
-GEO:41.312466;-105.592455
-LOCATION:St. Matthew's Cathedral
-SUMMARY:Music at the Cathedral
-UID:39447@visitlaramie.org
-URL:https://www.visitlaramie.org/event/music-at-the-cathedral/39447/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
@@ -642,6 +624,15 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football "Save the Date"
 UID:38790@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38790/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DESCRIPTION:Flickerlight Tours at The Laramie Plains Museum\nMore info: https://www.visitlaramie.org/event/flickerlight-tours-at-the-laramie-plains-museum/39468/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-09-131113_5513E72B-05A6-B2AD-C3E5654EEF6A53A3_55163f5c-e2f9-294b-762260e374ab45c5.png\nCategories: Annual Events & Festivals\, History\, Community
+GEO:41.312068;-105.589055
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Flickerlight Tours at The Laramie Plains Museum
+UID:39468@visitlaramie.org
+URL:https://www.visitlaramie.org/event/flickerlight-tours-at-the-laramie-plains-museum/39468/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
