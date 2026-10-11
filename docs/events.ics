@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:LAramie Clothing Exchange\nMore info: https://www.visitlaramie.org/event/laramie-clothing-exchange/39291/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-26-110626_767A66B3-B9A7-F2BA-0D0E2CFE4B1CA185_768c231c-f871-a993-5fe7b25528274ca1.png\nCategories: Community
-GEO:41.326127;-105.554361
-SUMMARY:LAramie Clothing Exchange
-UID:39291@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-clothing-exchange/39291/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:Andy Warhol: 99 Photos\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39239/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/1658/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-101509_06183010-D4B1-995A-750F7918423610F5_06230f70-f4c8-0df9-63c595565aa3e7f3.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -357,15 +349,6 @@ UID:39365@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-mbb-cowboys-vs-the-college-of-idaho/39365/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Urban Sketching @ Greenhill Cemetery\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-greenhill-cemetery/39384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-26-_82C91F7A-BA20-AF59-8D47CF62DAED0308_82d8411d-f619-51fe-bbcb9c9005107ca1.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:Greenhill Cemetary
-SUMMARY:Urban Sketching @ Greenhill Cemetery
-UID:39384@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-greenhill-cemetery/39384/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:Sip 'n Savor History: A Trek to Yellowstone\nMore info: https://www.visitlaramie.org/event/sip-n-savor-history%3a-a-trek-to-yellowstone/39442/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/horse-cart-drawing-24_B48CB9B3-DE57-D848-EB31A3B068F80154_b4a5d5ae-c69f-a572-6dad2198506ea208.jpg\nCategories: History
 GEO:41.310382;-105.594446
@@ -391,15 +374,6 @@ LOCATION:Gorgon Gallery
 SUMMARY:Gorgon Gallery Presents: Book Arts: A Revolution
 UID:39377@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gorgon-gallery-presents%3a-book-arts%3a-a-revolution/39377/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Laramie Hay Company 2026 Fall Festival\nMore info: https://www.visitlaramie.org/event/laramie-hay-company-2026-fall-festival/39435/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LAramie-Hay-Company-2026-Fall-Festival_7EC492F4-D83B-1196-7DE842B1D555182B_7ef98081-f346-345a-63237797ed9bd4be.jpg\nCategories: Annual Events & Festivals
-GEO:41.261755;-105.696012
-LOCATION:Laramie Hay Company | Oct. 10-11
-SUMMARY:Laramie Hay Company 2026 Fall Festival
-UID:39435@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-hay-company-2026-fall-festival/39435/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
@@ -435,15 +409,6 @@ LOCATION:University of Wyoming\, Visual Arts Building
 SUMMARY:Annual Iron Pour
 UID:39428@visitlaramie.org
 URL:https://www.visitlaramie.org/event/annual-iron-pour/39428/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Full-Dome Film: Seeing! + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-seeing!-%2b-startalk/39389/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-123811_1D295DB9-BFFD-DDEB-10E9B9A0BE4ECFFE_1d2a715e-d973-30cc-e1563da5b06e1a41.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Seeing! + Startalk
-UID:39389@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-seeing!-%2b-startalk/39389/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
@@ -534,15 +499,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:UW Music Presents: Wind Symphony\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-wind-symphony/39374/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-23-135049_1E37E12D-03DC-D352-7B9A301C0D0DE491_1e3bf53e-eede-d520-16cc2aa3a631f332.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.323713;-105.613005
-LOCATION:Buchanan Performing Arts Center / Recital Hall
-SUMMARY:UW Music Presents: Wind Symphony
-UID:39374@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-wind-symphony/39374/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
@@ -696,15 +652,6 @@ UID:39403@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-science-of-sci-fi/39403/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Laser Show: Best of Pink Floyd\nMore info: https://www.visitlaramie.org/event/laser-show%3a-best-of-pink-floyd/39390/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-124030_1D39C074-0CE7-D99B-2DB9F4DD898FF265_1d3a403e-a587-a9f4-f0cbc242379db361.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Laser Show: Best of Pink Floyd
-UID:39390@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laser-show%3a-best-of-pink-floyd/39390/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:"How to Be a (Happy) Skeptic" -- A Public Talk by Massimo Pigliucci\nMore info: https://www.visitlaramie.org/event/how-to-be-a-(happy)-skeptic-a-public-talk-by-massimo-pigliucci/39364/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-23-101308_1671F4BF-E0C5-E783-E0106DD418D93304_1674ac58-eb6b-0de4-dc9a4685d5a2918c.png\nCategories: University of Wyoming\, Education
 GEO:41.311367;-105.591101
@@ -714,15 +661,6 @@ UID:39364@visitlaramie.org
 URL:https://www.visitlaramie.org/event/how-to-be-a-(happy)-skeptic-a-public-talk-by-massimo-pigliucci/39364/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:A Bookish Social: Books\, Bites\, & Banter\nMore info: https://www.visitlaramie.org/event/a-bookish-social%3a-books-bites-%26-banter/39338/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Friendraiser-Event---Sponsor-1-1-_8071DFF4-BBA0-B0AE-1A4B191C52127878_8084c051-d243-762f-d767032e1ce77408.png\nCategories: Community\, Social Events
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:A Bookish Social: Books\, Bites\, & Banter
-UID:39338@visitlaramie.org
-URL:https://www.visitlaramie.org/event/a-bookish-social%3a-books-bites-%26-banter/39338/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
 DESCRIPTION:YOUTH FIRST SHOTS\nMore info: https://www.visitlaramie.org/event/youth-first-shots/39357/\nVenue: Laramie Rifle Range\nVenue Info: https://www.visitlaramie.org/listing/laramie-rifle-range/453/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-103023_1B8C9C36-D37C-AFEF-B12B07CB9DDA599D_1b8d4795-bb73-3d4e-8cd0aeedcf846a32.png\nCategories: Sports
 GEO:41.311367;-105.591101
@@ -730,15 +668,6 @@ LOCATION:Laramie Rifle Range
 SUMMARY:YOUTH FIRST SHOTS
 UID:39357@visitlaramie.org
 URL:https://www.visitlaramie.org/event/youth-first-shots/39357/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DESCRIPTION:Create Your Own Story Book Art Making Workshop: Sewing it all up!\nMore info: https://www.visitlaramie.org/event/create-your-own-story-book-art-making-workshop%3a-sewing-it-all-up!/39441/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/KatieBook_B466F751-A448-4BC7-92BB9DE2EBE40391_b4776c6e-e576-46ab-c16271dac155584a.jpg\nCategories: Craft Classes & Workshops
-GEO:41.310382;-105.594446
-LOCATION:Wyoming Women's History House
-SUMMARY:Create Your Own Story Book Art Making Workshop: Sewing it all up!
-UID:39441@visitlaramie.org
-URL:https://www.visitlaramie.org/event/create-your-own-story-book-art-making-workshop%3a-sewing-it-all-up!/39441/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
