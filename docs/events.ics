@@ -91,15 +91,6 @@ UID:39443@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sip-n-savor-history%3a-in-the-scent-of-horses-hay-and-old-barns/39443/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Double Feature: Night of the Living Dead and Halloween\nMore info: https://www.visitlaramie.org/event/double-feature%3a-night-of-the-living-dead-and-halloween/39417/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-30-135812_86F88296-D314-6C9B-39D646788D1A1343_86fbfdf7-b82b-f3a9-db483d7accc6c13b.png\nCategories: Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center
-SUMMARY:Double Feature: Night of the Living Dead and Halloween
-UID:39417@visitlaramie.org
-URL:https://www.visitlaramie.org/event/double-feature%3a-night-of-the-living-dead-and-halloween/39417/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Girl Crush Live at The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/girl-crush-live-at-the-cowboy-saloon/39111/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_57429B99-3CA1-4A11-8BD094C6580C0920_60891801-8520-4782-87468aba08ac3a4e.jpg\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture\, Social Events
 GEO:41.312707;-105.595125
@@ -257,15 +248,6 @@ LOCATION:Laramie Plains Civic Center
 SUMMARY:THE GOBLIN KING’S MASQUERADE BALL
 UID:39419@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-goblin-king%e2%80%99s-masquerade-ball/39419/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DESCRIPTION:Laramie Hay Company 2026 Fall Festival\nMore info: https://www.visitlaramie.org/event/laramie-hay-company-2026-fall-festival/39438/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LAramie-Hay-Company-2026-Fall-Festival_7EC492F4-D83B-1196-7DE842B1D555182B_7ef98081-f346-345a-63237797ed9bd4be.jpg\nCategories: Annual Events & Festivals
-GEO:41.261755;-105.696012
-LOCATION:Laramie Hay Company | Oct. 10-11
-SUMMARY:Laramie Hay Company 2026 Fall Festival
-UID:39438@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-hay-company-2026-fall-festival/39438/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
