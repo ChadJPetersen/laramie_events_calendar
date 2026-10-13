@@ -119,7 +119,7 @@ URL:https://www.visitlaramie.org/event/visiting-artist-talk-by-david-eaton/39429
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
-DESCRIPTION:An Afternoon with Percival Everret\nMore info: https://www.visitlaramie.org/event/an-afternoon-with-percival-everret/39448/\nVenue: E & H Guide Service - Custom Horseback Rides\nVenue Info: https://www.visitlaramie.org/listing/e-%26-h-guide-service-custom-horseback-rides/187/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/everett-web_EF4151E7-A11B-EE7E-99D4A0E8C25D34DA_ef59a07b-bf5c-e666-2c18316a7e4a2462.jpg\nCategories: Performing Arts & Culture
+DESCRIPTION:An Afternoon with Percival Everret\nMore info: https://www.visitlaramie.org/event/an-afternoon-with-percival-everret/39448/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/everett-web_EF4151E7-A11B-EE7E-99D4A0E8C25D34DA_ef59a07b-bf5c-e666-2c18316a7e4a2462.jpg\nCategories: Performing Arts & Culture
 GEO:41.311367;-105.591101
 LOCATION:UW Education Auditorium
 SUMMARY:An Afternoon with Percival Everret
@@ -223,13 +223,13 @@ UID:39368@visitlaramie.org
 URL:https://www.visitlaramie.org/event/exhibition%3a-wyoming-cowboys-vs-college-of-idaho-yotes-laramie/39368/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-DESCRIPTION:Urban Sketching @ Trunk or Treat\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-trunk-or-treat/39387/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-26-_83628D30-C960-B953-0BB149335FA968F0_8368b32c-0699-c77e-0f48dcc7f73c8917.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311367;-105.591101
-LOCATION:University of Wyoming Plaza
-SUMMARY:Urban Sketching @ Trunk or Treat
-UID:39387@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-trunk-or-treat/39387/
+DTSTART;VALUE=DATE:20261024
+DESCRIPTION:Laramie Audubon Kids & Families Spooky Scavenger Hunt\nMore info: https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-spooky-scavenger-hunt/39471/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LAS-Halloween-2026_C1A0A612-0A23-95F5-8B4ADBB95D4E60E7_c1c55749-eba9-baa5-a01069e5b16ab644.png\nCategories: Family Fun
+GEO:41.306158;-105.573624
+LOCATION:Washington Park Bandshell
+SUMMARY:Laramie Audubon Kids & Families Spooky Scavenger Hunt
+UID:39471@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-audubon-kids-%26-families-spooky-scavenger-hunt/39471/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
@@ -248,6 +248,15 @@ LOCATION:Laramie Plains Civic Center
 SUMMARY:THE GOBLIN KING’S MASQUERADE BALL
 UID:39419@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-goblin-king%e2%80%99s-masquerade-ball/39419/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DESCRIPTION:Urban Sketching @ Trunk or Treat\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-trunk-or-treat/39387/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-26-_83628D30-C960-B953-0BB149335FA968F0_8368b32c-0699-c77e-0f48dcc7f73c8917.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
+GEO:41.311367;-105.591101
+LOCATION:University of Wyoming Plaza
+SUMMARY:Urban Sketching @ Trunk or Treat
+UID:39387@visitlaramie.org
+URL:https://www.visitlaramie.org/event/urban-sketching-%40-trunk-or-treat/39387/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
@@ -393,6 +402,32 @@ UID:39428@visitlaramie.org
 URL:https://www.visitlaramie.org/event/annual-iron-pour/39428/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:In the Greenhouse: Make Your Own Cyanotype Sun Prints!\nMore info: https://www.visitlaramie.org/event/in-the-greenhouse%3a-make-your-own-cyanotype-sun-prints!/39473/\nVenue: Science Loves Art\nVenue Info: https://www.visitlaramie.org/listing/science-loves-art/582/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/cy_E88717DF-C44E-B1D1-307C54975A70FFF9_e899a9e3-02d6-c5a5-70c1e4ef71537a9b.png\nCategories: Craft Classes & Workshops
+GEO:41.310369;-105.592067
+LOCATION:Science Loves Art
+SUMMARY:In the Greenhouse: Make Your Own Cyanotype Sun Prints!
+UID:39473@visitlaramie.org
+URL:https://www.visitlaramie.org/event/in-the-greenhouse%3a-make-your-own-cyanotype-sun-prints!/39473/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+DESCRIPTION:October Tuesday Cruiseday\nMore info: https://www.visitlaramie.org/event/october-tuesday-cruiseday/39466/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-09-at-10.36.20-AM_4F3BA720-B698-949F-0A97447A73696964_4f461244-d56d-ac65-c1da7b924fe0c3dd.png\nCategories: Community
+GEO:41.310983;-105.595797
+LOCATION:Meet at 1st St Plaza before biking around town
+SUMMARY:October Tuesday Cruiseday
+UID:39466@visitlaramie.org
+URL:https://www.visitlaramie.org/event/october-tuesday-cruiseday/39466/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:Cooper Lavallee + Mars Birch @ TGU\nMore info: https://www.visitlaramie.org/event/cooper-lavallee-%2b-mars-birch-%40-tgu/39459/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/cooper-mars-oct-17_790E7258-3722-4F7D-84F3E6447930D1CF_26a73002-d710-4664-bfc856bd09daf31f.png\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+SUMMARY:Cooper Lavallee + Mars Birch @ TGU
+UID:39459@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cooper-lavallee-%2b-mars-birch-%40-tgu/39459/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DESCRIPTION:Cowboy Saloon Present: Jamie Hansen\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-present%3a-jamie-hansen/39069/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-4_2E48B220-A61C-40F2-868DE637936B07F1_f6abe00d-010e-472c-acbd5c7f20282a83.jpg\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -510,6 +545,15 @@ UID:39386@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-%40-laramie-tree-area/39386/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261020
+DESCRIPTION:Special Public Presentation: A Dinosaur Art Life with Paleoartist Bob Nicholls\nMore info: https://www.visitlaramie.org/event/special-public-presentation%3a-a-dinosaur-art-life-with-paleoartist-bob-nicholls/39470/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-10-09_15-40-22_5A1F8989-C33B-E95C-D6C78F311D7B7779_5a34ff55-ad78-2426-9385f0f0a20ce3a2.png\nCategories: University of Wyoming
+GEO:41.313459;-105.561558
+LOCATION:Visual Arts Auditorium (VA 111) in the UW Visual Arts Dept
+SUMMARY:Special Public Presentation: A Dinosaur Art Life with Paleoartist Bob Nicholls
+UID:39470@visitlaramie.org
+URL:https://www.visitlaramie.org/event/special-public-presentation%3a-a-dinosaur-art-life-with-paleoartist-bob-nicholls/39470/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261014
 DESCRIPTION:Open Jam Night\nMore info: https://www.visitlaramie.org/event/open-jam-night/39418/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-30-131955_8720B438-CB76-3804-219614F8E43A8118_872f18dd-ddd8-4b0d-79999eec00b70258.png\nCategories: Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -556,12 +600,12 @@ URL:https://www.visitlaramie.org/event/laramies-west-side-neighborhood-as-a-hist
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
-DESCRIPTION:UW Cowboy Football "Save the Date"\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38790/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-03-10-121442_7972C802-02B3-2A55-C9F07C2CF33D84E8_79737a58-ebef-5601-751182c7fac73bfe.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+DESCRIPTION:UW Cowboy Football: Cowboys vs. Huskies\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboys-vs-huskies/38790/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-12-134716_F090B769-FEF6-09EA-514CACAAB2CF838D_f0911f3c-c47b-d061-ab6de757eaf71f47.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
 LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football "Save the Date"
+SUMMARY:UW Cowboy Football: Cowboys vs. Huskies
 UID:38790@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football-save-the-date/38790/
+URL:https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboys-vs-huskies/38790/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
@@ -662,6 +706,15 @@ URL:https://www.visitlaramie.org/event/buchanan-center-special-events-presents%3
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
+DESCRIPTION:Tom Andes + Cat Rose + Bree Anna Mustad @ TGU\nMore info: https://www.visitlaramie.org/event/tom-andes-%2b-cat-rose-%2b-bree-anna-mustad-%40-tgu/39460/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Great-Untamed-Bicoy-Andes-Mustad-October-24_315E4A0A-5E5E-4658-B60210C5984504F9_4828a358-146d-4404-a3eada1928a3abd9.jpg\nCategories: Concerts & Live Music
+GEO:41.311479;-105.593276
+LOCATION:The Great Untamed
+SUMMARY:Tom Andes + Cat Rose + Bree Anna Mustad @ TGU
+UID:39460@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tom-andes-%2b-cat-rose-%2b-bree-anna-mustad-%40-tgu/39460/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
 DESCRIPTION:SCARAMIE\nMore info: https://www.visitlaramie.org/event/scaramie/39434/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/SCARAMIE_53BB7E65-E0D2-7FB1-3DFECC714EDF0DFD_53d76efd-ce5f-21a9-fd874a4d91cd0594.jpg\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.311367;-105.591101
 LOCATION:Downtown Laramie
@@ -688,6 +741,15 @@ UID:39395@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-stellar-graveyard/39395/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+DESCRIPTION:Laramie Audubon Evening Porgram\nMore info: https://www.visitlaramie.org/event/laramie-audubon-evening-porgram/39472/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Lorikeet_C2652E5D-0A39-6B45-E6D440E2755E3C87_c2691be1-c227-732a-25b72ebf0b55d88e.jpg\nCategories: Education
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Laramie Audubon Evening Porgram
+UID:39472@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-audubon-evening-porgram/39472/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Toys for Tots Chili dog dinner\nMore info: https://www.visitlaramie.org/event/toys-for-tots-chili-dog-dinner/39439/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot_20260731-144039_99A3A071-E2AE-70A1-97167452014AE196_99c2ee39-e541-c1b8-1bcdba57b249cb4b.png\nCategories: Community\, Family Fun\, Social Events
 GEO:41.308313;-105.565468
@@ -695,5 +757,14 @@ LOCATION:VFW Post #2221\, 2142 East Garfield Street
 SUMMARY:Toys for Tots Chili dog dinner
 UID:39439@visitlaramie.org
 URL:https://www.visitlaramie.org/event/toys-for-tots-chili-dog-dinner/39439/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:Mountain West Farm Bureau Insurance Free Community Halloween Carnival\nMore info: https://www.visitlaramie.org/event/mountain-west-farm-bureau-insurance-free-community-halloween-carnival/39458/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Halloween-2026-3_2574AD24-B353-2A7E-A75EA1683242BB8E_25d3aed4-afb0-3c72-945e06d96063a58c.png\nCategories: Community
+GEO:41.304317;-105.545291
+LOCATION:Mountain West Farm Bureau Insurance
+SUMMARY:Mountain West Farm Bureau Insurance Free Community Halloween Carnival
+UID:39458@visitlaramie.org
+URL:https://www.visitlaramie.org/event/mountain-west-farm-bureau-insurance-free-community-halloween-carnival/39458/
 END:VEVENT
 END:VCALENDAR
