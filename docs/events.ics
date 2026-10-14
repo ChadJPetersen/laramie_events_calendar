@@ -109,6 +109,15 @@ UID:39397@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-show%3a-zeppelin-unbound/39397/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:Pre-Rift League of Legends\nMore info: https://www.visitlaramie.org/event/pre-rift-league-of-legends/39481/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-132145_2335311D-9DFB-9187-A73F75EEE0EA42A6_2337982e-cd94-19d5-d2542f0e793e237e.png\nCategories: Community\, Family Fun
+GEO:41.310901;-105.595118
+LOCATION:Collector's Hub
+SUMMARY:Pre-Rift League of Legends
+UID:39481@visitlaramie.org
+URL:https://www.visitlaramie.org/event/pre-rift-league-of-legends/39481/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261109
 DESCRIPTION:Visiting Artist Talk by David Eaton\nMore info: https://www.visitlaramie.org/event/visiting-artist-talk-by-david-eaton/39429/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-113139_E8BC5D31-A22D-213F-436855B8BF16CA01_e9382f6e-f62f-a6ae-3cf8d0568172a2d8.png\nCategories: University of Wyoming\, Performing Arts & Culture\, Craft Classes & Workshops
 GEO:41.310928;-105.564614
@@ -116,6 +125,15 @@ LOCATION:University of Wyoming\, Visual Arts Building
 SUMMARY:Visiting Artist Talk by David Eaton
 UID:39429@visitlaramie.org
 URL:https://www.visitlaramie.org/event/visiting-artist-talk-by-david-eaton/39429/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:BooFest on the Big Screen - Free Movie!\nMore info: https://www.visitlaramie.org/event/boofest-on-the-big-screen-free-movie!/39474/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Artboard-1_F4C7D5EC-E2B8-8284-23CECBB1A647AEA8_f4d5a2a2-08fc-2d95-aaaa3e20b60032fe.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.309950;-105.560391
+LOCATION:Studio City Laramie Movie Theater
+SUMMARY:BooFest on the Big Screen - Free Movie!
+UID:39474@visitlaramie.org
+URL:https://www.visitlaramie.org/event/boofest-on-the-big-screen-free-movie!/39474/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
@@ -141,6 +159,24 @@ GEO:41.314165;-105.568122
 SUMMARY:Wyoming Voices: Our Stories of America
 UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DESCRIPTION:Historic Laramie Union Pacific Depot Open House\nMore info: https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39486/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-134818_2419DC33-F4A4-F34E-F1F72756DC4C2278_24213d10-b504-f54e-e80369fe3dbb794e.png\nCategories: History\, Community\, Education\, Family Fun
+GEO:41.308353;-105.596400
+LOCATION:Historic Laramie Union Pacific Train Depot
+SUMMARY:Historic Laramie Union Pacific Depot Open House
+UID:39486@visitlaramie.org
+URL:https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39486/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:Disney Lorcana Hyperian City Pre-Release / Laramie\nMore info: https://www.visitlaramie.org/event/disney-lorcana-hyperian-city-pre-release-laramie/39479/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-130416_22B66321-914E-CDEB-1BED7E3D1FB5807C_22b6a398-b5d2-709e-51a7242a5d9f20e6.png\nCategories: Community\, Family Fun
+GEO:41.310901;-105.595118
+LOCATION:Collector's Hub
+SUMMARY:Disney Lorcana Hyperian City Pre-Release / Laramie
+UID:39479@visitlaramie.org
+URL:https://www.visitlaramie.org/event/disney-lorcana-hyperian-city-pre-release-laramie/39479/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
@@ -179,7 +215,7 @@ URL:https://www.visitlaramie.org/event/full-dome-film%3a-the-sun%3a-our-living-s
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
-DESCRIPTION:Laramie Dinner Club\nMore info: https://www.visitlaramie.org/event/laramie-dinner-club/39363/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LDC_EABE3F71-04F9-3E04-E566E378C025F84A_eac2c16b-00c8-ca09-a346929920e07f8f.png\nCategories: Community\, Social Events
+DESCRIPTION:Laramie Dinner Club\nMore info: https://www.visitlaramie.org/event/laramie-dinner-club/39363/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-135134_243BF7C4-EBD5-AE0E-254C24A10CF4C4F7_243ce61a-c7c5-4ef8-15cb71b2ec7c99e2.png\nCategories: Community\, Social Events
 GEO:41.311367;-105.591101
 LOCATION:Multiple Locations
 SUMMARY:Laramie Dinner Club
@@ -275,6 +311,15 @@ LOCATION:War Memorial Stadium
 SUMMARY:UW Cowboy Football: Cowboy vs. Falcons
 UID:38791@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboy-vs-falcons/38791/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:University of Wyoming Wrestling Social\nMore info: https://www.visitlaramie.org/event/university-of-wyoming-wrestling-social/39488/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-135740_24857303-A373-57D6-B91FF0A54C6914CD_248b9fe5-fe69-0e10-95e9db92c13fc20a.png\nCategories: University of Wyoming\, Sports
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:University of Wyoming Wrestling Social
+UID:39488@visitlaramie.org
+URL:https://www.visitlaramie.org/event/university-of-wyoming-wrestling-social/39488/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
@@ -385,6 +430,15 @@ UID:39396@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-metal/39396/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DESCRIPTION:Halloween Drag Show @ The Gryphon Theatre\nMore info: https://www.visitlaramie.org/event/halloween-drag-show-%40-the-gryphon-theatre/39480/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-131248_23187A47-EE9D-38A5-16A79FFE93B6AA69_231deddf-eb0a-9f14-78b512bad9ccd475.png\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:The Gryphon Theatre
+SUMMARY:Halloween Drag Show @ The Gryphon Theatre
+UID:39480@visitlaramie.org
+URL:https://www.visitlaramie.org/event/halloween-drag-show-%40-the-gryphon-theatre/39480/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261008
 DESCRIPTION:Turning The Pages OF America\nMore info: https://www.visitlaramie.org/event/turning-the-pages-of-america/39454/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112732_CB5182C4-004F-FA77-6DCBF7099A2F1025_cb59f300-ee3e-b461-362f7ea5d3a7f061.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
@@ -420,6 +474,15 @@ UID:39466@visitlaramie.org
 URL:https://www.visitlaramie.org/event/october-tuesday-cruiseday/39466/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:Historic Laramie Union Pacific Depot Open House\nMore info: https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39485/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-134818_2419DC33-F4A4-F34E-F1F72756DC4C2278_24213d10-b504-f54e-e80369fe3dbb794e.png\nCategories: History\, Community\, Education\, Family Fun
+GEO:41.308353;-105.596400
+LOCATION:Historic Laramie Union Pacific Train Depot
+SUMMARY:Historic Laramie Union Pacific Depot Open House
+UID:39485@visitlaramie.org
+URL:https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39485/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DESCRIPTION:Cooper Lavallee + Mars Birch @ TGU\nMore info: https://www.visitlaramie.org/event/cooper-lavallee-%2b-mars-birch-%40-tgu/39459/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/cooper-mars-oct-17_790E7258-3722-4F7D-84F3E6447930D1CF_26a73002-d710-4664-bfc856bd09daf31f.png\nCategories: Concerts & Live Music
 GEO:41.311479;-105.593276
@@ -435,6 +498,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Cowboy Saloon Present: Jamie Hansen
 UID:39069@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-saloon-present%3a-jamie-hansen/39069/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+DESCRIPTION:Dog Days at the Library\nMore info: https://www.visitlaramie.org/event/dog-days-at-the-library/39478/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-130024_227A36A6-DC73-3157-882A19AB60E778CA_227a8118-e504-c2fb-d185f8c057ca0897.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Dog Days at the Library
+UID:39478@visitlaramie.org
+URL:https://www.visitlaramie.org/event/dog-days-at-the-library/39478/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260401
@@ -480,6 +552,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Aaron Watson with Special Guest Jake Watson
 UID:39292@visitlaramie.org
 URL:https://www.visitlaramie.org/event/aaron-watson-with-special-guest-jake-watson/39292/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:Walden by Amy Berryman\nMore info: https://www.visitlaramie.org/event/walden-by-amy-berryman/39285/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-20-135131_474C80C8-DA0C-880F-1316FBA1A4736E87_474d033a-0649-39f5-96fb2917ccc42519.png\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:Gryphon Theatre @ The Laramie Plains Civic Center
+SUMMARY:Walden by Amy Berryman
+UID:39285@visitlaramie.org
+URL:https://www.visitlaramie.org/event/walden-by-amy-berryman/39285/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -579,6 +660,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Laser Michael Jackson
 UID:39398@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-michael-jackson/39398/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DESCRIPTION:2026 Fall Exhibitions Opening Reception\nMore info: https://www.visitlaramie.org/event/2026-fall-exhibitions-opening-reception/39482/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-132459_2350B512-0EE1-90F3-3614B660FCE66A09_2359723d-ae6f-0764-00d0389812eabb9c.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:2026 Fall Exhibitions Opening Reception
+UID:39482@visitlaramie.org
+URL:https://www.visitlaramie.org/event/2026-fall-exhibitions-opening-reception/39482/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
@@ -766,5 +856,14 @@ LOCATION:Mountain West Farm Bureau Insurance
 SUMMARY:Mountain West Farm Bureau Insurance Free Community Halloween Carnival
 UID:39458@visitlaramie.org
 URL:https://www.visitlaramie.org/event/mountain-west-farm-bureau-insurance-free-community-halloween-carnival/39458/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DESCRIPTION:Adult Crafternoon: Seed Saving Isn't Scary : A Pumpkin Carving Party\nMore info: https://www.visitlaramie.org/event/adult-crafternoon%3a-seed-saving-isnt-scary-%3a-a-pumpkin-carving-party/39477/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-125547_224B804E-96D7-F2D2-097C87E06034EFAA_224c12df-03a0-7a7d-44af0de67342599b.png\nCategories: Community\, Craft Classes & Workshops
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Adult Crafternoon: Seed Saving Isn't Scary : A Pumpkin Carving Party
+UID:39477@visitlaramie.org
+URL:https://www.visitlaramie.org/event/adult-crafternoon%3a-seed-saving-isnt-scary-%3a-a-pumpkin-carving-party/39477/
 END:VEVENT
 END:VCALENDAR
