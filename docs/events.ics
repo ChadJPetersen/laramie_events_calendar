@@ -232,6 +232,15 @@ UID:39382@visitlaramie.org
 URL:https://www.visitlaramie.org/event/the-haunted-basement-the-zombie-apocalypse/39382/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+DESCRIPTION:46th Annual Holiday Bazaar\nMore info: https://www.visitlaramie.org/event/46th-annual-holiday-bazaar/39356/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-29-094710_4A96F103-020D-3D32-C20375B19A5BF539_4aa131b4-0ea4-6a3a-5413e6baff4567d5.png\nCategories: Community\, Social Events
+GEO:41.286512;-105.592547
+LOCATION:Albany County Fairgrounds
+SUMMARY:46th Annual Holiday Bazaar
+UID:39356@visitlaramie.org
+URL:https://www.visitlaramie.org/event/46th-annual-holiday-bazaar/39356/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Tipsy Tarot & Terracotta\nMore info: https://www.visitlaramie.org/event/tipsy-tarot-%26-terracotta/39440/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-06-100656_B3C01307-E749-C8D3-BD1EF2436491A212_b400ed02-c653-94dd-477e2476c7dce794.png\nCategories: Annual Events & Festivals\, Community\, Craft Classes & Workshops
 GEO:41.309522;-105.587753
@@ -293,6 +302,15 @@ LOCATION:University of Wyoming Plaza
 SUMMARY:Urban Sketching @ Trunk or Treat
 UID:39387@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-%40-trunk-or-treat/39387/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:UW Music Presents: University of Wyoming Choirs\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-university-of-wyoming-choirs/39490/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-14-100022_4FA9DE0C-D1FC-3A0E-AB2CF7691D2E98A9_4faa2347-f025-17ae-ddcf75873c8c382c.png\nCategories: Concerts & Live Music\, University of Wyoming\, Family Fun
+GEO:41.311367;-105.591101
+LOCATION:Buchanan Center for the Performing Arts
+SUMMARY:UW Music Presents: University of Wyoming Choirs
+UID:39490@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-music-presents%3a-university-of-wyoming-choirs/39490/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
@@ -635,15 +653,6 @@ UID:39470@visitlaramie.org
 URL:https://www.visitlaramie.org/event/special-public-presentation%3a-a-dinosaur-art-life-with-paleoartist-bob-nicholls/39470/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261014
-DESCRIPTION:Open Jam Night\nMore info: https://www.visitlaramie.org/event/open-jam-night/39418/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-30-131955_8720B438-CB76-3804-219614F8E43A8118_872f18dd-ddd8-4b0d-79999eec00b70258.png\nCategories: Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center
-SUMMARY:Open Jam Night
-UID:39418@visitlaramie.org
-URL:https://www.visitlaramie.org/event/open-jam-night/39418/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
 DESCRIPTION:Shoreline Sentinels of Great Salt Lake\nMore info: https://www.visitlaramie.org/event/shoreline-sentinels-of-great-salt-lake/39437/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-05-104914_81BD517C-E64C-A1DC-1B46CA4F55048689_81d20232-a3d7-1680-c509b4886d848efe.png\nCategories: Community\, Outdoor Recreation\, Education\, Family Fun
 GEO:41.310342;-105.587834
@@ -838,6 +847,15 @@ LOCATION:Albany County Public Library
 SUMMARY:Laramie Audubon Evening Porgram
 UID:39472@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-audubon-evening-porgram/39472/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+DESCRIPTION:Wyoming Herpetological Symposium\nMore info: https://www.visitlaramie.org/event/wyoming-herpetological-symposium/39446/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-07-095531_E7093078-A795-45BD-45EA0A6B30F4C130_e72049a6-c7bc-6a30-6d206fbf67a808b3.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Education
+GEO:41.315183;-105.583887
+LOCATION:UW Berry Center
+SUMMARY:Wyoming Herpetological Symposium
+UID:39446@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-herpetological-symposium/39446/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261016
