@@ -331,15 +331,6 @@ UID:39488@visitlaramie.org
 URL:https://www.visitlaramie.org/event/university-of-wyoming-wrestling-social/39488/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:Into the Badlands Tattoo Expo\nMore info: https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/InShot_20260812_201110499_BB3CFDBD-AE60-0BAB-CBE9EDCC14DE77BF_bb46ab3d-ca20-e9ff-a8aec3fc865d5499.jpg\nCategories: Annual Events & Festivals
-GEO:41.282735;-105.593071
-LOCATION:Albany County Fairgrounds
-SUMMARY:Into the Badlands Tattoo Expo
-UID:39271@visitlaramie.org
-URL:https://www.visitlaramie.org/event/into-the-badlands-tattoo-expo/39271/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:POM's 1st Ever BOOzy Hot Cocoa Contest\nMore info: https://www.visitlaramie.org/event/poms-1st-ever-boozy-hot-cocoa-contest/39308/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Guest-Flyer-Front-2-_DE6F5BFE-E9FD-5DEA-A65E20771F031696_deb37c57-f4ff-ddd6-ea7fdf5919e02978.png\nCategories: Social Events
 GEO:41.309522;-105.587753
@@ -465,13 +456,13 @@ UID:39428@visitlaramie.org
 URL:https://www.visitlaramie.org/event/annual-iron-pour/39428/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:In the Greenhouse: Make Your Own Cyanotype Sun Prints!\nMore info: https://www.visitlaramie.org/event/in-the-greenhouse%3a-make-your-own-cyanotype-sun-prints!/39473/\nVenue: Science Loves Art\nVenue Info: https://www.visitlaramie.org/listing/science-loves-art/582/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/cy_E88717DF-C44E-B1D1-307C54975A70FFF9_e899a9e3-02d6-c5a5-70c1e4ef71537a9b.png\nCategories: Craft Classes & Workshops
-GEO:41.310369;-105.592067
-LOCATION:Science Loves Art
-SUMMARY:In the Greenhouse: Make Your Own Cyanotype Sun Prints!
-UID:39473@visitlaramie.org
-URL:https://www.visitlaramie.org/event/in-the-greenhouse%3a-make-your-own-cyanotype-sun-prints!/39473/
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:Music at the Cathedral\nMore info: https://www.visitlaramie.org/event/music-at-the-cathedral/39447/\nVenue: St. Matthew's Cathedral\nVenue Info: https://www.visitlaramie.org/listing/st-matthews-cathedral/259/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-07-135908_EF7F8D00-03EE-2645-8F648B39268D790E_ef811118-bc8f-028e-693dcf1e11191fde.png\nCategories: Concerts & Live Music\, Community\, Performing Arts & Culture
+GEO:41.312466;-105.592455
+LOCATION:St. Matthew's Cathedral
+SUMMARY:Music at the Cathedral
+UID:39447@visitlaramie.org
+URL:https://www.visitlaramie.org/event/music-at-the-cathedral/39447/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261027
@@ -555,15 +546,6 @@ UID:39420@visitlaramie.org
 URL:https://www.visitlaramie.org/event/songwriter-sessions/39420/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261017
-DESCRIPTION:Family Weekend 2026\nMore info: https://www.visitlaramie.org/event/family-weekend-2026/39297/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-26-115642_7840B39F-9EA5-2C6A-6E986E67C964C601_786405ba-9d03-32d9-4de8ee6c6e97e671.png\nCategories: Annual Events & Festivals\, University of Wyoming\, Family Fun
-GEO:41.311795;-105.581222
-LOCATION:University of Wyoming
-SUMMARY:Family Weekend 2026
-UID:39297@visitlaramie.org
-URL:https://www.visitlaramie.org/event/family-weekend-2026/39297/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39381/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/1000020266_59D092BF-0CBC-12DE-3B1738C1CB1EFD9B_59df2ff4-d504-42f1-a11cf75e7b07f751.jpg\nCategories: Community
 GEO:41.311928;-105.600431
@@ -580,6 +562,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261118
+DESCRIPTION:Film Screening of "Made in the West"\nMore info: https://www.visitlaramie.org/event/film-screening-of-made-in-the-west/39432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-132202_ECB28A8C-E6D0-55F4-BC45EC7F0F1BAAB9_ecc60041-dc38-10ad-574c9bb3f2aa2d4a.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.310928;-105.564614
+LOCATION:University of Wyoming\, Visual Arts Building
+SUMMARY:Film Screening of "Made in the West"
+UID:39432@visitlaramie.org
+URL:https://www.visitlaramie.org/event/film-screening-of-made-in-the-west/39432/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
@@ -634,6 +625,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Laser Michael Jackson
 UID:39398@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-michael-jackson/39398/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261118
+DESCRIPTION:Tapas & Tomorrow\nMore info: https://www.visitlaramie.org/event/tapas-%26-tomorrow/39475/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Tapas-Tomorrow_Digital_F5CB1AB8-FF4F-4BC4-87189C3EEFD134B1_f5d20763-ef75-507a-c400eb26566b90b2.png\nCategories: Community
+GEO:41.312136;-105.592375
+LOCATION:Laramie Soup Kitchen
+SUMMARY:Tapas & Tomorrow
+UID:39475@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tapas-%26-tomorrow/39475/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261020
@@ -712,15 +712,6 @@ GEO:41.298808;-106.141485
 SUMMARY:Weekly Yoga At The Centennial Public Library Thursday - Restorative/Yoga Nidra
 UID:39249@visitlaramie.org
 URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-thursday-restorative-yoga-nidra/39249/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261017
-DESCRIPTION:Hay Day Fall Festival at The Vee Bar Ranch\nMore info: https://www.visitlaramie.org/event/hay-day-fall-festival-at-the-vee-bar-ranch/39410/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-29-111715_4E05B910-B4F3-B2C7-985FEDFEBC373E59_4e0745e1-c863-34f4-01947056687e8d17.png\nCategories: Community\, Family Fun
-GEO:41.295961;-106.012811
-LOCATION:Vee Bar Ranch
-SUMMARY:Hay Day Fall Festival at The Vee Bar Ranch
-UID:39410@visitlaramie.org
-URL:https://www.visitlaramie.org/event/hay-day-fall-festival-at-the-vee-bar-ranch/39410/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
@@ -829,15 +820,6 @@ LOCATION:Mountain West Farm Bureau Insurance
 SUMMARY:Mountain West Farm Bureau Insurance Free Community Halloween Carnival
 UID:39458@visitlaramie.org
 URL:https://www.visitlaramie.org/event/mountain-west-farm-bureau-insurance-free-community-halloween-carnival/39458/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DESCRIPTION:Adult Crafternoon: Seed Saving Isn't Scary : A Pumpkin Carving Party\nMore info: https://www.visitlaramie.org/event/adult-crafternoon%3a-seed-saving-isnt-scary-%3a-a-pumpkin-carving-party/39477/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-125547_224B804E-96D7-F2D2-097C87E06034EFAA_224c12df-03a0-7a7d-44af0de67342599b.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Adult Crafternoon: Seed Saving Isn't Scary : A Pumpkin Carving Party
-UID:39477@visitlaramie.org
-URL:https://www.visitlaramie.org/event/adult-crafternoon%3a-seed-saving-isnt-scary-%3a-a-pumpkin-carving-party/39477/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
