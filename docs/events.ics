@@ -64,6 +64,15 @@ UID:39412@visitlaramie.org
 URL:https://www.visitlaramie.org/event/st-pauls-ucc-fall-festival/39412/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Earthborn: Group Printmaking Exhibition Reception\nMore info: https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition-reception/39431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-115056_EC25530C-A3AB-F79D-3088DCF1EDC26082_ec322c01-b325-e279-a0e08b0e94d38c86.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.313464;-105.564486
+LOCATION:University of Wyoming\, Visual Arts Building
+SUMMARY:Earthborn: Group Printmaking Exhibition Reception
+UID:39431@visitlaramie.org
+URL:https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition-reception/39431/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
 DESCRIPTION:Full-Dome Film: Phantom of the Universe\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-phantom-of-the-universe/39405/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-131040_1E4B5D68-D69F-6EE2-43611BA49D7597E5_1e4c0af2-059d-b0ca-95ba4650732a058c.png\nCategories: Community\, University of Wyoming\, Family Fun
 GEO:41.323643;-105.583027
@@ -266,15 +275,6 @@ LOCATION:Prexy's Pasture & Wyoming Union
 SUMMARY:Fall Fest & Safe Treat
 UID:39445@visitlaramie.org
 URL:https://www.visitlaramie.org/event/fall-fest-%26-safe-treat/39445/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-DESCRIPTION:THE GOBLIN KING’S MASQUERADE BALL\nMore info: https://www.visitlaramie.org/event/the-goblin-king%e2%80%99s-masquerade-ball/39419/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-30-131832_B945089D-A0AC-C825-843870CE35960F0E_b945ba8c-057c-a9c5-c0fe0356de658cc9.png\nCategories: Performing Arts & Culture\, Social Events
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center
-SUMMARY:THE GOBLIN KING’S MASQUERADE BALL
-UID:39419@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-goblin-king%e2%80%99s-masquerade-ball/39419/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
@@ -686,6 +686,15 @@ GEO:41.314165;-105.568122
 SUMMARY:Nellie: The First Woman Governor at America's Milestones
 UID:39136@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+DESCRIPTION:College of Education Giving Day Carnival\nMore info: https://www.visitlaramie.org/event/college-of-education-giving-day-carnival/39499/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/CoEd-Carnival_87004A58-0E9F-61D2-A8D892DD3C1218A1_87035bae-bf34-b5e8-ce21bc12847e4ba2.jpg\nCategories: University of Wyoming\, Family Fun
+GEO:41.312616;-105.570928
+LOCATION:College of Education Gym
+SUMMARY:College of Education Giving Day Carnival
+UID:39499@visitlaramie.org
+URL:https://www.visitlaramie.org/event/college-of-education-giving-day-carnival/39499/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
