@@ -136,12 +136,12 @@ UID:39448@visitlaramie.org
 URL:https://www.visitlaramie.org/event/an-afternoon-with-percival-everret/39448/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-DESCRIPTION:Albany County Historical Society: Laramie's Historical West Side District\nMore info: https://www.visitlaramie.org/event/albany-county-historical-society%3a-laramies-historical-west-side-district/39058/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/189720_108670819213224_8029321_n_83fd790d-5056-a36f-23ef9d8598d32722.jpg\nCategories: History\, Community\, Wyoming 250
-GEO:41.312068;-105.589055
-SUMMARY:Albany County Historical Society: Laramie's Historical West Side District
-UID:39058@visitlaramie.org
-URL:https://www.visitlaramie.org/event/albany-county-historical-society%3a-laramies-historical-west-side-district/39058/
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Centennial Trunk or Treat\nMore info: https://www.visitlaramie.org/event/centennial-trunk-or-treat/39525/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-19-134747_8841F4F4-F4EF-4511-E130578A278B4132_8878952c-cda6-b778-4aadf3c53212d747.png\nCategories: Community\, Family Fun\, Social Events
+GEO:41.313574;-106.142375
+SUMMARY:Centennial Trunk or Treat
+UID:39525@visitlaramie.org
+URL:https://www.visitlaramie.org/event/centennial-trunk-or-treat/39525/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
@@ -286,13 +286,13 @@ UID:39387@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-%40-trunk-or-treat/39387/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-DESCRIPTION:Live Presentation: Wyoming Skies: Autumnal Equinox w/ Dark Skies in Laramie\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-autumnal-equinox-w-dark-skies-in-laramie/39399/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-125858_1DEDD004-C3D9-B354-27B293771172CB11_1defeb2f-ee2b-51f0-9a4729d45ac7c0b4.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Wyoming Skies: Autumnal Equinox w/ Dark Skies in Laramie
-UID:39399@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-autumnal-equinox-w-dark-skies-in-laramie/39399/
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:Global Goosebumps\nMore info: https://www.visitlaramie.org/event/global-goosebumps/39522/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Global-Goosebumps-2026_56D4F7E4-07F3-2A00-05DA5BE5DB224A9D_56e21778-da77-44f3-057513025ffafe48.png\nCategories: Annual Events & Festivals\, Community\, University of Wyoming\, Performing Arts & Culture\, Education\, Family Fun\, Social Events
+GEO:41.314165;-105.568122
+LOCATION:Centennial Complex (American Heritage Center & Art Museum)
+SUMMARY:Global Goosebumps
+UID:39522@visitlaramie.org
+URL:https://www.visitlaramie.org/event/global-goosebumps/39522/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
@@ -403,15 +403,6 @@ UID:39442@visitlaramie.org
 URL:https://www.visitlaramie.org/event/sip-n-savor-history%3a-a-trek-to-yellowstone/39442/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-DESCRIPTION:Alok: Eat\, Pray\, Leave\nMore info: https://www.visitlaramie.org/event/alok%3a-eat-pray-leave/39416/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-30-131745_86A5AE85-E398-1150-4FABA3C1D32E3077_86b085d4-cdf9-7d4a-fb4430af71b159f8.png\nCategories: Performing Arts & Culture
-GEO:41.309522;-105.587753
-LOCATION:Laramie Plains Civic Center
-SUMMARY:Alok: Eat\, Pray\, Leave
-UID:39416@visitlaramie.org
-URL:https://www.visitlaramie.org/event/alok%3a-eat-pray-leave/39416/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
 DESCRIPTION:Wyoming Wrestling: Cowboys vs Western Wyoming\nMore info: https://www.visitlaramie.org/event/wyoming-wrestling%3a-cowboys-vs-western-wyoming/39500/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-130126_08F8ADF3-0A67-0A54-E2E2E0BA761CB8BA_090dbe41-f33b-cb50-7318b6bda8fd74c9.png\nCategories: Community\, University of Wyoming\, Sports
 GEO:41.312460;-105.570067
@@ -472,6 +463,15 @@ LOCATION:Meet at 1st St Plaza before biking around town
 SUMMARY:October Tuesday Cruiseday
 UID:39466@visitlaramie.org
 URL:https://www.visitlaramie.org/event/october-tuesday-cruiseday/39466/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Trick or Skate\nMore info: https://www.visitlaramie.org/event/trick-or-skate/39524/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Trick-or-Skate-2-_5BA0164E-C46D-2916-7436E520FCF9A298_5ba2cb01-eca0-18ff-5e7946ce337fbbaf.png\nCategories: Family Fun
+GEO:41.305775;-105.551024
+LOCATION:Laramie Ice & Event Center
+SUMMARY:Trick or Skate
+UID:39524@visitlaramie.org
+URL:https://www.visitlaramie.org/event/trick-or-skate/39524/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261107
@@ -600,15 +600,6 @@ UID:39386@visitlaramie.org
 URL:https://www.visitlaramie.org/event/urban-sketching-%40-laramie-tree-area/39386/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-DESCRIPTION:Special Public Presentation: A Dinosaur Art Life with Paleoartist Bob Nicholls\nMore info: https://www.visitlaramie.org/event/special-public-presentation%3a-a-dinosaur-art-life-with-paleoartist-bob-nicholls/39470/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-10-09_15-40-22_5A1F8989-C33B-E95C-D6C78F311D7B7779_5a34ff55-ad78-2426-9385f0f0a20ce3a2.png\nCategories: University of Wyoming
-GEO:41.313459;-105.561558
-LOCATION:Visual Arts Auditorium (VA 111) in the UW Visual Arts Dept
-SUMMARY:Special Public Presentation: A Dinosaur Art Life with Paleoartist Bob Nicholls
-UID:39470@visitlaramie.org
-URL:https://www.visitlaramie.org/event/special-public-presentation%3a-a-dinosaur-art-life-with-paleoartist-bob-nicholls/39470/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261026
 DESCRIPTION:Comment on Curt Gowdy State Park's Master Plan\nMore info: https://www.visitlaramie.org/event/comment-on-curt-gowdy-state-parks-master-plan/39521/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-16-141259_BF7A2348-0948-9598-3F001B58968A5903_bf7e76ea-d3fe-3dc0-b483616c52ab92ce.png\nCategories: Outdoor Recreation
 GEO:38.794595;-106.534838
@@ -634,15 +625,6 @@ LOCATION:Laramie Soup Kitchen
 SUMMARY:Tapas & Tomorrow
 UID:39475@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tapas-%26-tomorrow/39475/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-DESCRIPTION:Laramie's West Side Neighborhood as a Historic District on the National Register of Historic Places.\nMore info: https://www.visitlaramie.org/event/laramies-west-side-neighborhood-as-a-historic-district-on-the-national-register-of-historic-places/39449/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-102220_1B5B2752-9AC8-D890-61EC8D71F296A36D_1b5fdb52-9bd9-6900-7920db1e450c7170.png\nCategories: History\, Community\, University of Wyoming\, Education\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:Laramie's West Side Neighborhood as a Historic District on the National Register of Historic Places.
-UID:39449@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramies-west-side-neighborhood-as-a-historic-district-on-the-national-register-of-historic-places/39449/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
@@ -820,6 +802,15 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:UW Music Presents: John Fedchock with UW Faculty Jazz Trio
 UID:39491@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uw-music-presents%3a-john-fedchock-with-uw-faculty-jazz-trio/39491/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DESCRIPTION:Learn Printmaking | Patterns of Place: Potato Printing + the Science of Patterns\nMore info: https://www.visitlaramie.org/event/learn-printmaking-%7c-patterns-of-place%3a-potato-printing-%2b-the-science-of-patterns/39523/\nVenue: 4th Street Studios\nVenue Info: https://www.visitlaramie.org/listing/4th-street-studios/443/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Week-2-Patterns-of-Place-flyer-Letter-2x_57FC4085-A34D-58D9-98D87C4D8119E8A7_580e9d2c-d5d9-1bae-ea30f9946eb4af1a.png\nCategories: Craft Classes & Workshops
+GEO:41.310369;-105.592067
+LOCATION:4th Street Studios
+SUMMARY:Learn Printmaking | Patterns of Place: Potato Printing + the Science of Patterns
+UID:39523@visitlaramie.org
+URL:https://www.visitlaramie.org/event/learn-printmaking-%7c-patterns-of-place%3a-potato-printing-%2b-the-science-of-patterns/39523/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
