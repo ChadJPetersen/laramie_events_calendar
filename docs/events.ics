@@ -136,6 +136,15 @@ UID:39397@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-show%3a-zeppelin-unbound/39397/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DESCRIPTION:Visiting Artist Talk by David Eaton\nMore info: https://www.visitlaramie.org/event/visiting-artist-talk-by-david-eaton/39429/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-113139_E8BC5D31-A22D-213F-436855B8BF16CA01_e9382f6e-f62f-a6ae-3cf8d0568172a2d8.png\nCategories: University of Wyoming\, Performing Arts & Culture\, Craft Classes & Workshops
+GEO:41.310928;-105.564614
+LOCATION:University of Wyoming\, Visual Arts Building
+SUMMARY:Visiting Artist Talk by David Eaton
+UID:39429@visitlaramie.org
+URL:https://www.visitlaramie.org/event/visiting-artist-talk-by-david-eaton/39429/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:An Afternoon with Percival Everret\nMore info: https://www.visitlaramie.org/event/an-afternoon-with-percival-everret/39448/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/everett-web_EF4151E7-A11B-EE7E-99D4A0E8C25D34DA_ef59a07b-bf5c-e666-2c18316a7e4a2462.jpg\nCategories: Performing Arts & Culture
 GEO:41.311367;-105.591101
@@ -143,6 +152,15 @@ LOCATION:UW Education Auditorium
 SUMMARY:An Afternoon with Percival Everret
 UID:39448@visitlaramie.org
 URL:https://www.visitlaramie.org/event/an-afternoon-with-percival-everret/39448/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261110
+DESCRIPTION:Live Presentation: Wyoming Skies: Taurids and Leonids Meteor Showers\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-taurids-and-leonids-meteor-showers/39532/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-125858_BF5258BC-F2DD-8E84-27CF42D2F3237D01_bf52f7ae-a463-eb1d-e2f9ddd9dd03cdd2.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Live Presentation: Wyoming Skies: Taurids and Leonids Meteor Showers
+UID:39532@visitlaramie.org
+URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-taurids-and-leonids-meteor-showers/39532/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
@@ -168,6 +186,15 @@ GEO:41.314165;-105.568122
 SUMMARY:Wyoming Voices: Our Stories of America
 UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DESCRIPTION:Historic Laramie Union Pacific Depot Open House\nMore info: https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39486/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-101950_ECAC65B5-0A7C-ED78-622A472E0D22D560_ecad0d6d-9fdb-6ea6-a505c24f0a3e9753.png\nCategories: History\, Community\, Education\, Family Fun
+GEO:41.308353;-105.596400
+LOCATION:Historic Laramie Union Pacific Train Depot
+SUMMARY:Historic Laramie Union Pacific Depot Open House
+UID:39486@visitlaramie.org
+URL:https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39486/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
@@ -313,15 +340,6 @@ UID:39515@visitlaramie.org
 URL:https://www.visitlaramie.org/event/founding-collection%3a-wpa-art/39515/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:UW Cowboy Football: Cowboy vs. Falcons\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboy-vs-falcons/38791/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-103239_1BA1B9A4-E8E2-CF3D-13820FA67F9A75AA_1ba79865-f9ad-b5ac-2455e02a1678e239.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.311627;-105.564677
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football: Cowboy vs. Falcons
-UID:38791@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboy-vs-falcons/38791/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261107
 DESCRIPTION:Cowgirl Volleyball: Cowgirls vs. UNLV\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-unlv/39508/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
 GEO:41.311795;-105.581222
@@ -365,15 +383,6 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Michael Myers's Photo Op Fundraiser
 UID:39546@visitlaramie.org
 URL:https://www.visitlaramie.org/event/michael-myerss-photo-op-fundraiser/39546/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Cowboys & Coal Tailgate\nMore info: https://www.visitlaramie.org/event/cowboys-%26-coal-tailgate/39565/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-102036_F1122582-DDB2-8303-4B9E1417D8D2B8FD_f12ae87a-0444-0541-bdf8d26da06480f4.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.309143;-105.564383
-LOCATION:Laramie Chamber Business Alliance
-SUMMARY:Cowboys & Coal Tailgate
-UID:39565@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowboys-%26-coal-tailgate/39565/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
@@ -537,15 +546,6 @@ UID:39485@visitlaramie.org
 URL:https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39485/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:HALLOWEEN DATE NIGHT CAMP!\nMore info: https://www.visitlaramie.org/event/halloween-date-night-camp!/39543/\nVenue: LEAP\nVenue Info: https://www.visitlaramie.org/listing/leap/380/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-102134_ECBFBEC0-F06B-A929-A7A9ECA7AC261ED4_ecfb3d0a-0417-c33f-8bc93c1b442cd761.png\nCategories: Community\, Family Fun
-GEO:41.307331;-105.544232
-LOCATION:LEAP
-SUMMARY:HALLOWEEN DATE NIGHT CAMP!
-UID:39543@visitlaramie.org
-URL:https://www.visitlaramie.org/event/halloween-date-night-camp!/39543/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DESCRIPTION:Cowboy Saloon Present: Jamie Hansen\nMore info: https://www.visitlaramie.org/event/cowboy-saloon-present%3a-jamie-hansen/39069/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-4_2E48B220-A61C-40F2-868DE637936B07F1_f6abe00d-010e-472c-acbd5c7f20282a83.jpg\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -571,14 +571,6 @@ LOCATION:Laramie Quadra Dangle Club
 SUMMARY:Square Dancing Lessons at the Quadra Dangle Club
 UID:39562@visitlaramie.org
 URL:https://www.visitlaramie.org/event/square-dancing-lessons-at-the-quadra-dangle-club/39562/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Spooky Street Food\nMore info: https://www.visitlaramie.org/event/spooky-street-food/39555/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-101829_EE6CDEE0-F043-2666-1C12F37DC2F4E22C_ee7f6284-a894-2b0e-f450cdfcced7cf3e.png\nCategories: Community\, Family Fun
-GEO:41.305265;-105.561837
-SUMMARY:Spooky Street Food
-UID:39555@visitlaramie.org
-URL:https://www.visitlaramie.org/event/spooky-street-food/39555/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261107
@@ -760,6 +752,15 @@ UID:39136@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DESCRIPTION:NO TRICKS\, JUST TREATS!\nMore info: https://www.visitlaramie.org/event/no-tricks-just-treats!/39571/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/844220390_1771572668301497_5680690028227111739_n_19CEF477-D80D-F335-C1C5825E97A8CAB1_19d68838-00a4-54d8-64689cffbcf5e9a7.jpg\nCategories: Family Fun
+GEO:41.289201;-105.587062
+LOCATION:Cowboy Auto Detailing
+SUMMARY:NO TRICKS\, JUST TREATS!
+UID:39571@visitlaramie.org
+URL:https://www.visitlaramie.org/event/no-tricks-just-treats!/39571/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261024
 DESCRIPTION:Spooky Sip & Stick\nMore info: https://www.visitlaramie.org/event/spooky-sip-%26-stick/39545/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-102500_ED48663F-AF9B-4632-E280E5F09B1EA8B1_ed685f0b-f6b9-891c-c774d48abf079fc9.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
 GEO:41.307537;-105.554268
@@ -767,15 +768,6 @@ LOCATION:The Lodge Nutrition & Energy
 SUMMARY:Spooky Sip & Stick
 UID:39545@visitlaramie.org
 URL:https://www.visitlaramie.org/event/spooky-sip-%26-stick/39545/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:J. Shogren + Special Guests @ SOK Gallery\nMore info: https://www.visitlaramie.org/event/j-shogren-%2b-special-guests-%40-sok-gallery/39564/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-101709_F0E41668-CE93-80BE-A09BB1B164AC0848_f0f6f46d-b3b7-a9d4-76cd9f0e61a2503f.png\nCategories: Concerts & Live Music
-GEO:41.304361;-105.595919
-LOCATION:SOK Gallery
-SUMMARY:J. Shogren + Special Guests @ SOK Gallery
-UID:39564@visitlaramie.org
-URL:https://www.visitlaramie.org/event/j-shogren-%2b-special-guests-%40-sok-gallery/39564/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
@@ -856,6 +848,15 @@ LOCATION:UW Buchanan Center Room 1010
 SUMMARY:Learn to play music from Bali!
 UID:39408@visitlaramie.org
 URL:https://www.visitlaramie.org/event/learn-to-play-music-from-bali!/39408/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:Wyoming Rocks! Outreach Event\nMore info: https://www.visitlaramie.org/event/wyoming-rocks!-outreach-event/39511/\nVenue: University of Wyoming Geological Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-geological-museum/125/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-16-100103_B67D2BB5-CAF0-BF19-11B88236817A1B54_b67f420d-ec8f-1f86-110af5fd32bf96de.png\nCategories: University of Wyoming\, Education
+GEO:41.315103;-105.582646
+LOCATION:University of Wyoming Geological Museum
+SUMMARY:Wyoming Rocks! Outreach Event
+UID:39511@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-rocks!-outreach-event/39511/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261028
