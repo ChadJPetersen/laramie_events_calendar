@@ -73,15 +73,6 @@ UID:39258@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bingo-night/39258/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:St Paul's UCC Fall Festival\nMore info: https://www.visitlaramie.org/event/st-pauls-ucc-fall-festival/39412/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-29-134208_52ECDA2A-D6DC-9641-382AB1E21D8A6ADC_530160f3-fd1b-2d8f-653d37ebe63a2233.png\nCategories: Community\, Family Fun\, Social Events
-GEO:41.309617;-105.589469
-LOCATION:St Paul's UCC
-SUMMARY:St Paul's UCC Fall Festival
-UID:39412@visitlaramie.org
-URL:https://www.visitlaramie.org/event/st-pauls-ucc-fall-festival/39412/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261119
 DESCRIPTION:Earthborn: Group Printmaking Exhibition Reception\nMore info: https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition-reception/39431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-115056_EC25530C-A3AB-F79D-3088DCF1EDC26082_ec322c01-b325-e279-a0e08b0e94d38c86.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.313464;-105.564486
@@ -340,15 +331,6 @@ UID:39508@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-unlv/39508/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Lakota Buffalo Charity Bazaar\nMore info: https://www.visitlaramie.org/event/lakota-buffalo-charity-bazaar/39553/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-103035_EE43520F-0D7C-D7DE-7695DB3804865815_ee4f0bfc-b791-fa66-00df491b8bd4c5b9.png\nCategories: Community
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:Lakota Buffalo Charity Bazaar
-UID:39553@visitlaramie.org
-URL:https://www.visitlaramie.org/event/lakota-buffalo-charity-bazaar/39553/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 DESCRIPTION:Live Presentation: Black Holes\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-black-holes/39527/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-21-131240_BEDC4E9E-C67B-BF1E-DCC125BF913F22DC_bedcc439-b600-247e-cc3730e182ae73b8.png\nCategories: Community\, University of Wyoming
 GEO:41.323653;-105.583039
@@ -582,15 +564,6 @@ UID:39216@visitlaramie.org
 URL:https://www.visitlaramie.org/event/swan-lake-reimagines/39216/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:"Is It Better Than the Book?"\, Movie Matinee Series\nMore info: https://www.visitlaramie.org/event/is-it-better-than-the-book%3f-movie-matinee-series/39567/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-102222_F16D8E4F-A09F-6E68-3E4D6CDFBB5B390F_f1875fe4-acfa-5a29-ded06ba2508bcde7.png\nCategories: Community\, Performing Arts & Culture\, Social Events
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:"Is It Better Than the Book?"\, Movie Matinee Series
-UID:39567@visitlaramie.org
-URL:https://www.visitlaramie.org/event/is-it-better-than-the-book%3f-movie-matinee-series/39567/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
 DESCRIPTION:Bond's Trivia & Tacos Night\nMore info: https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/39254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-113411_3DEC1633-9E08-310A-4D3DF5D421B30E43_3df91b13-9536-a999-b3740f714b045bfb.png\nCategories: Community\, Social Events
 GEO:41.309652;-105.594751
@@ -663,6 +636,24 @@ UID:39398@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-michael-jackson/39398/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DESCRIPTION:Liquid Sky: Psychedelic Indie Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-psychedelic-indie-rock/39540/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E5DEA869-06A1-CE06-B1162C6D431C9C79_e5e35246-ebab-215f-7568aedcb64a627f.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: Psychedelic Indie Rock
+UID:39540@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-psychedelic-indie-rock/39540/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DESCRIPTION:UW Cowboy Football: Cowboys vs. Lobos\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboys-vs-lobos/38792/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-24-130003_B966E890-0912-E241-586CCD9D34D096E5_b9717ae4-b144-bc07-8c7e3a92e1d6a159.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
+GEO:41.311627;-105.564677
+LOCATION:War Memorial Stadium
+SUMMARY:UW Cowboy Football: Cowboys vs. Lobos
+UID:38792@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboys-vs-lobos/38792/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261118
 DESCRIPTION:Tapas & Tomorrow\nMore info: https://www.visitlaramie.org/event/tapas-%26-tomorrow/39475/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Tapas-Tomorrow_Digital_F5CB1AB8-FF4F-4BC4-87189C3EEFD134B1_f5d20763-ef75-507a-c400eb26566b90b2.png\nCategories: Community
 GEO:41.312136;-105.592375
@@ -707,15 +698,6 @@ UID:39494@visitlaramie.org
 URL:https://www.visitlaramie.org/event/goblin-kings-masquerade-ball-%26-frogboat/39494/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DESCRIPTION:Flickerlight Tours at The Laramie Plains Museum\nMore info: https://www.visitlaramie.org/event/flickerlight-tours-at-the-laramie-plains-museum/39468/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-09-131113_5513E72B-05A6-B2AD-C3E5654EEF6A53A3_55163f5c-e2f9-294b-762260e374ab45c5.png\nCategories: Annual Events & Festivals\, History\, Community
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Flickerlight Tours at The Laramie Plains Museum
-UID:39468@visitlaramie.org
-URL:https://www.visitlaramie.org/event/flickerlight-tours-at-the-laramie-plains-museum/39468/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
 DESCRIPTION:Christmas Bazaar & Bake Sale\nMore info: https://www.visitlaramie.org/event/christmas-bazaar-%26-bake-sale/39526/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-21-115411_BC03CB6B-E3F6-159A-E085F77D4ACFD88C_bc042ed4-bf2e-c54b-88889f077a3e2cf3.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.307701;-105.593024
@@ -749,6 +731,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Great Solar System Adventure + Startalk
 UID:39538@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure-%2b-startalk/39538/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DESCRIPTION:Tanner Usrey @ The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/tanner-usrey-%40-the-cowboy-saloon/39557/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_2C182B00-790E-4FB1-9ECEB5BF9E5747DD_d80ccdea-b32f-44b0-94faaf685db29f24.jpg\nCategories: Concerts & Live Music\, Performing Arts & Culture\, Social Events
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Tanner Usrey @ The Cowboy Saloon
+UID:39557@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tanner-usrey-%40-the-cowboy-saloon/39557/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
