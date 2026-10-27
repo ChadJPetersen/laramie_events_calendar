@@ -11,8 +11,8 @@ UID:39496@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gifted-collection%3a-brett-weston-archive/39496/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Come Whip Paint on a Huge Canvas with Us!  🎨Layers of Time: art + the science of stromatolites · In the Greenhouse\, Week 3 of 4\nMore info: https://www.visitlaramie.org/event/come-whip-paint-on-a-huge-canvas-with-us!-%f0%9f%8e%a8layers-of-time%3a-art-%2b-the-science-of-stromatolites-%c2%b7-in-the-greenhouse-week-3-of-4/39554/\nVenue: Science Loves Art\nVenue Info: https://www.visitlaramie.org/listing/science-loves-art/582/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Week-4-Layers-of-Time-flyer-Letter-2x_EE6CCEB3-B318-463B-2DB17197E4EDBAE2_ee702516-a7e8-f4f8-35e1ba042c927158.png\nCategories: Education\, Craft Classes & Workshops
+DTSTART;VALUE=DATE:20261104
+DESCRIPTION:Come Whip Paint on a Huge Canvas with Us!  🎨Layers of Time: art + the science of stromatolites · In the Greenhouse\, Week 3 of 4\nMore info: https://www.visitlaramie.org/event/come-whip-paint-on-a-huge-canvas-with-us!-%f0%9f%8e%a8layers-of-time%3a-art-%2b-the-science-of-stromatolites-%c2%b7-in-the-greenhouse-week-3-of-4/39554/\nVenue: Science Loves Art\nVenue Info: https://www.visitlaramie.org/listing/science-loves-art/582/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/week3-poster_B7E0DC46-E9B4-8506-BA44E6B824BBAA9F_b7e2afbc-b7ec-a1b8-0e9c7e66fd60f7a2.png\nCategories: Education\, Craft Classes & Workshops
 GEO:41.310369;-105.592067
 LOCATION:Science Loves Art
 SUMMARY:Come Whip Paint on a Huge Canvas with Us!  🎨Layers of Time: art + the science of stromatolites · In the Greenhouse\, Week 3 of 4
@@ -29,6 +29,15 @@ UID:39528@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-daft-punk/39528/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261110
+DESCRIPTION:Cowgirl Basketball vs. Mavericks UT Arlington\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-mavericks-ut-arlington/39580/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
+GEO:41.313459;-105.561558
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowgirl Basketball vs. Mavericks UT Arlington
+UID:39580@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-basketball-vs-mavericks-ut-arlington/39580/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:WALDEN by Amy Berryman\nMore info: https://www.visitlaramie.org/event/walden-by-amy-berryman/39489/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-20-135131_89D4B6BF-EA5D-CA82-1C0A48DF4F478CB5_89d7c559-d843-aff9-9d38c9ea5787bc18.png\nCategories: Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -36,6 +45,15 @@ LOCATION:The Gryphon Theatre
 SUMMARY:WALDEN by Amy Berryman
 UID:39489@visitlaramie.org
 URL:https://www.visitlaramie.org/event/walden-by-amy-berryman/39489/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DESCRIPTION:SEARCH & RESCUE:INSIDE A CALLOUT\nMore info: https://www.visitlaramie.org/event/search-%26-rescue%3ainside-a-callout/39573/\nVenue: Laramie's Basecamp\nVenue Info: https://www.visitlaramie.org/listing/laramies-basecamp/384/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Laramie-Basecamp---Explorers-Night-SAR---Nov-9-editable-_B7AC948F-B65C-28F1-961FE4A04ABD8325_b7b3aaf8-04de-98f4-cdf79198327a3a02.jpg\nCategories: Outdoor Recreation
+GEO:41.311263;-105.595108
+LOCATION:Laramie's Basecamp
+SUMMARY:SEARCH & RESCUE:INSIDE A CALLOUT
+UID:39573@visitlaramie.org
+URL:https://www.visitlaramie.org/event/search-%26-rescue%3ainside-a-callout/39573/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
@@ -54,6 +72,15 @@ LOCATION:University of Wyoming
 SUMMARY:Shepard Symposium on Social Justice: Rooted in History\, Rising in Action
 UID:39559@visitlaramie.org
 URL:https://www.visitlaramie.org/event/shepard-symposium-on-social-justice%3a-rooted-in-history-rising-in-action/39559/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:UW Cowboys Basketball vs Idaho State\nMore info: https://www.visitlaramie.org/event/uw-cowboys-basketball-vs-idaho-state/39578/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wyoming-arena-auditorium_0F17B724-5056-A36F-23B4815BE66120F0_0f20229a-5056-a36f-233faed00ec4db4c.jpg\nCategories: University of Wyoming\, Sports
+GEO:41.313461;-105.562374
+LOCATION:UW Arena-Auditorium
+SUMMARY:UW Cowboys Basketball vs Idaho State
+UID:39578@visitlaramie.org
+URL:https://www.visitlaramie.org/event/uw-cowboys-basketball-vs-idaho-state/39578/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -89,15 +116,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Phantom of the Universe
 UID:39405@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-phantom-of-the-universe/39405/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261026
-DESCRIPTION:UW WBB Cowgirls vs. Colorado Christian (Exhibition)\nMore info: https://www.visitlaramie.org/event/uw-wbb-cowgirls-vs-colorado-christian-(exhibition)/39366/\nVenue: University of Wyoming Sports Facilities\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-sports-facilities/1657/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-23-110649_18680A02-B943-CF2D-42ABEEA221652DFA_1868ba52-ca50-651e-cc91dc9142d24581.png\nCategories: University of Wyoming\, Sports
-GEO:41.312616;-105.570928
-LOCATION:University of Wyoming Arena Auditorium
-SUMMARY:UW WBB Cowgirls vs. Colorado Christian (Exhibition)
-UID:39366@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-wbb-cowgirls-vs-colorado-christian-(exhibition)/39366/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
@@ -340,13 +358,13 @@ UID:39527@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-presentation%3a-black-holes/39527/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
-DESCRIPTION:Full-Dome Film: We Are Stars + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39539/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-135341_A47D06FE-AFF6-6E92-BF30F6661E847612_a4811f57-c80f-8610-84f3ed9c7326c1c4.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: We Are Stars + Startalk
-UID:39539@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39539/
+DTSTART;VALUE=DATE:20261117
+DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39572/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/NovDance_85678D36-BF06-2B01-4637AE002AC1711C_85afc9ad-9b38-5a27-2641437676f93e97.jpg\nCategories: Social Events
+GEO:41.311928;-105.600431
+LOCATION:Lincoln Community Center
+SUMMARY:Ecstatic Dance
+UID:39572@visitlaramie.org
+URL:https://www.visitlaramie.org/event/ecstatic-dance/39572/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
@@ -356,6 +374,14 @@ LOCATION:University of Wyoming
 SUMMARY:Shepard Symposium on Social Justice Keynote Speaker and Luncheon
 UID:39558@visitlaramie.org
 URL:https://www.visitlaramie.org/event/shepard-symposium-on-social-justice-keynote-speaker-and-luncheon/39558/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:Jeny Stoesz Annual Weaving Studio Sale\nMore info: https://www.visitlaramie.org/event/jeny-stoesz-annual-weaving-studio-sale/39577/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-26-105455_BF5D4E55-07DF-6873-099F104B9045811B_bf89b355-b3a6-5e04-e53e6cba947feebf.png\nCategories: Community
+GEO:41.311367;-105.591101
+SUMMARY:Jeny Stoesz Annual Weaving Studio Sale
+UID:39577@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jeny-stoesz-annual-weaving-studio-sale/39577/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
@@ -573,6 +599,15 @@ UID:39254@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/39254/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DESCRIPTION:Cowgirl Basketball vs. Missouri State\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-missouri-state/39579/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
+GEO:41.313459;-105.561558
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowgirl Basketball vs. Missouri State
+UID:39579@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-basketball-vs-missouri-state/39579/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261031
 DESCRIPTION:Aaron Watson with Special Guest Jake Watson\nMore info: https://www.visitlaramie.org/event/aaron-watson-with-special-guest-jake-watson/39292/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-134936_4E8CA633-050E-2652-D064157854A97D85_4e8d61d9-d6b9-1332-3fc61b3ef4623739.png\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -634,24 +669,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Laser Michael Jackson
 UID:39398@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-michael-jackson/39398/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
-DESCRIPTION:Liquid Sky: Psychedelic Indie Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-psychedelic-indie-rock/39540/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E5DEA869-06A1-CE06-B1162C6D431C9C79_e5e35246-ebab-215f-7568aedcb64a627f.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Liquid Sky: Psychedelic Indie Rock
-UID:39540@visitlaramie.org
-URL:https://www.visitlaramie.org/event/liquid-sky%3a-psychedelic-indie-rock/39540/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
-DESCRIPTION:UW Cowboy Football: Cowboys vs. Lobos\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboys-vs-lobos/38792/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-24-130003_B966E890-0912-E241-586CCD9D34D096E5_b9717ae4-b144-bc07-8c7e3a92e1d6a159.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.311627;-105.564677
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football: Cowboys vs. Lobos
-UID:38792@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboys-vs-lobos/38792/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261118
@@ -731,15 +748,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Great Solar System Adventure + Startalk
 UID:39538@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure-%2b-startalk/39538/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
-DESCRIPTION:Tanner Usrey @ The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/tanner-usrey-%40-the-cowboy-saloon/39557/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_2C182B00-790E-4FB1-9ECEB5BF9E5747DD_d80ccdea-b32f-44b0-94faaf685db29f24.jpg\nCategories: Concerts & Live Music\, Performing Arts & Culture\, Social Events
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Tanner Usrey @ The Cowboy Saloon
-UID:39557@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tanner-usrey-%40-the-cowboy-saloon/39557/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
