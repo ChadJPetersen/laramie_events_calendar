@@ -367,6 +367,15 @@ UID:39572@visitlaramie.org
 URL:https://www.visitlaramie.org/event/ecstatic-dance/39572/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DESCRIPTION:Full-Dome Film: We Are Stars + Startalk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39539/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-135341_A47D06FE-AFF6-6E92-BF30F6661E847612_a4811f57-c80f-8610-84f3ed9c7326c1c4.png\nCategories: Community\, University of Wyoming\, Family Fun
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Full-Dome Film: We Are Stars + Startalk
+UID:39539@visitlaramie.org
+URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39539/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261105
 DESCRIPTION:Shepard Symposium on Social Justice Keynote Speaker and Luncheon\nMore info: https://www.visitlaramie.org/event/shepard-symposium-on-social-justice-keynote-speaker-and-luncheon/39558/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-115636_EFA2E7ED-BB49-DF05-8258B15DF958737D_efa57992-09e7-f782-bf00e3628d054cd8.png\nCategories: Annual Events & Festivals\, History\, Community\, University of Wyoming\, Volunteering
 GEO:41.312616;-105.570928
@@ -400,15 +409,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Artist & Museum: Hung Liu
 UID:39002@visitlaramie.org
 URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-DESCRIPTION:That Cellar Thing @ The Railyard\nMore info: https://www.visitlaramie.org/event/that-cellar-thing-%40-the-railyard/39411/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-29-133157_528AC474-E00E-3245-4CE76377DEE50602_52dc1701-d4e5-fd04-23eb3f20e66b1749.png\nCategories: Community\, Performing Arts & Culture\, Social Events
-GEO:41.311165;-105.593401
-LOCATION:The RailYard
-SUMMARY:That Cellar Thing @ The Railyard
-UID:39411@visitlaramie.org
-URL:https://www.visitlaramie.org/event/that-cellar-thing-%40-the-railyard/39411/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261102
@@ -509,15 +509,6 @@ UID:39531@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-show%3a-best-of-pink-floyd/39531/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-DESCRIPTION:October Tuesday Cruiseday\nMore info: https://www.visitlaramie.org/event/october-tuesday-cruiseday/39466/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-09-at-10.36.20-AM_4F3BA720-B698-949F-0A97447A73696964_4f461244-d56d-ac65-c1da7b924fe0c3dd.png\nCategories: Community
-GEO:41.310983;-105.595797
-LOCATION:Meet at 1st St Plaza before biking around town
-SUMMARY:October Tuesday Cruiseday
-UID:39466@visitlaramie.org
-URL:https://www.visitlaramie.org/event/october-tuesday-cruiseday/39466/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261030
 DESCRIPTION:Trick or Skate\nMore info: https://www.visitlaramie.org/event/trick-or-skate/39524/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Trick-or-Skate-2-_5BA0164E-C46D-2916-7436E520FCF9A298_5ba2cb01-eca0-18ff-5e7946ce337fbbaf.png\nCategories: Family Fun
 GEO:41.305775;-105.551024
@@ -534,15 +525,6 @@ LOCATION:Historic Laramie Union Pacific Train Depot
 SUMMARY:Historic Laramie Union Pacific Depot Open House
 UID:39485@visitlaramie.org
 URL:https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39485/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-DESCRIPTION:Dog Days at the Library\nMore info: https://www.visitlaramie.org/event/dog-days-at-the-library/39478/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-130024_227A36A6-DC73-3157-882A19AB60E778CA_227a8118-e504-c2fb-d185f8c057ca0897.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.310342;-105.587834
-LOCATION:Albany County Public Library
-SUMMARY:Dog Days at the Library
-UID:39478@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dog-days-at-the-library/39478/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261022
@@ -671,6 +653,15 @@ UID:39398@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laser-michael-jackson/39398/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DESCRIPTION:Liquid Sky: Psychedelic Indie Rock\nMore info: https://www.visitlaramie.org/event/liquid-sky%3a-psychedelic-indie-rock/39540/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Planetarium-Event_E5DEA869-06A1-CE06-B1162C6D431C9C79_e5e35246-ebab-215f-7568aedcb64a627f.png\nCategories: Concerts & Live Music\, Community\, University of Wyoming
+GEO:41.323643;-105.583027
+LOCATION:University of Wyoming Planetarium
+SUMMARY:Liquid Sky: Psychedelic Indie Rock
+UID:39540@visitlaramie.org
+URL:https://www.visitlaramie.org/event/liquid-sky%3a-psychedelic-indie-rock/39540/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261118
 DESCRIPTION:Tapas & Tomorrow\nMore info: https://www.visitlaramie.org/event/tapas-%26-tomorrow/39475/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Tapas-Tomorrow_Digital_F5CB1AB8-FF4F-4BC4-87189C3EEFD134B1_f5d20763-ef75-507a-c400eb26566b90b2.png\nCategories: Community
 GEO:41.312136;-105.592375
@@ -748,6 +739,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: Great Solar System Adventure + Startalk
 UID:39538@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-great-solar-system-adventure-%2b-startalk/39538/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DESCRIPTION:Tanner Usrey @ The Cowboy Saloon\nMore info: https://www.visitlaramie.org/event/tanner-usrey-%40-the-cowboy-saloon/39557/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Image-5_2C182B00-790E-4FB1-9ECEB5BF9E5747DD_d80ccdea-b32f-44b0-94faaf685db29f24.jpg\nCategories: Concerts & Live Music\, Performing Arts & Culture\, Social Events
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Tanner Usrey @ The Cowboy Saloon
+UID:39557@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tanner-usrey-%40-the-cowboy-saloon/39557/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250201
