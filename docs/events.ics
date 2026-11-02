@@ -232,15 +232,6 @@ UID:39594@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-pathways-community-listening-session/39594/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DESCRIPTION:Annual Chili and Dessert cookoff\nMore info: https://www.visitlaramie.org/event/annual-chili-and-dessert-cookoff/39568/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-102149_F1951D71-0862-3ECF-5ECC4255BA535C76_f1a5016a-0884-7b93-def89c14a7d6c9bf.png\nCategories: Annual Events & Festivals\, Community
-GEO:41.312896;-105.593408
-LOCATION:Elks Club
-SUMMARY:Annual Chili and Dessert cookoff
-UID:39568@visitlaramie.org
-URL:https://www.visitlaramie.org/event/annual-chili-and-dessert-cookoff/39568/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260803
 DESCRIPTION:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F517400-C0F9-9CF5-CE86DA06EC5BF945_3f54533b-d053-8e2d-245efff6b0483bcb.png\nCategories: Education\, Craft Classes & Workshops
 GEO:41.298808;-106.141485
@@ -649,6 +640,15 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Liquid Sky: Psychedelic Indie Rock
 UID:39540@visitlaramie.org
 URL:https://www.visitlaramie.org/event/liquid-sky%3a-psychedelic-indie-rock/39540/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+DESCRIPTION:Donor Collection: E.G. Meyer Family Collection\nMore info: https://www.visitlaramie.org/event/donor-collection%3a-e-g-meyer-family-collection/39514/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-132459_2350B512-0EE1-90F3-3614B660FCE66A09_2359723d-ae6f-0764-00d0389812eabb9c.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
+GEO:41.314165;-105.568122
+LOCATION:University of Wyoming Art Museum
+SUMMARY:Donor Collection: E.G. Meyer Family Collection
+UID:39514@visitlaramie.org
+URL:https://www.visitlaramie.org/event/donor-collection%3a-e-g-meyer-family-collection/39514/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261118
