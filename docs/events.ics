@@ -65,15 +65,6 @@ UID:39559@visitlaramie.org
 URL:https://www.visitlaramie.org/event/shepard-symposium-on-social-justice%3a-rooted-in-history-rising-in-action/39559/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:MASTER YOUR CELL PHONE CAMERA sponsored by WYOMING ARTS COUNCIL\nMore info: https://www.visitlaramie.org/event/master-your-cell-phone-camera-sponsored-by-wyoming-arts-council/39311/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screen-Shot-2026-09-01-at-12.22.41-PM_AE23DCED-C8E3-0242-0BE3EEA2F4C447CD_ae27a881-ab53-7f86-5c4da2ee5517d253.png\nCategories: Wyoming 250
-GEO:41.167144;-105.244383
-LOCATION:CURT GOWDY STATE PARK VISITOR'S CENTER
-SUMMARY:MASTER YOUR CELL PHONE CAMERA sponsored by WYOMING ARTS COUNCIL
-UID:39311@visitlaramie.org
-URL:https://www.visitlaramie.org/event/master-your-cell-phone-camera-sponsored-by-wyoming-arts-council/39311/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261106
 DESCRIPTION:UW Cowboys Basketball vs Idaho State\nMore info: https://www.visitlaramie.org/event/uw-cowboys-basketball-vs-idaho-state/39578/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/wyoming-arena-auditorium_0F17B724-5056-A36F-23B4815BE66120F0_0f20229a-5056-a36f-233faed00ec4db4c.jpg\nCategories: University of Wyoming\, Sports
 GEO:41.313461;-105.562374
@@ -283,6 +274,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Artist & Museum: Hung Liu
 UID:39464@visitlaramie.org
 URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39464/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261205
+DESCRIPTION:UMW Christmas Bazaar\nMore info: https://www.visitlaramie.org/event/umw-christmas-bazaar/39483/\nVenue: First United Methodist Church\nVenue Info: https://www.visitlaramie.org/listing/first-united-methodist-church/155/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-30-110729_89EB21F9-FFC3-53A7-B224BA081053B380_89ebcf65-de59-a9e8-ef79164cb0fe3fcb.png\nCategories: Annual Events & Festivals\, Community\, Social Events
+GEO:41.318245;-105.580053
+LOCATION:First United Methodist Church
+SUMMARY:UMW Christmas Bazaar
+UID:39483@visitlaramie.org
+URL:https://www.visitlaramie.org/event/umw-christmas-bazaar/39483/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
