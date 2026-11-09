@@ -142,24 +142,6 @@ UID:39135@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DESCRIPTION:Historic Laramie Union Pacific Depot Open House\nMore info: https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39486/\nVenue: Historic Laramie Union Pacific Train Depot\nVenue Info: https://www.visitlaramie.org/listing/historic-laramie-union-pacific-train-depot/52/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-101950_ECAC65B5-0A7C-ED78-622A472E0D22D560_ecad0d6d-9fdb-6ea6-a505c24f0a3e9753.png\nCategories: History\, Community\, Education\, Family Fun
-GEO:41.308353;-105.596400
-LOCATION:Historic Laramie Union Pacific Train Depot
-SUMMARY:Historic Laramie Union Pacific Depot Open House
-UID:39486@visitlaramie.org
-URL:https://www.visitlaramie.org/event/historic-laramie-union-pacific-depot-open-house/39486/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:Reiki Level 1 & 2 Training with Sarah Stepans\nMore info: https://www.visitlaramie.org/event/reiki-level-1-%26-2-training-with-sarah-stepans/39570/\nVenue: The Collective\nVenue Info: https://www.visitlaramie.org/listing/the-collective/1712/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-102722_F1F4FE7A-C6C2-BB84-7CC5B328FF7C4E5A_f1ff885a-966b-ea30-59939d47bff88651.png\nCategories: Education
-GEO:41.312875;-105.595100
-LOCATION:The Collective
-SUMMARY:Reiki Level 1 & 2 Training with Sarah Stepans
-UID:39570@visitlaramie.org
-URL:https://www.visitlaramie.org/event/reiki-level-1-%26-2-training-with-sarah-stepans/39570/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 DESCRIPTION:Exhibition Collection: Contemporary Works\nMore info: https://www.visitlaramie.org/event/exhibition-collection%3a-contemporary-works/39518/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-16-102511_B7547D0E-957C-D4D6-84D1B03361BBB278_b75527a0-0202-71f0-a3d7f962dc881fb6.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
 GEO:41.314165;-105.568122
@@ -576,6 +558,15 @@ LOCATION:University of Wyoming\, Visual Arts Building
 SUMMARY:Film Screening of "Made in the West"
 UID:39432@visitlaramie.org
 URL:https://www.visitlaramie.org/event/film-screening-of-made-in-the-west/39432/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:Open Jam Night\nMore info: https://www.visitlaramie.org/event/open-jam-night/39418/\nVenue: Laramie Plains Civic Center Conference Room\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-civic-center-conference-room/427/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-30-131955_8720B438-CB76-3804-219614F8E43A8118_872f18dd-ddd8-4b0d-79999eec00b70258.png\nCategories: Performing Arts & Culture
+GEO:41.309522;-105.587753
+LOCATION:Laramie Plains Civic Center
+SUMMARY:Open Jam Night
+UID:39418@visitlaramie.org
+URL:https://www.visitlaramie.org/event/open-jam-night/39418/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
