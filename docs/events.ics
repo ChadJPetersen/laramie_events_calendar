@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261110
-DESCRIPTION:Cowgirl Basketball vs. Mavericks UT Arlington\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-mavericks-ut-arlington/39580/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.313459;-105.561558
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowgirl Basketball vs. Mavericks UT Arlington
-UID:39580@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-basketball-vs-mavericks-ut-arlington/39580/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260709
 DESCRIPTION:Gifted Collection: Brett Weston Archive\nMore info: https://www.visitlaramie.org/event/gifted-collection%3a-brett-weston-archive/39496/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-15-110539_85480208-C42C-E9DF-FB1F38FB1FFDA4DF_85497a61-9d8f-95d9-78e1ab7b3a22fdf1.png\nCategories: History\, University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -107,15 +98,6 @@ UID:39455@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39455/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261110
-DESCRIPTION:Live Presentation: Wyoming Skies: Taurids and Leonids Meteor Showers\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-taurids-and-leonids-meteor-showers/39532/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-125858_BF5258BC-F2DD-8E84-27CF42D2F3237D01_bf52f7ae-a463-eb1d-e2f9ddd9dd03cdd2.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Wyoming Skies: Taurids and Leonids Meteor Showers
-UID:39532@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-wyoming-skies%3a-taurids-and-leonids-meteor-showers/39532/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:Wyoming Voices: Our Stories of America\nMore info: https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112708_CAD97750-96F9-68AA-A257B378C72A8FC5_caec755b-957f-9a07-8a5968d17b2f8f7a.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
@@ -158,6 +140,23 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Live Concert: Dome After Dark - Dance and Create
 UID:39537@visitlaramie.org
 URL:https://www.visitlaramie.org/event/live-concert%3a-dome-after-dark-dance-and-create/39537/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DESCRIPTION:Small Business Weekend\nMore info: https://www.visitlaramie.org/event/small-business-weekend/39621/\nVenue: Coal Creek Coffee Co. (Downtown)\nVenue Info: https://www.visitlaramie.org/listing/coal-creek-coffee-co-(downtown)/28/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Save-the-Date-2025_8C28253F-93E2-4BFF-60EE45AF59F3DB16_8c325a45-0d81-e92d-ee4791b01203c3ba.png\nCategories: Annual Events & Festivals
+GEO:41.311389;-105.595899
+LOCATION:Coal Creek Coffee Co. (Downtown)
+SUMMARY:Small Business Weekend
+UID:39621@visitlaramie.org
+URL:https://www.visitlaramie.org/event/small-business-weekend/39621/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DESCRIPTION:Downtown Laramie Holiday Parade\nMore info: https://www.visitlaramie.org/event/downtown-laramie-holiday-parade/39614/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-05-135542_C714A52B-04E7-C65D-CFF9BFB0BCC9C692_c7251ad9-ed3b-46ff-85b93c1d5bd139bd.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
+GEO:41.301607;-105.595959
+SUMMARY:Downtown Laramie Holiday Parade
+UID:39614@visitlaramie.org
+URL:https://www.visitlaramie.org/event/downtown-laramie-holiday-parade/39614/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
@@ -654,6 +653,15 @@ LOCATION:The Cowboy Saloon & Dance Hall
 SUMMARY:Tanner Usrey @ The Cowboy Saloon
 UID:39557@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tanner-usrey-%40-the-cowboy-saloon/39557/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261118
+DESCRIPTION:Laramie Audubon Program: Dark Skies Initiative\nMore info: https://www.visitlaramie.org/event/laramie-audubon-program%3a-dark-skies-initiative/39615/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_F1B2D842-C355-C12C-BBB7E32B674BB6D2_f214b793-b10b-e538-d2f6483bf0deea67.jpg\nCategories: Education
+GEO:41.312203;-105.587931
+LOCATION:Trinity Lutheran Church
+SUMMARY:Laramie Audubon Program: Dark Skies Initiative
+UID:39615@visitlaramie.org
+URL:https://www.visitlaramie.org/event/laramie-audubon-program%3a-dark-skies-initiative/39615/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261112
