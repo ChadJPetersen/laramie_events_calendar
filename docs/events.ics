@@ -310,15 +310,6 @@ UID:39560@visitlaramie.org
 URL:https://www.visitlaramie.org/event/albany-county-4-h%3a-old-fashioned-christmas-bazaar/39560/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Laser Legends\nMore info: https://www.visitlaramie.org/event/laser-legends/39534/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-21-132929_BF741BDB-C03D-02AA-265FCE15AA1BE3D8_bf75542e-9451-e0f6-699660e1ff4a636b.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Laser Legends
-UID:39534@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laser-legends/39534/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
 DESCRIPTION:Laramie Plains Museum's  Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museums-holiday-open-house/39469/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-133909_227AC4B3-D9C7-9FE7-ABB9F03E7A1B9365_2283cd72-01d7-5545-5dd77e9ca8ed40ef.png\nCategories: Annual Events & Festivals\, History\, Community\, Family Fun\, Social Events
 GEO:41.312068;-105.589055
@@ -370,15 +361,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: We Are Stars + Startalk
 UID:39539@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39539/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Wyoming High School Football Championship Games\nMore info: https://www.visitlaramie.org/event/wyoming-high-school-football-championship-games/39623/\nVenue: University of Wyoming Sports Facilities\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-sports-facilities/1657/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-12-103054_28240F11-C1D2-1065-A01B9C2FE9377AE2_28398136-0ead-bbaf-ba8b015681f6d397.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.312616;-105.570928
-LOCATION:University of Wyoming Sports Facilities
-SUMMARY:Wyoming High School Football Championship Games
-UID:39623@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-high-school-football-championship-games/39623/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261114
@@ -664,15 +646,6 @@ LOCATION:Laramie Soup Kitchen
 SUMMARY:Tapas & Tomorrow
 UID:39475@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tapas-%26-tomorrow/39475/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:Live Presentation: Size of the Universe - Voyager at One Light Day\nMore info: https://www.visitlaramie.org/event/live-presentation%3a-size-of-the-universe-voyager-at-one-light-day/39533/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-134838_BF61E4F3-FB9E-B954-8C90B83AB1925DD5_bf622f28-b9ac-1741-99e0e4ea2a1a7f7d.png\nCategories: Community\, University of Wyoming
-GEO:41.323653;-105.583039
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Presentation: Size of the Universe - Voyager at One Light Day
-UID:39533@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-presentation%3a-size-of-the-universe-voyager-at-one-light-day/39533/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261117
