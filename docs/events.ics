@@ -38,15 +38,6 @@ UID:39489@visitlaramie.org
 URL:https://www.visitlaramie.org/event/walden-by-amy-berryman/39489/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Wyoming High School Football Championship Games\nMore info: https://www.visitlaramie.org/event/wyoming-high-school-football-championship-games/39624/\nVenue: University of Wyoming Sports Facilities\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-sports-facilities/1657/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-12-103054_28240F11-C1D2-1065-A01B9C2FE9377AE2_28398136-0ead-bbaf-ba8b015681f6d397.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.312616;-105.570928
-LOCATION:University of Wyoming Sports Facilities
-SUMMARY:Wyoming High School Football Championship Games
-UID:39624@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-high-school-football-championship-games/39624/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261119
 DESCRIPTION:From Wyoming's Lander Valley to Peru's Sacred Valley\nMore info: https://www.visitlaramie.org/event/from-wyomings-lander-valley-to-perus-sacred-valley/39617/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Alan-Mandel-Poster_2DB10E30-F579-6174-4539A406203D4EF5_2db4c4a6-d66f-33b3-d0fbd6a1d083cc57.png\nCategories: Community\, University of Wyoming\, Education
 GEO:41.314760;-105.584857
@@ -54,15 +45,6 @@ LOCATION:University of Wyoming Berry Biodiversity Center Auditorium
 SUMMARY:From Wyoming's Lander Valley to Peru's Sacred Valley
 UID:39617@visitlaramie.org
 URL:https://www.visitlaramie.org/event/from-wyomings-lander-valley-to-perus-sacred-valley/39617/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Pinecone Gift Shop Holiday Open House\nMore info: https://www.visitlaramie.org/event/pinecone-gift-shop-holiday-open-house/39597/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Untitled-1_Facebook_905C21B3-B63F-15E7-7895470CB969A5ED_906cba6d-e278-75c1-cd1bd2847679118b.png\nCategories: Annual Events & Festivals
-GEO:41.312268;-105.556237
-LOCATION:Ivinson Memorial Hospital Pinecone Gift Shop
-SUMMARY:Pinecone Gift Shop Holiday Open House
-UID:39597@visitlaramie.org
-URL:https://www.visitlaramie.org/event/pinecone-gift-shop-holiday-open-house/39597/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -151,15 +133,6 @@ UID:39563@visitlaramie.org
 URL:https://www.visitlaramie.org/event/flip-cup-league-%40-the-cowboy-saloon-and-dance-hall/39563/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Live Concert: Dome After Dark - Dance and Create\nMore info: https://www.visitlaramie.org/event/live-concert%3a-dome-after-dark-dance-and-create/39537/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-23-132946_A49F17EF-A32A-A604-967D63300A1C2705_a4a0f740-0193-a40c-6d91cad4b12c0243.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Live Concert: Dome After Dark - Dance and Create
-UID:39537@visitlaramie.org
-URL:https://www.visitlaramie.org/event/live-concert%3a-dome-after-dark-dance-and-create/39537/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
 DESCRIPTION:Small Business Weekend\nMore info: https://www.visitlaramie.org/event/small-business-weekend/39621/\nVenue: Coal Creek Coffee Co. (Downtown)\nVenue Info: https://www.visitlaramie.org/listing/coal-creek-coffee-co-(downtown)/28/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Save-the-Date-2025_8C28253F-93E2-4BFF-60EE45AF59F3DB16_8c325a45-0d81-e92d-ee4791b01203c3ba.png\nCategories: Annual Events & Festivals
 GEO:41.311389;-105.595899
@@ -239,30 +212,12 @@ UID:39421@visitlaramie.org
 URL:https://www.visitlaramie.org/event/artists-market/39421/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:46th Annual Holiday Bazaar\nMore info: https://www.visitlaramie.org/event/46th-annual-holiday-bazaar/39356/\nVenue: Albany County Fairgrounds\nVenue Info: https://www.visitlaramie.org/listing/albany-county-fairgrounds/368/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-29-094710_4A96F103-020D-3D32-C20375B19A5BF539_4aa131b4-0ea4-6a3a-5413e6baff4567d5.png\nCategories: Community\, Social Events
-GEO:41.286512;-105.592547
-LOCATION:Albany County Fairgrounds
-SUMMARY:46th Annual Holiday Bazaar
-UID:39356@visitlaramie.org
-URL:https://www.visitlaramie.org/event/46th-annual-holiday-bazaar/39356/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261130
 DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39452/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
 SUMMARY:Nellie: The First Woman Governor at America's Milestones
 UID:39452@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39452/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Cowgirl Volleyball: Cowgirls vs. UC Davis Aggies\nMore info: https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-uc-davis-aggies/39510/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-103644_CA1F2452-B149-10A3-9BE86A4606A489C7_ca2726b1-f22a-9d75-4ddceb44d986e933.png\nCategories: University of Wyoming\, Sports
-GEO:41.311795;-105.581222
-LOCATION:UniWyo Sports Complex
-SUMMARY:Cowgirl Volleyball: Cowgirls vs. UC Davis Aggies
-UID:39510@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-volleyball%3a-cowgirls-vs-uc-davis-aggies/39510/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
@@ -361,15 +316,6 @@ LOCATION:University of Wyoming Planetarium
 SUMMARY:Full-Dome Film: We Are Stars + Startalk
 UID:39539@visitlaramie.org
 URL:https://www.visitlaramie.org/event/full-dome-film%3a-we-are-stars-%2b-startalk/39539/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Reiki and Rhythm\nMore info: https://www.visitlaramie.org/event/reiki-and-rhythm/39584/\nVenue: Seek Yoga Studio\nVenue Info: https://www.visitlaramie.org/listing/seek-yoga-studio/477/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-28-102704_216EB686-A1AD-C042-F8E439FCF62DC197_2181043b-cf52-472a-ab37687621f81233.png\nCategories: Craft Classes & Workshops
-GEO:41.313179;-105.595024
-LOCATION:Seek Yoga Studio
-SUMMARY:Reiki and Rhythm
-UID:39584@visitlaramie.org
-URL:https://www.visitlaramie.org/event/reiki-and-rhythm/39584/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261119
@@ -476,15 +422,6 @@ LOCATION:Laramie Quadra Dangle Club
 SUMMARY:Square Dancing Lessons at the Quadra Dangle Club
 UID:39562@visitlaramie.org
 URL:https://www.visitlaramie.org/event/square-dancing-lessons-at-the-quadra-dangle-club/39562/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Full-Dome Film: Dark Biosphere + Star Talk\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39536/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-02-27-140933_BFA04563-BA38-DBD2-61CC101B36F76D9C_bfa13204-ffc0-1f3d-e50acae2662e250c.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Dark Biosphere + Star Talk
-UID:39536@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-dark-biosphere-%2b-star-talk/39536/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
@@ -665,15 +602,6 @@ UID:39526@visitlaramie.org
 URL:https://www.visitlaramie.org/event/christmas-bazaar-%26-bake-sale/39526/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Dome after Dark\nMore info: https://www.visitlaramie.org/event/dome-after-dark/39610/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/DAD111426_22x28_V2_C08AA4C1-A92C-AB74-0072E02A5B6952CB_c0954ea1-b966-9236-485c4dc4994c2045.png\nCategories: Concerts & Live Music
-GEO:41.313657;-105.583729
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Dome after Dark
-UID:39610@visitlaramie.org
-URL:https://www.visitlaramie.org/event/dome-after-dark/39610/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260316
 DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
 GEO:41.314165;-105.568122
@@ -795,24 +723,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Founding Collection: WPA Art
 UID:39516@visitlaramie.org
 URL:https://www.visitlaramie.org/event/founding-collection%3a-wpa-art/39516/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Urban Sketching @ Arcade Laradise\nMore info: https://www.visitlaramie.org/event/urban-sketching-%40-arcade-laradise/39600/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/next-sketching-location-27-_2362D63F-B9BA-0C4E-40D7C0C2C01E484B_236c7dec-e89c-1baa-f7eb316fc90667c5.png\nCategories: Community\, Social Events\, Craft Classes & Workshops
-GEO:41.311396;-105.595230
-LOCATION:Arcade Laradise
-SUMMARY:Urban Sketching @ Arcade Laradise
-UID:39600@visitlaramie.org
-URL:https://www.visitlaramie.org/event/urban-sketching-%40-arcade-laradise/39600/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DESCRIPTION:Full-Dome Film: Messengers of Time and Space\nMore info: https://www.visitlaramie.org/event/full-dome-film%3a-messengers-of-time-and-space/39535/\nVenue: University of Wyoming Planetarium\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-planetarium/127/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-28-124502_1D5BFBC4-DDA9-70FF-C707A1F7813B2D43_1d5db33f-d7ea-1d66-bb2b7a647ce85aaf.png\nCategories: Community\, University of Wyoming\, Family Fun
-GEO:41.323643;-105.583027
-LOCATION:University of Wyoming Planetarium
-SUMMARY:Full-Dome Film: Messengers of Time and Space
-UID:39535@visitlaramie.org
-URL:https://www.visitlaramie.org/event/full-dome-film%3a-messengers-of-time-and-space/39535/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
