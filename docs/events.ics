@@ -168,6 +168,15 @@ UID:39607@visitlaramie.org
 URL:https://www.visitlaramie.org/event/lights-on-the-range%3a-light-trail/39607/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+DESCRIPTION:Earthborn: Group Printmaking Exhibition\nMore info: https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition/39626/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-103727_1BC8A27E-09BA-6F8F-C0FA5D19476D469F_1bcd8a93-f8e3-95ba-2a65cea2948af1ac.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.313464;-105.564486
+LOCATION:University of Wyoming\, Visual Arts Building
+SUMMARY:Earthborn: Group Printmaking Exhibition
+UID:39626@visitlaramie.org
+URL:https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition/39626/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
 DESCRIPTION:UWSO: Gala Holiday Concerts\nMore info: https://www.visitlaramie.org/event/uwso%3a-gala-holiday-concerts/39320/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-09-09-111354_47A2894E-DC28-B8D1-01F767DD2B829500_47a37af5-034b-542d-cb8c39ccb36a3f91.png\nCategories: Concerts & Live Music\, University of Wyoming
 GEO:41.311910;-105.581193
@@ -184,15 +193,6 @@ LOCATION:Science Initiative Building
 SUMMARY:Senior Science Friday
 UID:39619@visitlaramie.org
 URL:https://www.visitlaramie.org/event/senior-science-friday/39619/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260803
-DESCRIPTION:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F517400-C0F9-9CF5-CE86DA06EC5BF945_3f54533b-d053-8e2d-245efff6b0483bcb.png\nCategories: Education\, Craft Classes & Workshops
-GEO:41.298808;-106.141485
-LOCATION:Centennial Valley Library
-SUMMARY:Weekly Yoga At The Centennial Public Library Monday- Vinyasa flow
-UID:39248@visitlaramie.org
-URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-monday-vinyasa-flow/39248/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261210
@@ -272,15 +272,6 @@ LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
 SUMMARY:Laramie Plains Museum's  Holiday Open House
 UID:39469@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-plains-museums-holiday-open-house/39469/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261116
-DESCRIPTION:Staff Senate's Holiday Market\nMore info: https://www.visitlaramie.org/event/staff-senates-holiday-market/39611/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/HM26highlights_C0BE9569-D208-60BC-4B9644A10C1D8826_c0d5ac7f-ee8b-b1b8-7f654a1887c05f00.png\nCategories: Annual Events & Festivals
-GEO:41.310305;-105.564114
-LOCATION:UW Conference Center
-SUMMARY:Staff Senate's Holiday Market
-UID:39611@visitlaramie.org
-URL:https://www.visitlaramie.org/event/staff-senates-holiday-market/39611/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261130
@@ -485,15 +476,6 @@ LOCATION:Indian Paintbrush Elementary School
 SUMMARY:Thanksgiving Downhill Mile
 UID:39593@visitlaramie.org
 URL:https://www.visitlaramie.org/event/thanksgiving-downhill-mile/39593/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261116
-DESCRIPTION:UW Holiday Market 2025\nMore info: https://www.visitlaramie.org/event/uw-holiday-market-2025/39586/\nVenue: UW Conference Center\nVenue Info: https://www.visitlaramie.org/listing/uw-conference-center/631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-28-105640_22BF8EFC-AA19-DCB4-7A95937F7E7FBF19_22c4c74d-d064-d9a4-7f33c4e6f5f24ea4.png\nCategories: Annual Events & Festivals
-GEO:41.310305;-105.564114
-LOCATION:UW Conference Center
-SUMMARY:UW Holiday Market 2025
-UID:39586@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-holiday-market-2025/39586/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261117
@@ -725,7 +707,7 @@ UID:39516@visitlaramie.org
 URL:https://www.visitlaramie.org/event/founding-collection%3a-wpa-art/39516/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
+DTSTART;VALUE=DATE:20261120
 DESCRIPTION:UW Cowboy Football: Cowboys vs. Lobos\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboys-vs-lobos/38792/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-24-130003_B966E890-0912-E241-586CCD9D34D096E5_b9717ae4-b144-bc07-8c7e3a92e1d6a159.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
 GEO:41.311627;-105.564677
 LOCATION:War Memorial Stadium
