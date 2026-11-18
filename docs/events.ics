@@ -20,15 +20,6 @@ UID:39554@visitlaramie.org
 URL:https://www.visitlaramie.org/event/come-whip-paint-on-a-huge-canvas-with-us!-%f0%9f%8e%a8layers-of-time%3a-art-%2b-the-science-of-stromatolites-%c2%b7-in-the-greenhouse-week-3-of-4/39554/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261117
-DESCRIPTION:The Lincoln Highway in Wyoming\nMore info: https://www.visitlaramie.org/event/the-lincoln-highway-in-wyoming/39612/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-05-095446_C2313E7A-A622-F314-BBCE063EBC3E4546_c256a681-e000-6e1b-3c44d0d627a17d63.png\nCategories: History\, Wyoming 250
-GEO:41.312068;-105.589055
-LOCATION:Alice Hardie Stevens Center
-SUMMARY:The Lincoln Highway in Wyoming
-UID:39612@visitlaramie.org
-URL:https://www.visitlaramie.org/event/the-lincoln-highway-in-wyoming/39612/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261113
 DESCRIPTION:WALDEN by Amy Berryman\nMore info: https://www.visitlaramie.org/event/walden-by-amy-berryman/39489/\nVenue: The Gryphon Theatre\nVenue Info: https://www.visitlaramie.org/listing/the-gryphon-theatre/426/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-20-135131_89D4B6BF-EA5D-CA82-1C0A48DF4F478CB5_89d7c559-d843-aff9-9d38c9ea5787bc18.png\nCategories: Performing Arts & Culture
 GEO:41.309522;-105.587753
@@ -38,6 +29,15 @@ UID:39489@visitlaramie.org
 URL:https://www.visitlaramie.org/event/walden-by-amy-berryman/39489/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261217
+DESCRIPTION:Gorgon Gallery Art Show: Glimmers - Closing Coffee Chats\nMore info: https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers-closing-coffee-chats/39631/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-14-084221_2EF837AA-F2B5-30C9-1B3DD0E45286275D_2f3c8737-c8bd-7ca3-2501414d07ed0ef9.png\nCategories: Community\, Performing Arts & Culture\, Social Events
+GEO:41.309522;-105.587753
+LOCATION:Gorgon Gallery @ Laramie Plains Civic Center
+SUMMARY:Gorgon Gallery Art Show: Glimmers - Closing Coffee Chats
+UID:39631@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers-closing-coffee-chats/39631/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261119
 DESCRIPTION:From Wyoming's Lander Valley to Peru's Sacred Valley\nMore info: https://www.visitlaramie.org/event/from-wyomings-lander-valley-to-perus-sacred-valley/39617/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Alan-Mandel-Poster_2DB10E30-F579-6174-4539A406203D4EF5_2db4c4a6-d66f-33b3-d0fbd6a1d083cc57.png\nCategories: Community\, University of Wyoming\, Education
 GEO:41.314760;-105.584857
@@ -45,6 +45,24 @@ LOCATION:University of Wyoming Berry Biodiversity Center Auditorium
 SUMMARY:From Wyoming's Lander Valley to Peru's Sacred Valley
 UID:39617@visitlaramie.org
 URL:https://www.visitlaramie.org/event/from-wyomings-lander-valley-to-perus-sacred-valley/39617/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261205
+DESCRIPTION:Cowboy Basketball vs. Univ. of San Diego\nMore info: https://www.visitlaramie.org/event/cowboy-basketball-vs-univ-of-san-diego/39636/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124246_0843794F-C365-8251-F852A7E8A4CFB686_086c4019-a95e-acd4-8f849364737a91b5.png\nCategories: Community\, University of Wyoming\, Sports
+GEO:41.313459;-105.561558
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowboy Basketball vs. Univ. of San Diego
+UID:39636@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-basketball-vs-univ-of-san-diego/39636/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DESCRIPTION:Gorgon Gallery Art Show: Glimmers\nMore info: https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers/39629/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-14-084221_2EF837AA-F2B5-30C9-1B3DD0E45286275D_2f3c8737-c8bd-7ca3-2501414d07ed0ef9.png\nCategories: Community\, Performing Arts & Culture\, Social Events
+GEO:41.309522;-105.587753
+LOCATION:Gorgon Gallery @ Laramie Plains Civic Center
+SUMMARY:Gorgon Gallery Art Show: Glimmers
+UID:39629@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers/39629/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260730
@@ -124,15 +142,6 @@ UID:39602@visitlaramie.org
 URL:https://www.visitlaramie.org/event/community-screening-of-made-in-the-west/39602/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-DESCRIPTION:Flip Cup League @ The Cowboy Saloon and Dance Hall\nMore info: https://www.visitlaramie.org/event/flip-cup-league-%40-the-cowboy-saloon-and-dance-hall/39563/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-101654_F0CA6F9E-B3D3-66F0-98EDF84E3A3E5E69_f0d40744-a520-e318-3b336cb84ee1721c.png\nCategories: Community
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Flip Cup League @ The Cowboy Saloon and Dance Hall
-UID:39563@visitlaramie.org
-URL:https://www.visitlaramie.org/event/flip-cup-league-%40-the-cowboy-saloon-and-dance-hall/39563/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
 DESCRIPTION:Small Business Weekend\nMore info: https://www.visitlaramie.org/event/small-business-weekend/39621/\nVenue: Coal Creek Coffee Co. (Downtown)\nVenue Info: https://www.visitlaramie.org/listing/coal-creek-coffee-co-(downtown)/28/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Save-the-Date-2025_8C28253F-93E2-4BFF-60EE45AF59F3DB16_8c325a45-0d81-e92d-ee4791b01203c3ba.png\nCategories: Annual Events & Festivals
 GEO:41.311389;-105.595899
@@ -140,6 +149,14 @@ LOCATION:Coal Creek Coffee Co. (Downtown)
 SUMMARY:Small Business Weekend
 UID:39621@visitlaramie.org
 URL:https://www.visitlaramie.org/event/small-business-weekend/39621/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261126
+DESCRIPTION:Eagles Thanksgiving Dinner\nMore info: https://www.visitlaramie.org/event/eagles-thanksgiving-dinner/39640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-17-135038_30DC4AD4-9D06-C79E-A104C79C836B0965_30e20df0-e9c0-6a39-a8344ff7303250b8.png\nCategories: Community
+GEO:41.325049;-105.593766
+SUMMARY:Eagles Thanksgiving Dinner
+UID:39640@visitlaramie.org
+URL:https://www.visitlaramie.org/event/eagles-thanksgiving-dinner/39640/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261211
@@ -157,6 +174,15 @@ LOCATION:Washington Park
 SUMMARY:5th Annual Tough Guys Winter Lights Festival
 UID:39575@visitlaramie.org
 URL:https://www.visitlaramie.org/event/5th-annual-tough-guys-winter-lights-festival/39575/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DESCRIPTION:Cowgirl Basketball vs. Harvard\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-harvard/39633/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
+GEO:41.313459;-105.561558
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowgirl Basketball vs. Harvard
+UID:39633@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-basketball-vs-harvard/39633/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261204
@@ -193,6 +219,15 @@ LOCATION:Science Initiative Building
 SUMMARY:Senior Science Friday
 UID:39619@visitlaramie.org
 URL:https://www.visitlaramie.org/event/senior-science-friday/39619/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Cooper Center Holiday Market\nMore info: https://www.visitlaramie.org/event/cooper-center-holiday-market/39638/\nVenue: Cooper Center for Creative Arts\nVenue Info: https://www.visitlaramie.org/listing/cooper-center-for-creative-arts/1804/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-17-134406_30916567-92E9-6D64-A3B85257A433829C_309bded1-b223-c4bb-c3fa40e36436fa7d.png\nCategories: Annual Events & Festivals
+GEO:41.322811;-105.591448
+LOCATION:Cooper Center for Creative Arts
+SUMMARY:Cooper Center Holiday Market
+UID:39638@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cooper-center-holiday-market/39638/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261210
@@ -282,13 +317,13 @@ UID:39137@visitlaramie.org
 URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261117
-DESCRIPTION:Ecstatic Dance\nMore info: https://www.visitlaramie.org/event/ecstatic-dance/39572/\nVenue: Lincoln Community Center\nVenue Info: https://www.visitlaramie.org/listing/lincoln-community-center/254/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/NovDance_85678D36-BF06-2B01-4637AE002AC1711C_85afc9ad-9b38-5a27-2641437676f93e97.jpg\nCategories: Social Events
-GEO:41.311928;-105.600431
-LOCATION:Lincoln Community Center
-SUMMARY:Ecstatic Dance
-UID:39572@visitlaramie.org
-URL:https://www.visitlaramie.org/event/ecstatic-dance/39572/
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Gorgon Gallery Art Show: Glimmers - Reception\nMore info: https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers-reception/39630/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-14-084221_2EF837AA-F2B5-30C9-1B3DD0E45286275D_2f3c8737-c8bd-7ca3-2501414d07ed0ef9.png\nCategories: Community\, Performing Arts & Culture\, Social Events
+GEO:41.309522;-105.587753
+LOCATION:Gorgon Gallery @ Laramie Plains Civic Center
+SUMMARY:Gorgon Gallery Art Show: Glimmers - Reception
+UID:39630@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers-reception/39630/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261203
@@ -317,6 +352,15 @@ UID:39577@visitlaramie.org
 URL:https://www.visitlaramie.org/event/jeny-stoesz-annual-weaving-studio-sale/39577/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+DESCRIPTION:Cowboy Basketball Vs. Austin Peay\nMore info: https://www.visitlaramie.org/event/cowboy-basketball-vs-austin-peay/39635/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124246_0843794F-C365-8251-F852A7E8A4CFB686_086c4019-a95e-acd4-8f849364737a91b5.png\nCategories: Community\, University of Wyoming\, Sports
+GEO:41.313459;-105.561558
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowboy Basketball Vs. Austin Peay
+UID:39635@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowboy-basketball-vs-austin-peay/39635/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
 DESCRIPTION:Turkey Curling\nMore info: https://www.visitlaramie.org/event/turkey-curling/39609/\nVenue: Laramie Ice & Event Center\nVenue Info: https://www.visitlaramie.org/listing/laramie-ice-%26-event-center/230/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-12-115309_2B1AACDC-F440-863B-A8659E51528C635E_2b1b3a42-efb7-5a30-9ca0d0695537e5d0.png\nCategories: Annual Events & Festivals\, Family Fun
 GEO:41.305775;-105.551024
@@ -333,6 +377,15 @@ LOCATION:Wyoming Union Ballroom
 SUMMARY:An Evening with Craig Johnson and A Martinez
 UID:39596@visitlaramie.org
 URL:https://www.visitlaramie.org/event/an-evening-with-craig-johnson-and-a-martinez/39596/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261205
+DESCRIPTION:Friends of the Albany County Public Library Holiday Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-holiday-book-sale/39628/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-holiday-sale-8.5-x-11-1-_2CDDEC19-D3D5-9663-87A1DBEBBC7B7621_2ce1fa40-0b01-f672-ee95c683aef54af3.jpg\nCategories: Community
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:Friends of the Albany County Public Library Holiday Book Sale
+UID:39628@visitlaramie.org
+URL:https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-holiday-book-sale/39628/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
@@ -469,6 +522,15 @@ UID:39574@visitlaramie.org
 URL:https://www.visitlaramie.org/event/grand-opening-of-tough-guys-winter-lights-festival/39574/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Light Up Laradise\nMore info: https://www.visitlaramie.org/event/light-up-laradise/39632/\nVenue: University of Wyoming Sports Facilities\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-sports-facilities/1657/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-17-131213_2F78E4A1-0B43-0BCB-BDF796DCABF0B217_2f98b99e-964c-f900-63f63f9f73f22f38.png\nCategories: Community\, University of Wyoming\, Sports
+GEO:41.312616;-105.570928
+LOCATION:University of Wyoming Sports Facilities
+SUMMARY:Light Up Laradise
+UID:39632@visitlaramie.org
+URL:https://www.visitlaramie.org/event/light-up-laradise/39632/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
 DESCRIPTION:Thanksgiving Downhill Mile\nMore info: https://www.visitlaramie.org/event/thanksgiving-downhill-mile/39593/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Thanksgiving-Downhill-Mile-Flyer-rev_62C12808-9B4E-3135-8C2F59170E6AB68E_62c88ba6-9e09-6b94-dc0393db905745ab.png\nCategories: Annual Events & Festivals\, Community\, Sports\, Family Fun
 GEO:41.324771;-105.541965
@@ -478,13 +540,12 @@ UID:39593@visitlaramie.org
 URL:https://www.visitlaramie.org/event/thanksgiving-downhill-mile/39593/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261117
-DESCRIPTION:STEM-ology Toddler Tuesday\nMore info: https://www.visitlaramie.org/event/stem-ology-toddler-tuesday/39618/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/-F26-Toddler-Tuesday-Social-Media_59CF779D-04F6-7D0D-ACC5EE153978E2D5_59e1dfee-9dc6-5073-f73417b37d3df0e0.jpg\nCategories: University of Wyoming\, Education\, Family Fun
-GEO:41.316208;-105.585145
-LOCATION:Science Initiative Building
-SUMMARY:STEM-ology Toddler Tuesday
-UID:39618@visitlaramie.org
-URL:https://www.visitlaramie.org/event/stem-ology-toddler-tuesday/39618/
+DTSTART;VALUE=DATE:20261206
+DESCRIPTION:Holiday Home Tour\nMore info: https://www.visitlaramie.org/event/holiday-home-tour/39625/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Poster_61AB49B2-F5A4-8120-720242812DC68CD7_61b39c48-d2c0-05c4-cea4670caa58c119.png\nCategories: Community
+GEO:41.307501;-105.585047
+SUMMARY:Holiday Home Tour
+UID:39625@visitlaramie.org
+URL:https://www.visitlaramie.org/event/holiday-home-tour/39625/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
@@ -494,6 +555,14 @@ LOCATION:Bond's Brewing Company
 SUMMARY:Bond's Trivia & Tacos Night
 UID:39254@visitlaramie.org
 URL:https://www.visitlaramie.org/event/bonds-trivia-%26-tacos-night/39254/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:Tailgate Around DownTown\nMore info: https://www.visitlaramie.org/event/tailgate-around-downtown/39637/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-17-133658_305219D9-07C6-6537-E8122C44F9B640CF_306ce639-b47d-1e74-cbe7bdcb660720a5.png\nCategories: Community\, University of Wyoming\, Sports
+GEO:41.311389;-105.595899
+SUMMARY:Tailgate Around DownTown
+UID:39637@visitlaramie.org
+URL:https://www.visitlaramie.org/event/tailgate-around-downtown/39637/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261119
@@ -567,14 +636,6 @@ UID:39475@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tapas-%26-tomorrow/39475/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261117
-DESCRIPTION:Albany County Historical Society:The Lincoln Highway\nMore info: https://www.visitlaramie.org/event/albany-county-historical-society%3athe-lincoln-highway/39059/\nVenue: Alice Hardie Stevens Center\nVenue Info: https://www.visitlaramie.org/listing/alice-hardie-stevens-center/51/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/189720_108670819213224_8029321_n_83fd790d-5056-a36f-23ef9d8598d32722.jpg\nCategories: History\, Community\, Wyoming 250
-GEO:41.312068;-105.589055
-SUMMARY:Albany County Historical Society:The Lincoln Highway
-UID:39059@visitlaramie.org
-URL:https://www.visitlaramie.org/event/albany-county-historical-society%3athe-lincoln-highway/39059/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
 DESCRIPTION:Christmas Bazaar & Bake Sale\nMore info: https://www.visitlaramie.org/event/christmas-bazaar-%26-bake-sale/39526/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-21-115411_BC03CB6B-E3F6-159A-E085F77D4ACFD88C_bc042ed4-bf2e-c54b-88889f077a3e2cf3.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.307701;-105.593024
@@ -590,6 +651,15 @@ GEO:41.314165;-105.568122
 SUMMARY:Nellie: The First Woman Governor at America's Milestones
 UID:39136@visitlaramie.org
 URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+DESCRIPTION:Jason Moore Concert\nMore info: https://www.visitlaramie.org/event/jason-moore-concert/39487/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-14-095621_4F5108B2-B473-B964-3E84F394C61A68AB_4f551a87-0b25-53e5-0a8c72b7659578de.png\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Jason Moore Concert
+UID:39487@visitlaramie.org
+URL:https://www.visitlaramie.org/event/jason-moore-concert/39487/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
@@ -628,6 +698,15 @@ UID:39615@visitlaramie.org
 URL:https://www.visitlaramie.org/event/laramie-audubon-program%3a-dark-skies-initiative/39615/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+DESCRIPTION:Cowgirl Basketball vs. Regis Rangers\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-regis-rangers/39634/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
+GEO:41.313459;-105.561558
+LOCATION:UW Arena Auditorium
+SUMMARY:Cowgirl Basketball vs. Regis Rangers
+UID:39634@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cowgirl-basketball-vs-regis-rangers/39634/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DESCRIPTION:Parking Lot Light Show\nMore info: https://www.visitlaramie.org/event/parking-lot-light-show/39608/\nVenue: Wyoming Territorial Prison State Historic Site\nVenue Info: https://www.visitlaramie.org/listing/wyoming-territorial-prison-state-historic-site/136/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/IMG_0802_38F22E6A-38A8-4DC9-A8B22B249AFF52CA_c17458af-703e-4875-b6f0adab9141873f.jpg\nCategories: Annual Events & Festivals\, Family Fun
 GEO:41.311613;-105.610512
@@ -635,6 +714,24 @@ LOCATION:Wyoming Territorial Prison State Historic Site
 SUMMARY:Parking Lot Light Show
 UID:39608@visitlaramie.org
 URL:https://www.visitlaramie.org/event/parking-lot-light-show/39608/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Wyoming Women's History House Holiday Market & Open House\nMore info: https://www.visitlaramie.org/event/wyoming-womens-history-house-holiday-market-%26-open-house/39627/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-16-131119_29A55220-0388-8ABF-5E55607CAE6857D0_2b3ee11c-daa5-d0b4-a488f48882c072de.png\nCategories: History\, Community\, Family Fun\, Social Events
+GEO:41.310382;-105.594446
+LOCATION:Wyoming Women's History House
+SUMMARY:Wyoming Women's History House Holiday Market & Open House
+UID:39627@visitlaramie.org
+URL:https://www.visitlaramie.org/event/wyoming-womens-history-house-holiday-market-%26-open-house/39627/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DESCRIPTION:Metro Coffee One Year Anniversary and Open House\nMore info: https://www.visitlaramie.org/event/metro-coffee-one-year-anniversary-and-open-house/39639/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-17-134656_30B00E43-B228-6743-D8E9635D558C9226_30bd4db1-dbe2-df41-ffac44112b631f6e.png\nCategories: Community
+GEO:41.312322;-105.595232
+LOCATION:Metro Coffee
+SUMMARY:Metro Coffee One Year Anniversary and Open House
+UID:39639@visitlaramie.org
+URL:https://www.visitlaramie.org/event/metro-coffee-one-year-anniversary-and-open-house/39639/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260806
@@ -678,15 +775,6 @@ LOCATION:UW Buchanan Center Room 1010
 SUMMARY:Learn to play music from Bali!
 UID:39408@visitlaramie.org
 URL:https://www.visitlaramie.org/event/learn-to-play-music-from-bali!/39408/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261117
-DESCRIPTION:UW Music Presents: John Fedchock with UW Faculty Jazz Trio\nMore info: https://www.visitlaramie.org/event/uw-music-presents%3a-john-fedchock-with-uw-faculty-jazz-trio/39491/\nVenue: Buchanan Center for the Performing Arts\nVenue Info: https://www.visitlaramie.org/listing/buchanan-center-for-the-performing-arts/456/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/UW-Music-Event_4FB89042-98DE-408E-E10D29FC9B212CC1_4fb97f17-d9d5-f48b-6032edcbac10cf63.png\nCategories: Concerts & Live Music\, University of Wyoming\, Family Fun
-GEO:41.310354;-105.574244
-LOCATION:Buchanan Center for the Performing Arts
-SUMMARY:UW Music Presents: John Fedchock with UW Faculty Jazz Trio
-UID:39491@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-music-presents%3a-john-fedchock-with-uw-faculty-jazz-trio/39491/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
