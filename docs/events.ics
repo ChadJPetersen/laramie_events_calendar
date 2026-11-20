@@ -38,15 +38,6 @@ UID:39631@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers-closing-coffee-chats/39631/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261119
-DESCRIPTION:From Wyoming's Lander Valley to Peru's Sacred Valley\nMore info: https://www.visitlaramie.org/event/from-wyomings-lander-valley-to-perus-sacred-valley/39617/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Alan-Mandel-Poster_2DB10E30-F579-6174-4539A406203D4EF5_2db4c4a6-d66f-33b3-d0fbd6a1d083cc57.png\nCategories: Community\, University of Wyoming\, Education
-GEO:41.314760;-105.584857
-LOCATION:University of Wyoming Berry Biodiversity Center Auditorium
-SUMMARY:From Wyoming's Lander Valley to Peru's Sacred Valley
-UID:39617@visitlaramie.org
-URL:https://www.visitlaramie.org/event/from-wyomings-lander-valley-to-perus-sacred-valley/39617/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261205
 DESCRIPTION:Cowboy Basketball vs. Univ. of San Diego\nMore info: https://www.visitlaramie.org/event/cowboy-basketball-vs-univ-of-san-diego/39636/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124246_0843794F-C365-8251-F852A7E8A4CFB686_086c4019-a95e-acd4-8f849364737a91b5.png\nCategories: Community\, University of Wyoming\, Sports
 GEO:41.313459;-105.561558
@@ -72,23 +63,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: 99 Photos
 UID:39239@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39239/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-DESCRIPTION:Bingo Night\nMore info: https://www.visitlaramie.org/event/bingo-night/39258/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-08-05-115102_3E89EA70-F5E1-7936-2BAA4E059F87FE7F_3ec318d4-bd44-3e8b-79e5c77e89559f8b.png\nCategories: Community\, Social Events
-LOCATION:Bond's Brewing Company
-SUMMARY:Bingo Night
-UID:39258@visitlaramie.org
-URL:https://www.visitlaramie.org/event/bingo-night/39258/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261119
-DESCRIPTION:Earthborn: Group Printmaking Exhibition Reception\nMore info: https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition-reception/39431/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-115056_EC25530C-A3AB-F79D-3088DCF1EDC26082_ec322c01-b325-e279-a0e08b0e94d38c86.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.313464;-105.564486
-LOCATION:University of Wyoming\, Visual Arts Building
-SUMMARY:Earthborn: Group Printmaking Exhibition Reception
-UID:39431@visitlaramie.org
-URL:https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition-reception/39431/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
@@ -131,15 +105,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Exhibition Collection: Contemporary Works
 UID:39518@visitlaramie.org
 URL:https://www.visitlaramie.org/event/exhibition-collection%3a-contemporary-works/39518/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261118
-DESCRIPTION:Community Screening of "Made In The West"\nMore info: https://www.visitlaramie.org/event/community-screening-of-made-in-the-west/39602/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Made-in-the-West-screening-at-UW-1-_27391BCE-0058-0E1C-B8E35C977C39A67A_27402169-a835-c3a6-501abe7a95309ca0.jpg\nCategories: History\, Community\, University of Wyoming\, Performing Arts & Culture
-GEO:41.314273;-105.565668
-LOCATION:Visual Arts Auditorium (VA 111)\, Visual Arts Building\,
-SUMMARY:Community Screening of "Made In The West"
-UID:39602@visitlaramie.org
-URL:https://www.visitlaramie.org/event/community-screening-of-made-in-the-west/39602/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
@@ -370,15 +335,6 @@ UID:39609@visitlaramie.org
 URL:https://www.visitlaramie.org/event/turkey-curling/39609/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261118
-DESCRIPTION:An Evening with Craig Johnson and A Martinez\nMore info: https://www.visitlaramie.org/event/an-evening-with-craig-johnson-and-a-martinez/39596/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/craig-johnson-a-martinez-573x382_8A133CEC-FCCA-75AE-5C6DEFF7339A3387_8a1e4d9e-0ab9-b6db-8f0d6897212f5bc7.jpg\nCategories: Performing Arts & Culture
-GEO:41.312359;-105.579442
-LOCATION:Wyoming Union Ballroom
-SUMMARY:An Evening with Craig Johnson and A Martinez
-UID:39596@visitlaramie.org
-URL:https://www.visitlaramie.org/event/an-evening-with-craig-johnson-and-a-martinez/39596/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261205
 DESCRIPTION:Friends of the Albany County Public Library Holiday Book Sale\nMore info: https://www.visitlaramie.org/event/friends-of-the-albany-county-public-library-holiday-book-sale/39628/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-holiday-sale-8.5-x-11-1-_2CDDEC19-D3D5-9663-87A1DBEBBC7B7621_2ce1fa40-0b01-f672-ee95c683aef54af3.jpg\nCategories: Community
 GEO:41.310342;-105.587834
@@ -459,15 +415,6 @@ UID:39478@visitlaramie.org
 URL:https://www.visitlaramie.org/event/dog-days-at-the-library/39478/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261022
-DESCRIPTION:Square Dancing Lessons at the Quadra Dangle Club\nMore info: https://www.visitlaramie.org/event/square-dancing-lessons-at-the-quadra-dangle-club/39562/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-102012_F067746B-0EF4-06F1-B75D54B8F41FF105_f088ab27-0d8a-5da8-1ddcdecd75ab56bb.png\nCategories: Community\, Craft Classes & Workshops
-GEO:41.321083;-105.547483
-LOCATION:Laramie Quadra Dangle Club
-SUMMARY:Square Dancing Lessons at the Quadra Dangle Club
-UID:39562@visitlaramie.org
-URL:https://www.visitlaramie.org/event/square-dancing-lessons-at-the-quadra-dangle-club/39562/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
 DESCRIPTION:STEM Saturday\nMore info: https://www.visitlaramie.org/event/stem-saturday/39620/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/-F26-STEM-Saturday-Social-Media_5A05EE99-D52A-880D-F481169BC29091DC_5a08ec87-f39a-2b92-66ab05160e8256d8.jpg\nCategories: University of Wyoming\, Education\, Family Fun
 GEO:41.316208;-105.585145
@@ -540,6 +487,15 @@ UID:39593@visitlaramie.org
 URL:https://www.visitlaramie.org/event/thanksgiving-downhill-mile/39593/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DESCRIPTION:"Is It Better Than the Book?"\, Movie Matinee Series\nMore info: https://www.visitlaramie.org/event/is-it-better-than-the-book%3f-movie-matinee-series/39567/\nVenue: Albany County Public Library\nVenue Info: https://www.visitlaramie.org/listing/albany-county-public-library/1849/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-22-102222_F16D8E4F-A09F-6E68-3E4D6CDFBB5B390F_f1875fe4-acfa-5a29-ded06ba2508bcde7.png\nCategories: Community\, Performing Arts & Culture\, Social Events
+GEO:41.310342;-105.587834
+LOCATION:Albany County Public Library
+SUMMARY:"Is It Better Than the Book?"\, Movie Matinee Series
+UID:39567@visitlaramie.org
+URL:https://www.visitlaramie.org/event/is-it-better-than-the-book%3f-movie-matinee-series/39567/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
 DESCRIPTION:Holiday Home Tour\nMore info: https://www.visitlaramie.org/event/holiday-home-tour/39625/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/FB-Poster_61AB49B2-F5A4-8120-720242812DC68CD7_61b39c48-d2c0-05c4-cea4670caa58c119.png\nCategories: Community
 GEO:41.307501;-105.585047
@@ -565,14 +521,6 @@ UID:39637@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tailgate-around-downtown/39637/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261119
-DESCRIPTION:Laramie Dinner Club - November\nMore info: https://www.visitlaramie.org/event/laramie-dinner-club-november/39598/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LaramieDinnerClub-EmailHeader_09B1D13E-BC6A-384D-2F0430D65AA41C56_09cd24ac-df82-b28f-55b45e04e9487a87.png\nCategories: Social Events
-GEO:41.311367;-105.591101
-SUMMARY:Laramie Dinner Club - November
-UID:39598@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-dinner-club-november/39598/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:Global Collection : Masks of the World\nMore info: https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-101318_BD8D4C9E-BA8C-F3B0-E5DE078649781A01_bd937282-ae8d-0a89-7128ba09c4f30a48.png\nCategories: History\, University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -580,15 +528,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Global Collection : Masks of the World
 UID:38995@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261118
-DESCRIPTION:Film Screening of "Made in the West"\nMore info: https://www.visitlaramie.org/event/film-screening-of-made-in-the-west/39432/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-02-132202_ECB28A8C-E6D0-55F4-BC45EC7F0F1BAAB9_ecc60041-dc38-10ad-574c9bb3f2aa2d4a.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.310928;-105.564614
-LOCATION:University of Wyoming\, Visual Arts Building
-SUMMARY:Film Screening of "Made in the West"
-UID:39432@visitlaramie.org
-URL:https://www.visitlaramie.org/event/film-screening-of-made-in-the-west/39432/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261014
@@ -625,15 +564,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Donor Collection: E.G. Meyer Family Collection
 UID:39514@visitlaramie.org
 URL:https://www.visitlaramie.org/event/donor-collection%3a-e-g-meyer-family-collection/39514/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261118
-DESCRIPTION:Tapas & Tomorrow\nMore info: https://www.visitlaramie.org/event/tapas-%26-tomorrow/39475/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Tapas-Tomorrow_Digital_F5CB1AB8-FF4F-4BC4-87189C3EEFD134B1_f5d20763-ef75-507a-c400eb26566b90b2.png\nCategories: Community
-GEO:41.312136;-105.592375
-LOCATION:Laramie Soup Kitchen
-SUMMARY:Tapas & Tomorrow
-UID:39475@visitlaramie.org
-URL:https://www.visitlaramie.org/event/tapas-%26-tomorrow/39475/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
@@ -689,15 +619,6 @@ UID:39557@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tanner-usrey-%40-the-cowboy-saloon/39557/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261118
-DESCRIPTION:Laramie Audubon Program: Dark Skies Initiative\nMore info: https://www.visitlaramie.org/event/laramie-audubon-program%3a-dark-skies-initiative/39615/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/LasLogo2_F1B2D842-C355-C12C-BBB7E32B674BB6D2_f214b793-b10b-e538-d2f6483bf0deea67.jpg\nCategories: Education
-GEO:41.312203;-105.587931
-LOCATION:Trinity Lutheran Church
-SUMMARY:Laramie Audubon Program: Dark Skies Initiative
-UID:39615@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-audubon-program%3a-dark-skies-initiative/39615/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261202
 DESCRIPTION:Cowgirl Basketball vs. Regis Rangers\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-regis-rangers/39634/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
 GEO:41.313459;-105.561558
@@ -732,14 +653,6 @@ LOCATION:Metro Coffee
 SUMMARY:Metro Coffee One Year Anniversary and Open House
 UID:39639@visitlaramie.org
 URL:https://www.visitlaramie.org/event/metro-coffee-one-year-anniversary-and-open-house/39639/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-DESCRIPTION:Weekly Yoga At The Centennial Public Library Thursday - Restorative/Yoga Nidra\nMore info: https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-thursday-restorative-yoga-nidra/39249/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-31-125353_3F4B8212-D92D-D314-A0101474B437F09F_3f4dd649-9385-f585-a2020b7bc021bc03.png\nCategories: Education\, Craft Classes & Workshops
-GEO:41.298808;-106.141485
-SUMMARY:Weekly Yoga At The Centennial Public Library Thursday - Restorative/Yoga Nidra
-UID:39249@visitlaramie.org
-URL:https://www.visitlaramie.org/event/weekly-yoga-at-the-centennial-public-library-thursday-restorative-yoga-nidra/39249/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261213
