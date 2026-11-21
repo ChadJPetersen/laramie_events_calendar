@@ -38,6 +38,15 @@ UID:39631@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers-closing-coffee-chats/39631/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Christmas at The Barn\nMore info: https://www.visitlaramie.org/event/christmas-at-the-barn/39650/\nCategories: Family Fun
+GEO:41.320276;-105.636183
+LOCATION:Ranwell Equine Center
+SUMMARY:Christmas at The Barn
+UID:39650@visitlaramie.org
+URL:https://www.visitlaramie.org/event/christmas-at-the-barn/39650/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261205
 DESCRIPTION:Cowboy Basketball vs. Univ. of San Diego\nMore info: https://www.visitlaramie.org/event/cowboy-basketball-vs-univ-of-san-diego/39636/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124246_0843794F-C365-8251-F852A7E8A4CFB686_086c4019-a95e-acd4-8f849364737a91b5.png\nCategories: Community\, University of Wyoming\, Sports
 GEO:41.313459;-105.561558
@@ -63,6 +72,15 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: 99 Photos
 UID:39239@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39239/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Holiday Open House\nMore info: https://www.visitlaramie.org/event/holiday-open-house/39648/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/50/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/2026-HOH-flyer_C1A38F8F-D92E-EC57-B9834557401CEC5E_c1d2c3df-be12-b6f1-fc4f501fdf7d2dce.jpg\nCategories: History
+GEO:41.312068;-105.589055
+LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
+SUMMARY:Holiday Open House
+UID:39648@visitlaramie.org
+URL:https://www.visitlaramie.org/event/holiday-open-house/39648/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
@@ -159,6 +177,14 @@ UID:39607@visitlaramie.org
 URL:https://www.visitlaramie.org/event/lights-on-the-range%3a-light-trail/39607/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Photos with Mini Highland Cows at The Trading Post\nMore info: https://www.visitlaramie.org/event/photos-with-mini-highland-cows-at-the-trading-post/39652/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-20-094248_D07D6CD4-9515-75D2-94C59D021F60E12A_d09d3eea-091b-9be8-dfa665aec6fc89f2.png\nCategories: Annual Events & Festivals
+GEO:41.297755;-106.140054
+SUMMARY:Photos with Mini Highland Cows at The Trading Post
+UID:39652@visitlaramie.org
+URL:https://www.visitlaramie.org/event/photos-with-mini-highland-cows-at-the-trading-post/39652/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261130
 DESCRIPTION:Earthborn: Group Printmaking Exhibition\nMore info: https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition/39626/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-103727_1BC8A27E-09BA-6F8F-C0FA5D19476D469F_1bcd8a93-f8e3-95ba-2a65cea2948af1ac.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.313464;-105.564486
@@ -175,15 +201,6 @@ LOCATION:Buchanan Center for the Performing Arts
 SUMMARY:UWSO: Gala Holiday Concerts
 UID:39320@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uwso%3a-gala-holiday-concerts/39320/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DESCRIPTION:Senior Science Friday\nMore info: https://www.visitlaramie.org/event/senior-science-friday/39619/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/-F26-Senior-Science-Friday-Social-Media_59F3F150-B93B-B745-FE76DDE0A7D0AD73_59f80550-a208-2149-4155addd63fd92de.jpg\nCategories: University of Wyoming\, Education
-GEO:41.316208;-105.585145
-LOCATION:Science Initiative Building
-SUMMARY:Senior Science Friday
-UID:39619@visitlaramie.org
-URL:https://www.visitlaramie.org/event/senior-science-friday/39619/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261212
@@ -280,15 +297,6 @@ GEO:41.314165;-105.568122
 SUMMARY:Turning The Pages OF America
 UID:39137@visitlaramie.org
 URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39137/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DESCRIPTION:Gorgon Gallery Art Show: Glimmers - Reception\nMore info: https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers-reception/39630/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-14-084221_2EF837AA-F2B5-30C9-1B3DD0E45286275D_2f3c8737-c8bd-7ca3-2501414d07ed0ef9.png\nCategories: Community\, Performing Arts & Culture\, Social Events
-GEO:41.309522;-105.587753
-LOCATION:Gorgon Gallery @ Laramie Plains Civic Center
-SUMMARY:Gorgon Gallery Art Show: Glimmers - Reception
-UID:39630@visitlaramie.org
-URL:https://www.visitlaramie.org/event/gorgon-gallery-art-show%3a-glimmers-reception/39630/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261203
@@ -469,15 +477,6 @@ UID:39574@visitlaramie.org
 URL:https://www.visitlaramie.org/event/grand-opening-of-tough-guys-winter-lights-festival/39574/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DESCRIPTION:Light Up Laradise\nMore info: https://www.visitlaramie.org/event/light-up-laradise/39632/\nVenue: University of Wyoming Sports Facilities\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-sports-facilities/1657/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-17-131213_2F78E4A1-0B43-0BCB-BDF796DCABF0B217_2f98b99e-964c-f900-63f63f9f73f22f38.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.312616;-105.570928
-LOCATION:University of Wyoming Sports Facilities
-SUMMARY:Light Up Laradise
-UID:39632@visitlaramie.org
-URL:https://www.visitlaramie.org/event/light-up-laradise/39632/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261121
 DESCRIPTION:Thanksgiving Downhill Mile\nMore info: https://www.visitlaramie.org/event/thanksgiving-downhill-mile/39593/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Thanksgiving-Downhill-Mile-Flyer-rev_62C12808-9B4E-3135-8C2F59170E6AB68E_62c88ba6-9e09-6b94-dc0393db905745ab.png\nCategories: Annual Events & Festivals\, Community\, Sports\, Family Fun
 GEO:41.324771;-105.541965
@@ -494,6 +493,14 @@ LOCATION:Albany County Public Library
 SUMMARY:"Is It Better Than the Book?"\, Movie Matinee Series
 UID:39567@visitlaramie.org
 URL:https://www.visitlaramie.org/event/is-it-better-than-the-book%3f-movie-matinee-series/39567/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Cocoa With Santa at The Mountain View\nMore info: https://www.visitlaramie.org/event/cocoa-with-santa-at-the-mountain-view/39651/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-20-094146_D060EF2A-A53B-2783-A7B3CC4B1DB5BAAE_d063ef49-bbfe-c982-d669031b0a0fd9e2.png\nCategories: Annual Events & Festivals
+GEO:41.297830;-106.138789
+SUMMARY:Cocoa With Santa at The Mountain View
+UID:39651@visitlaramie.org
+URL:https://www.visitlaramie.org/event/cocoa-with-santa-at-the-mountain-view/39651/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261206
@@ -519,6 +526,15 @@ GEO:41.311389;-105.595899
 SUMMARY:Tailgate Around DownTown
 UID:39637@visitlaramie.org
 URL:https://www.visitlaramie.org/event/tailgate-around-downtown/39637/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Christmas in Centennial\nMore info: https://www.visitlaramie.org/event/christmas-in-centennial/39649/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/images-1-_C1FA7EC4-B8D5-0D8A-6805368D2DEDF111_c1fe58ac-9cc7-8a9f-eef51f1ffdbd71b4.jpg\nCategories: Annual Events & Festivals
+GEO:41.298305;-106.141677
+LOCATION:Throughout the town of Centennial\, Wyoming
+SUMMARY:Christmas in Centennial
+UID:39649@visitlaramie.org
+URL:https://www.visitlaramie.org/event/christmas-in-centennial/39649/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
@@ -638,6 +654,14 @@ URL:https://www.visitlaramie.org/event/parking-lot-light-show/39608/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261212
+DESCRIPTION:Book Signing with Jayme Mansfield at the Country Junction\nMore info: https://www.visitlaramie.org/event/book-signing-with-jayme-mansfield-at-the-country-junction/39653/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-20-094323_D0B8FAB6-9A78-16DF-7D6DB56C57A9058A_d0b99fd5-aaf3-6bd5-8ad0e130c3b71304.png\nCategories: Annual Events & Festivals
+GEO:41.296843;-106.139113
+SUMMARY:Book Signing with Jayme Mansfield at the Country Junction
+UID:39653@visitlaramie.org
+URL:https://www.visitlaramie.org/event/book-signing-with-jayme-mansfield-at-the-country-junction/39653/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
 DESCRIPTION:Wyoming Women's History House Holiday Market & Open House\nMore info: https://www.visitlaramie.org/event/wyoming-womens-history-house-holiday-market-%26-open-house/39627/\nVenue: Wyoming Women's History House\nVenue Info: https://www.visitlaramie.org/listing/wyoming-womens-history-house/383/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-16-131119_29A55220-0388-8ABF-5E55607CAE6857D0_2b3ee11c-daa5-d0b4-a488f48882c072de.png\nCategories: History\, Community\, Family Fun\, Social Events
 GEO:41.310382;-105.594446
 LOCATION:Wyoming Women's History House
@@ -706,14 +730,5 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Founding Collection: WPA Art
 UID:39516@visitlaramie.org
 URL:https://www.visitlaramie.org/event/founding-collection%3a-wpa-art/39516/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DESCRIPTION:UW Cowboy Football: Cowboys vs. Lobos\nMore info: https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboys-vs-lobos/38792/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-24-130003_B966E890-0912-E241-586CCD9D34D096E5_b9717ae4-b144-bc07-8c7e3a92e1d6a159.png\nCategories: Community\, University of Wyoming\, Sports\, Family Fun\, Social Events
-GEO:41.311627;-105.564677
-LOCATION:War Memorial Stadium
-SUMMARY:UW Cowboy Football: Cowboys vs. Lobos
-UID:38792@visitlaramie.org
-URL:https://www.visitlaramie.org/event/uw-cowboy-football%3a-cowboys-vs-lobos/38792/
 END:VEVENT
 END:VCALENDAR
