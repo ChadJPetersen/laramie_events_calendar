@@ -29,15 +29,6 @@ UID:39496@visitlaramie.org
 URL:https://www.visitlaramie.org/event/gifted-collection%3a-brett-weston-archive/39496/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DESCRIPTION:Come Whip Paint on a Huge Canvas with Us!  🎨Layers of Time: art + the science of stromatolites · In the Greenhouse\, Week 3 of 4\nMore info: https://www.visitlaramie.org/event/come-whip-paint-on-a-huge-canvas-with-us!-%f0%9f%8e%a8layers-of-time%3a-art-%2b-the-science-of-stromatolites-%c2%b7-in-the-greenhouse-week-3-of-4/39554/\nVenue: Science Loves Art\nVenue Info: https://www.visitlaramie.org/listing/science-loves-art/582/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Set-up-_EE6D3138-99A4-BAB4-874DB06DBF09C5F3_ee707628-c214-c576-be81c274dc05907d.jpg\nCategories: Education\, Craft Classes & Workshops
-GEO:41.310369;-105.592067
-LOCATION:Science Loves Art
-SUMMARY:Come Whip Paint on a Huge Canvas with Us!  🎨Layers of Time: art + the science of stromatolites · In the Greenhouse\, Week 3 of 4
-UID:39554@visitlaramie.org
-URL:https://www.visitlaramie.org/event/come-whip-paint-on-a-huge-canvas-with-us!-%f0%9f%8e%a8layers-of-time%3a-art-%2b-the-science-of-stromatolites-%c2%b7-in-the-greenhouse-week-3-of-4/39554/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
 DESCRIPTION:Andy Warhol: 99 Photos\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39463/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/1658/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-101509_06183010-D4B1-995A-750F7918423610F5_06230f70-f4c8-0df9-63c595565aa3e7f3.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -570,15 +561,6 @@ LOCATION:Washington Park
 SUMMARY:5th Annual Tough Guys Winter Lights Festival
 UID:39575@visitlaramie.org
 URL:https://www.visitlaramie.org/event/5th-annual-tough-guys-winter-lights-festival/39575/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DESCRIPTION:Cowgirl Basketball vs. Harvard\nMore info: https://www.visitlaramie.org/event/cowgirl-basketball-vs-harvard/39633/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124351_087F1855-00A9-B26F-2191A5CE0EF3F39B_08aaed7c-afd1-21ec-e56b68b26afd1660.png\nCategories: Community\, University of Wyoming\, Sports
-GEO:41.313459;-105.561558
-LOCATION:UW Arena Auditorium
-SUMMARY:Cowgirl Basketball vs. Harvard
-UID:39633@visitlaramie.org
-URL:https://www.visitlaramie.org/event/cowgirl-basketball-vs-harvard/39633/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
