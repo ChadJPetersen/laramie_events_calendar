@@ -321,15 +321,6 @@ UID:39483@visitlaramie.org
 URL:https://www.visitlaramie.org/event/umw-christmas-bazaar/39483/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261212
-DESCRIPTION:Laramie Plains Museum's  Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museums-holiday-open-house/39457/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-133909_227AC4B3-D9C7-9FE7-ABB9F03E7A1B9365_2283cd72-01d7-5545-5dd77e9ca8ed40ef.png\nCategories: Annual Events & Festivals\, History\, Community\, Family Fun\, Social Events
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Laramie Plains Museum's  Holiday Open House
-UID:39457@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-plains-museums-holiday-open-house/39457/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
 DESCRIPTION:Founding Collection: WPA Art\nMore info: https://www.visitlaramie.org/event/founding-collection%3a-wpa-art/39515/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-16-101724_B70C60B5-F824-6A41-0715590BCC2DE472_b70d4363-e27d-f8c2-de242e3f4fde81da.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
 GEO:41.314165;-105.568122
@@ -387,15 +378,6 @@ LOCATION:American Heritage Center
 SUMMARY:Wyoming Public Media's Traveling Photo Exhibit
 UID:39053@visitlaramie.org
 URL:https://www.visitlaramie.org/event/wyoming-public-medias-traveling-photo-exhibit/39053/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261213
-DESCRIPTION:Laramie Plains Museum's  Holiday Open House\nMore info: https://www.visitlaramie.org/event/laramie-plains-museums-holiday-open-house/39469/\nVenue: Laramie Plains Museum at the Historic Ivinson Mansion\nVenue Info: https://www.visitlaramie.org/listing/laramie-plains-museum-at-the-historic-ivinson-mansion/263/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-133909_227AC4B3-D9C7-9FE7-ABB9F03E7A1B9365_2283cd72-01d7-5545-5dd77e9ca8ed40ef.png\nCategories: Annual Events & Festivals\, History\, Community\, Family Fun\, Social Events
-GEO:41.312068;-105.589055
-LOCATION:Laramie Plains Museum at the Historic Ivinson Mansion
-SUMMARY:Laramie Plains Museum's  Holiday Open House
-UID:39469@visitlaramie.org
-URL:https://www.visitlaramie.org/event/laramie-plains-museums-holiday-open-house/39469/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
