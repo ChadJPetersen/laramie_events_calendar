@@ -20,15 +20,6 @@ UID:39320@visitlaramie.org
 URL:https://www.visitlaramie.org/event/uwso%3a-gala-holiday-concerts/39320/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Gifted Collection: Brett Weston Archive\nMore info: https://www.visitlaramie.org/event/gifted-collection%3a-brett-weston-archive/39496/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-15-110539_85480208-C42C-E9DF-FB1F38FB1FFDA4DF_85497a61-9d8f-95d9-78e1ab7b3a22fdf1.png\nCategories: History\, University of Wyoming\, Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Gifted Collection: Brett Weston Archive
-UID:39496@visitlaramie.org
-URL:https://www.visitlaramie.org/event/gifted-collection%3a-brett-weston-archive/39496/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
 DESCRIPTION:Andy Warhol: 99 Photos\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39463/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/1658/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-101509_06183010-D4B1-995A-750F7918423610F5_06230f70-f4c8-0df9-63c595565aa3e7f3.png\nCategories: University of Wyoming\, Performing Arts & Culture
 GEO:41.314165;-105.568122
@@ -36,15 +27,6 @@ LOCATION:University of Wyoming Art Museum
 SUMMARY:Andy Warhol: 99 Photos
 UID:39463@visitlaramie.org
 URL:https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39463/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261116
-DESCRIPTION:Earthborn: Group Printmaking Exhibition\nMore info: https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition/39430/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-103727_1BC8A27E-09BA-6F8F-C0FA5D19476D469F_1bcd8a93-f8e3-95ba-2a65cea2948af1ac.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.313464;-105.564486
-LOCATION:University of Wyoming\, Visual Arts Building
-SUMMARY:Earthborn: Group Printmaking Exhibition
-UID:39430@visitlaramie.org
-URL:https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition/39430/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261212
@@ -100,23 +82,6 @@ UID:39461@visitlaramie.org
 URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/39461/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:Nellie: The First Woman Governor at America's Milestones\nMore info: https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-25-102922_FC3586F6-96A7-8526-E071C492E95B38BB_fc3817ba-eceb-9cfb-ed0b6c615c82385d.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Nellie: The First Woman Governor at America's Milestones
-UID:39136@visitlaramie.org
-URL:https://www.visitlaramie.org/event/nellie%3a-the-first-woman-governor-at-americas-milestones/39136/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261130
-DESCRIPTION:Earthborn: Group Printmaking Exhibition\nMore info: https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition/39626/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-103727_1BC8A27E-09BA-6F8F-C0FA5D19476D469F_1bcd8a93-f8e3-95ba-2a65cea2948af1ac.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.313464;-105.564486
-LOCATION:University of Wyoming\, Visual Arts Building
-SUMMARY:Earthborn: Group Printmaking Exhibition
-UID:39626@visitlaramie.org
-URL:https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition/39626/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261218
 DESCRIPTION:Jason Moore Concert\nMore info: https://www.visitlaramie.org/event/jason-moore-concert/39487/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-14-095621_4F5108B2-B473-B964-3E84F394C61A68AB_4f551a87-0b25-53e5-0a8c72b7659578de.png\nCategories: Concerts & Live Music
 GEO:41.312707;-105.595125
@@ -133,23 +98,6 @@ LOCATION:UW Arena Auditorium
 SUMMARY:Cowboy Basketball vs. Univ. of San Diego
 UID:39636@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-basketball-vs-univ-of-san-diego/39636/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:Turning The Pages OF America\nMore info: https://www.visitlaramie.org/event/turning-the-pages-of-america/39454/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112732_CB5182C4-004F-FA77-6DCBF7099A2F1025_cb59f300-ee3e-b461-362f7ea5d3a7f061.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Turning The Pages OF America
-UID:39454@visitlaramie.org
-URL:https://www.visitlaramie.org/event/turning-the-pages-of-america/39454/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Donor Collection: E.G. Meyer Family Collection\nMore info: https://www.visitlaramie.org/event/donor-collection%3a-e-g-meyer-family-collection/39512/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-132459_2350B512-0EE1-90F3-3614B660FCE66A09_2359723d-ae6f-0764-00d0389812eabb9c.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Donor Collection: E.G. Meyer Family Collection
-UID:39512@visitlaramie.org
-URL:https://www.visitlaramie.org/event/donor-collection%3a-e-g-meyer-family-collection/39512/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261129
@@ -186,15 +134,6 @@ LOCATION:St. Matthew's Cathedral
 SUMMARY:Music at the Cathedral
 UID:39447@visitlaramie.org
 URL:https://www.visitlaramie.org/event/music-at-the-cathedral/39447/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:Andy Warhol: 99 Photos\nMore info: https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39239/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/1658/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-07-30-101509_06183010-D4B1-995A-750F7918423610F5_06230f70-f4c8-0df9-63c595565aa3e7f3.png\nCategories: University of Wyoming\, Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Andy Warhol: 99 Photos
-UID:39239@visitlaramie.org
-URL:https://www.visitlaramie.org/event/andy-warhol%3a-99-photos/39239/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261212
@@ -319,15 +258,6 @@ LOCATION:First United Methodist Church
 SUMMARY:UMW Christmas Bazaar
 UID:39483@visitlaramie.org
 URL:https://www.visitlaramie.org/event/umw-christmas-bazaar/39483/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DESCRIPTION:Founding Collection: WPA Art\nMore info: https://www.visitlaramie.org/event/founding-collection%3a-wpa-art/39515/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-16-101724_B70C60B5-F824-6A41-0715590BCC2DE472_b70d4363-e27d-f8c2-de242e3f4fde81da.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Founding Collection: WPA Art
-UID:39515@visitlaramie.org
-URL:https://www.visitlaramie.org/event/founding-collection%3a-wpa-art/39515/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
@@ -458,14 +388,6 @@ UID:39408@visitlaramie.org
 URL:https://www.visitlaramie.org/event/learn-to-play-music-from-bali!/39408/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-DESCRIPTION:Wyoming Voices: Our Stories of America\nMore info: https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/\nVenue: American Heritage Center\nVenue Info: https://www.visitlaramie.org/listing/american-heritage-center/2/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-06-24-112708_CAD97750-96F9-68AA-A257B378C72A8FC5_caec755b-957f-9a07-8a5968d17b2f8f7a.png\nCategories: History\, University of Wyoming\, Wyoming 250
-GEO:41.314165;-105.568122
-SUMMARY:Wyoming Voices: Our Stories of America
-UID:39135@visitlaramie.org
-URL:https://www.visitlaramie.org/event/wyoming-voices%3a-our-stories-of-america/39135/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261202
 DESCRIPTION:Cowboy Basketball Vs. Austin Peay\nMore info: https://www.visitlaramie.org/event/cowboy-basketball-vs-austin-peay/39635/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-01-22-124246_0843794F-C365-8251-F852A7E8A4CFB686_086c4019-a95e-acd4-8f849364737a91b5.png\nCategories: Community\, University of Wyoming\, Sports
 GEO:41.313459;-105.561558
@@ -473,15 +395,6 @@ LOCATION:UW Arena Auditorium
 SUMMARY:Cowboy Basketball Vs. Austin Peay
 UID:39635@visitlaramie.org
 URL:https://www.visitlaramie.org/event/cowboy-basketball-vs-austin-peay/39635/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:Exhibition Collection: Contemporary Works\nMore info: https://www.visitlaramie.org/event/exhibition-collection%3a-contemporary-works/39518/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-16-102511_B7547D0E-957C-D4D6-84D1B03361BBB278_b75527a0-0202-71f0-a3d7f962dc881fb6.png\nCategories: Community\, University of Wyoming\, Performing Arts & Culture\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Exhibition Collection: Contemporary Works
-UID:39518@visitlaramie.org
-URL:https://www.visitlaramie.org/event/exhibition-collection%3a-contemporary-works/39518/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261205
@@ -502,15 +415,6 @@ UID:39621@visitlaramie.org
 URL:https://www.visitlaramie.org/event/small-business-weekend/39621/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:Global Collection : Masks of the World\nMore info: https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/\nVenue: University of Wyoming Art Museum\nVenue Info: https://www.visitlaramie.org/listing/university-of-wyoming-art-museum/234/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-101318_BD8D4C9E-BA8C-F3B0-E5DE078649781A01_bd937282-ae8d-0a89-7128ba09c4f30a48.png\nCategories: History\, University of Wyoming\, Performing Arts & Culture
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Global Collection : Masks of the World
-UID:38995@visitlaramie.org
-URL:https://www.visitlaramie.org/event/global-collection-%3a-masks-of-the-world/38995/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261126
 DESCRIPTION:Eagles Thanksgiving Dinner\nMore info: https://www.visitlaramie.org/event/eagles-thanksgiving-dinner/39640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-17-135038_30DC4AD4-9D06-C79E-A104C79C836B0965_30e20df0-e9c0-6a39-a8344ff7303250b8.png\nCategories: Community
 GEO:41.325049;-105.593766
@@ -527,15 +431,6 @@ UID:39614@visitlaramie.org
 URL:https://www.visitlaramie.org/event/downtown-laramie-holiday-parade/39614/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261127
-DESCRIPTION:Gabe Jackson at The Cowboy Saloon and Dance Hall\nMore info: https://www.visitlaramie.org/event/gabe-jackson-at-the-cowboy-saloon-and-dance-hall/39484/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-133655_23B7F95E-DAB7-A22D-DD1728B3E3FB28E5_23d177dd-f8c1-93b9-9894d94510709fc1.png\nCategories: Concerts & Live Music
-GEO:41.312707;-105.595125
-LOCATION:The Cowboy Saloon & Dance Hall
-SUMMARY:Gabe Jackson at The Cowboy Saloon and Dance Hall
-UID:39484@visitlaramie.org
-URL:https://www.visitlaramie.org/event/gabe-jackson-at-the-cowboy-saloon-and-dance-hall/39484/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DESCRIPTION:5th Annual Tough Guys Winter Lights Festival\nMore info: https://www.visitlaramie.org/event/5th-annual-tough-guys-winter-lights-festival/39575/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-104400_BE8FD756-E21E-0174-2E6829860DF1C930_be928796-05ac-e6a1-a6311921f260e6fd.png\nCategories: Community\, Outdoor Recreation\, Social Events
 GEO:41.306158;-105.573624
@@ -543,6 +438,15 @@ LOCATION:Washington Park
 SUMMARY:5th Annual Tough Guys Winter Lights Festival
 UID:39575@visitlaramie.org
 URL:https://www.visitlaramie.org/event/5th-annual-tough-guys-winter-lights-festival/39575/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+DESCRIPTION:Gabe Jackson at The Cowboy Saloon and Dance Hall\nMore info: https://www.visitlaramie.org/event/gabe-jackson-at-the-cowboy-saloon-and-dance-hall/39484/\nVenue: The Cowboy Saloon & Dance Hall\nVenue Info: https://www.visitlaramie.org/listing/the-cowboy-saloon-%26-dance-hall/152/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-13-133655_23B7F95E-DAB7-A22D-DD1728B3E3FB28E5_23d177dd-f8c1-93b9-9894d94510709fc1.png\nCategories: Concerts & Live Music
+GEO:41.312707;-105.595125
+LOCATION:The Cowboy Saloon & Dance Hall
+SUMMARY:Gabe Jackson at The Cowboy Saloon and Dance Hall
+UID:39484@visitlaramie.org
+URL:https://www.visitlaramie.org/event/gabe-jackson-at-the-cowboy-saloon-and-dance-hall/39484/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261201
@@ -562,12 +466,12 @@ UID:39652@visitlaramie.org
 URL:https://www.visitlaramie.org/event/photos-with-mini-highland-cows-at-the-trading-post/39652/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Artist & Museum: Hung Liu\nMore info: https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-05-20-125533_C35E75D6-AAA7-21CA-88EE350CA355A8A0_c35eef76-a969-9341-bd4f3c9b6ff6b57a.png\nCategories: History\, University of Wyoming\, Education
-GEO:41.314165;-105.568122
-LOCATION:University of Wyoming Art Museum
-SUMMARY:Artist & Museum: Hung Liu
-UID:39002@visitlaramie.org
-URL:https://www.visitlaramie.org/event/artist-%26-museum%3a-hung-liu/39002/
+DTSTART;VALUE=DATE:20261130
+DESCRIPTION:Earthborn: Group Printmaking Exhibition\nMore info: https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition/39626/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-10-08-103727_1BC8A27E-09BA-6F8F-C0FA5D19476D469F_1bcd8a93-f8e3-95ba-2a65cea2948af1ac.png\nCategories: University of Wyoming\, Performing Arts & Culture
+GEO:41.313464;-105.564486
+LOCATION:University of Wyoming\, Visual Arts Building
+SUMMARY:Earthborn: Group Printmaking Exhibition
+UID:39626@visitlaramie.org
+URL:https://www.visitlaramie.org/event/earthborn%3a-group-printmaking-exhibition/39626/
 END:VEVENT
 END:VCALENDAR
