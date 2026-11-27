@@ -415,14 +415,6 @@ UID:39621@visitlaramie.org
 URL:https://www.visitlaramie.org/event/small-business-weekend/39621/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261126
-DESCRIPTION:Eagles Thanksgiving Dinner\nMore info: https://www.visitlaramie.org/event/eagles-thanksgiving-dinner/39640/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-17-135038_30DC4AD4-9D06-C79E-A104C79C836B0965_30e20df0-e9c0-6a39-a8344ff7303250b8.png\nCategories: Community
-GEO:41.325049;-105.593766
-SUMMARY:Eagles Thanksgiving Dinner
-UID:39640@visitlaramie.org
-URL:https://www.visitlaramie.org/event/eagles-thanksgiving-dinner/39640/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261211
 DESCRIPTION:Downtown Laramie Holiday Parade\nMore info: https://www.visitlaramie.org/event/downtown-laramie-holiday-parade/39614/\nImage: https://assets.simpleviewinc.com/simpleview/image/upload/crm/laramiewy/Screenshot-2026-11-05-135542_C714A52B-04E7-C65D-CFF9BFB0BCC9C692_c7251ad9-ed3b-46ff-85b93c1d5bd139bd.png\nCategories: Annual Events & Festivals\, Community\, Family Fun
 GEO:41.301607;-105.595959
